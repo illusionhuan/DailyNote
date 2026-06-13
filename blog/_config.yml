@@ -1,0 +1,126 @@
+# ======================================
+# Hexo 站点配置
+# 文档：https://hexo.io/docs/configuration.html
+# 此文件控制站点级别的行为：站点信息、URL、插件、构建规则等
+# ======================================
+
+# 站点信息（影响页面标题、SEO meta 标签、RSS）
+title: 我的博客
+subtitle: 技术分享与热文聚合
+description: 个人技术博客，分享编程心得与全网技术热文
+keywords:
+  - 技术博客
+  - 编程
+  - 热文聚合
+author: yourname
+language: zh-CN
+timezone: Asia/Shanghai
+
+# URL 配置
+# root 部署在子路径 /blog/ 下，所有内部链接需加此前缀
+url: https://yourname.github.io/blog
+root: /blog/
+permalink: posts/:title/  # 文章永久链接格式：/blog/posts/文章标题/
+permalink_defaults:
+pretty_urls:
+  trailing_index: true
+  trailing_html: true
+
+# Directory
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
+
+# Writing
+new_post_name: :title.md
+default_layout: post
+titlecase: false
+external_link:
+  enable: true
+  field: site
+  exclude: ''
+filename_case: 0
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
+syntax_highlighter: highlight.js
+highlight:
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+  wrap: true
+  hljs: false
+prismjs:
+  preprocess: true
+  line_number: true
+  tab_replace: ''
+
+# Home page setting
+index_generator:
+  path: ''
+  per_page: 10
+  order_by: -date
+
+# Category & Tag
+default_category: uncategorized
+category_map:
+tag_map:
+
+# Metadata elements
+meta_generator: true
+
+# Date / Time format
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+updated_option: 'mtime'
+
+# Pagination
+per_page: 10
+pagination_dir: page
+
+# Include / Exclude file(s)
+include:
+exclude:
+ignore:
+
+# 主题（Butterfly 通过 npm 安装，配置覆盖文件为 _config.butterfly.yml）
+theme: butterfly
+
+# 本地搜索（配合 hexo-generator-searchdb 插件生成索引，Butterfly 内置 UI 消费）
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
+
+# RSS 订阅源（hexo-generator-feed 插件，生成 atom.xml）
+feed:
+  enable: true
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content: true
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:
+
+# Sitemap 站点地图（hexo-generator-sitemap 插件，供搜索引擎爬取）
+sitemap:
+  path: sitemap.xml
+  rel: false
+  tags: true
+  categories: true
+
+# Deployment
+deploy:
+  type: ''

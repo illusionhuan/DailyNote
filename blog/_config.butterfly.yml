@@ -1,0 +1,359 @@
+# ======================================
+# Butterfly 主题配置（覆盖式配置）
+# 文档：https://butterfly.js.org/
+# 此文件覆盖主题默认配置，升级主题时自定义内容不会丢失
+# ======================================
+
+# --------------------------------------
+# 导航栏
+# logo: 左侧 logo 图片路径（留空则不显示）
+# display_title: 是否显示站点标题
+# fixed: 是否固定在顶部
+# --------------------------------------
+nav:
+  logo:
+  display_title: true
+  fixed: false
+
+menu:
+  首页: / || fas fa-home
+  归档: /archives/ || fas fa-archive
+  标签: /tags/ || fas fa-tags
+  分类: /categories/ || fas fa-folder-open
+  热文榜: /trending/ || fas fa-fire
+  搜索: /search/ || fas fa-search
+  关于: /about/ || fas fa-heart
+
+# --------------------------------------
+# 代码块样式
+# theme: darker 暗色主题 | macStyle: mac 风格圆角
+# copy: 显示复制按钮 | language: 显示语言标签
+# height_limit: 超过此高度折叠（px）
+# --------------------------------------
+code_blocks:
+  theme: darker
+  macStyle: true
+  height_limit: 300
+  word_wrap: false
+  copy: true
+  language: true
+  shrink: false
+  fullpage: false
+
+# --------------------------------------
+# 社交链接（显示在首页 banner 和侧边栏）
+# 格式：图标类名: 链接 || 提示文字 || 颜色
+# --------------------------------------
+social:
+  fab fa-github: https://github.com/yourname || Github || '#24292e'
+
+# --------------------------------------
+# 图片配置
+# avatar: 侧边栏头像
+# disable_top_img: 是否禁用文章顶部图片
+# cover: 文章封面图在各页面的显示开关
+# --------------------------------------
+avatar:
+  img: /img/butterfly-icon.png
+  effect: false
+
+disable_top_img: false
+
+cover:
+  index_enable: true    # 首页显示封面图
+  aside_enable: true    # 侧边栏显示封面图
+  archives_enable: true # 归档页显示封面图
+
+# --------------------------------------
+# 文章元信息（日期、分类、标签的显示方式）
+# date_type: created=创建时间 | updated=更新时间 | both=两者都显示
+# date_format: relative=相对时间（3天前） | YYYY-MM-DD=绝对时间
+# --------------------------------------
+post_meta:
+  page:
+    date_type: created
+    date_format: relative
+    categories: true
+    tags: false
+    label: true
+  post:
+    position: left
+    date_type: both
+    date_format: relative
+    categories: true
+    tags: true
+    label: true
+
+# --------------------------------------
+# 首页配置
+# subtitle: 副标题打字机效果（依次显示 sub 列表中的文字）
+# index_layout: 3 = 左右交替卡片布局
+# index_post_content: 摘要显示方式（2=自动截取前 500 字符）
+# --------------------------------------
+subtitle:
+  enable: true
+  effect: true
+  source: false
+  sub:
+    - 分享技术心得
+    - 记录成长历程
+    - 聚合全网热文
+
+index_layout: 3
+
+index_post_content:
+  method: 2
+  length: 500
+
+# --------------------------------------
+# 文章设置
+# toc: 文章目录导航（显示层级编号、滚动百分比）
+# post_copyright: 文章底部版权声明
+# related_post: 相关文章推荐
+# post_pagination: 上下篇切换（1=显示）
+# --------------------------------------
+toc:
+  post: true
+  page: false
+  number: true
+  expand: false
+  style_simple: false
+  scroll_percent: true
+
+post_copyright:
+  enable: true
+  license: CC BY-NC-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+related_post:
+  enable: true
+  limit: 6
+
+post_pagination: 1
+
+# --------------------------------------
+# Footer
+# --------------------------------------
+footer:
+  owner:
+    enable: true
+    since: 2026
+  copyright:
+    enable: true
+    version: true
+
+# --------------------------------------
+# 侧边栏配置
+# card_author: 作者信息卡片（头像、描述、社交按钮）
+# card_announcement: 公告栏
+# card_recent_post: 最新文章列表
+# card_categories: 分类统计
+# card_tags: 标签云（彩色随机排列）
+# card_archives: 归档时间线
+# card_webinfo: 站点信息（文章数、最后更新时间）
+# --------------------------------------
+aside:
+  enable: true
+  hide: false
+  button: true
+  mobile: true
+  position: right
+  display:
+    archive: true
+    tag: true
+    category: true
+  card_author:
+    enable: true
+    description: 技术分享与热文聚合
+    button:
+      enable: true
+      icon: fab fa-github
+      text: Follow Me
+      link: https://github.com/yourname
+  card_announcement:
+    enable: true
+    content: 欢迎来到我的技术博客！这里分享编程心得，聚合全网技术热文。
+  card_recent_post:
+    enable: true
+    limit: 5
+    sort: date
+  card_categories:
+    enable: true
+    limit: 8
+    expand: none
+  card_tags:
+    enable: true
+    limit: 40
+    color: true
+    orderby: random
+    order: 1
+  card_archives:
+    enable: true
+    type: monthly
+    format: YYYY年MM月
+    order: -1
+    limit: 8
+  card_webinfo:
+    enable: true
+    post_count: true
+    last_push_date: true
+
+# --------------------------------------
+# 右侧浮动按钮
+# readmode: 阅读模式（护眼、专注）
+# darkmode: 暗色模式切换按钮
+# --------------------------------------
+readmode: true
+
+darkmode:
+  enable: true
+  button: true
+  autoChangeMode: false
+
+rightside_scroll_percent: false
+
+# --------------------------------------
+# 全局功能
+# copy: 代码复制按钮
+# wordcount: 字数统计（文章字数、阅读时间、总字数）
+# busuanzi: 不蒜子访问统计（站点 UV/PV、页面 PV）
+# --------------------------------------
+copy:
+  enable: true
+  copyright:
+    enable: false
+
+wordcount:
+  enable: true
+  post_wordcount: true
+  min2read: true
+  total_wordcount: true
+
+busuanzi:
+  site_uv: true
+  site_pv: true
+  page_pv: true
+
+# --------------------------------------
+# 本地搜索
+# use: local_search 使用 Butterfly 内置搜索 UI
+# 配合 hexo-generator-searchdb 生成的索引使用
+# --------------------------------------
+search:
+  use: local_search
+  placeholder: 搜索文章...
+
+  local_search:
+    preload: false
+    top_n_per_article: 1
+    unescape: false
+    pagination:
+      enable: false
+      hitsPerPage: 8
+
+# --------------------------------------
+# 分享功能（AddToAny 多平台分享按钮）
+# --------------------------------------
+share:
+  use: addtoany
+  addtoany:
+    item: facebook,x,wechat,sina_weibo,email,copy_link
+
+# --------------------------------------
+# Comments (disabled for now)
+# --------------------------------------
+comments:
+  use:
+  text: true
+  lazyload: false
+  count: false
+
+# --------------------------------------
+# 页面美化
+# beautify: 文章标题前的装饰图标
+# rounded_corners_ui: UI 圆角
+# mask: 导航栏/页脚遮罩效果
+# enter_transitions: 页面进入动画
+# display_mode: 默认显示模式（light=亮色）
+# --------------------------------------
+beautify:
+  enable: true
+  field: post
+  title_prefix_icon: '\f0c1'
+  title_prefix_icon_color: '#F47466'
+
+rounded_corners_ui: true
+
+mask:
+  header: true
+  footer: true
+
+enter_transitions: true
+
+display_mode: light
+
+# --------------------------------------
+# 主题色（全局统一色调）
+# main: 主色（链接、按钮背景、滚动条、选中高亮等）
+# button_hover: 按钮悬停色
+# hr_color: 分割线颜色
+# scrollbar_color: 滚动条颜色
+# --------------------------------------
+theme_color:
+  enable: true
+  main: "#7CABBA"
+  paginator: "#6A9BAB"
+  button_hover: "#6A9BAB"
+  text_selection: "#7CABBA"
+  link_color: "#7CABBA"
+  meta_color: "#858585"
+  hr_color: "#9CC5D0"
+  code_foreground: "#7CABBA"
+  code_background: "rgba(124, 171, 186, .05)"
+  toc_color: "#7CABBA"
+  blockquote_padding_color: "#7CABBA"
+  blockquote_background_color: "rgba(124, 171, 186, .1)"
+  scrollbar_color: "#7CABBA"
+  meta_theme_color_light: "#7CABBA"
+  meta_theme_color_dark: "#0d0d0d"
+
+# --------------------------------------
+# 图片灯箱（点击放大查看，fancybox 支持缩放/全屏/幻灯片）
+# --------------------------------------
+lightbox: fancybox
+
+# --------------------------------------
+# 图片懒加载（全站生效，加载时显示模糊占位图）
+# --------------------------------------
+lazyload:
+  enable: true
+  field: site
+  placeholder:
+  blur: true
+
+# --------------------------------------
+# Open Graph（社交媒体分享时显示标题、描述、缩略图）
+# --------------------------------------
+Open_Graph_meta:
+  enable: true
+
+# --------------------------------------
+# CDN 资源加载策略
+# internal_provider: local = 主题内部资源从本地加载
+# third_party_provider: jsdelivr = 第三方库走 jsdelivr CDN
+# version: URL 后加版本号，便于缓存更新
+# --------------------------------------
+CDN:
+  internal_provider: local
+  third_party_provider: jsdelivr
+  version: true
+
+# --------------------------------------
+# Inject (自定义 CSS/JS 注入)
+# --------------------------------------
+inject:
+  head:
+    - <link rel="stylesheet" href="/blog/css/carousel.css">
+    - <link rel="stylesheet" href="/blog/css/gradient.css">
+  bottom:
+    - <script src="/blog/js/carousel.js"></script>
