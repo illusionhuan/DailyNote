@@ -26,8 +26,8 @@ type: "trending"
 </div>
 
 <script>
-// 加载热文数据（由 Python 脚本生成，路径含 /blog/ 前缀对应 root 配置）
-fetch('/blog/_data/trending.json')
+// 加载热文数据（由 Python 脚本生成）
+fetch('/_data/trending.json')
   .then(res => res.json())
   .then(data => {
     // 显示最后更新时间

@@ -353,7 +353,7 @@ CDN:
 # --------------------------------------
 inject:
   head:
-    - <link rel="stylesheet" href="/blog/css/carousel.css">
-    - <link rel="stylesheet" href="/blog/css/gradient.css">
+    - <link rel="stylesheet" href="/css/carousel.css">
+    - <link rel="stylesheet" href="/css/gradient.css">
   bottom:
-    - <script src="/blog/js/carousel.js"></script>
+    - <script src="/js/carousel.js"></script>
