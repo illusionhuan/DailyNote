@@ -20,6 +20,11 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+# 默认工作目录（Hexo 项目在 blog/ 子目录）
+defaults:
+  run:
+    working-directory: blog
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -49,7 +54,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./blog/public
 
   deploy:
     environment:

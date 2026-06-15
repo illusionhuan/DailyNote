@@ -12,13 +12,13 @@ keywords:
   - 技术博客
   - 编程
   - 热文聚合
-author: yourname
+author: illusionhuan
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL 配置
 # root 部署在子路径 /blog/ 下，所有内部链接需加此前缀
-url: https://yourname.github.io/blog
+url: https://illusionhuan.github.io/blog
 root: /blog/
 permalink: posts/:title/  # 文章永久链接格式：/blog/posts/文章标题/
 permalink_defaults:
