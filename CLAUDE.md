@@ -64,7 +64,7 @@ DailyNote/                       # Git 仓库根目录
 控制站点级别的行为，主要配置项：
 
 - **站点信息**（title/subtitle/description/author/language）：影响页面标题、SEO meta 标签
-- **URL**（url/root/permalink）：`root: /blog/` 表示部署在子路径下，所有内部链接需加 `/blog/` 前缀
+- **URL**（url/root/permalink）：`root: /` 部署在根目录，所有内部链接以 `/` 开头
 - **主题**（theme: butterfly）：指定使用 Butterfly 主题
 - **搜索**（search）：配合 hexo-generator-searchdb 生成搜索索引
 - **RSS**（feed）：生成 atom.xml 订阅源
@@ -96,7 +96,7 @@ DailyNote/                       # Git 仓库根目录
 - 文章使用 YAML frontmatter 声明 `title`、`date`、`tags`、`categories`、`description`、`cover`
 - Butterfly 配置写在 `_config.butterfly.yml`（覆盖文件），不要改 node_modules 内的主题配置
 - 自定义 JS 通过 `header.classList.contains('full_page')` 判断是否为首页（body 标签没有 home class）
-- 根路径为 `/blog/`，所有内部资源路径必须带此前缀（如 `/blog/images/landscape1.jpg`）
+- 根路径为 `/`，所有内部资源路径以 `/` 开头（如 `/images/landscape1.jpg`）
 - hexo-generator-searchdb 生成搜索索引，Butterfly 内置搜索 UI 直接消费
 - 静态资源（图片/CSS/JS）放在 `source/` 下，构建时自动复制到 `public/`
 
