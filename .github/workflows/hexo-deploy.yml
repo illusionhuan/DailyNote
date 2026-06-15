@@ -39,7 +39,7 @@ jobs:
       # 安装依赖并构建
       - name: Install and Build
         run: |
-          npm ci
+          npm install
           npx hexo generate
         working-directory: blog
 
