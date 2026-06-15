@@ -34,13 +34,17 @@ hexo deploy                    # 部署到 GitHub Pages
 ## 架构说明
 
 ```
-DailyNote/
+DailyNote/                       # Git 仓库根目录
 ├── CLAUDE.md                    # 本文件
-├── 中文博客需求文档.md            # 需求文档，含功能清单和进度标记
+├── 博客网站需求文档.md            # 需求文档，含功能清单和进度标记
+├── .github/
+│   └── workflows/
+│       └── hexo-deploy.yml      # GitHub Pages 自动部署（必须在仓库根目录）
 └── blog/                        # Hexo 项目根目录（所有开发在此进行）
     ├── _config.yml              # Hexo 站点级配置
     ├── _config.butterfly.yml    # Butterfly 主题配置（覆盖式）
     ├── package.json             # Node.js 依赖声明
+    ├── package-lock.json        # npm 锁定文件
     ├── source/                  # 源文件目录（构建时复制到 public/）
     │   ├── _posts/              # 博客文章（Markdown）
     │   ├── _data/trending.json  # 热文数据（Python 脚本生成）
@@ -50,8 +54,6 @@ DailyNote/
     │   ├── trending/            # 热文榜页面
     │   ├── search/              # 搜索页面
     │   └── about/               # 关于页面
-    ├── .github/workflows/
-    │   └── hexo-deploy.yml      # GitHub Pages 自动部署
     └── themes/                  # 空目录（Butterfly 通过 npm 安装）
 ```
 
@@ -101,3 +103,25 @@ DailyNote/
 ## 开发状态
 
 Phase 1（基础博客）已完成。详见 `中文博客需求文档.md` 中的功能清单和进度标记。下一步是 Phase 2：Python 热文抓取脚本。
+
+## GitHub Pages 部署
+
+### 部署流程
+
+1. GitHub Actions workflow 位于 `.github/workflows/hexo-deploy.yml`（必须在仓库根目录）
+2. push 到 `main` 分支自动触发构建和部署
+3. 构建过程：在 `blog/` 子目录执行 `npm ci` → `npx hexo generate`
+4. 部署产物：`blog/public/` 目录上传到 GitHub Pages
+
+### 关键配置
+
+- **Node.js 版本**：24（GitHub Actions 已弃用 Node.js 20）
+- **环境变量**：`FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"` 消除弃用警告
+- **工作目录**：workflow 中使用 `working-directory: blog` 指定 Hexo 项目目录
+- **站点 URL**：`https://illusionhuan.github.io/blog/`
+
+### 注意事项
+
+- `.github/workflows/` 必须在仓库根目录，GitHub 不会识别子目录中的 workflow
+- `package-lock.json` 必须提交到仓库（`npm ci` 需要）
+- `node_modules/` 和 `public/` 在 `.gitignore` 中已忽略
