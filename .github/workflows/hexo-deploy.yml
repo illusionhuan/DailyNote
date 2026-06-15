@@ -20,36 +20,26 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
-# 默认工作目录（Hexo 项目在 blog/ 子目录）
-defaults:
-  run:
-    working-directory: blog
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 拉取代码（含子模块，如 themes/butterfly 如果用 git submodule 安装）
+      # 拉取代码
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          submodules: true
 
-      # 配置 Node.js 20 并启用 npm 缓存
+      # 配置 Node.js 20
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: "npm"
-          cache-dependency-path: blog/package-lock.json
 
-      # 安装依赖（npm ci 比 npm install 更快更严格）
-      - name: Install dependencies
-        run: npm ci
-
-      # 构建静态文件到 public/ 目录
-      - name: Build Hexo
-        run: npx hexo generate
+      # 安装依赖并构建
+      - name: Install and Build
+        run: |
+          npm ci
+          npx hexo generate
+        working-directory: blog
 
       # 上传 public/ 为 GitHub Pages 部署产物
       - name: Upload artifact
