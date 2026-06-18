@@ -64,7 +64,7 @@ DailyNote/                       # Git 仓库根目录
 控制站点级别的行为，主要配置项：
 
 - **站点信息**（title/subtitle/description/author/language）：影响页面标题、SEO meta 标签
-- **URL**（url/root/permalink）：`root: /` 部署在根目录，所有内部链接以 `/` 开头
+- **URL**（url/root/permalink）：`root: /DailyNote/` 部署在 GitHub Pages 项目子目录，所有内部链接以 `/DailyNote/` 开头
 - **主题**（theme: butterfly）：指定使用 Butterfly 主题
 - **搜索**（search）：配合 hexo-generator-searchdb 生成搜索索引
 - **RSS**（feed）：生成 atom.xml 订阅源
@@ -96,7 +96,8 @@ DailyNote/                       # Git 仓库根目录
 - 文章使用 YAML frontmatter 声明 `title`、`date`、`tags`、`categories`、`description`、`cover`
 - Butterfly 配置写在 `_config.butterfly.yml`（覆盖文件），不要改 node_modules 内的主题配置
 - 自定义 JS 通过 `header.classList.contains('full_page')` 判断是否为首页（body 标签没有 home class）
-- 根路径为 `/`，所有内部资源路径以 `/` 开头（如 `/images/landscape1.jpg`）
+- 根路径为 `/DailyNote/`（GitHub Pages 项目站点 URL），所有内部资源路径以 `/DailyNote/` 开头（如 `/DailyNote/images/landscape1.jpg`）
+- 自定义 inject 中的 CSS/JS 路径也必须使用 `/DailyNote/` 前缀
 - hexo-generator-searchdb 生成搜索索引，Butterfly 内置搜索 UI 直接消费
 - 静态资源（图片/CSS/JS）放在 `source/` 下，构建时自动复制到 `public/`
 
@@ -118,10 +119,24 @@ Phase 1（基础博客）已完成。详见 `中文博客需求文档.md` 中的
 - **Node.js 版本**：24（GitHub Actions 已弃用 Node.js 20）
 - **环境变量**：`FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"` 消除弃用警告
 - **工作目录**：workflow 中使用 `working-directory: blog` 指定 Hexo 项目目录
-- **站点 URL**：`https://illusionhuan.github.io/blog/`
+- **站点 URL**：`https://illusionhuan.github.io/DailyNote/`
 
 ### 注意事项
 
 - `.github/workflows/` 必须在仓库根目录，GitHub 不会识别子目录中的 workflow
 - `package-lock.json` 必须提交到仓库（`npm ci` 需要）
 - `node_modules/` 和 `public/` 在 `.gitignore` 中已忽略
+
+### 踩坑记录：root 路径与 GitHub Pages 部署
+
+GitHub Pages 项目站点（非 `<user>.github.io` 仓库）的 URL 格式为 `https://<user>.github.io/<仓库名>/`。本仓库名为 `DailyNote`，因此站点 URL 为 `https://illusionhuan.github.io/DailyNote/`。
+
+**曾犯的错误：** 先设为 `root: /blog/`（部署到 /blog/ 子目录），后改为 `root: /`（部署到根目录），两次都导致线上 CSS/JS 404。原因：
+1. `root` 决定 HTML 中所有资源引用的路径前缀
+2. GitHub Pages 上传 `blog/public/` 作为部署产物，CSS 文件在产物根目录的 `css/` 下
+3. 站点实际在 `/DailyNote/`，所以 `root` 必须是 `/DailyNote/`
+
+**涉及的配置点（修改 root 时必须同步更新）：**
+- `_config.yml` 中的 `url` 和 `root`
+- `_config.butterfly.yml` 中 `inject` 部分的自定义 CSS/JS 路径
+- `source/js/carousel.js` 中的图片路径和 URL 检测正则
