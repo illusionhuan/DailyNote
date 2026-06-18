@@ -6,6 +6,11 @@
   overflow: hidden;
 }
 
+/* 将 Butterfly 主题的 header 遮罩层推到轮播图片下方 */
+#page-header:not(.not-top-img):before {
+  z-index: -1;
+}
+
 /* 轮播容器：绝对定位铺满 header，flex 布局让下拉箭头沉底 */
 #page-header .carousel-container {
   position: absolute;
