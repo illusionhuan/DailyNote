@@ -9,16 +9,16 @@
   if (!header) return;
 
   var isHome = header.classList.contains('full_page');
-  var isArchive = /^\/blog\/archives\//.test(window.location.pathname);
+  var isArchive = /^\/DailyNote\/archives\//.test(window.location.pathname);
   if (!isHome && !isArchive) return;
 
   // 轮播图片列表
   var images = [
-    '/blog/images/landscape1.jpg',
-    '/blog/images/landscape2.jpg',
-    '/blog/images/landscape3.jpg',
-    '/blog/images/landscape4.jpg',
-    '/blog/images/landscape5.jpg'
+    '/DailyNote/images/landscape1.jpg',
+    '/DailyNote/images/landscape2.jpg',
+    '/DailyNote/images/landscape3.jpg',
+    '/DailyNote/images/landscape4.jpg',
+    '/DailyNote/images/landscape5.jpg'
   ];
 
   // 归档页标记（用于 CSS 样式适配）
