@@ -17,9 +17,9 @@ language: zh-CN
 timezone: Asia/Shanghai
 
 # URL 配置
-# GitHub Pages 部署在 /blog/ 子目录
-url: https://illusionhuan.github.io/blog/
-root: /blog/
+# GitHub Pages 部署在根目录
+url: https://illusionhuan.github.io
+root: /
 permalink: posts/:title/  # 文章永久链接格式：/posts/文章标题/
 permalink_defaults:
 pretty_urls:
