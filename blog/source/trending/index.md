@@ -27,7 +27,7 @@ type: "trending"
 
 <script>
 // 加载热文数据（由 Python 脚本生成）
-fetch('/_data/trending.json')
+fetch('../data/trending.json')
   .then(res => res.json())
   .then(data => {
     // 显示最后更新时间

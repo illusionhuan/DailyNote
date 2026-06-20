@@ -29,7 +29,7 @@ hexo deploy                    # 部署到 GitHub Pages
 | RSS 插件 | hexo-generator-feed | 生成 atom.xml 订阅源 |
 | SEO 插件 | hexo-generator-sitemap | 生成 sitemap.xml 供搜索引擎收录 |
 | 部署 | GitHub Actions + GitHub Pages | push 到 main 分支时自动构建并部署 |
-| 热文抓取（计划中） | Python 3 | 调用各平台 API 抓取热文，输出到 source/_data/trending.json |
+| 热文抓取（计划中） | Python 3 | 调用各平台 API 抓取热文，输出到 source/data/trending.json |
 
 ## 架构说明
 
@@ -47,7 +47,7 @@ DailyNote/                       # Git 仓库根目录
     ├── package-lock.json        # npm 锁定文件
     ├── source/                  # 源文件目录（构建时复制到 public/）
     │   ├── _posts/              # 博客文章（Markdown）
-    │   ├── _data/trending.json  # 热文数据（Python 脚本生成）
+    │   ├── data/trending.json   # 热文数据（Python 脚本生成）
     │   ├── css/carousel.css     # 自定义轮播样式
     │   ├── js/carousel.js       # 自定义轮播逻辑
     │   ├── images/              # 图片资源

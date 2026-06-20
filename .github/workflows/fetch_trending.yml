@@ -1,0 +1,33 @@
+name: Fetch Trending Articles
+
+on:
+  schedule:
+    - cron: "0 0,12 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+        working-directory: blog
+
+      - name: Fetch trending articles
+        run: python scripts/fetch_trending.py
+        working-directory: blog
+
+      - name: Commit and push
+        working-directory: blog
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add source/data/trending.json
+          git diff --cached --quiet || git commit -m "update trending articles"
+          git push
