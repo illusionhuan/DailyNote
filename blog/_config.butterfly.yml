@@ -239,16 +239,11 @@ busuanzi:
 # 配合 hexo-generator-searchdb 生成的索引使用
 # --------------------------------------
 search:
-  use: local_search
-  placeholder: 搜索文章...
+  use:
+  placeholder:
 
   local_search:
-    preload: false
-    top_n_per_article: 1
-    unescape: false
-    pagination:
-      enable: false
-      hitsPerPage: 8
+    enable: false
 
 # --------------------------------------
 # 分享功能（AddToAny 多平台分享按钮）
