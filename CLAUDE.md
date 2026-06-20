@@ -4,7 +4,7 @@
 
 ## 项目概述
 
-中文个人技术博客，基于 Hexo 8 + Butterfly 主题构建，部署到 GitHub Pages。计划集成全网技术热文聚合功能。
+中文个人技术博客，基于 Hexo 8 + Butterfly 主题构建，部署到 GitHub Pages。已集成全网技术热文聚合功能（热文榜页面已完成，抓取脚本待重建）。
 
 ## 常用命令
 
@@ -29,7 +29,7 @@ hexo deploy                    # 部署到 GitHub Pages
 | RSS 插件 | hexo-generator-feed | 生成 atom.xml 订阅源 |
 | SEO 插件 | hexo-generator-sitemap | 生成 sitemap.xml 供搜索引擎收录 |
 | 部署 | GitHub Actions + GitHub Pages | push 到 main 分支时自动构建并部署 |
-| 热文抓取（计划中） | Python 3 | 调用各平台 API 抓取热文，输出到 source/data/trending.json |
+| 热文抓取（待重建） | Python 3 | 调用各平台 API 抓取热文，输出到 source/data/trending.json（脚本目录为空，需重新创建） |
 
 ## 架构说明
 
@@ -38,23 +38,28 @@ DailyNote/                       # Git 仓库根目录
 ├── CLAUDE.md                    # 本文件
 ├── 博客网站需求文档.md            # 需求文档，含功能清单和进度标记
 ├── .github/
+│   ├── dependabot.yml           # npm 依赖自动更新
 │   └── workflows/
-│       └── hexo-deploy.yml      # GitHub Pages 自动部署（必须在仓库根目录）
+│       ├── hexo-deploy.yml      # GitHub Pages 自动部署（必须在仓库根目录）
+│       └── fetch_trending.yml   # 热文抓取定时任务（每天 UTC 0:00/12:00）
 └── blog/                        # Hexo 项目根目录（所有开发在此进行）
     ├── _config.yml              # Hexo 站点级配置
     ├── _config.butterfly.yml    # Butterfly 主题配置（覆盖式）
     ├── package.json             # Node.js 依赖声明
     ├── package-lock.json        # npm 锁定文件
-    ├── source/                  # 源文件目录（构建时复制到 public/）
-    │   ├── _posts/              # 博客文章（Markdown）
-    │   ├── data/trending.json   # 热文数据（Python 脚本生成）
-    │   ├── css/carousel.css     # 自定义轮播样式
-    │   ├── js/carousel.js       # 自定义轮播逻辑
-    │   ├── images/              # 图片资源
-    │   ├── trending/            # 热文榜页面
-    │   ├── search/              # 搜索页面
-    │   └── about/               # 关于页面
-    └── themes/                  # 空目录（Butterfly 通过 npm 安装）
+    ├── scripts/                 # 热文抓取脚本（⚠️ 目录为空，脚本待重建）
+    └── source/                  # 源文件目录（构建时复制到 public/）
+        ├── _posts/              # 博客文章（Markdown）
+        ├── data/trending.json   # 热文数据（掘金中文技术文章）
+        ├── css/
+        │   ├── carousel.css     # 自定义轮播样式
+        │   └── gradient.css     # 全局渐变色主题覆盖
+        ├── js/carousel.js       # 自定义轮播逻辑
+        ├── images/              # 5 张首页轮播风景图
+        ├── pluginsSrc/          # 第三方库本地副本（CDN 策略为 local）
+        ├── trending/            # 热文榜页面（已完成，含平台筛选）
+        ├── search/              # 搜索页面
+        └── about/               # 关于页面
 ```
 
 ## 配置文件详解
@@ -84,26 +89,41 @@ DailyNote/                       # Git 仓库根目录
 - **post_copyright**：文章底部版权声明（CC BY-NC-SA 4.0）
 - **aside**：侧边栏配置（作者卡片、公告、最新文章、分类、标签云、归档、站点信息）
 - **darkmode**：暗色模式开关和切换按钮
-- **theme_color**：主题色配置（主色 #22A2C3 及其深浅变体）
+- **theme_color**：主题色配置（主色 #7CABBA，深色 #5A8C9C，浅色 #9CC5D0，由 gradient.css 全局覆盖）
 - **search**：本地搜索配置（Butterfly 内置 UI）
 - **inject**：向页面 head/bottom 注入自定义 CSS/JS（当前注入轮播样式和脚本）
 - **lazyload**：图片懒加载（全站生效，带模糊占位）
 - **busuanzi**：不蒜子阅读统计（站点 UV/PV、页面 PV）
-- **CDN**：资源加载策略（内部 local，第三方 jsdelivr）
+- **CDN**：资源加载策略（内部和第三方均为 local，第三方库存放在 source/pluginsSrc/）
 
 ## 关键模式
 
 - 文章使用 YAML frontmatter 声明 `title`、`date`、`tags`、`categories`、`description`、`cover`
 - Butterfly 配置写在 `_config.butterfly.yml`（覆盖文件），不要改 node_modules 内的主题配置
+- 主题色通过 `gradient.css` 全局覆盖（基础色 #7CABBA，深色 #5A8C9C，浅色 #9CC5D0），包含亮色和暗色模式适配
 - 自定义 JS 通过 `header.classList.contains('full_page')` 判断是否为首页（body 标签没有 home class）
 - 根路径为 `/DailyNote/`（GitHub Pages 项目站点 URL），所有内部资源路径以 `/DailyNote/` 开头（如 `/DailyNote/images/landscape1.jpg`）
 - 自定义 inject 中的 CSS/JS 路径也必须使用 `/DailyNote/` 前缀
 - hexo-generator-searchdb 生成搜索索引，Butterfly 内置搜索 UI 直接消费
 - 静态资源（图片/CSS/JS）放在 `source/` 下，构建时自动复制到 `public/`
+- 第三方库（fancybox、fontawesome、typed.js 等）通过 npm 安装后复制到 `source/pluginsSrc/`，CDN 策略设为 `local`
 
 ## 开发状态
 
-Phase 1（基础博客）已完成。详见 `中文博客需求文档.md` 中的功能清单和进度标记。下一步是 Phase 2：Python 热文抓取脚本。
+Phase 1（基础博客）已完成。Phase 2（热文聚合）进行中：热文榜前端页面已完成，但 Python 抓取脚本目录为空（需重建）。详见 `博客网站需求文档.md` 中的功能清单和进度标记。
+
+### 当前待办
+
+1. 重建 Python 抓取脚本（blog/scripts/ 目录为空）
+2. 修复 SegmentFault 数据源（API 端点返回 404）
+3. 推送 GitHub 验证 V2EX 数据源和 Actions 自动抓取
+4. 修复头像图片 404（avatar 配置指向不存在的 /img/butterfly-icon.png）
+
+### 已知问题
+
+- `_config.butterfly.yml` 中 avatar.img 指向 `/img/butterfly-icon.png`，但 `source/img/` 目录不存在，头像会 404
+- `fetch_trending.yml` workflow 会因脚本文件缺失而失败
+- `trending.json` 包含 15 篇掘金中文技术文章，但无脚本可重新生成
 
 ## GitHub Pages 部署
 
