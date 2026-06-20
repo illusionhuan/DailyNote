@@ -12,6 +12,11 @@
     "version": "8.1.2"
   },
   "dependencies": {
+    "@egjs/infinitegrid": "^4.13.0",
+    "@fancyapps/fancybox": "^3.5.7",
+    "@fancyapps/ui": "^6.1.14",
+    "@fortawesome/fontawesome-free": "^7.2.0",
+    "fancybox": "^3.0.1",
     "hexo": "^8.0.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
@@ -27,6 +32,8 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-butterfly": "^5.5.4",
     "hexo-theme-landscape": "^1.0.0",
-    "hexo-wordcount": "^6.0.1"
+    "hexo-wordcount": "^6.0.1",
+    "typed.js": "^3.0.0",
+    "vanilla-lazyload": "^19.1.3"
   }
 }
