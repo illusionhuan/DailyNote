@@ -21,7 +21,6 @@ menu:
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
   热文榜: /trending/ || fas fa-fire
-  搜索: /search/ || fas fa-search
   关于: /about/ || fas fa-heart
 
 # --------------------------------------
@@ -54,7 +53,7 @@ social:
 # cover: 文章封面图在各页面的显示开关
 # --------------------------------------
 avatar:
-  img: /img/butterfly-icon.png
+  img: /DailyNote/images/9-tuya.jpg
   effect: false
 
 disable_top_img: false
