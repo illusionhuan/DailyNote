@@ -45,7 +45,7 @@ code_blocks:
 # 格式：图标类名: 链接 || 提示文字 || 颜色
 # --------------------------------------
 social:
-  fab fa-github: https://github.com/yourname || Github || '#24292e'
+  fab fa-github: https://github.com/illusionhuan || Github || '#24292e'
 
 # --------------------------------------
 # 图片配置
@@ -169,7 +169,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/yourname
+      link: https://github.com/illusionhuan
   card_announcement:
     enable: true
     content: 欢迎来到我的技术博客！这里分享编程心得，聚合全网技术热文。
