@@ -47,7 +47,7 @@ DailyNote/                       # Git 仓库根目录
     ├── _config.butterfly.yml    # Butterfly 主题配置（覆盖式）
     ├── package.json             # Node.js 依赖声明
     ├── package-lock.json        # npm 锁定文件
-    ├── scripts/                 # 热文抓取脚本（⚠️ 目录为空，脚本待重建）
+    ├── fetch_scripts/           # 热文抓取脚本（掘金，不在 scripts/ 避免 Hexo 加载）
     └── source/                  # 源文件目录（构建时复制到 public/）
         ├── _posts/              # 博客文章（Markdown）
         ├── data/trending.json   # 热文数据（掘金中文技术文章）
@@ -55,9 +55,9 @@ DailyNote/                       # Git 仓库根目录
         │   ├── carousel.css     # 自定义轮播样式
         │   └── gradient.css     # 全局渐变色主题覆盖
         ├── js/carousel.js       # 自定义轮播逻辑
-        ├── images/              # 5 张首页轮播风景图
+        ├── images/              # 7 张风景图（轮播 + 页面背景）
         ├── pluginsSrc/          # 第三方库本地副本（CDN 策略为 local）
-        ├── trending/            # 热文榜页面（已完成，含平台筛选）
+        ├── trending/            # 热文榜页面（背景图 + 暗色模式）
         ├── search/              # 搜索页面
         └── about/               # 关于页面
 ```
@@ -110,20 +110,19 @@ DailyNote/                       # Git 仓库根目录
 
 ## 开发状态
 
-Phase 1（基础博客）已完成。Phase 2（热文聚合）进行中：热文榜前端页面已完成，但 Python 抓取脚本目录为空（需重建）。详见 `博客网站需求文档.md` 中的功能清单和进度标记。
+Phase 1（基础博客）已完成。Phase 2（热文聚合）已完成。Phase 3（体验完善）进行中。详见 `博客网站需求文档.md` 中的功能清单和进度标记。
 
-### 当前待办
+### 当前待做
 
-1. 重建 Python 抓取脚本（blog/scripts/ 目录为空）
-2. 修复 SegmentFault 数据源（API 端点返回 404）
-3. 推送 GitHub 验证 V2EX 数据源和 Actions 自动抓取
-4. 修复头像图片 404（avatar 配置指向不存在的 /img/butterfly-icon.png）
+1. **归档和分类界面开发**（自定义页面样式，提升浏览体验）
+2. 推送到 GitHub 验证 Actions 自动抓取流程
+3. 热文历史归档功能（按日期查看往期热文）
 
-### 已知问题
+### 已知配置
 
-- `_config.butterfly.yml` 中 avatar.img 指向 `/img/butterfly-icon.png`，但 `source/img/` 目录不存在，头像会 404
-- `fetch_trending.yml` workflow 会因脚本文件缺失而失败
-- `trending.json` 包含 15 篇掘金中文技术文章，但无脚本可重新生成
+- Python 抓取脚本在 `blog/fetch_scripts/`（不在 `scripts/`，Hexo 会尝试加载为 JS）
+- 头像路径：`/images/9-tuya.jpg`
+- 热文数据源：仅掘金（中文技术文章）
 
 ## GitHub Pages 部署
 

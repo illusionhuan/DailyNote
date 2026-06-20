@@ -2,6 +2,7 @@
 title: 关于
 date: 2026-06-08
 type: "about"
+top_img: /DailyNote/images/landscape6.jpg
 ---
 
 ## 关于这个博客

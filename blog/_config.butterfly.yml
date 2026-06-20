@@ -53,7 +53,7 @@ social:
 # cover: 文章封面图在各页面的显示开关
 # --------------------------------------
 avatar:
-  img: /DailyNote/images/9-tuya.jpg
+  img: /images/9-tuya.jpg
   effect: false
 
 disable_top_img: false
@@ -239,11 +239,16 @@ busuanzi:
 # 配合 hexo-generator-searchdb 生成的索引使用
 # --------------------------------------
 search:
-  use:
-  placeholder:
+  use: local_search
+  placeholder: 搜索文章...
 
   local_search:
-    enable: false
+    preload: false
+    top_n_per_article: 1
+    unescape: false
+    pagination:
+      enable: false
+      hitsPerPage: 8
 
 # --------------------------------------
 # 分享功能（AddToAny 多平台分享按钮）
