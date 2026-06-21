@@ -95,6 +95,16 @@ blockquote {
   background-clip: text;
 }
 
+/* --- 文章正文字体加大 --- */
+#article-container {
+  font-size: 16px;
+  line-height: 1.8;
+}
+#article-container h1 { font-size: 28px; }
+#article-container h2 { font-size: 24px; }
+#article-container h3 { font-size: 20px; }
+#article-container h4 { font-size: 18px; }
+
 /* ============================================================
    暗色模式覆盖
    ============================================================ */
