@@ -10,7 +10,6 @@ tags:
 categories:
   - 后端开发
 description: Java 虚拟机高频面试题 29 道，涵盖 JVM 内存模型、垃圾回收算法与收集器、类加载机制、调优参数等核心知识点。
-cover: /images/cover/java-interview.jpg
 ---
 
 > 来源：学弟小牛（公众号：后端技术小牛说）整理，原作者做了部分优化和调整。

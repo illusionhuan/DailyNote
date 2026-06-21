@@ -10,7 +10,6 @@ tags:
 categories:
   - 后端开发
 description: Java 并发编程高频面试题 39 道，涵盖 JMM、volatile、线程池、锁机制、CAS、AQS、ConcurrentHashMap 等核心知识点。
-cover: /images/cover/java-interview.jpg
 ---
 
 > 来源：学弟小牛（公众号：后端技术小牛说）整理，原作者做了部分优化和调整。

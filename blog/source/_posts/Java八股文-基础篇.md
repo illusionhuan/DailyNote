@@ -9,7 +9,6 @@ tags:
 categories:
   - 后端开发
 description: Java 基础高频面试题 45 道，涵盖面向对象、数据类型、集合框架、异常处理、泛型、反射、序列化等核心知识点。
-cover: /images/cover/java-interview.jpg
 ---
 
 > 来源：学弟小牛（公众号：后端技术小牛说）整理，原作者做了部分优化和调整。
