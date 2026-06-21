@@ -2,30 +2,31 @@
  * 风景图片轮播
  * 通过 Butterfly 的 inject 机制注入到每个页面
  * 首页：替换全屏 header 背景为多图淡入淡出轮播
- * 归档页：为 header 添加轮播背景，并让内容区上移覆盖部分 header
+ * 其他页面：为 header 添加轮播背景
  */
 (function () {
   var header = document.getElementById('page-header');
   if (!header) return;
 
   var isHome = header.classList.contains('full_page');
-  var isArchive = /^\/DailyNote\/archives\//.test(window.location.pathname);
-  if (!isHome && !isArchive) return;
+  var isPost = header.classList.contains('post-bg');
+  var isPage = header.classList.contains('not-home-page');
+  if (!isHome && !isPost && !isPage) return;
 
-  // 轮播图片列表
+  // 轮播图片列表（全部 7 张风景图）
   var images = [
     '/DailyNote/images/landscape1.jpg',
     '/DailyNote/images/landscape2.jpg',
     '/DailyNote/images/landscape3.jpg',
     '/DailyNote/images/landscape4.jpg',
-    '/DailyNote/images/landscape5.jpg'
+    '/DailyNote/images/landscape5.jpg',
+    '/DailyNote/images/landscape6.jpg',
+    '/DailyNote/images/landscape7.jpg'
   ];
 
-  // 归档页标记（用于 CSS 样式适配）
-  if (isArchive) {
-    header.classList.add('carousel-archive');
-    var page = document.getElementById('page');
-    if (page) page.classList.add('carousel-archive-layout');
+  // 非首页页面标记（用于 CSS 样式适配）
+  if (isPost || isPage) {
+    header.classList.add('carousel-page');
   }
 
   // 创建轮播容器，插入到 header 最前面

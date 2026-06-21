@@ -18,8 +18,7 @@ nav:
 menu:
   首页: / || fas fa-home
   归档: /archives/ || fas fa-archive
-  标签: /tags/ || fas fa-tags
-  分类: /categories/ || fas fa-folder-open
+  分类: /classify/ || fas fa-folder-open
   热文榜: /trending/ || fas fa-fire
   关于: /about/ || fas fa-heart
 
@@ -57,6 +56,11 @@ avatar:
   effect: false
 
 disable_top_img: false
+
+archive_img: /DailyNote/images/landscape1.jpg
+category_img: /DailyNote/images/landscape2.jpg
+tag_img: /DailyNote/images/landscape3.jpg
+default_top_img: /DailyNote/images/landscape4.jpg
 
 cover:
   index_enable: true    # 首页显示封面图
@@ -354,5 +358,6 @@ inject:
   head:
     - <link rel="stylesheet" href="/DailyNote/css/carousel.css">
     - <link rel="stylesheet" href="/DailyNote/css/gradient.css">
+    - <link rel="stylesheet" href="/DailyNote/css/custom-pages.css">
   bottom:
     - <script src="/DailyNote/js/carousel.js"></script>
