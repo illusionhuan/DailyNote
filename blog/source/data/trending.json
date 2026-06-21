@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-06-21T02:46:25.100545+00:00",
+  "updated_at": "2026-06-21T07:52:48.539367+00:00",
   "articles": [
     {
       "title": "Claude Code从失控到起飞，只用了这些技巧",
       "url": "https://juejin.cn/post/7652656011178000394",
       "source": "juejin",
-      "score": 394,
-      "raw_score": 94,
+      "score": 424,
+      "raw_score": 132,
       "comments": 0,
       "author": "苏三说技术",
       "created_at": "",
       "summary": "前言 相信大家在刷技术社区的时候，都刷到过Claude Code的产品信息。“最强AI编程助手”、“SWE-bench跑出80.9%得分”等等标签，看起来非常诱人。 于是你麻溜地去安装了。 刚用一天，"
     },
     {
-      "title": "Bun 哪比 Node.js 快？",
-      "url": "https://juejin.cn/post/7652676128407207979",
+      "title": "面试结束后，我反问：“就面个实习至于上这么大强度吗？”面试官：“你对 RAG、Agent、MCP、Skill 理解得很到位，所以要求高一点。”",
+      "url": "https://juejin.cn/post/7653108100300242987",
       "source": "juejin",
-      "score": 349,
-      "raw_score": 56,
+      "score": 384,
+      "raw_score": 84,
       "comments": 0,
-      "author": "半刻纬度",
+      "author": "沉默王二",
       "created_at": "",
-      "summary": "启动快 20 倍。 HTTP 吞吐量高 3 倍。 WebSocket 快 7 倍。 SQLite 快 9 倍。 再加上内置的图像处理、无头浏览器、一体化工具链和单文件编译—— Bun 不是简单的性能优"
+      "summary": "一场上强度的派聪明 RAG 实习面试，16 道题覆盖分片、向量、KNN、BM25、Agent、MCP、Skill 全栈，附简历模板。"
     },
     {
-      "title": "同事每天催我 Code Review，我写了个脚本让 AI 替我 review PR——现在他反过来催 AI 了",
-      "url": "https://juejin.cn/post/7652943828445446186",
+      "title": "我让 AI 从零做了一个用户权限系统，这是全过程记录",
+      "url": "https://juejin.cn/post/7653410900831895579",
       "source": "juejin",
-      "score": 344,
-      "raw_score": 53,
-      "comments": 0,
-      "author": "kyriewen",
-      "created_at": "",
-      "summary": "用 GitHub Actions + Claude API 实现全自动 PR review，配置一次永久生效。AI 10秒内给出代码质量、潜在Bug、安全风险三维评审，平均节省70%初审时间。完整配置"
-    },
-    {
-      "title": "SpringBoot自动配置这个坑，我踩进去又爬出来了",
-      "url": "https://juejin.cn/post/7652708960132120611",
-      "source": "juejin",
-      "score": 324,
-      "raw_score": 42,
-      "comments": 0,
-      "author": "阿橙的百宝箱",
-      "created_at": "",
-      "summary": "SpringBoot自动配置这个坑，我踩进去又爬出来了** -- 引言 SpringBoot作为Java生态中最流行的框架之一，其\"约定优于配置\"的理念极大地简化了开发流程。然而，正是这种看似美好的自"
-    },
-    {
-      "title": "用 Python 实现 Take-Away 游戏",
-      "url": "https://juejin.cn/post/7653060452369743913",
-      "source": "juejin",
-      "score": 315,
-      "raw_score": 38,
-      "comments": 0,
-      "author": "金銀銅鐵",
-      "created_at": "",
-      "summary": "使用 Python，我们可以实现简单的 Take-Away 游戏。在游戏中，两个玩家轮流取走若干个石子，取完石子的玩家获胜。本文分析了实现这个游戏的关键之处（判定必胜策略是否存在），并提供完整代码"
-    },
-    {
-      "title": "Linux系统鼠标偏移常见原因以及修复方案",
-      "url": "https://juejin.cn/post/7653006439901265972",
-      "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
-      "comments": 0,
-      "author": "XIAOHEZIcode",
-      "created_at": "",
-      "summary": "双显卡笔记本跑游戏鼠标偏移？4条环境变量从根源修复。附Mermaid渲染管线图与5种鼠标映射方式对比。"
-    },
-    {
-      "title": "Dioxus 多页面怎么做：`dioxus-router`、嵌套路由、`Outlet` 和页面组织，一篇给你讲顺",
-      "url": "https://juejin.cn/post/7652752683042193442",
-      "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
-      "comments": 0,
-      "author": "星栈",
-      "created_at": "",
-      "summary": "这篇按 **Dioxus 0.7** 来写，把 `Routable`、动态路由、嵌套路由、`Outlet`、编程式导航和目录划分放到一条线上聊。"
-    },
-    {
-      "title": "AI 辅助开发的工程体系：从定规则到基础设施",
-      "url": "https://juejin.cn/post/7653307388925935626",
-      "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
+      "score": 303,
+      "raw_score": 33,
       "comments": 0,
       "author": "唐老板",
       "created_at": "",
-      "summary": "AI 辅助开发的工程体系：从定规则到基础设施 上一篇讲了怎么给 Claude 定规则。但规则写好了只是第一步——实际开发中，你大概率不止用一个工具。 我自己日常是 Claude Code 做复杂任务"
+      "summary": "本文记录了作者使用 Claude AI 从零开发一个完整 RBAC 权限系统的全过程。文章详细介绍了从需求分析、方案规划、规则制定到代码实现的完整流程，重点分享了 AI 开发中的实践经验。"
     },
     {
-      "title": "🤖 一文搞懂 AI Agent 核心概念：从 LLM 到 Tools，手写一个“股票查询 Agent”",
-      "url": "https://juejin.cn/post/7653305987718578222",
+      "title": "滑动窗口最大值：从暴力到单调队列，层层优化全解析",
+      "url": "https://juejin.cn/post/7653402752281985075",
       "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
+      "score": 279,
+      "raw_score": 25,
       "comments": 0,
-      "author": "HjhIron",
+      "author": "胡萝卜术",
       "created_at": "",
-      "summary": "🧠 前言：为什么现在人人都谈 Agent？ 如果你最近关注 AI 领域，一定听过这些词：Agent、LLM、Tools、Reasoning…… 但你真的搞懂它们之间的关系了吗？ 我刚开始学的时候，也是"
+      "summary": "滑动窗口最大值：从暴力到单调队列，层层优化全解析 题目描述 给定一个整数数组 nums 和一个大小为 k 的滑动窗口，窗口从数组的最左侧移动到最右侧，每次只向右移动一位。你需要返回每个窗口内的最大值。"
     },
     {
-      "title": "React 进阶指南：React Router v6 完全实战（第四篇）",
-      "url": "https://juejin.cn/post/7653006439901184052",
+      "title": "React Native JSI 深入剖析 — 第 5 部分中文技术整理：用 HostObject 把 C++ 类暴露给 JavaScript",
+      "url": "https://juejin.cn/post/7653293019978104875",
       "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
+      "score": 260,
+      "raw_score": 20,
       "comments": 0,
-      "author": "Gitrocr",
+      "author": "jt君42426",
       "created_at": "",
-      "summary": "> 本系列文章将带你系统掌握 React 18+，从 JavaScript 基础到生产级应用开发。这"
+      "summary": "解决的是“如何暴露一个 native 函数”，而 Part 5 解决的是另一个更常见的问题：如果我要暴露的不是一次性函数，而是一个带状态的 native 对象，该怎么办？"
     },
     {
-      "title": "Monorepo 迁移血泪史：从 Multi-Repo 到 Turborepo，这 3 个坑我帮你踩完了",
-      "url": "https://juejin.cn/post/7653313131508613147",
+      "title": "实现一个 Coding Agent（7）：Skills",
+      "url": "https://juejin.cn/post/7653050742082289710",
       "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
+      "score": 255,
+      "raw_score": 19,
       "comments": 0,
-      "author": "Csvn",
+      "author": "nuIl",
       "created_at": "",
-      "summary": "问题场景 团队项目越来越多，公共组件库、工具函数库、业务项目分散在 N 个 Git 仓库。每改一个公共包，流程是这样的： 改 A 库代码 → commit → push → npm publish 切"
+      "summary": "第 7 章 技能 7.1 认识 Skills 工具长在 agent 的代码里，加一个就得改源码。 但很多想让 agent 学会的能力其实是知识——发版流程、commit 规范、内部 CLI 用法。 A"
     },
     {
-      "title": "`functools.lru_cache` —— 一行代码搞定缓存加速",
-      "url": "https://juejin.cn/post/7653410900831043611",
+      "title": "每日一个开源项目（第137篇）：Penpot - 真正开源的设计协作工具，SVG 原生格式消灭设计-开发鸿沟",
+      "url": "https://juejin.cn/post/7653720174962327562",
+      "source": "juejin",
+      "score": 240,
+      "raw_score": 16,
+      "comments": 0,
+      "author": "冬奇Lab",
+      "created_at": "",
+      "summary": "Clojure/ClojureScript 全栈构建的开源设计协作平台，SVG 作为原生格式存储，设计属性直接映射 CSS（Grid/Flex/字体/间距），彻底消灭设计稿到代码的翻译层。"
+    },
+    {
+      "title": "告别繁琐命令行！这款容器可视化神器，让 Docker/K8s 管理变得如此简单",
+      "url": "https://juejin.cn/post/7653410900832239643",
+      "source": "juejin",
+      "score": 235,
+      "raw_score": 15,
+      "comments": 0,
+      "author": "GetcharZp",
+      "created_at": "",
+      "summary": "嫌 Docker 命令行太难记？容器多了不好管理？本文带你全面解锁 Portainer 可视化面板，从安装到实战一文搞定！"
+    },
+    {
+      "title": "实现一个 Coding Agent（8）：会话持久化与多会话",
+      "url": "https://juejin.cn/post/7653410900832223259",
+      "source": "juejin",
+      "score": 229,
+      "raw_score": 14,
+      "comments": 0,
+      "author": "nuIl",
+      "created_at": "",
+      "summary": "前几章我写的那个循环有个问题：每次跑都是一次性的。tsx loop.ts \"...\" 跑完，进程一退，刚才跟模型聊了什么、它读过哪些文件、试过哪条不通的路——全没了。第二天打开终端，又得从头交代一遍上"
+    },
+    {
+      "title": "🛬 我让 AI 帮我写了一个打飞机游戏，结果 Canvas 把我整不会了",
+      "url": "https://juejin.cn/post/7653410900832010267",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "默_笙",
+      "created_at": "",
+      "summary": "一、Canvas：网页上的\"神笔马良\" 1.1 什么是 Canvas？ 老师说： <canvas> 是 HTML5 新增的标签，本质上就是一个画布。你可以用 JavaScript 在上面画矩形、画圆、"
+    },
+    {
+      "title": "什么是 PTC (Programmatic Tool Calling)？",
+      "url": "https://juejin.cn/post/7653050742082338862",
       "source": "juejin",
       "score": 169,
       "raw_score": 7,
       "comments": 0,
-      "author": "Csvn",
+      "author": "Warson_L",
       "created_at": "",
-      "summary": "1. 知识点简介 缓存是优化重复计算最朴素有效的手段。Python 标准库 functools.lru_cache 提供 最近最少使用（LRU）缓存 装饰器，只需要加一行 @lru_cache，就能让"
+      "summary": "🚀 拒绝死循环与天价 Token：深入解析 Claude 的程序化工具调用 (PTC) 在构建复杂的 AI Agent 时，你是否遇到过这些令人抓狂的场景： 模型陷入死循环：处理多页 API 数据时，"
     },
     {
-      "title": "Linux 防火墙管理 — firewalld 实战",
-      "url": "https://juejin.cn/post/7653313131508629531",
+      "title": "层级时间轮看门狗",
+      "url": "https://juejin.cn/post/7653720174962360330",
       "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
+      "score": 155,
+      "raw_score": 6,
       "comments": 0,
-      "author": "Csvn",
+      "author": "ThanksGive",
       "created_at": "",
-      "summary": "知识点简介 防火墙是服务器的第一道安全防线。CentOS 7+/RHEL 8+ 默认使用 firewalld 作为防火墙管理工具，它基于内核的 nftables/iptables，提供动态管理的 zo"
+      "summary": "层级时间轮是一种多级分桶的定时任务调度结构，通过 L1/L2/L3 不同时间粒度的环形队列，将定时任务均摊到不同时间层级中执行，从而将高并发定时调度的复杂度从 O(n) 降低到近似 O(1)，特别适用"
     },
     {
-      "title": "iOS 独立开发实践：用 MapKit + 像素渲染实现 Citywalk 轨迹地图 App「雁过留痕」",
-      "url": "https://juejin.cn/post/7652752683042013218",
+      "title": "VS Code 正则替换技巧：从凌晨3点的服务器报警开始",
+      "url": "https://juejin.cn/post/7653720174962163722",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "yingyima",
+      "created_at": "",
+      "summary": "通过一个具体的业务场景，带你了解 VS Code 中如何运用正则表达式高效地批量处理代码问题，包括核心语法和实用示例。"
+    },
+    {
+      "title": "AI 到底能不能从零写软件？ProgramBench 和 RepoZero 给出了两种答案",
+      "url": "https://juejin.cn/post/7653410900831993883",
       "source": "juejin",
       "score": 139,
       "raw_score": 5,
       "comments": 0,
-      "author": "SameX",
+      "author": "梯度不陡",
       "created_at": "",
-      "summary": "前言 作为一个喜欢 Citywalk 的独立开发者，我一直有个痛点：手机相册里存了上千张街拍、截图、路线图，按时间排列根本找不到。想回忆半年前在某座城市走过的某条街，翻相册二十分钟无果是常态。 市面上"
+      "summary": "RepoZero 这篇论文，是一位参与相关工作的同学推荐给我的。他提到，这个工作和 ProgramBench 有明显的对照关系。这个提醒很有价值，因为它让“AI 能不能从零写软件”这个问题。"
     },
     {
-      "title": "Less前端工程化实战：变量混合器与项目样式分层落地",
-      "url": "https://juejin.cn/post/7652943828446412842",
+      "title": "3个信号、2个环境变量、0个采集器：使用 Python 和 Elastic 的托管 OTLP 端点实现 OpenTelemetry",
+      "url": "https://juejin.cn/post/7653335130066108431",
       "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
+      "score": 60,
+      "raw_score": 2,
       "comments": 0,
-      "author": "风骏时光牛马",
+      "author": "Elasticsearch",
       "created_at": "",
-      "summary": "Less前端工程化实战：变量混合器与项目样式分层落地 一、Less核心价值概述 原生CSS存在大量重复代码，项目迭代中样式维护成本极高，颜色、尺寸、布局类样式修改需要全局检索替换，极易出现样式不一致问"
+      "summary": "作者：来自 Elastic Jeffrey Rengifo 使用 OpenTelemetry 为 Flask API 添加监测，并仅通过 2 个环境变量将追踪、指标和日志发送到 Elastic Clo"
     }
   ]
 }

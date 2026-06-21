@@ -1,0 +1,170 @@
+{
+  "updated_at": "2026-06-21T07:52:48.539367+00:00",
+  "articles": [
+    {
+      "title": "Claude Code从失控到起飞，只用了这些技巧",
+      "url": "https://juejin.cn/post/7652656011178000394",
+      "source": "juejin",
+      "score": 424,
+      "raw_score": 132,
+      "comments": 0,
+      "author": "苏三说技术",
+      "created_at": "",
+      "summary": "前言 相信大家在刷技术社区的时候，都刷到过Claude Code的产品信息。“最强AI编程助手”、“SWE-bench跑出80.9%得分”等等标签，看起来非常诱人。 于是你麻溜地去安装了。 刚用一天，"
+    },
+    {
+      "title": "面试结束后，我反问：“就面个实习至于上这么大强度吗？”面试官：“你对 RAG、Agent、MCP、Skill 理解得很到位，所以要求高一点。”",
+      "url": "https://juejin.cn/post/7653108100300242987",
+      "source": "juejin",
+      "score": 384,
+      "raw_score": 84,
+      "comments": 0,
+      "author": "沉默王二",
+      "created_at": "",
+      "summary": "一场上强度的派聪明 RAG 实习面试，16 道题覆盖分片、向量、KNN、BM25、Agent、MCP、Skill 全栈，附简历模板。"
+    },
+    {
+      "title": "我让 AI 从零做了一个用户权限系统，这是全过程记录",
+      "url": "https://juejin.cn/post/7653410900831895579",
+      "source": "juejin",
+      "score": 303,
+      "raw_score": 33,
+      "comments": 0,
+      "author": "唐老板",
+      "created_at": "",
+      "summary": "本文记录了作者使用 Claude AI 从零开发一个完整 RBAC 权限系统的全过程。文章详细介绍了从需求分析、方案规划、规则制定到代码实现的完整流程，重点分享了 AI 开发中的实践经验。"
+    },
+    {
+      "title": "滑动窗口最大值：从暴力到单调队列，层层优化全解析",
+      "url": "https://juejin.cn/post/7653402752281985075",
+      "source": "juejin",
+      "score": 279,
+      "raw_score": 25,
+      "comments": 0,
+      "author": "胡萝卜术",
+      "created_at": "",
+      "summary": "滑动窗口最大值：从暴力到单调队列，层层优化全解析 题目描述 给定一个整数数组 nums 和一个大小为 k 的滑动窗口，窗口从数组的最左侧移动到最右侧，每次只向右移动一位。你需要返回每个窗口内的最大值。"
+    },
+    {
+      "title": "React Native JSI 深入剖析 — 第 5 部分中文技术整理：用 HostObject 把 C++ 类暴露给 JavaScript",
+      "url": "https://juejin.cn/post/7653293019978104875",
+      "source": "juejin",
+      "score": 260,
+      "raw_score": 20,
+      "comments": 0,
+      "author": "jt君42426",
+      "created_at": "",
+      "summary": "解决的是“如何暴露一个 native 函数”，而 Part 5 解决的是另一个更常见的问题：如果我要暴露的不是一次性函数，而是一个带状态的 native 对象，该怎么办？"
+    },
+    {
+      "title": "实现一个 Coding Agent（7）：Skills",
+      "url": "https://juejin.cn/post/7653050742082289710",
+      "source": "juejin",
+      "score": 255,
+      "raw_score": 19,
+      "comments": 0,
+      "author": "nuIl",
+      "created_at": "",
+      "summary": "第 7 章 技能 7.1 认识 Skills 工具长在 agent 的代码里，加一个就得改源码。 但很多想让 agent 学会的能力其实是知识——发版流程、commit 规范、内部 CLI 用法。 A"
+    },
+    {
+      "title": "每日一个开源项目（第137篇）：Penpot - 真正开源的设计协作工具，SVG 原生格式消灭设计-开发鸿沟",
+      "url": "https://juejin.cn/post/7653720174962327562",
+      "source": "juejin",
+      "score": 240,
+      "raw_score": 16,
+      "comments": 0,
+      "author": "冬奇Lab",
+      "created_at": "",
+      "summary": "Clojure/ClojureScript 全栈构建的开源设计协作平台，SVG 作为原生格式存储，设计属性直接映射 CSS（Grid/Flex/字体/间距），彻底消灭设计稿到代码的翻译层。"
+    },
+    {
+      "title": "告别繁琐命令行！这款容器可视化神器，让 Docker/K8s 管理变得如此简单",
+      "url": "https://juejin.cn/post/7653410900832239643",
+      "source": "juejin",
+      "score": 235,
+      "raw_score": 15,
+      "comments": 0,
+      "author": "GetcharZp",
+      "created_at": "",
+      "summary": "嫌 Docker 命令行太难记？容器多了不好管理？本文带你全面解锁 Portainer 可视化面板，从安装到实战一文搞定！"
+    },
+    {
+      "title": "实现一个 Coding Agent（8）：会话持久化与多会话",
+      "url": "https://juejin.cn/post/7653410900832223259",
+      "source": "juejin",
+      "score": 229,
+      "raw_score": 14,
+      "comments": 0,
+      "author": "nuIl",
+      "created_at": "",
+      "summary": "前几章我写的那个循环有个问题：每次跑都是一次性的。tsx loop.ts \"...\" 跑完，进程一退，刚才跟模型聊了什么、它读过哪些文件、试过哪条不通的路——全没了。第二天打开终端，又得从头交代一遍上"
+    },
+    {
+      "title": "🛬 我让 AI 帮我写了一个打飞机游戏，结果 Canvas 把我整不会了",
+      "url": "https://juejin.cn/post/7653410900832010267",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "默_笙",
+      "created_at": "",
+      "summary": "一、Canvas：网页上的\"神笔马良\" 1.1 什么是 Canvas？ 老师说： <canvas> 是 HTML5 新增的标签，本质上就是一个画布。你可以用 JavaScript 在上面画矩形、画圆、"
+    },
+    {
+      "title": "什么是 PTC (Programmatic Tool Calling)？",
+      "url": "https://juejin.cn/post/7653050742082338862",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "Warson_L",
+      "created_at": "",
+      "summary": "🚀 拒绝死循环与天价 Token：深入解析 Claude 的程序化工具调用 (PTC) 在构建复杂的 AI Agent 时，你是否遇到过这些令人抓狂的场景： 模型陷入死循环：处理多页 API 数据时，"
+    },
+    {
+      "title": "层级时间轮看门狗",
+      "url": "https://juejin.cn/post/7653720174962360330",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "ThanksGive",
+      "created_at": "",
+      "summary": "层级时间轮是一种多级分桶的定时任务调度结构，通过 L1/L2/L3 不同时间粒度的环形队列，将定时任务均摊到不同时间层级中执行，从而将高并发定时调度的复杂度从 O(n) 降低到近似 O(1)，特别适用"
+    },
+    {
+      "title": "VS Code 正则替换技巧：从凌晨3点的服务器报警开始",
+      "url": "https://juejin.cn/post/7653720174962163722",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "yingyima",
+      "created_at": "",
+      "summary": "通过一个具体的业务场景，带你了解 VS Code 中如何运用正则表达式高效地批量处理代码问题，包括核心语法和实用示例。"
+    },
+    {
+      "title": "AI 到底能不能从零写软件？ProgramBench 和 RepoZero 给出了两种答案",
+      "url": "https://juejin.cn/post/7653410900831993883",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "梯度不陡",
+      "created_at": "",
+      "summary": "RepoZero 这篇论文，是一位参与相关工作的同学推荐给我的。他提到，这个工作和 ProgramBench 有明显的对照关系。这个提醒很有价值，因为它让“AI 能不能从零写软件”这个问题。"
+    },
+    {
+      "title": "3个信号、2个环境变量、0个采集器：使用 Python 和 Elastic 的托管 OTLP 端点实现 OpenTelemetry",
+      "url": "https://juejin.cn/post/7653335130066108431",
+      "source": "juejin",
+      "score": 60,
+      "raw_score": 2,
+      "comments": 0,
+      "author": "Elasticsearch",
+      "created_at": "",
+      "summary": "作者：来自 Elastic Jeffrey Rengifo 使用 OpenTelemetry 为 Flask API 添加监测，并仅通过 2 个环境变量将追踪、指标和日志发送到 Elastic Clo"
+    }
+  ]
+}

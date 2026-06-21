@@ -4,7 +4,7 @@
 
 ## 项目概述
 
-中文个人技术博客，基于 Hexo 8 + Butterfly 主题构建，部署到 GitHub Pages。已集成全网技术热文聚合功能（热文榜页面已完成，抓取脚本待重建）。
+中文个人技术博客，基于 Hexo 8 + Butterfly 主题构建，部署到 GitHub Pages。已集成全网技术热文聚合功能（掘金数据源，GitHub Actions 每天自动抓取）。
 
 ## 常用命令
 
@@ -29,7 +29,7 @@ hexo deploy                    # 部署到 GitHub Pages
 | RSS 插件 | hexo-generator-feed | 生成 atom.xml 订阅源 |
 | SEO 插件 | hexo-generator-sitemap | 生成 sitemap.xml 供搜索引擎收录 |
 | 部署 | GitHub Actions + GitHub Pages | push 到 main 分支时自动构建并部署 |
-| 热文抓取（待重建） | Python 3 | 调用各平台 API 抓取热文，输出到 source/data/trending.json（脚本目录为空，需重新创建） |
+| 热文抓取 | Python 3 | 调用掘金 API 抓取中文技术热文，输出到 source/data/trending.json |
 
 ## 架构说明
 
@@ -50,16 +50,22 @@ DailyNote/                       # Git 仓库根目录
     ├── fetch_scripts/           # 热文抓取脚本（掘金，不在 scripts/ 避免 Hexo 加载）
     └── source/                  # 源文件目录（构建时复制到 public/）
         ├── _posts/              # 博客文章（Markdown）
-        ├── data/trending.json   # 热文数据（掘金中文技术文章）
+        ├── data/
+        │   ├── trending.json    # 当前热文数据（掘金中文技术文章）
+        │   └── trending_history/# 热文历史快照（YYYY-MM-DD.json + manifest.json）
         ├── css/
-        │   ├── carousel.css     # 自定义轮播样式
-        │   └── gradient.css     # 全局渐变色主题覆盖
-        ├── js/carousel.js       # 自定义轮播逻辑
+        │   ├── carousel.css     # 全站轮播样式（首页 + 所有页面）
+        │   ├── gradient.css     # 全局渐变色主题覆盖（#7CABBA 色系）
+        │   └── custom-pages.css # 归档时间线美化 + 分类卡片样式
+        ├── js/carousel.js       # 全站轮播逻辑（class 检测，覆盖所有页面）
         ├── images/              # 7 张风景图（轮播 + 页面背景）
         ├── pluginsSrc/          # 第三方库本地副本（CDN 策略为 local）
-        ├── trending/            # 热文榜页面（背景图 + 暗色模式）
-        ├── search/              # 搜索页面
-        └── about/               # 关于页面
+        ├── trending/            # 热文榜页面（轮播背景 + 暗色模式）
+        ├── trending_history/    # 热文归档页面（按日期查看往期热文）
+        ├── classify/            # 分类页面（分类卡片 + 标签云 tab 切换）
+        ├── categories/          # 分类数据页（供 classify 页面 JS 抓取）
+        ├── tags/                # 标签数据页（供 classify 页面 JS 抓取）
+        └── about/               # 关于页面（轮播背景）
 ```
 
 ## 配置文件详解
@@ -81,7 +87,7 @@ DailyNote/                       # Git 仓库根目录
 
 控制主题的视觉和交互，通过覆盖式配置避免修改 node_modules 中的源文件。主要配置段：
 
-- **nav / menu**：导航栏 logo、固定状态、菜单项（首页/归档/标签/分类/热文榜/搜索/关于）
+- **nav / menu**：导航栏 logo、固定状态、菜单项（首页/归档/分类/热文榜/关于）
 - **code_blocks**：代码块样式（darker 主题、mac 风格、复制按钮）
 - **subtitle**：首页副标题打字机效果
 - **index_layout / index_post_content**：首页文章卡片布局方式和摘要长度
@@ -91,7 +97,7 @@ DailyNote/                       # Git 仓库根目录
 - **darkmode**：暗色模式开关和切换按钮
 - **theme_color**：主题色配置（主色 #7CABBA，深色 #5A8C9C，浅色 #9CC5D0，由 gradient.css 全局覆盖）
 - **search**：本地搜索配置（Butterfly 内置 UI）
-- **inject**：向页面 head/bottom 注入自定义 CSS/JS（当前注入轮播样式和脚本）
+- **inject**：向页面 head/bottom 注入自定义 CSS/JS（轮播、渐变主题、归档/分类美化）
 - **lazyload**：图片懒加载（全站生效，带模糊占位）
 - **busuanzi**：不蒜子阅读统计（站点 UV/PV、页面 PV）
 - **CDN**：资源加载策略（内部和第三方均为 local，第三方库存放在 source/pluginsSrc/）
@@ -101,7 +107,7 @@ DailyNote/                       # Git 仓库根目录
 - 文章使用 YAML frontmatter 声明 `title`、`date`、`tags`、`categories`、`description`、`cover`
 - Butterfly 配置写在 `_config.butterfly.yml`（覆盖文件），不要改 node_modules 内的主题配置
 - 主题色通过 `gradient.css` 全局覆盖（基础色 #7CABBA，深色 #5A8C9C，浅色 #9CC5D0），包含亮色和暗色模式适配
-- 自定义 JS 通过 `header.classList.contains('full_page')` 判断是否为首页（body 标签没有 home class）
+- 轮播 JS 通过 header 的 class 检测页面类型：`full_page`（首页）、`not-home-page`（归档/分类/标签等）、`post-bg`（文章页），覆盖全站所有页面
 - 根路径为 `/DailyNote/`（GitHub Pages 项目站点 URL），所有内部资源路径以 `/DailyNote/` 开头（如 `/DailyNote/images/landscape1.jpg`）
 - 自定义 inject 中的 CSS/JS 路径也必须使用 `/DailyNote/` 前缀
 - hexo-generator-searchdb 生成搜索索引，Butterfly 内置搜索 UI 直接消费
@@ -110,19 +116,18 @@ DailyNote/                       # Git 仓库根目录
 
 ## 开发状态
 
-Phase 1（基础博客）已完成。Phase 2（热文聚合）已完成。Phase 3（体验完善）进行中。详见 `博客网站需求文档.md` 中的功能清单和进度标记。
+Phase 1-3 均已完成。Phase 4（打磨运维）部分完成。详见 `博客网站需求文档.md`。
 
 ### 当前待做
 
-1. **归档和分类界面开发**（自定义页面样式，提升浏览体验）
-2. 推送到 GitHub 验证 Actions 自动抓取流程
-3. 热文历史归档功能（按日期查看往期热文）
+1. 自定义域名绑定（可选）
 
 ### 已知配置
 
 - Python 抓取脚本在 `blog/fetch_scripts/`（不在 `scripts/`，Hexo 会尝试加载为 JS）
 - 头像路径：`/images/9-tuya.jpg`
 - 热文数据源：仅掘金（中文技术文章）
+- 轮播图片：`images/landscape1-7.jpg`（7 张，全站共用）
 
 ## GitHub Pages 部署
 
