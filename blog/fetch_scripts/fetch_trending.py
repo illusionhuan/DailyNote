@@ -1,6 +1,7 @@
 """抓取中文技术热文并输出到 source/data/trending.json。"""
 
 import json
+import platform
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -14,7 +15,8 @@ MAX_ARTICLES = 30
 
 def main():
     session = requests.Session()
-    session.verify = False  # Windows SSL 兼容
+    if platform.system() == "Windows":
+        session.verify = False  # Windows SSL 证书兼容
 
     articles = []
     try:
