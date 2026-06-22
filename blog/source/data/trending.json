@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-06-21T13:48:52.799920+00:00",
+  "updated_at": "2026-06-22T02:48:50.476488+00:00",
   "articles": [
     {
-      "title": "一个目录一个 Agent，Vercel Eve 的这套架构设计太舒服了！",
-      "url": "https://juejin.cn/post/7653131325730717742",
+      "title": "我开发 AI Agent 项目踩过的 5个坑",
+      "url": "https://juejin.cn/post/7653660327263666176",
       "source": "juejin",
-      "score": 400,
-      "raw_score": 101,
+      "score": 497,
+      "raw_score": 306,
       "comments": 0,
-      "author": "程序猿DD",
+      "author": "双越AI_club",
       "created_at": "",
-      "summary": "先说我的判断： Eve 值得关注，但不是因为它又提供了一种调用大模型和 Tool Calling 的写法。 它真正有意思的地方，是把 Durable Workflow、Sandbox、人工审批、子 A"
+      "summary": "大家好，我是双越。wangEditor 作者，前百度 滴滴 资深前端工程师，慕课网金牌讲师，PMP，前端面试派作者。本节分享我开发 AI Agent 项目时踩过的 5 个坑，供大家参考～"
     },
     {
-      "title": "claude Fable用不了？把Gpt 5.5pro接到你的claude code里",
-      "url": "https://juejin.cn/post/7653331314121211967",
+      "title": "AI Agent 开发究竟是啥？如何用 AI 开发 Agent ？深入浅出给你一套概念",
+      "url": "https://juejin.cn/post/7653293019979661355",
       "source": "juejin",
-      "score": 384,
-      "raw_score": 84,
-      "comments": 0,
-      "author": "也无风雨也雾晴",
-      "created_at": "",
-      "summary": "claude Fable用不了？把Gpt 5.5pro接到你的claude code里，无所谓，gpt5.5 pro会出手"
-    },
-    {
-      "title": "别再跟 AI 死磕 prompt 了，我写了个 Loop 让它自己改到满意为止",
-      "url": "https://juejin.cn/post/7653409231857287231",
-      "source": "juejin",
-      "score": 376,
-      "raw_score": 76,
-      "comments": 1,
-      "author": "To_OC",
-      "created_at": "",
-      "summary": "我昨天凌晨两点还在跟 Deepseek 较劲。就为了一篇奶龙按摩椅的小红书广告文案，我改了八版 prompt，从 \"写个爆款文案\" 到 \"标题必须带数字，正文不超过 300 字，结尾要有行动号召，要像"
-    },
-    {
-      "title": "为什么AI 时代来临，大部分人吃不到红利",
-      "url": "https://juejin.cn/post/7653186491406073856",
-      "source": "juejin",
-      "score": 366,
-      "raw_score": 68,
-      "comments": 0,
-      "author": "乘风gg",
-      "created_at": "",
-      "summary": "看了个段子深有感触 年少时的我曾对父亲说： 你们那年代遍地风口 改革开放南下经商、当个中间商开个厂都能赚得盆满钵满、房价低到像白捡，遍地都是机会！ 身处 AI 时代，这一刻我突然懂了 不是上一辈不努力"
-    },
-    {
-      "title": "解读 Android 17 全新内存限制，有没有“豁免”后门？",
-      "url": "https://juejin.cn/post/7653533398468542473",
-      "source": "juejin",
-      "score": 362,
-      "raw_score": 65,
+      "score": 444,
+      "raw_score": 167,
       "comments": 0,
       "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "App 需要适配和做的基本在 Android 17 内存管理将严格管控，App 要注意适配都已经聊过了，这次 Android 17 正式版发布也就说明这个能力正式落地了。 简单说，它主要限制的是“进程"
+      "summary": "什么是 AI Agent？它和普通聊天机器人到底有什么区别？或者说为什么叫 Agent ？今天我们主要是聊概念理解，一些人对于 Agent 开发还很模糊，因为如果对概念和流程都没有完整理解，实际难通过"
     },
     {
-      "title": "AI 时代，CLI 正在迎来第二春",
-      "url": "https://juejin.cn/post/7653409231857926207",
+      "title": "艹，维护AI写的代码，我心态崩了......",
+      "url": "https://juejin.cn/post/7653666093677314057",
       "source": "juejin",
-      "score": 357,
-      "raw_score": 61,
+      "score": 351,
+      "raw_score": 57,
       "comments": 0,
-      "author": "JacksonChen",
+      "author": "SimonKing",
       "created_at": "",
-      "summary": "AI 时代，CLI 正在迎来第二春 最近一年如果你经常使用 Claude Code、Codex、Cursor 这类工具，应该会发现一个现象。 越来越多的平台开始推出自己的 CLI。 以前大家做开放平台"
+      "summary": "最近做了一个项目，同事用AI写的页面，出来之后效果感人。但是因为使用的插件的版权问题，应用的部分插件需要重新选择。 由于同事还有其他问题需要处理，我接手了这个功能，改的时候发现，根本无法下手"
     },
     {
-      "title": "Android 限制侧载新进展，谷歌联合国内厂商推验证计划",
-      "url": "https://juejin.cn/post/7653720174962868234",
+      "title": "从 AspectD 到 AOPD：我们重新设计了一次 Flutter 编译期增强",
+      "url": "https://juejin.cn/post/7653293019979694123",
+      "source": "juejin",
+      "score": 349,
+      "raw_score": 56,
+      "comments": 1,
+      "author": "法的空间",
+      "created_at": "",
+      "summary": "AOPD 面向 Flutter/Dart 编译期 AOP，延续 AspectD 注解模型，重构 SDK 适配和工具链接入。"
+    },
+    {
+      "title": "花三个月工资请了个 AI 程序员，结果它连青岛啤酒股价都查不了",
+      "url": "https://juejin.cn/post/7653500844103237641",
+      "source": "juejin",
+      "score": 349,
+      "raw_score": 56,
+      "comments": 0,
+      "author": "槑有老呆",
+      "created_at": "",
+      "summary": "开场暴击：Agent 工程师正在血洗招聘市场 先聊点刺激的。 这两年冒出来一个岗位叫 Agent 工程师，直接把传统软件工程师的薪资天花板给捅穿了。企业抢人抢到疯——不是因为他们会写更漂亮的代码，而是"
+    },
+    {
+      "title": "我开源了一个开发者专属的智能 JSON 工具，得到了媳妇高度认可",
+      "url": "https://juejin.cn/post/7653686112275333154",
       "source": "juejin",
       "score": 334,
       "raw_score": 47,
       "comments": 0,
-      "author": "恋猫de小郭",
+      "author": "程序员小富",
       "created_at": "",
-      "summary": "在去年我们就提到《Android 禁止侧载将正式实施，需要等待 24 小时冷静期》，因为新的侧载限制开始后，Android 只能安装已经验证过开发者的应用，而为了验证身份，在 Google Play "
+      "summary": "大家好，我是小富～ 这期给大家分享一个我开发的工具！ 最近做了一个开发者专属的 JSON 工具 easy-json！在线体验地址：easyjson.xiaofucode.com，不管是什么奇形怪状的 "
     },
     {
-      "title": "理解LLM的基本工作原理：预训练、微调、推理的区别",
-      "url": "https://juejin.cn/post/7653415367205044266",
+      "title": "讯飞版Codex+GLM-5.2=顶级世界杯AI搭子",
+      "url": "https://juejin.cn/post/7653601975862673462",
       "source": "juejin",
-      "score": 330,
-      "raw_score": 45,
+      "score": 324,
+      "raw_score": 42,
       "comments": 0,
-      "author": "Worlds",
+      "author": "沉默王二",
       "created_at": "",
-      "summary": "预训练、微调、推理这三个阶段构成了LLM从\"诞生\"到\"上场\"的完整生命周期，它们既相互关联又各自独立。 类比：把LLM想象成篮球运动员🐔 阶段 篮球运动员类比 核心目标 预训练 学习传球、运球、投篮等"
+      "summary": "Loomy 世界杯搭子实测，支持 GLM-5.2 自定义模型，三位球星 AI 搭子陪看球，定时任务模板自动推送赛程战报和玄学预测。"
     },
     {
-      "title": "Vibe Coding 开发项目的基本范式",
-      "url": "https://juejin.cn/post/7653050742082437166",
+      "title": "Prompt、Context、Harness 工程全景图",
+      "url": "https://juejin.cn/post/7653666093677428745",
       "source": "juejin",
-      "score": 328,
-      "raw_score": 44,
+      "score": 318,
+      "raw_score": 39,
       "comments": 0,
-      "author": "旅梦用户",
+      "author": "超级东哥CyberFD",
       "created_at": "",
-      "summary": "先搞清一件事：Vibe Coding ≠ 乱Accept Andrej Karpathy 原话是 \"fully give in to the vibes, embrace exponentials, "
+      "summary": "Prompt、Context、Harness 工程全景图 最近跟不少朋友聊 Agent，发现一个特别有意思的现象。 大家一遇到效果不好，第一反应基本都是改 Prompt。改角色，改语气，改格式，再加一"
     },
     {
-      "title": "XZLL-IM干货系列 03｜消息 ID 设计：一个 UUID 搞不定的事，我用两个 ID 解决了",
-      "url": "https://juejin.cn/post/7653720174962606090",
+      "title": "求求你别再只用 Claude Code 写代码了！解锁一下它全能玩法？",
+      "url": "https://juejin.cn/post/7653686112275431458",
       "source": "juejin",
-      "score": 315,
-      "raw_score": 38,
+      "score": 289,
+      "raw_score": 28,
       "comments": 0,
-      "author": "蝎子莱莱爱打怪",
+      "author": "我不是外星人",
       "created_at": "",
-      "summary": "先说结论：为什么一个 ID 不够 先想清楚 IM 系统对消息 ID 有哪些要求： 需求 说明 全局唯一 集群环境下，任意两个消息的 ID 不能重复 趋势递增 消息列表要按时间排序"
+      "summary": "哈喽，大家好，我是 alien。今天聊的话题是——Claude Code。对于研发同学来说，Claude Code 应该并不陌生：它的官方定位是“AI 编程助手”。但除了写代码之外，我们不妨打开脑洞，"
     },
     {
-      "title": "Fetch 请求竞态终结者：AbortController 不只是用来\"取消\"的",
-      "url": "https://juejin.cn/post/7652710318725758991",
-      "source": "juejin",
-      "score": 313,
-      "raw_score": 37,
-      "comments": 0,
-      "author": "Csvn",
-      "created_at": "",
-      "summary": "问题场景 搜索框输入\"深圳天气\"，快速删除再输入\"北京天气\"，结果页面先显示北京、再闪变成深圳——请求竞态污染，老 Bug 了。 用 setTimeout 做防抖能缓解，但用户快速切换时依然复现。核心"
-    },
-    {
-      "title": "Hudi技术内幕：Key Generation原理与实践",
-      "url": "https://juejin.cn/post/7653720174962704394",
-      "source": "juejin",
-      "score": 292,
-      "raw_score": 29,
-      "comments": 0,
-      "author": "大大大大晴天",
-      "created_at": "",
-      "summary": "Key Generation作为Hudi数据湖表的基础能力，贯穿于数据写入、索引、查询优化的全链路，本文将介绍Hudi中Key Generation、KeyGenerator以及生产实践。"
-    },
-    {
-      "title": "VS Code 正则替换技巧：从凌晨3点的服务器报警开始",
-      "url": "https://juejin.cn/post/7653720174962163722",
-      "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
-      "comments": 0,
-      "author": "yingyima",
-      "created_at": "",
-      "summary": "通过一个具体的业务场景，带你了解 VS Code 中如何运用正则表达式高效地批量处理代码问题，包括核心语法和实用示例。"
-    },
-    {
-      "title": "如何使用 OpenClaw Skill",
-      "url": "https://juejin.cn/post/7653415367205666858",
+      "title": "Vercel Eve 快速入门：使用 eve init 构建你的第一个 Agent",
+      "url": "https://juejin.cn/post/7653777184239337526",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "Harries",
+      "author": "程序猿DD",
       "created_at": "",
-      "summary": "很多人第一次听到 OpenClaw Skill，会把它理解成“插件”。 这个理解只对了一半。 插件通常给 Agent 增加新的能力，比如新的工具、新的消息渠道、新的模型 Provider。 Skill"
+      "summary": "上一篇:《一个目录一个 Agent，Vercel Eve 的这套 Agent 架构设计太舒服了！》我们聊了 Eve 为什么值得关注：它不是再提供一种模型调用写法，而是把 Agent 运行所需的项目结构"
     },
     {
-      "title": "单 Agent 实现模式",
-      "url": "https://juejin.cn/post/7653442979388489766",
+      "title": "Day01 | 什么是Agent？",
+      "url": "https://juejin.cn/post/7653437401839255586",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "不能放弃治疗",
+      "author": "宋串串",
       "created_at": "",
-      "summary": "整体的介绍了，AI Agent 的实现方式：ReAct、ReWOO、LLMCompiler、Plan And Executor 模式的实现方式"
+      "summary": "Agent核心四大组件：Agent = 大模型 (大脑) + 工具 (双手) + 执行循环 (思考-行动-观察-再思考)"
+    },
+    {
+      "title": "MCP 基础：Server、Tool、Resource 和 Prompt",
+      "url": "https://juejin.cn/post/7653777184239222838",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "Harries",
+      "created_at": "",
+      "summary": "MCP 经常被一句话概括成“AI 应用的 USB-C 接口”。 这个比喻有用，但如果你要真的把系统接进去，还要理解四个核心词： OpenClaw 也可以通过 MCP 暴露会话，或者消费外部 MCP s"
+    },
+    {
+      "title": "从 PyTorch Attention 源码理解 KV Cache、缓存命中与 Prefix Cache",
+      "url": "https://juejin.cn/post/7653415367205814314",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "Chenyiax",
+      "created_at": "",
+      "summary": "做大模型推理时，我们经常会碰到几个看起来很像的词：KV cache、cache hit、prefix cache、prompt cache。它们都和“缓存”有关，但并不在同一个抽象层次上。 可以先用一"
+    },
+    {
+      "title": "你写的 DCL 单例，在反序列化面前就是个弟弟——单例模式的破局与重建",
+      "url": "https://juejin.cn/post/7653666093676314633",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "长栎",
+      "created_at": "",
+      "summary": "单例模式是 23 种 GoF 模式里最简单的一个。但 DCL 单例能被反射击穿、被反序列化绕过，枚举才是 Java 唯一安全的实现。Spring 早就不用单例模式了。"
+    },
+    {
+      "title": "gt-checksum v4.0.0 新功能解读系列文章（4）：SSL 加密连接——数据校验传输安全再升级",
+      "url": "https://juejin.cn/post/7653708807583203374",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "GreatSQL",
+      "created_at": "",
+      "summary": "一、功能简介 v4.0.0 为 gt-checksum 和 repairDB 同时新增了 SSL/TLS 加密连接支持。通过 8 个新增配置参数，源端和目标端可以独立配置各自的 SSL 证书和加密模式"
     }
   ]
 }
