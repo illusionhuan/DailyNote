@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl *)",
+      "Bash(mkdir *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git config *)",
+      "Bash(npx hexo *)",
+      "Bash(npm list *)",
+      "Bash(gh run view *)",
+      "Bash(gh run list *)"
+    ]
+  }
+}
