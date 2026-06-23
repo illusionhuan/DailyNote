@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-06-23T02:14:51.450236+00:00",
+  "updated_at": "2026-06-23T14:28:39.012956+00:00",
   "articles": [
     {
-      "title": "Gen UI，AI 时代的前端未来之路",
-      "url": "https://juejin.cn/post/7654087343716843554",
+      "title": "艹，维护AI写的代码，我心态崩了......",
+      "url": "https://juejin.cn/post/7653666093677314057",
       "source": "juejin",
-      "score": 298,
-      "raw_score": 31,
+      "score": 742,
+      "raw_score": 5182,
+      "comments": 52,
+      "author": "SimonKing",
+      "created_at": "",
+      "summary": "最近做了一个项目，同事用AI写的页面，出来之后效果感人。但是因为使用的插件的版权问题，应用的部分插件需要重新选择。 由于同事还有其他问题需要处理，我接手了这个功能，改的时候发现，根本无法下手"
+    },
+    {
+      "title": "无限期免费，Token 随便用，舒服啊！",
+      "url": "https://juejin.cn/post/7654102171461402662",
+      "source": "juejin",
+      "score": 580,
+      "raw_score": 798,
       "comments": 0,
-      "author": "乘风gg",
+      "author": "沉默王二",
       "created_at": "",
-      "summary": "引言：传统前端凉凉了吗 最近一直看到各种前端已死，前端已死，但前端真的死了吗？反正我是头铁要为前端正名一下的，先说结论，我觉得没死，并且 AI 产品已经迎来交互范式巨大的改变， 一、传统 Web 和 "
+      "summary": "实测 Agnes AI 三款免费全模态模型，Agnes-2.0-Flash 文本、Agnes-Image-2.1-Flash 图片、Agnes-Video-2.0 视频"
     },
     {
-      "title": "万字长文讲透 AI Agent 架构设计：从 ReAct 到多 Agent 协作，附完整 Python 代码",
-      "url": "https://juejin.cn/post/7654108355959029795",
+      "title": "Android 17 正式发布！target 37 一大批旧代码直接不能用了",
+      "url": "https://juejin.cn/post/7653533398469820425",
       "source": "juejin",
-      "score": 292,
-      "raw_score": 29,
-      "comments": 3,
-      "author": "小鼻子的猫",
+      "score": 523,
+      "raw_score": 416,
+      "comments": 0,
+      "author": "黄林晴",
       "created_at": "",
-      "summary": "2026 年最火的技术词是 Agent，但中文圈真正讲「怎么设计一个生产可用的 Agent 系统」的文章几乎没有。看完这篇，你会对 Agent 架构有一个完整的认知框架，末尾的 3-Agent 代码助"
+      "summary": "Android 17 已经正式发布，对应 API level 37。 target SDK 37 以后，有几类旧假设会失效：大屏不能继续锁方向和比例，部分配置变化默认不再重建 Activity，本地网"
     },
     {
-      "title": "当甲方说'logo放大的同时再缩小一点'时，我用 AI 把这个需求做出来了",
-      "url": "https://juejin.cn/post/7654052123509948457",
+      "title": "GLM5.2+ZCode复刻坦克大战，自测50万帧！",
+      "url": "https://juejin.cn/post/7654416959087312942",
+      "source": "juejin",
+      "score": 502,
+      "raw_score": 326,
+      "comments": 0,
+      "author": "甲维斯",
+      "created_at": "",
+      "summary": "GLM5.2 的消息已经刷到吐了，我很多天之前已经做过测试了，也发过文章了。 当时，我刚测试完 Fable 5，然后平时一直用 Opus4.8，所以觉得 GLM5.2 并没有太过惊艳的地方。 但是我也"
+    },
+    {
+      "title": "5 分钟搞懂 Kotlin DSL",
+      "url": "https://juejin.cn/post/7653708807583498286",
+      "source": "juejin",
+      "score": 471,
+      "raw_score": 227,
+      "comments": 0,
+      "author": "RockByte",
+      "created_at": "",
+      "summary": "DSL（Domain-Specific Language，领域特定语言）是一种面向特定问题领域设计的表达方式。它不一定是一门全新的语言，也可以是一组经过设计的 API，让代码读起来更接近业务语义。"
+    },
+    {
+      "title": "AI 生成的代码能跑就行？这 5 个坑迟早炸",
+      "url": "https://juejin.cn/post/7654068162002632750",
+      "source": "juejin",
+      "score": 454,
+      "raw_score": 187,
+      "comments": 0,
+      "author": "kyriewen",
+      "created_at": "",
+      "summary": "2026 年了，AI 写代码已经不是新鲜事。但我发现一个普遍现象：很多人的工作流是—— 这个循环看似高效，实际上在代码仓库里埋了一堆定时炸弹。"
+    },
+    {
+      "title": "🔥UniApp 仅需 5 行代码！实现所有页面中控制应用主题变化",
+      "url": "https://juejin.cn/post/7654415237039538214",
+      "source": "juejin",
+      "score": 431,
+      "raw_score": 143,
+      "comments": 0,
+      "author": "skiyee",
+      "created_at": "",
+      "summary": "书接上文。上次讲了 oiyo 在 App.vue 赋予的能力，不少朋友说想看实际例子，光说概念不够直观。今天拿 UniApp 最常见的痛点之一来抛砖引玉：多主题色变更。"
+    },
+    {
+      "title": "🎁 送你一套超好用超实用的 FE AI-Coding Skills",
+      "url": "https://juejin.cn/post/7654415237039456294",
       "source": "juejin",
       "score": 272,
       "raw_score": 23,
       "comments": 0,
-      "author": "吴琼琼",
+      "author": "LaiYoung_",
       "created_at": "",
-      "summary": "做开发的谁没被奇葩需求折磨过？从'logo放大同时缩小'到'按钮跟着手机壳变色'，分享那些年我遇到的离谱需求，以及用 AI 工具把不可能变成可能的实战经验。"
+      "summary": "今天，送你一套专为 Vue3 + TypeScript + <script setup lang=\"ts\"> 深度定制的 前端工程 AI Skills 集合！助你码力全开。"
     },
     {
-      "title": "彻底搞懂JS闭包：从作用域链、形成条件到优缺点",
-      "url": "https://juejin.cn/post/7654045327083159571",
+      "title": "AI Agent 上下文压缩利器 Headroom",
+      "url": "https://juejin.cn/post/7654122741077098538",
       "source": "juejin",
-      "score": 264,
-      "raw_score": 21,
-      "comments": 1,
-      "author": "sarasuki",
-      "created_at": "",
-      "summary": "我们都知道函数包函数，内部函数可以访问外部变量，那是因为作用域的规则在这里，但是如果你了解了作用域链，你就会发现，好像有点bug在这里，所以这个bug就是我们今天要一起探讨学习的闭包了。"
-    },
-    {
-      "title": "从\"无状态\"到\"懂你\"：深入理解 LLM 对话的本质，以及 Prompt/Context/Loop 三层工程进化之路",
-      "url": "https://juejin.cn/post/7654092605077176329",
-      "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
+      "score": 268,
+      "raw_score": 22,
       "comments": 0,
-      "author": "JieE212",
+      "author": "lizhongxuan",
       "created_at": "",
-      "summary": "一、引言：一次\"失忆\"实验 先来看一段简单的代码： 如果第二次请求我们只发 [{ role: 'user', content: '请问我的名字是什么？' }]，不带上历史消息——模型会怎么回答？ 它会"
+      "summary": "1. 为什么 AI Agent 的上下文问题不是“换一个长上下文模型”就能解决? 2. Headroom 的核心架构和底层原理是什么? 3. 在生产环境中，哪些场景适合使用 Headroom?"
     },
     {
-      "title": "低代码设计器和低代码设计引擎架构综述",
-      "url": "https://juejin.cn/post/7654063605648277540",
+      "title": "别再 console.log 了：5 个 Chrome DevTools 调试技巧，用过就回不去了",
+      "url": "https://juejin.cn/post/7654473428947795994",
       "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
+      "score": 255,
+      "raw_score": 19,
       "comments": 0,
-      "author": "Apr01Chell",
+      "author": "kyriewen",
       "created_at": "",
-      "summary": "低代码设计器如果只解决“拖拽组件”，很快就会遇到一系列工程问题：页面结构无法稳定表达，组件属性和运行语义混在一起，预览环境不可控，版本差异难以追踪，出码只能依赖模板拼接，插件扩展也容易变成各自维护状态"
+      "summary": "90% 的前端调试代码还是 console.log 一把梭。Chrome DevTools 其实有条件断点、Logpoints、Network Override、Live Expressions..."
     },
     {
-      "title": "Java微服务练习方式",
-      "url": "https://juejin.cn/post/7654068162002714670",
+      "title": "Temperature 与 Top-p：控制模型输出的两个参数",
+      "url": "https://juejin.cn/post/7654335287171973170",
       "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "SamDeepThinking",
+      "author": "Worlds",
       "created_at": "",
-      "summary": "我的建议是，动手练之前，最好先弄清三件事。清楚了再去做练习的事情，不然效果会差很多。分别是： 微服务的拆分原则； 微服务和微服务之间如何调用； 当前主流的微服务应用框架； 下面逐个介绍。 拆分原则 这"
+      "summary": "一、前置基础：大模型生成文本的核心逻辑 在理解两个参数前，先要搞懂大语言模型的生成本质，这是所有采样参数的底层前提： 自回归生成机制大语言模型生成文本是逐 token 生成的：输入上文内容后，模型会预"
     },
     {
-      "title": "拒绝 SQL 焦虑！手把手带你用 NestJS + Prisma + DTO 写出“防弹”级后端代码",
-      "url": "https://juejin.cn/post/7654056632536842290",
+      "title": "AI工程师第三课 - 机器学习基础",
+      "url": "https://juejin.cn/post/7654142523154497563",
       "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
+      "score": 222,
+      "raw_score": 13,
       "comments": 0,
-      "author": "渣波",
+      "author": "hboot",
       "created_at": "",
-      "summary": "今天，咱们不聊那些枯燥的底层原理，直接拿一个实战项目的核心代码，**逐行拆解**，带你看看如何用 **NestJS + Prisma + DTO** ，写出既优雅又安全，还能让同事直呼内行"
+      "summary": "介绍 Scikit-learn 核心概念（数据划分、特征工程、过拟合、交叉验证、评估指标）与五类经典算法，以 Titanic 存活预测实战串联数据清洗到 GridSearchCV 调参全流程。"
     },
     {
-      "title": "Charmbracelet TUI 生态系统指南",
-      "url": "https://juejin.cn/post/7654119725074432050",
+      "title": "每日一个开源项目（第139篇）：Voicebox - 本地运行的开源 ElevenLabs 替代品",
+      "url": "https://juejin.cn/post/7654479136492322826",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "冬奇Lab",
+      "created_at": "",
+      "summary": "Voicebox 是一款本地优先的开源 AI 语音工作室，集成 7 个 TTS 引擎、零样本声音克隆、全局听写热键和 MCP Agent 语音接口。支持 23 种语言，数据不离开设备。"
+    },
+    {
+      "title": "Skill 系列（03）：Skill 设计范式——5 个模式让输出从混沌到可预测",
+      "url": "https://juejin.cn/post/7654473428947976218",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "冬奇Lab",
+      "created_at": "",
+      "summary": "用 competitor-analyzer 跑 4 个场景 + 设计质量审查，对比反模式 Skill（5/12 运行时命中）和范式驱动 Skill（11/12）。"
+    },
+    {
+      "title": "翻转二叉树：前序和后序的写法完全一样",
+      "url": "https://juejin.cn/post/7654221329194975247",
       "source": "juejin",
       "score": 169,
       "raw_score": 7,
       "comments": 0,
-      "author": "范闲",
+      "author": "用户48452625582",
       "created_at": "",
-      "summary": "一个面向 Go 语言的现代化终端用户界面（TUI）工具集，包含四个核心库：**Bubble Tea**、**Lip Gloss**、**Bubbles** 和 **Glamour**。"
-    },
-    {
-      "title": "为什么同样的问题，别人的AI回答质量高40%？",
-      "url": "https://juejin.cn/post/7654108355959636003",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "Vuhao",
-      "created_at": "",
-      "summary": "问题的开始 上次办公室里，我和同事都问Claude同一个问题： 我得到的回答是：一通笼统的建议，提到了JWT、加密、数据库的东西。 同事得到的回答是：清晰的三层架构设计、每层的具体实现、安全边界的明确"
-    },
-    {
-      "title": "每次跟大模型聊天，都是一次「失忆」的 HTTP 请求",
-      "url": "https://juejin.cn/post/7654111211400134710",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "槑有老呆",
-      "created_at": "",
-      "summary": "一个被大多数人忽略的事实 先看一段代码： 你觉得这段代码做了什么？很多人会说：「我跟大模型说了一句话，它回复了我，然后记住了我的名字。」 实际上它什么都没记住。 如果你紧接着再发一个请求：「请告诉我我"
-    },
-    {
-      "title": "CMake 026：属性体系精讲、四大作用域全解 & 实战代码落地",
-      "url": "https://juejin.cn/post/7654022301877452850",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "软件科学_郝学胜",
-      "created_at": "",
-      "summary": "前言 CMake 为跨平台构建之利器，属性 (Property) 更是其架构之筋骨🌿。大至全局工程配置，小至单文件编译宏，远及可执行目标的差异化管控，皆依托属性体系实现。 纵观 CMake 属性，依作"
-    },
-    {
-      "title": "Agent 如何看懂时序数据？时间序列查询的 Tool 设计模式",
-      "url": "https://juejin.cn/post/7654028654575091727",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "老梁agent",
-      "created_at": "",
-      "summary": "时序数据是 Agent 见过最「不友好」的数据——一行行数字，LLM 看了也懵。Tool 的设计决定了 Agent 是「看懂数据」还是「被数据淹没」。"
-    },
-    {
-      "title": "Vercel Eve 接入自定义 AI Provider",
-      "url": "https://juejin.cn/post/7654166345453764659",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "程序猿DD",
-      "created_at": "",
-      "summary": "上一篇:《快速入门 Vercel Eve：用 eve init 构建第一个 Agent》我们做了一个极简的 SpringForAll 内容运营助手：只有主 Agent、模型配置、常驻 instruct"
-    },
-    {
-      "title": "Python 开发者的性能革命：为什么你应该从 pip 转向 uv？",
-      "url": "https://juejin.cn/post/7652740907023253567",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "嘻嘻仙人",
-      "created_at": "",
-      "summary": "在 Python 的世界里，长期以来我们依赖 pip 和 venv 进行依赖管理。然而，随着项目规模的扩大，这些传统方法在处理依赖冲突、安装速度和环境碎片化上逐渐显得力不从心。uv 的出现，不仅是一个"
+      "summary": "翻转二叉树就是交换每个节点的左右子节点。前序和后序写法都正确。递归4行代码面试首选，BFS迭代更直观但shift是O(n)。"
     }
   ]
 }
