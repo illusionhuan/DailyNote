@@ -224,29 +224,20 @@
 /* ===== 文章页：上一篇/下一篇 & 相关推荐图片背景 ===== */
 
 /* 上一篇/下一篇 容器背景 */
-#pagination.pagination-post .pagination-related {
-  background-image:
-    linear-gradient(135deg, rgba(90, 140, 156, 0.85) 0%, rgba(0, 0, 0, 0.7) 100%),
-    url('/DailyNote/images/landscape1.jpg');
-  background-size: cover;
-  background-position: center;
-}
-
-/* 上一篇用图1，下一篇用图2 */
 #pagination.pagination-post .pagination-related:first-child {
   background-image:
     linear-gradient(135deg, rgba(90, 140, 156, 0.85) 0%, rgba(0, 0, 0, 0.7) 100%),
-    url('/DailyNote/images/landscape1.jpg');
+    url('/DailyNote/images/1.png');
   background-size: cover;
-  background-position: center;
+  background-position: center 30%;
 }
 
 #pagination.pagination-post .pagination-related:last-child {
   background-image:
     linear-gradient(135deg, rgba(0, 0, 0, 0.7) 0%, rgba(90, 140, 156, 0.85) 100%),
-    url('/DailyNote/images/landscape2.jpg');
+    url('/DailyNote/images/2.jpg');
   background-size: cover;
-  background-position: center;
+  background-position: center 30%;
 }
 
 /* 文章无封面时，让 .cover 透明以显示父级背景图 */
@@ -254,11 +245,11 @@
   background: transparent !important;
 }
 
-/* 相关推荐：每项使用不同风景图作为背景 */
+/* 相关推荐：每项使用不同图片+不同裁切位置作为背景 */
 .relatedPosts .relatedPosts-list a {
   background-image:
     linear-gradient(180deg, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 100%),
-    url('/DailyNote/images/landscape3.jpg') !important;
+    url('/DailyNote/images/3.jpg') !important;
   background-size: cover !important;
   background-position: center !important;
 }
@@ -266,48 +257,44 @@
 .relatedPosts .relatedPosts-list a:nth-child(3n+1) {
   background-image:
     linear-gradient(180deg, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 100%),
-    url('/DailyNote/images/landscape1.jpg') !important;
+    url('/DailyNote/images/1.png') !important;
+  background-position: center 20% !important;
 }
 
 .relatedPosts .relatedPosts-list a:nth-child(3n+2) {
   background-image:
     linear-gradient(180deg, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 100%),
-    url('/DailyNote/images/landscape2.jpg') !important;
-}
-
-.relatedPosts .relatedPosts-list a:nth-child(3n) {
-  background-image:
-    linear-gradient(180deg, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 100%),
-    url('/DailyNote/images/landscape3.jpg') !important;
+    url('/DailyNote/images/2.jpg') !important;
+  background-position: center 40% !important;
 }
 
 /* 暗色模式下加深遮罩 */
 [data-theme="dark"] #pagination.pagination-post .pagination-related:first-child {
   background-image:
     linear-gradient(135deg, rgba(40, 70, 80, 0.9) 0%, rgba(0, 0, 0, 0.85) 100%),
-    url('/DailyNote/images/landscape1.jpg');
+    url('/DailyNote/images/1.png');
 }
 
 [data-theme="dark"] #pagination.pagination-post .pagination-related:last-child {
   background-image:
     linear-gradient(135deg, rgba(0, 0, 0, 0.85) 0%, rgba(40, 70, 80, 0.9) 100%),
-    url('/DailyNote/images/landscape2.jpg');
+    url('/DailyNote/images/2.jpg');
 }
 
 [data-theme="dark"] .relatedPosts .relatedPosts-list a {
   background-image:
     linear-gradient(180deg, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.8) 100%),
-    url('/DailyNote/images/landscape3.jpg') !important;
+    url('/DailyNote/images/3.jpg') !important;
 }
 
 [data-theme="dark"] .relatedPosts .relatedPosts-list a:nth-child(3n+1) {
   background-image:
     linear-gradient(180deg, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.8) 100%),
-    url('/DailyNote/images/landscape1.jpg') !important;
+    url('/DailyNote/images/1.png') !important;
 }
 
 [data-theme="dark"] .relatedPosts .relatedPosts-list a:nth-child(3n+2) {
   background-image:
     linear-gradient(180deg, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.8) 100%),
-    url('/DailyNote/images/landscape2.jpg') !important;
+    url('/DailyNote/images/2.jpg') !important;
 }
