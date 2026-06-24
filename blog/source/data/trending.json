@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-06-23T14:28:39.012956+00:00",
+  "updated_at": "2026-06-24T02:26:20.992164+00:00",
   "articles": [
     {
-      "title": "艹，维护AI写的代码，我心态崩了......",
-      "url": "https://juejin.cn/post/7653666093677314057",
+      "title": "苹果 AirPods 协议，Android 也可以使用完整版 AirPods 能力",
+      "url": "https://juejin.cn/post/7654471531117379590",
       "source": "juejin",
-      "score": 742,
-      "raw_score": 5182,
-      "comments": 52,
+      "score": 415,
+      "raw_score": 119,
+      "comments": 0,
+      "author": "恋猫de小郭",
+      "created_at": "",
+      "summary": "最近刚好在想，怎么在 Android 上接入 AirPods 的全部能力，刚好就看到了 librepods 这个项目，它是一个能让 Android 使用 AirPods 的专属功能的开源项目，比如: "
+    },
+    {
+      "title": "铁子，IntelliJ IDEA 2026.1.3来了，升不升？",
+      "url": "https://juejin.cn/post/7654370220606832649",
+      "source": "juejin",
+      "score": 348,
+      "raw_score": 55,
+      "comments": 0,
       "author": "SimonKing",
       "created_at": "",
-      "summary": "最近做了一个项目，同事用AI写的页面，出来之后效果感人。但是因为使用的插件的版权问题，应用的部分插件需要重新选择。 由于同事还有其他问题需要处理，我接手了这个功能，改的时候发现，根本无法下手"
+      "summary": "自从升到 IntelliJ IDEA 2026.1 以来，解决了2025.2.x~3.x的遗留的问题，后续就没有跟进小版本的发布了。这两天看到2026.1.3版本的推送，手痒了，看看都修复了什么"
     },
     {
-      "title": "无限期免费，Token 随便用，舒服啊！",
-      "url": "https://juejin.cn/post/7654102171461402662",
+      "title": "AI GenUI 真正落地时，前端到底要做什么？",
+      "url": "https://juejin.cn/post/7654371662876737570",
       "source": "juejin",
-      "score": 580,
-      "raw_score": 798,
+      "score": 315,
+      "raw_score": 38,
       "comments": 0,
-      "author": "沉默王二",
+      "author": "乘风gg",
       "created_at": "",
-      "summary": "实测 Agnes AI 三款免费全模态模型，Agnes-2.0-Flash 文本、Agnes-Image-2.1-Flash 图片、Agnes-Video-2.0 视频"
+      "summary": "上一篇我写了一个观点：前端没有“死”，而是在 AI 时代进化成了“GenUI”范式。 很多同学看完以后，追问了我 2 个问题： 这东西到底能不能落地？ 如果真能落地，前端到底要做什么？ 所以这一篇，我"
     },
     {
-      "title": "Android 17 正式发布！target 37 一大批旧代码直接不能用了",
-      "url": "https://juejin.cn/post/7653533398469820425",
+      "title": "推荐一个牛逼的智能代码审查系统",
+      "url": "https://juejin.cn/post/7654122741077753898",
       "source": "juejin",
-      "score": 523,
-      "raw_score": 416,
+      "score": 264,
+      "raw_score": 21,
       "comments": 0,
-      "author": "黄林晴",
+      "author": "苏三说技术",
       "created_at": "",
-      "summary": "Android 17 已经正式发布，对应 API level 37。 target SDK 37 以后，有几类旧假设会失效：大屏不能继续锁方向和比例，部分配置变化默认不再重建 Activity，本地网"
+      "summary": "前言 最近我又肝了一个新项目：CodeGuardian AI 智能代码审查系统。 这是一个真正把 AI Agent 架构落地到代码审查场景的项目。 不是调个 ChatGPT API 就完事的\"套壳\"。"
     },
     {
-      "title": "GLM5.2+ZCode复刻坦克大战，自测50万帧！",
-      "url": "https://juejin.cn/post/7654416959087312942",
-      "source": "juejin",
-      "score": 502,
-      "raw_score": 326,
-      "comments": 0,
-      "author": "甲维斯",
-      "created_at": "",
-      "summary": "GLM5.2 的消息已经刷到吐了，我很多天之前已经做过测试了，也发过文章了。 当时，我刚测试完 Fable 5，然后平时一直用 Opus4.8，所以觉得 GLM5.2 并没有太过惊艳的地方。 但是我也"
-    },
-    {
-      "title": "5 分钟搞懂 Kotlin DSL",
-      "url": "https://juejin.cn/post/7653708807583498286",
-      "source": "juejin",
-      "score": 471,
-      "raw_score": 227,
-      "comments": 0,
-      "author": "RockByte",
-      "created_at": "",
-      "summary": "DSL（Domain-Specific Language，领域特定语言）是一种面向特定问题领域设计的表达方式。它不一定是一门全新的语言，也可以是一组经过设计的 API，让代码读起来更接近业务语义。"
-    },
-    {
-      "title": "AI 生成的代码能跑就行？这 5 个坑迟早炸",
-      "url": "https://juejin.cn/post/7654068162002632750",
-      "source": "juejin",
-      "score": 454,
-      "raw_score": 187,
-      "comments": 0,
-      "author": "kyriewen",
-      "created_at": "",
-      "summary": "2026 年了，AI 写代码已经不是新鲜事。但我发现一个普遍现象：很多人的工作流是—— 这个循环看似高效，实际上在代码仓库里埋了一堆定时炸弹。"
-    },
-    {
-      "title": "🔥UniApp 仅需 5 行代码！实现所有页面中控制应用主题变化",
-      "url": "https://juejin.cn/post/7654415237039538214",
-      "source": "juejin",
-      "score": 431,
-      "raw_score": 143,
-      "comments": 0,
-      "author": "skiyee",
-      "created_at": "",
-      "summary": "书接上文。上次讲了 oiyo 在 App.vue 赋予的能力，不少朋友说想看实际例子，光说概念不够直观。今天拿 UniApp 最常见的痛点之一来抛砖引玉：多主题色变更。"
-    },
-    {
-      "title": "🎁 送你一套超好用超实用的 FE AI-Coding Skills",
-      "url": "https://juejin.cn/post/7654415237039456294",
-      "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
-      "comments": 0,
-      "author": "LaiYoung_",
-      "created_at": "",
-      "summary": "今天，送你一套专为 Vue3 + TypeScript + <script setup lang=\"ts\"> 深度定制的 前端工程 AI Skills 集合！助你码力全开。"
-    },
-    {
-      "title": "AI Agent 上下文压缩利器 Headroom",
-      "url": "https://juejin.cn/post/7654122741077098538",
-      "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
-      "comments": 0,
-      "author": "lizhongxuan",
-      "created_at": "",
-      "summary": "1. 为什么 AI Agent 的上下文问题不是“换一个长上下文模型”就能解决? 2. Headroom 的核心架构和底层原理是什么? 3. 在生产环境中，哪些场景适合使用 Headroom?"
-    },
-    {
-      "title": "别再 console.log 了：5 个 Chrome DevTools 调试技巧，用过就回不去了",
-      "url": "https://juejin.cn/post/7654473428947795994",
-      "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
-      "comments": 0,
-      "author": "kyriewen",
-      "created_at": "",
-      "summary": "90% 的前端调试代码还是 console.log 一把梭。Chrome DevTools 其实有条件断点、Logpoints、Network Override、Live Expressions..."
-    },
-    {
-      "title": "Temperature 与 Top-p：控制模型输出的两个参数",
-      "url": "https://juejin.cn/post/7654335287171973170",
+      "title": "Node中操作MySQL",
+      "url": "https://juejin.cn/post/7654429076287488009",
       "source": "juejin",
       "score": 240,
       "raw_score": 16,
       "comments": 0,
-      "author": "Worlds",
+      "author": "MariaH",
       "created_at": "",
-      "summary": "一、前置基础：大模型生成文本的核心逻辑 在理解两个参数前，先要搞懂大语言模型的生成本质，这是所有采样参数的底层前提： 自回归生成机制大语言模型生成文本是逐 token 生成的：输入上文内容后，模型会预"
+      "summary": "前言 前面我们学习了MySQL单表、多表、一对多、多对多SQL语法，实际项目中不会手动在Navicat等工具执行SQL，而是通过后端代码操作数据库。Node.js生态主流使用 mysql2 库操作My"
     },
     {
-      "title": "AI工程师第三课 - 机器学习基础",
-      "url": "https://juejin.cn/post/7654142523154497563",
+      "title": "来简单聊聊鸿蒙开发，万元奖金的事~",
+      "url": "https://juejin.cn/post/7654531180474597395",
       "source": "juejin",
       "score": 222,
       "raw_score": 13,
       "comments": 0,
-      "author": "hboot",
+      "author": "前端梦工厂",
       "created_at": "",
-      "summary": "介绍 Scikit-learn 核心概念（数据划分、特征工程、过拟合、交叉验证、评估指标）与五类经典算法，以 Titanic 存活预测实战串联数据清洗到 GridSearchCV 调参全流程。"
+      "summary": "鸿蒙激励金8000元到手，但我决定不再参加了，我的鸿蒙应用 uViewPro 终于上架华为应用市场，还拿到了华为鸿蒙的激励金"
     },
     {
-      "title": "每日一个开源项目（第139篇）：Voicebox - 本地运行的开源 ElevenLabs 替代品",
-      "url": "https://juejin.cn/post/7654479136492322826",
+      "title": "从 GitHub Actions 到本地兜底发布：AI Mind 容器化上线的一次真实收口",
+      "url": "https://juejin.cn/post/7654471531117674502",
       "source": "juejin",
       "score": 222,
       "raw_score": 13,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "倾颜",
       "created_at": "",
-      "summary": "Voicebox 是一款本地优先的开源 AI 语音工作室，集成 7 个 TTS 引擎、零样本声音克隆、全局听写热键和 MCP Agent 语音接口。支持 23 种语言，数据不离开设备。"
+      "summary": "这篇文章复盘的重点不是 Docker 命令怎么写，而是一个 AI 应用在真实上线过程中，部署链路是怎么从理想方案一步步收口成可用方案的。"
     },
     {
-      "title": "Skill 系列（03）：Skill 设计范式——5 个模式让输出从混沌到可预测",
-      "url": "https://juejin.cn/post/7654473428947976218",
+      "title": "Day 2：10 分钟搭 Electron + Vite + Vue 3——AnchorChat 的第一个窗口",
+      "url": "https://juejin.cn/post/7654122741077065770",
       "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
+      "score": 215,
+      "raw_score": 12,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "逸铭",
       "created_at": "",
-      "summary": "用 competitor-analyzer 跑 4 个场景 + 设计质量审查，对比反模式 Skill（5/12 运行时命中）和范式驱动 Skill（11/12）。"
+      "summary": "手把手搭 AnchorChat 空壳：Vite 双入口、主进程开窗口、Vue 3 挂载。让你 npm start 看见第一个 Electron 窗。"
     },
     {
-      "title": "翻转二叉树：前序和后序的写法完全一样",
-      "url": "https://juejin.cn/post/7654221329194975247",
+      "title": "XZLL-IM干货系列 04｜Netty 长连接实战：Pipeline 怎么排、心跳怎么跳、连接怎么管",
+      "url": "https://juejin.cn/post/7654513844085227547",
       "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
-      "author": "用户48452625582",
+      "author": "蝎子莱莱爱打怪",
       "created_at": "",
-      "summary": "翻转二叉树就是交换每个节点的左右子节点。前序和后序写法都正确。递归4行代码面试首选，BFS迭代更直观但shift是O(n)。"
+      "summary": "1. 先看全貌：im-connect 做了什么 在 第一篇架构文章 里我说过，IM 系统拆了 7 个微服务，其中 im-connect 是唯一一个和客户端保持 WebSocket 长连接的服务。 它的"
+    },
+    {
+      "title": "ClaudeCode 使用指北",
+      "url": "https://juejin.cn/post/7647818121722609704",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 1,
+      "author": "关山",
+      "created_at": "",
+      "summary": "ClaudeCode是Anthropic发布的智能编码工具，依赖官方账号运行；Claude Code Router，可以将其解绑"
+    },
+    {
+      "title": "Ajax 入门：从 JSON 序列化到 XMLHttpRequest",
+      "url": "https://juejin.cn/post/7654428653062963241",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "Asize",
+      "created_at": "",
+      "summary": "Ajax 入门：从 JSON 序列化到 XMLHttpRequest Ajax （Asynchronous JavaScript and XML）的两个核心是：异步 （请求不阻塞页面）+ 局部更新 （"
+    },
+    {
+      "title": "8.OpenClaw源码解析——三层洋葱重试",
+      "url": "https://juejin.cn/post/7654380217461948457",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "把你拉进白名单",
+      "created_at": "",
+      "summary": "上节课我们学习了可靠消息投递，当大模型回复完消息之后，会将消息进行chunk切分（这里主要还是防止消息过长）并写入tmp.json, 之后后台会启一个线程，并扫描特定文件夹下的*.json文件，再发送"
+    },
+    {
+      "title": "# Docker 镜像瘦身实战：从 1.2G 到 80MB 的五个优化步骤",
+      "url": "https://juejin.cn/post/7654179641339854883",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "宋均浩",
+      "created_at": "",
+      "summary": "引言 第一次把项目容器化的时候，我写出了这样的 Dockerfile： docker build 跑了 5 分钟，出来一个 1.2G 的镜像。每次 CI/CD 流水线卡在 docker push 那一"
+    },
+    {
+      "title": "Java 实现 Word 文档文本与图片提取的方法",
+      "url": "https://juejin.cn/post/7654513844085129243",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "缺点内向",
+      "created_at": "",
+      "summary": "在文档处理工作流中，从 Word 文件中提取核心内容是一项基础而频繁的需求。本文将介绍如何利用 Java 语言，从 Word 文档中分别提取文本内容和图片资源。"
+    },
+    {
+      "title": "Claude Code 准确率从 41% 升到 89%，这个 CLAUDE.md 只做了一件事",
+      "url": "https://juejin.cn/post/7654519145632743475",
+      "source": "juejin",
+      "score": 60,
+      "raw_score": 2,
+      "comments": 0,
+      "author": "码哥字节",
+      "created_at": "",
+      "summary": "Karpathy 的四条 CLAUDE.md 规则让社区炸锅，GitHub 15 万 star。但大多数工程师的配置方式恰恰相反——规则越写越多，Claude 却越来越不听话。"
     }
   ]
 }
