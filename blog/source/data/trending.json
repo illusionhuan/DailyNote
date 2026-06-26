@@ -1,170 +1,159 @@
 {
-  "updated_at": "2026-06-25T14:04:50.849084+00:00",
+  "updated_at": "2026-06-26T02:29:31.887882+00:00",
   "articles": [
     {
-      "title": "从一个传文件的破需求,到一个能挂公网的\"瞬传\":我用 WorkBuddy 把它从 HTML 一路做到了 Java",
-      "url": "https://juejin.cn/post/7654808985048416290",
+      "title": "他俩只靠写代码，登上了胡润财富榜！",
+      "url": "https://juejin.cn/post/7655235192538873865",
       "source": "juejin",
-      "score": 579,
-      "raw_score": 792,
+      "score": 387,
+      "raw_score": 87,
       "comments": 0,
-      "author": "一只牛博",
+      "author": "CodeSheep",
       "created_at": "",
-      "summary": "从一个传文件的破需求,到一个能挂公网的\"瞬传\":我用 WorkBuddy 把它从 HTML 一路做到了 Java 作为一个天天连服务器的人,我的痛点很具体:跨机器搬运小数据,成本高得离谱。"
+      "summary": "靠写代码，真的可以实现财富自由吗？ 相信这是不少程序员同学在工作几年之后，脑海里或许会思索的一个问题。 当我们日复一日地敲击键盘，实现一个又一个的项目需求和难题时，难免会思考：这条代码之路，最终能否通"
     },
     {
-      "title": "苹果 AirPods 协议，Android 也可以使用完整版 AirPods 能力",
-      "url": "https://juejin.cn/post/7654471531117379590",
+      "title": "深度剖析Claude Code 的CLAUDE.md加载逻辑",
+      "url": "https://juejin.cn/post/7655256838892535859",
       "source": "juejin",
-      "score": 549,
-      "raw_score": 556,
+      "score": 272,
+      "raw_score": 23,
       "comments": 0,
-      "author": "恋猫de小郭",
+      "author": "kunge2013",
       "created_at": "",
-      "summary": "最近刚好在想，怎么在 Android 上接入 AirPods 的全部能力，刚好就看到了 librepods 这个项目，它是一个能让 Android 使用 AirPods 的专属功能的开源项目，比如: "
+      "summary": "Claude Code 配置文件加载机制详解 1. 背景：为什么需要多层配置？ 先打个比方。你在一家公司上班： Claude Code 的 CLAUDE.md 配置体系，逻辑完全一样"
     },
     {
-      "title": "有不爱吃粽子的吗，老家有江米粽和黄米粽，广东同学带的肉粽，我都不爱吃 | 沸点周刊 6.25",
-      "url": "https://juejin.cn/post/7655126238451433507",
-      "source": "juejin",
-      "score": 494,
-      "raw_score": 297,
-      "comments": 2,
-      "author": "掘金一周",
-      "created_at": "",
-      "summary": "端午假期结束，来验收大家的 flag 完成度了！ 你的端午假期，理想和现实反差有多大？是完美执行了计划，还是全程躺平甚至意外加班？"
-    },
-    {
-      "title": "跑分第一的编程大模型，我为啥不用？",
-      "url": "https://juejin.cn/post/7654854631416594458",
-      "source": "juejin",
-      "score": 456,
-      "raw_score": 192,
-      "comments": 0,
-      "author": "程序员老刘",
-      "created_at": "",
-      "summary": "刷榜分数越高越好用？老刘实测CursorBench、LiveBench、DeepSWE三大闭源测评，拆解AI编程排名的真实参考价值，附三层模型选择策略。"
-    },
-    {
-      "title": "如何用Vite实现Vue组件的按需打包和远程加载",
-      "url": "https://juejin.cn/post/7654526567432241187",
-      "source": "juejin",
-      "score": 440,
-      "raw_score": 159,
-      "comments": 4,
-      "author": "锋行天下",
-      "created_at": "",
-      "summary": "一、背景与架构 1.1 业务场景 我参与过一个桌面端内容展示项目，技术栈是 Electron + Vue3。项目中有个核心需求：内容由多个独立开发的卡片组件构成，这些组件需要能够独立更新，而不需要重新"
-    },
-    {
-      "title": "告别无效重建：Gradle 9.6.0 解决 CI 构建缓存失效痛点告别无效重建:Gradle 9.6.0 解决 CI 建筑缓存失效痛点",
-      "url": "https://juejin.cn/post/7654479136493633546",
-      "source": "juejin",
-      "score": 415,
-      "raw_score": 119,
-      "comments": 0,
-      "author": "黄林晴",
-      "created_at": "",
-      "summary": "前言 CI 上经常会给 Gradle 传一些临时参数，比如版本号、渠道号、构建开关。 CI 上经常会授予 Gradle 传输一些临时参数、比如版本号、渠道号、建设开关。 这些参数如果只是 task 执"
-    },
-    {
-      "title": "Flutter 类库大揭秘#01 | path_provider架构与设计",
-      "url": "https://juejin.cn/post/7654488162467266595",
-      "source": "juejin",
-      "score": 414,
-      "raw_score": 118,
-      "comments": 0,
-      "author": "张风捷特烈",
-      "created_at": "",
-      "summary": "引言： 想象你开了一家国际快递公司。客户只需要说\"帮我寄到文档仓库\"，至于这个仓库在俄国的 /var/documents 还是英国的 ~/Documents 还是法国的 AppData\\Roaming"
-    },
-    {
-      "title": "Plugin 基础：把 Skill、MCP 和前端能力打包",
-      "url": "https://juejin.cn/post/7654522603738562566",
-      "source": "juejin",
-      "score": 408,
-      "raw_score": 110,
-      "comments": 0,
-      "author": "Harries",
-      "created_at": "",
-      "summary": "Skill 能教 Agent 怎么做事。 MCP 能把外部系统接成工具和上下文。 但当你想把一组能力交付给别人安装、配置、升级、启用或禁用时，就需要 Plugin。 先说结论：Plugin 是可安装的"
-    },
-    {
-      "title": "又升级咯！坦克大战2026，科技与复古并存！",
-      "url": "https://juejin.cn/post/7655138581694185510",
-      "source": "juejin",
-      "score": 338,
-      "raw_score": 49,
-      "comments": 0,
-      "author": "甲维斯",
-      "created_at": "",
-      "summary": "Opus 4.8 又帮我升级《坦克大战 3D》这个游戏了！ 这一波更新重点是：战场地图！ 我把整个地图系统独立出来了，这样的好处是，可以快速管理和修改地图。 现在主界面已经添加了一个地图设置功能： 点"
-    },
-    {
-      "title": "我想认真做一件小事：让孩子和家长更好地互动",
-      "url": "https://juejin.cn/post/7655170600777023526",
-      "source": "juejin",
-      "score": 292,
-      "raw_score": 29,
-      "comments": 0,
-      "author": "勇宝趣学前端",
-      "created_at": "",
-      "summary": "「小红花成长」上线满一个月了。 这一整个月里，累计用户数到了 35 个。 数字不大，但让我特别开心的是，确实还有几个人在持续使用。 对我来说，这已经不是一个“做出来看看”的小项目了。 它开始真正进入一"
-    },
-    {
-      "title": "Skill 系列（05）：Skill 工作流串联——4 种模式实测，并发加速 1.5x",
-      "url": "https://juejin.cn/post/7655160488179564579",
-      "source": "juejin",
-      "score": 264,
-      "raw_score": 21,
-      "comments": 0,
-      "author": "冬奇Lab",
-      "created_at": "",
-      "summary": "实现并测量 4 种 Skill 串联模式：顺序链（35.1s）、并发 fan-out（加速 1.5x，不是理论的 3x）、条件路由（3/3 正确分类）、反馈循环（首轮得 8/10 直接通过）。"
-    },
-    {
-      "title": "每日一个开源项目（第141篇）：hiring-agent - HackerRank 开源了他们的简历评分系统，你的简历能得几分？",
-      "url": "https://juejin.cn/post/7655161567955386368",
+      "title": "震惊！Claude Code这五个核心概念我居然才知道！",
+      "url": "https://juejin.cn/post/7655263874610429993",
       "source": "juejin",
       "score": 260,
       "raw_score": 20,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "沉默王二",
       "created_at": "",
-      "summary": "HackerRank 开源了内部的简历评分流水线：四个维度加权打分，最高 120 分。对程序员来说，意义不只是「了解招聘系统」，而是「用招聘方的视角 review 自己的简历」。"
+      "summary": "Claude Code 50+ 个斜杠命令、20+ 个快捷键和隐藏关键词全攻略，按使用场景分组实操，附两个宝藏学习网站推荐。"
     },
     {
-      "title": "面试官问你：“AI 能写 80% 的代码了，公司为什么还需要你？”",
-      "url": "https://juejin.cn/post/7655245911811784750",
+      "title": "vue3-scroll-more：横向滚动条-元素或页签过多滚动显示处理的组件",
+      "url": "https://juejin.cn/post/7655144543832064000",
       "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
+      "score": 251,
+      "raw_score": 18,
       "comments": 0,
-      "author": "kyriewen",
+      "author": "晴虹",
       "created_at": "",
-      "summary": "先说一个事实：2026 年的技术面试，已经和两年前完全不一样了。两年前面试问的是：\"手写一个 Promise\"、\"说说 React Fiber 原理\"...现在面试官默认你会用 AI。他们真正想知道的"
+      "summary": "vue3-scroll-more是一个Vue3横向滚动组件，支持鼠标滚动、显示隐藏内容数量、拖拽排序功能、自动跳转定位等。提供丰富的配置项。通过作用域插槽可自定义内容渲染，并支持左右两侧独立插槽..."
     },
     {
-      "title": "Few-shot、Chain-of-Thought、ReAct模式是什么",
-      "url": "https://juejin.cn/post/7655175450838777862",
+      "title": "吃透软件开发六大设计原则，告别烂代码",
+      "url": "https://juejin.cn/post/7655230511453650978",
       "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "Worlds",
+      "author": "ZJPRENO",
       "created_at": "",
-      "summary": "一、前置基础：三种范式的演进背景 在讲解具体方法前，先明确两个基础认知，理解这三类技术的诞生逻辑： 零样本（Zero-shot）：大模型的原生提问方式直接向模型提出任务要求、不提供任何示例，就是零样本"
+      "summary": "本文深入剖析软件开发六大设计原则，结合正反案例，揭示其在提升代码质量、可维护性与扩展性方面的核心价值与实践方法"
     },
     {
-      "title": "HJPusher / HJPlayer SDK 实践：我们为什么把直播推播链路拆成一套可复用能力",
-      "url": "https://juejin.cn/post/7655138399092260890",
+      "title": "揭秘 AI Agent 核心：Tool Use 背后真正的技术逻辑（附 DeepSeek 实战代码）",
+      "url": "https://juejin.cn/post/7655161567955156992",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "黄敬峰",
+      "created_at": "",
+      "summary": "Tool Use本质是认知植入，将工具降维为JSON语言。LLM负责意图识别生成调用指令，Runtime执行并反馈结果，模型再总结回复。这并非AI觉醒，而是概率模型与传统工程的精密协作。"
+    },
+    {
+      "title": "工具调用：当LLM学会使用\"武器\"，AI Agent的底层逻辑拆解",
+      "url": "https://juejin.cn/post/7655180163673374758",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "HjhIron",
+      "created_at": "",
+      "summary": "前言：一场精心设计的\"错觉\" 你有没有想过一个问题：大模型本质上是个\"词语接龙\"游戏。 它被困在服务器里，看不见屏幕，摸不着键盘，唯一的技能就是根据上文预测下一个词的概率。那它怎么就能突然会调用天气A"
+    },
+    {
+      "title": "调查研究-196 CEO-Bench：Agent 不再只是“做任务“，而是要学会“经营一个系统“",
+      "url": "https://juejin.cn/post/7655235192539103241",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "武子康",
+      "created_at": "",
+      "summary": "CEO-Bench：Agent 不再只是\"做任务\"，而是要学会\"经营一个系统\" TL;DR 场景：AI Agent 的能力评估正从\"完成一次性任务\"转向\"长期经营一个动态系统\"，CEO-Bench 给"
+    },
+    {
+      "title": "Spring Security 源码解析（六）无状态 JWT 实践：Session 共享与自定义过滤器",
+      "url": "https://juejin.cn/post/7655160488179548195",
       "source": "juejin",
       "score": 180,
       "raw_score": 8,
       "comments": 0,
-      "author": "花椒技术",
+      "author": "Java内核笔记",
       "created_at": "",
-      "summary": "上周，我们花椒直播技术团队参加了 HDC 2026 华为开发者大会期间的鸿蒙开发者论坛，并围绕《一推一播，智联鸿蒙：花椒直播 HJPusher & HJPlayer SDK 实践》做了一次技术分享。 "
+      "summary": "本文深入分析 Session 机制、分布式 Session 共享方案，以及 JWT 自定义过滤器的完整实现。"
+    },
+    {
+      "title": "Java 26正式发布！这3个新特性，让代码量直接减半",
+      "url": "https://juejin.cn/post/7655226776235065344",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "卷毛的技术笔记",
+      "created_at": "",
+      "summary": "Java 26正式发布！这3个新特性，让代码量直接减半 大家好，我是卷毛。 3月份Java 26正式发布的时候，我正在重构一个老项目。随手升级了JDK试了试新特性，结果一个下午，干掉了项目里将近40%"
+    },
+    {
+      "title": "企业微信 / Telegram / WhatsApp 接入",
+      "url": "https://juejin.cn/post/7655265046727213092",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "Harries",
+      "created_at": "",
+      "summary": "把 Agent 接到聊天软件里，看起来只是“收消息、回消息”。 真正上线后你会发现，难点不在发一条回复，而在这些问题： 这一讲用企业微信 / WeChat、Telegram、WhatsApp 三类通道"
+    },
+    {
+      "title": "Retrofit 的使用",
+      "url": "https://juejin.cn/post/7655263874610511913",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "CYY95",
+      "created_at": "",
+      "summary": "Retrofit 做的事情很简单：把你的 interface 翻译成 HTTP 调用。你写一个接口方法，贴几个注解，它运行时给你把实现类生成了。"
+    },
+    {
+      "title": "Box 里到底装了什么：从 Go interface 到 Rust trait object",
+      "url": "https://juejin.cn/post/7655161567955681280",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "fliter",
+      "created_at": "",
+      "summary": "本文是对 What's in the box? 的整理与翻译。 内容结构概览 开场金句：Rust 里经常有人说“just box it”，但这句话背后其实藏着很多类型系统和内存模型知识。 从读文件开始"
+    },
+    {
+      "title": "京东 Oxygen xLLM 大模型推理引擎正式捐赠开放原子开源基金会，共建国产 AI Infra 生态",
+      "url": "https://juejin.cn/post/7655279037150183433",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "京东云开发者",
+      "created_at": "",
+      "summary": "01 本次捐赠 6 月 25 日上午，“Oxygen xLLM开源项目捐赠仪式”在开放原子开源基金会主导下举行。京东将 Oxygen xLLM 的著作权、相关专利权、项目商标及配套权益整体转让至基金会"
     }
   ]
 }
