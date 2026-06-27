@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-06-27T02:13:48.571609+00:00",
+  "updated_at": "2026-06-27T13:11:08.386866+00:00",
   "articles": [
     {
-      "title": "express中间件原理以及大致实现",
-      "url": "https://juejin.cn/post/7655570985287958538",
+      "title": "Rspack 2.1 发布：React Compiler 提速 10 倍！",
+      "url": "https://juejin.cn/post/7655529019282571291",
+      "source": "juejin",
+      "score": 452,
+      "raw_score": 183,
+      "comments": 1,
+      "author": "WebInfra",
+      "created_at": "",
+      "summary": "Rspack 2.1 正式发布，带来 React Compiler Rust 支持、import.meta.glob、Source Phase Imports、持久化缓存清理，以及多项性能和产物优化"
+    },
+    {
+      "title": "数据集划分不是随便切：手把手切分大众点评情感数据集",
+      "url": "https://juejin.cn/post/7655570985288581130",
+      "source": "juejin",
+      "score": 371,
+      "raw_score": 72,
+      "comments": 1,
+      "author": "To_OC",
+      "created_at": "",
+      "summary": "昨天跑中文情感分类 baseline，一上来就栽在数据集上了。本来想着从魔搭拖个现成的大众点评数据集，加载完直接喂模型，结果 MsDataset.load 下来一看，整份数据全塞在 train 里，连"
+    },
+    {
+      "title": "吃透 Java Function 接口，搞定 99% 的 Stream 场景",
+      "url": "https://juejin.cn/post/7655624648047968275",
       "source": "juejin",
       "score": 276,
       "raw_score": 24,
       "comments": 0,
-      "author": "森鹿",
+      "author": "狼爷",
       "created_at": "",
-      "summary": "前言 最近在学习 express 时，使用中间件，感觉函数调用执行顺序和结果非常神奇，于是基于总结出的调用规律尝试实现一下，顺便加深一下印象，话不多说开始进入正题。"
+      "summary": "时至今日，Java 版本已经迭代至 Java 26，带来了虚拟线程、模式匹配、Record、密封类等大量现代化新特性，但 Java8 依旧是 Java 生态最核心、最经典的里程碑版本，没有之一。"
     },
     {
-      "title": "我把祖传项目的构建时间砍了90%，领导以为我只是在\"优化了一下\"，结果隔壁组的CI都崩了来问我配置",
-      "url": "https://juejin.cn/post/7655348005602361363",
+      "title": "一、printf(\"hello\") 怎么变成 write(1, \"hello\", 5) —— libc 的 stdout 缓冲机制",
+      "url": "https://juejin.cn/post/7655624648048017427",
       "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
+      "score": 276,
+      "raw_score": 24,
       "comments": 0,
-      "author": "柯克七七",
+      "author": "小宇子2B",
       "created_at": "",
-      "summary": "事情是这样的 公司有个三年前的 React 项目，Webpack 4 + Babel 7 + 一堆自定义 loader，构建时间稳定在 4分30秒 左右。 每次改个文案，等热更新要喝杯水。提个 PR，"
+      "summary": "printf(\"hello\") 怎么变成 write(1, \"hello\", 5) —— libc 的 stdout 缓冲机制 写过 C 程序的人都知道这是最简单的 Hello World： 但这一行"
     },
     {
-      "title": "Webpack5 进阶思考：那些官方文档没讲清楚的事",
-      "url": "https://juejin.cn/post/7655623395044671522",
+      "title": "四、从 write(1, \"hello\", 5) 到 ksys_write() —— sys_call_table 怎么路由的",
+      "url": "https://juejin.cn/post/7655638304092815366",
+      "source": "juejin",
+      "score": 276,
+      "raw_score": 24,
+      "comments": 0,
+      "author": "小宇子2B",
+      "created_at": "",
+      "summary": "四、从 write(1, \"hello\", 5) 到 ksys_write() —— sys_call_table 怎么路由的 前三篇已经把一句 printf 一路送到了内核门口：libc 的缓冲区攒"
+    },
+    {
+      "title": "第12章 工具调用与 Agent 提示工程",
+      "url": "https://juejin.cn/post/7655638304092487686",
+      "source": "juejin",
+      "score": 276,
+      "raw_score": 24,
+      "comments": 0,
+      "author": "不加辣椒",
+      "created_at": "",
+      "summary": "大语言模型的知识受限于训练数据，无法获取实时信息，也难以执行精确计算或与外部系统交互。工具调用（Function Calling / Tool Use）技术让模型能够突破这些限制"
+    },
+    {
+      "title": "LC 200 岛屿数量：经典 DFS 入门题，我第一次写居然连方向都搞错了",
+      "url": "https://juejin.cn/post/7655638304092192774",
+      "source": "juejin",
+      "score": 268,
+      "raw_score": 22,
+      "comments": 1,
+      "author": "To_OC",
+      "created_at": "",
+      "summary": "当初我刚学完 DFS，信心满满点开这道题，觉得不就是遍历嘛，结果写了三遍才过。要么越界报错，要么数量算不对，说多了都是泪。今天就把这道面试高频题掰开揉碎了讲，DFS 和 BFS 两种写法都安排上，顺便"
+    },
+    {
+      "title": "Android车载OS中的Remote Compose",
+      "url": "https://juejin.cn/post/7655611059512262708",
+      "source": "juejin",
+      "score": 264,
+      "raw_score": 21,
+      "comments": 0,
+      "author": "稀有猿诉",
+      "created_at": "",
+      "summary": "本文由浅入深地讲解在Android车载系统上，如何利用Remote Compose实现轻松嵌入丰富的用户界面。"
+    },
+    {
+      "title": "图解 MongoDB 16｜压缩：snappy、zstd 和 zlib 的取舍",
+      "url": "https://juejin.cn/post/7655686670886928422",
+      "source": "juejin",
+      "score": 251,
+      "raw_score": 18,
+      "comments": 0,
+      "author": "十三Tech",
+      "created_at": "",
+      "summary": "讲完 journal 和持久化，这一篇讲存储引擎阶段的最后一个机制——压缩。它看起来只是「省磁盘」的功能，但实际上压缩同时影响三个性能维度：磁盘占用、Cache 效率、CPU 开销。选错压缩方式，要么"
+    },
+    {
+      "title": "[Python] 扩展欧几里得算法",
+      "url": "https://juejin.cn/post/7655624648048066579",
+      "source": "juejin",
+      "score": 251,
+      "raw_score": 18,
+      "comments": 0,
+      "author": "金銀銅鐵",
+      "created_at": "",
+      "summary": "在前文中，我们用 Python 实现了可以高效计算最大公约数的欧几里得算法，本文会在那篇文章的基础上，继续探索扩展欧几里得算法"
+    },
+    {
+      "title": "别再满网找零散工具了，腾讯 QQ 浏览器这个“帮小忙”工具箱真能省时间",
+      "url": "https://juejin.cn/post/7655623395049455616",
       "source": "juejin",
       "score": 235,
       "raw_score": 15,
       "comments": 0,
-      "author": "谷无姜",
+      "author": "追逐时光者",
       "created_at": "",
-      "summary": "接口优化不是少请求几次那么简单。并发限制决定了串行并行的生死，SWR缓存让用户少等但可能看到旧数据，而接口 +再快也救不了渲染慢。性能优化是全链路游戏，别只盯着后端往前推。"
+      "summary": "前言 最近重新看了下 腾讯 QQ 浏览器的“帮小忙”在线工具箱平台。 它本质上不是某一个单点工具。 而是一个把高频在线小工具集中起来的平台。 官网当前可见分类包括：图片工具、PDF 转换工具、数据换算"
     },
     {
-      "title": "推荐一个 Zig Web 工程骨架：wing-app",
-      "url": "https://juejin.cn/post/7655613203956793394",
+      "title": "图解 MongoDB 15｜journal 与持久化：写入怎么不丢，崩溃怎么恢复",
+      "url": "https://juejin.cn/post/7655849084951199790",
+      "source": "juejin",
+      "score": 235,
+      "raw_score": 15,
+      "comments": 0,
+      "author": "十三Tech",
+      "created_at": "",
+      "summary": "上一篇讲 Cache 淘汰，回答了「查询为什么会抖」。这一篇讲 journal 和持久化，回答另一个根本问题：写入怎么保证不丢，崩溃后怎么恢复。这是所有数据库都必须回答的问题，MongoDB 的答案落"
+    },
+    {
+      "title": "React的这个渲染问题连官方文档都没说清楚",
+      "url": "https://juejin.cn/post/7655623395049553920",
       "source": "juejin",
       "score": 222,
       "raw_score": 13,
       "comments": 0,
-      "author": "唐青枫",
+      "author": "阿橙的百宝箱",
       "created_at": "",
-      "summary": "推荐一个 Zig Web 工程骨架：wing-app 最近看到朋友写的一个 Zig Web 项目：dacheng-zig/wing-app。 它不是那种只跑一个 Hello, world! 的玩具 d"
+      "summary": "React的这个渲染问题连官方文档都没说清楚** -- 引言 React作为当今最流行的前端框架之一，以其声明式编程和虚拟DOM的高效更新机制赢得了开发者的青睐。然而，即便是在React的官方文档"
     },
     {
-      "title": "从零实现一个 Vue3 流程图编辑器：节点拖拽、贝塞尔连线与框选",
-      "url": "https://juejin.cn/post/7655564736501039130",
+      "title": "金仓数据库逻辑备份实战:从全库导出到 Schema 替换的完整闭环",
+      "url": "https://juejin.cn/post/7655565829648597026",
       "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
-      "author": "CoderWeen",
+      "author": "笃行_其道",
       "created_at": "",
-      "summary": "流程图编辑器是低代码、工作流、数据编排等场景里非常常见的一类交互组件。市面上虽然有 node-red、ngx-flowchart、X6、LogicFlow 等成熟方案，但如果想真正吃透「节点拖拽、连线"
+      "summary": "做运维这些年,我越来越相信一句话:备份不是为了平时好看,而是为了出事那一刻能救命。逻辑备份这东西,看着简单,真到了要恢复的时候,各种坑就一个接一个冒出来了。表名大小写、schema 不一致、owner"
     },
     {
-      "title": "Checkpoint 机制：Agent 怎么在断电后接着跑",
-      "url": "https://juejin.cn/post/7655594666129997865",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "leeyi",
-      "created_at": "",
-      "summary": "读完这篇你会知道 一、从一个问题出发 假设用户让 Agent 处理一个需要多次人工审批的工单，第一个审批在上午，第二个审批在下午——中间 Agent 进程完全可以重启、甚至换一台服务器。 这就是 Ch"
-    },
-    {
-      "title": "广播接收器 → Flow + Lifecycle",
-      "url": "https://juejin.cn/post/7655571748403773476",
+      "title": "金仓数据库物理备份实战:sys_rman 全流程演练与误覆盖抢救",
+      "url": "https://juejin.cn/post/7655565829648695330",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "plainGeek",
+      "author": "笃行_其道",
       "created_at": "",
-      "summary": "广播接收器 → Flow + Lifecycle 老写法（Java + BroadcastReceiver） 问题在哪里 register/unregister 必须在正确的生命周期成对调用"
-    },
-    {
-      "title": "EventBus → SharedFlow",
-      "url": "https://juejin.cn/post/7655571748403757092",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "plainGeek",
-      "created_at": "",
-      "summary": "EventBus → SharedFlow 老写法（Java + EventBus） 问题在哪里 EventBus 通过反射查找 @Subscribe 注解方法"
-    },
-    {
-      "title": "我用 Rust + Dioxus 做了个全栈跨平台笔记应用：第一版先把列表和详情跑通",
-      "url": "https://juejin.cn/post/7655591208153972782",
-      "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
-      "comments": 0,
-      "author": "星栈",
-      "created_at": "",
-      "summary": "第一版Dioxus笔记应用。没去碰编辑器、同步和标签，只先把列表、详情、搜索、路由同步和 SQLite 持久化这条读链路跑顺。"
-    },
-    {
-      "title": "Java 将一个 PPT 文档拆分为多个文件",
-      "url": "https://juejin.cn/post/7655249713512808448",
-      "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
-      "comments": 0,
-      "author": "用户372157426135",
-      "created_at": "",
-      "summary": "在日常办公或系统开发中，经常会遇到需要拆分 PPT 的情况。比如一份完整的培训课件中包含多个章节，上传或分发时希望按章节拆成多个文件；又或者只想把每一页幻灯片单独保存，方便后续归档、预览或重新组合。 "
-    },
-    {
-      "title": "从 MVC 到 DDD：一次真实的渐进式迁移实录",
-      "url": "https://juejin.cn/post/7655615778796339238",
-      "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
-      "comments": 0,
-      "author": "笨鸟飞不快",
-      "created_at": "",
-      "summary": "一、开篇：从最简单的 MVC 开始 我的项目最初只有三层。 Controller 接 HTTP 请求，Service 写业务逻辑，Mapper 读写数据库——标准 Spring MVC，没有任何过度设"
-    },
-    {
-      "title": "为何努力那么难？结合脑科学与心理学的分析",
-      "url": "https://juejin.cn/post/7655591208153890862",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "抹茶冰淇淋",
-      "created_at": "",
-      "summary": "最近这段时间，我一直在系统学习脑科学与心理学方面的内容。 说实话，整个过程下来，真的有种大脑被重塑的爽感——那些正确而科学的信息与观念，正在一点一点替换掉我旧有的认知框架，让我能够更从容。"
-    },
-    {
-      "title": "【节点】[Tile节点]原理解析与实际应用",
-      "url": "https://juejin.cn/post/7655613203957022770",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "SmalBox",
-      "created_at": "",
-      "summary": "Tile节点是Unity Shader Graph中一个功能强大的纹理处理节点，专门用于生成基于UV坐标的地板状纹理图案。这个节点在游戏开发中具有广泛的应用价值，特别是在创建瓷砖、棋盘、网格和各种重复"
-    },
-    {
-      "title": "Spring Boot → Solon 注解迁移实战指南：一张对照表说清楚",
-      "url": "https://juejin.cn/post/7655594666130161705",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "掉鱼的猫",
-      "created_at": "",
-      "summary": "写给正在做技术选型或迁移调研的 Java 开发者 一、写在前面 如果你会 Spring Boot，那你已经会了一大半 Solon。"
-    },
-    {
-      "title": "uni-router v1.8.0新增冷启动守卫补执行",
-      "url": "https://juejin.cn/post/7655539007964053545",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "PedroQue99",
-      "created_at": "",
-      "summary": "v1.8.0 新增 guardRoute() 补执行冷启动守卫，完善错误类型，优化守卫行为（放行不导航、重定向 relaunch、中止回调），增强权限控制。"
+      "summary": "干运维这行,逻辑备份和物理备份我都用,但说句心里话,真正能在生产环境里扛事的,还得是物理备份。逻辑备份导出的是 SQL 语句,数据量一大就慢得让人抓狂,而且没法做时间点恢复。物理备份不一样,它直接拷数"
     }
   ]
 }
