@@ -20,7 +20,7 @@ menu:
   归档: /archives/ || fas fa-archive
   分类: /classify/ || fas fa-folder-open
   热文榜: /trending/ || fas fa-fire
-  热文归档: /trending_history/ || fas fa-clock-rotate-left
+  每日测试: /quiz/ || fas fa-clipboard-question
   关于: /about/ || fas fa-heart
 
 # --------------------------------------

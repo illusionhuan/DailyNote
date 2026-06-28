@@ -4,7 +4,7 @@
 
 ## 项目概述
 
-中文个人技术博客，基于 Hexo 8 + Butterfly 主题构建，部署到 GitHub Pages。已集成全网技术热文聚合功能（掘金数据源，GitHub Actions 每天自动抓取）。
+中文个人技术博客，基于 Hexo 8 + Butterfly 主题构建，部署到 GitHub Pages。已集成全网技术热文聚合功能（掘金数据源，GitHub Actions 每天自动抓取）和每日测试功能（错题本 + localStorage 持久化）。
 
 ## 常用命令
 
@@ -52,7 +52,7 @@ DailyNote/                       # Git 仓库根目录
         ├── _posts/              # 博客文章（Markdown）
         ├── data/
         │   ├── trending.json    # 当前热文数据（掘金中文技术文章）
-        │   └── trending_history/# 热文历史快照（YYYY-MM-DD.json + manifest.json）
+        │   └── quiz.json        # 每日测试题库（题目、选项、答案、解析）
         ├── css/
         │   ├── carousel.css     # 全站轮播样式（首页 + 所有页面）
         │   ├── gradient.css     # 全局渐变色主题覆盖（#7CABBA 色系）
@@ -61,7 +61,7 @@ DailyNote/                       # Git 仓库根目录
         ├── images/              # 7 张风景图（轮播 + 页面背景）
         ├── pluginsSrc/          # 第三方库本地副本（CDN 策略为 local）
         ├── trending/            # 热文榜页面（轮播背景 + 暗色模式）
-        ├── trending_history/    # 热文归档页面（按日期查看往期热文）
+        ├── quiz/                # 每日测试页面（答题 + 错题本，localStorage 持久化）
         ├── classify/            # 分类页面（分类卡片 + 标签云 tab 切换）
         ├── categories/          # 分类数据页（供 classify 页面 JS 抓取）
         ├── tags/                # 标签数据页（供 classify 页面 JS 抓取）
@@ -87,7 +87,7 @@ DailyNote/                       # Git 仓库根目录
 
 控制主题的视觉和交互，通过覆盖式配置避免修改 node_modules 中的源文件。主要配置段：
 
-- **nav / menu**：导航栏 logo、固定状态、菜单项（首页/归档/分类/热文榜/关于）
+- **nav / menu**：导航栏 logo、固定状态、菜单项（首页/归档/分类/热文榜/每日测试/关于）
 - **code_blocks**：代码块样式（darker 主题、mac 风格、复制按钮）
 - **subtitle**：首页副标题打字机效果
 - **index_layout / index_post_content**：首页文章卡片布局方式和摘要长度

@@ -1,0 +1,155 @@
+{
+  "updated_at": "2026-06-28T16:00:00+08:00",
+  "quizzes": [
+    {
+      "id": "java-basics",
+      "title": "Java 基础入门",
+      "category": "Java",
+      "article_url": "/DailyNote/posts/Java基础入门：从零开始掌握核心语法/",
+      "questions": [
+        {
+          "question": "Java 中 byte 类型占几个字节？",
+          "options": ["1 字节", "2 字节", "4 字节", "8 字节"],
+          "answer": 0,
+          "explanation": "byte 是 Java 最小的基本数据类型，占 1 字节，取值范围 -128 ~ 127。"
+        },
+        {
+          "question": "以下哪个不是 Java 的基本数据类型？",
+          "options": ["int", "boolean", "String", "char"],
+          "answer": 2,
+          "explanation": "String 是引用类型（类），不是基本数据类型。Java 的 8 种基本类型是：byte、short、int、long、float、double、char、boolean。"
+        },
+        {
+          "question": "Java 中 long 类型需要什么后缀？",
+          "options": ["f", "L", "d", "不需要后缀"],
+          "answer": 1,
+          "explanation": "long 类型需要 L 后缀（如 100000L），float 需要 f 后缀，double 可以用 d 后缀但通常省略。"
+        },
+        {
+          "question": "强制类型转换 (int)3.14 的结果是？",
+          "options": ["3.14", "3", "4", "编译报错"],
+          "answer": 1,
+          "explanation": "强制类型转换会直接截断小数部分（不是四舍五入），所以 (int)3.14 的结果是 3。"
+        },
+        {
+          "question": "Java 中局部变量的特点是？",
+          "options": ["有默认值", "必须手动初始化", "可以不赋值直接使用", "默认值为 null"],
+          "answer": 1,
+          "explanation": "局部变量没有默认值，必须在使用前手动初始化，否则编译报错。成员变量才有默认值。"
+        },
+        {
+          "question": "以下哪种变量的生命周期最长？",
+          "options": ["局部变量", "成员变量", "静态变量", "参数变量"],
+          "answer": 2,
+          "explanation": "静态变量（static 修饰）从类加载到类卸载，生命周期最长。成员变量随对象存活，局部变量随方法执行。"
+        }
+      ]
+    },
+    {
+      "id": "typescript-basics",
+      "title": "TypeScript 类型系统基石",
+      "category": "TypeScript",
+      "article_url": "/DailyNote/posts/TypeScript入门：类型系统基石/",
+      "questions": [
+        {
+          "question": "TypeScript 中 any 和 unknown 的区别是？",
+          "options": ["没有区别，完全等价", "any 跳过类型检查，unknown 使用前必须检查类型", "unknown 跳过类型检查，any 使用前必须检查类型", "any 只能赋值给 any，unknown 可以赋值给任何类型"],
+          "answer": 1,
+          "explanation": "any 会跳过所有类型检查，而 unknown 是安全版 any——可以接收任意值，但使用前必须先用 typeof 等方式检查类型。"
+        },
+        {
+          "question": "以下哪个类型表示函数永远不会正常返回？",
+          "options": ["void", "undefined", "never", "null"],
+          "answer": 2,
+          "explanation": "never 表示函数永远不会结束（抛异常或死循环）。void 是正常结束但不返回值。"
+        },
+        {
+          "question": "TypeScript 中元组（Tuple）的特点是？",
+          "options": ["长度不固定，类型统一", "长度固定，类型按位置对应", "长度不固定，类型可以不同", "长度固定，类型必须相同"],
+          "answer": 1,
+          "explanation": "元组是固定长度、固定类型的数组，每个位置有确定的类型。如 [string, number] 表示第一个是 string，第二个是 number。"
+        },
+        {
+          "question": "字符串枚举和数字枚举的区别是？",
+          "options": ["没有区别", "字符串枚举支持反向查找，数字枚举不支持", "数字枚举支持反向查找，字符串枚举不支持", "两者都不支持反向查找"],
+          "answer": 2,
+          "explanation": "数字枚举是双向映射（Color[0] 返回 'Red'），字符串枚举是单向的。实际开发中推荐用字符串枚举。"
+        },
+        {
+          "question": "开启 strictNullChecks 后，以下代码会怎样？ let x: number = null;",
+          "options": ["正常运行", "编译报错", "运行时报错", "x 变成 0"],
+          "answer": 1,
+          "explanation": "strictNullChecks 开启后，null 和 undefined 不能赋值给其他类型。需要声明为 number | null 才能赋 null。"
+        },
+        {
+          "question": "类型断言 as 的作用是？",
+          "options": ["运行时转换类型", "告诉编译器你比它更了解类型", "创建一个新的类型", "检查变量类型"],
+          "answer": 1,
+          "explanation": "类型断言只在编译时生效，不会做任何运行时转换。它告诉 TS 编译器'相信我，这个值是这个类型'。"
+        },
+        {
+          "question": "以下哪种写法是 TypeScript 的类型推断？",
+          "options": ["let x: number = 42", "let x = 42", "let x = 42 as number", "let x = <number>42"],
+          "answer": 1,
+          "explanation": "let x = 42 没有显式注解，TS 会自动推断 x 的类型为 number，这就是类型推断。"
+        }
+      ]
+    },
+    {
+      "id": "linux-commands",
+      "title": "Linux 常用命令",
+      "category": "Linux",
+      "article_url": "/DailyNote/posts/Linux常用命令：从入门到实战速查手册/",
+      "questions": [
+        {
+          "question": "ls -la 中的 -a 参数的作用是？",
+          "options": ["显示详细信息", "显示文件大小", "显示隐藏文件（以 . 开头的文件）", "按时间排序"],
+          "answer": 2,
+          "explanation": "-a 表示 all，显示所有文件包括隐藏文件。Linux 中以 . 开头的文件是隐藏文件，如 .bashrc、.gitignore。"
+        },
+        {
+          "question": "mkdir -p a/b/c 中的 -p 参数的作用是？",
+          "options": ["设置权限", "递归创建多层目录", "创建后打印路径", "覆盖已有目录"],
+          "answer": 1,
+          "explanation": "-p 表示 parents，如果父目录不存在会自动创建。不加 -p 时，如果 a/ 或 a/b/ 不存在，命令会报错。"
+        },
+        {
+          "question": "sed -i 's/old/new/g' file.txt 中 -i 参数的含义是？",
+          "options": ["忽略大小写", "交互式确认", "原地编辑（直接修改文件）", "只显示匹配行"],
+          "answer": 2,
+          "explanation": "-i 表示 in-place，直接修改原文件而不是输出到标准输出。不加 -i 只会打印修改后的内容，不会改动文件。"
+        },
+        {
+          "question": "awk '{print $1, $3}' file.txt 的作用是？",
+          "options": ["打印第 1 和第 3 行", "打印第 1 和第 3 列", "打印第 1 到第 3 行", "替换第 1 列为第 3 列"],
+          "answer": 1,
+          "explanation": "awk 默认按空格/制表符分隔列，$1 是第 1 列，$3 是第 3 列。可以用 -F 指定其他分隔符。"
+        },
+        {
+          "question": "tar -czf archive.tar.gz ./dir 中各参数的含义是？",
+          "options": ["c=压缩 z=gzip f=文件名 x=解压", "c=创建 z=gzip f=指定文件名", "c=复制 z=zip f=强制", "c=清理 z=压缩 f=目录"],
+          "answer": 1,
+          "explanation": "c=create（创建），z=gzip（用 gzip 压缩），f=file（指定文件名）。解压时把 c 换成 x（extract）即可。"
+        },
+        {
+          "question": "crontab 表达式 '0 3 * * *' 表示什么时间？",
+          "options": ["每 3 分钟执行一次", "每天凌晨 3 点执行", "每 3 小时执行一次", "每周三执行"],
+          "answer": 1,
+          "explanation": "crontab 格式为：分 时 日 月 周。0 3 * * * 表示第 0 分钟、第 3 小时、每天、每月、每周的每一天，即每天凌晨 3:00。"
+        },
+        {
+          "question": "nohup ./app & 和 ./app & 的区别是？",
+          "options": ["没有区别，完全等价", "nohup 让进程在终端关闭后继续运行", "nohup 让进程在前台运行", "nohup 会自动重启崩溃的进程"],
+          "answer": 1,
+          "explanation": "nohup（no hang up）让进程忽略 SIGHUP 信号，终端关闭后不会被杀掉。不加 nohup 的后台进程在终端关闭时会被终止。"
+        },
+        {
+          "question": "echo 'hello' > file.txt 和 echo 'world' >> file.txt 的区别是？",
+          "options": ["没有区别", "> 覆盖写入，>> 追加写入", "> 追加写入，>> 覆盖写入", "> 写入标准输出，>> 写入标准错误"],
+          "answer": 1,
+          "explanation": "> 是覆盖写入（文件原有内容会被清空），>> 是追加写入（在文件末尾添加内容）。这是 Linux 重定向的基本规则。"
+        }
+      ]
+    }
+  ]
+}
