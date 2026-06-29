@@ -175,6 +175,13 @@ aside: false
 .quiz-card-count::before {
   content: "\1F4DD ";
 }
+.quiz-cards-empty {
+  grid-column: 1 / -1;
+  text-align: center;
+  color: var(--second-font-color, #999);
+  padding: 40px 20px;
+  font-size: 1rem;
+}
 
 /* ===== 错题本列表 ===== */
 .quiz-notebook-list {
@@ -712,6 +719,7 @@ aside: false
     return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
   }
   var STORAGE_KEY = 'quiz_wrong_answers';
+  var COMPLETED_KEY = 'quiz_completed';
   var quizData = null;
   var currentQuiz = null;
   var currentIdx = 0;
@@ -797,6 +805,28 @@ aside: false
     }
   }
 
+  // ===== 已完成题库管理 =====
+  function getCompletedQuizzes() {
+    try {
+      return JSON.parse(localStorage.getItem(COMPLETED_KEY)) || [];
+    } catch(e) {
+      return [];
+    }
+  }
+
+  function addCompletedQuiz(quizId) {
+    var list = getCompletedQuizzes();
+    if (list.indexOf(quizId) === -1) {
+      list.push(quizId);
+      localStorage.setItem(COMPLETED_KEY, JSON.stringify(list));
+    }
+  }
+
+  function removeCompletedQuiz(quizId) {
+    var list = getCompletedQuizzes().filter(function(id) { return id !== quizId; });
+    localStorage.setItem(COMPLETED_KEY, JSON.stringify(list));
+  }
+
   // ===== Tab 切换 =====
   var $tabs = document.querySelectorAll('.quiz-tab');
   var $tabBank = document.getElementById('quiz-tab-bank');
@@ -829,14 +859,21 @@ aside: false
 
   // ===== 渲染题库卡片 =====
   function renderCards() {
+    var completed = getCompletedQuizzes();
     var html = '';
+    var hasVisible = false;
     quizData.quizzes.forEach(function(quiz) {
+      if (completed.indexOf(quiz.id) !== -1) return;
+      hasVisible = true;
       html += '<div class="quiz-card" data-id="' + quiz.id + '">'
         + '<span class="quiz-card-category">' + (quiz.category || '综合') + '</span>'
         + '<div class="quiz-card-title">' + quiz.title + '</div>'
         + '<div class="quiz-card-count">' + quiz.questions.length + ' 道题</div>'
         + '</div>';
     });
+    if (!hasVisible) {
+      html = '<div class="quiz-cards-empty">所有题库已全部完成！🎉</div>';
+    }
     $cards.innerHTML = html;
     $cards.addEventListener('click', function(e) {
       var card = e.target.closest('.quiz-card');
@@ -1055,6 +1092,7 @@ aside: false
     quizFromNotebook = false;
     location.hash = '';
     showScreen('select');
+    renderCards();
     renderNotebook();
   });
 
@@ -1066,6 +1104,9 @@ aside: false
       if (a === currentQuiz.questions[i].answer) correct++;
     });
     var rate = Math.round(correct / total * 100);
+
+    // 标记为已完成
+    addCompletedQuiz(currentQuiz.id);
 
     showScreen('result');
     $resultCorrect.textContent = correct;
@@ -1101,6 +1142,7 @@ aside: false
     location.hash = '';
     showScreen('select');
     $resultRateFill.style.width = '0%';
+    renderCards();
     renderNotebook();
   });
 })();
