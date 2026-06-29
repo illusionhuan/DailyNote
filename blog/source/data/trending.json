@@ -1,170 +1,159 @@
 {
-  "updated_at": "2026-06-28T13:17:19.225716+00:00",
+  "updated_at": "2026-06-29T02:35:22.188663+00:00",
   "articles": [
     {
-      "title": "6w star，GitHub 趋势第一的 Ponytail，这个agent插件到底在火什么",
-      "url": "https://juejin.cn/post/7656055019971592235",
+      "title": "我从 0 开发的 AI Agent 智语项目发布了",
+      "url": "https://juejin.cn/post/7656384927139102772",
       "source": "juejin",
-      "score": 346,
-      "raw_score": 54,
-      "comments": 0,
-      "author": "也无风雨也雾晴",
+      "score": 450,
+      "raw_score": 179,
+      "comments": 1,
+      "author": "双越AI_club",
       "created_at": "",
-      "summary": "TL;DR：Ponytail 把\"写简洁代码\"从一句模糊建议变成了一个 7 级 yes/no 决策梯子。实测砍 54% 代码、省 20% 成本、安全满分。它跟加记忆类项目有本质区别——一个是减法规则（"
+      "summary": "大家好，我是双越。wangEditor 作者，前百度 滴滴 资深前端工程师，慕课网精英讲师，PMP，前端面试派 作者。 我从 0 开发的 AI Agent 智语项目发布了，本文介绍安装、配置和使用。 "
     },
     {
-      "title": "什么是bun？和pnpm有什么区别",
-      "url": "https://juejin.cn/post/7655571748403511332",
+      "title": "DeepSeek这次招得太猛了，36个岗位，80%都要会Agent！",
+      "url": "https://juejin.cn/post/7656300675647373321",
       "source": "juejin",
-      "score": 343,
-      "raw_score": 52,
+      "score": 447,
+      "raw_score": 172,
       "comments": 0,
-      "author": "Worlds",
+      "author": "沉默王二",
       "created_at": "",
-      "summary": "一、前置基础：JS 包管理器的演进脉络 在进入具体工具对比前，先梳理清楚整个生态的发展逻辑，理解每个工具诞生的背景，就能自然区分它们的定位差异。 JavaScript 生态的包管理工具经历了四代演进，"
+      "summary": "从 DeepSeek 最新 36 个在招岗位的 JD 拆解 AI 时代的人才需求变化，逐岗位分析服务端、前端/客户端、测试开发的能力进化方向，附转型准备指南。DeepSeek 开始摇人了，有点猛啊。"
     },
     {
-      "title": "我开源了一个精致的 Next.js 博客模板：Skyplume",
-      "url": "https://juejin.cn/post/7656046031792570395",
+      "title": "如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。",
+      "url": "https://juejin.cn/post/7656055019972722731",
       "source": "juejin",
-      "score": 338,
-      "raw_score": 49,
+      "score": 422,
+      "raw_score": 129,
       "comments": 0,
-      "author": "薛定喵的谔",
+      "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "最近我把自己的个人博客系统整理成了一个开源模板，名字叫 Skyplume Blog Template。 它不是一个临时拼出来的 demo，而是从我自己的生产博客 0x1ai.com 中抽离出来的。这个"
+      "summary": "在之前我们聊过 《Agent 的基础概念概念》，今天就聊让 AI 快速搭建一套 Agent 的极简架构设计。 简单来说，你判断一个 Agent 方案靠不靠谱，可以从这 10 个问题开始： 准确来说，A"
     },
     {
-      "title": "两个AI智能体第一次对话-A2A双Agent协作实战",
-      "url": "https://juejin.cn/post/7655691054172307502",
+      "title": "AI具身交互：实现一个会说话的3D虚拟伴侣",
+      "url": "https://juejin.cn/post/7656050265523372032",
+      "source": "juejin",
+      "score": 400,
+      "raw_score": 101,
+      "comments": 0,
+      "author": "石小石Orz",
+      "created_at": "",
+      "summary": "市面上绝大多数 3D 虚拟形象仍停留在循环播放预制内容的阶段，交互方式单一，缺乏真实的理解与反馈能力；本文实现一个可以接入大模型的智能3D虚拟形象。"
+    },
+    {
+      "title": "《HelloGitHub》第 123 期",
+      "url": "https://juejin.cn/post/7656077196734955546",
+      "source": "juejin",
+      "score": 367,
+      "raw_score": 69,
+      "comments": 0,
+      "author": "HelloGitHub",
+      "created_at": "",
+      "summary": "简介 HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。 这里有实战项目、入门教程、黑科技、开源书籍、大厂开源项目等，涵盖多种编程语言 Python、Java、Go、C/C++、S"
+    },
+    {
+      "title": "Rust版Bun1.4之前, 盘点Bun1.3新特性",
+      "url": "https://juejin.cn/post/7656051842406744079",
+      "source": "juejin",
+      "score": 326,
+      "raw_score": 43,
+      "comments": 0,
+      "author": "半刻纬度",
+      "created_at": "",
+      "summary": "Bun 1.3.14 上个月发了。 这是 1.3 系列的收官版。 1.3 这个版本线从发布到现在。 我看完 changelog。 就一个感受。 Bun 设计的API是真优雅 真简单。 今天就掰开讲讲。"
+    },
+    {
+      "title": "LogicFlow 工作流撤销与重做：从「全量快照」到「命令模式」🎯",
+      "url": "https://juejin.cn/post/7656556949907177515",
       "source": "juejin",
       "score": 306,
       "raw_score": 34,
       "comments": 0,
+      "author": "橙某人",
+      "created_at": "",
+      "summary": "本文记录基于 LogicFlow 的流程图编辑器「撤销/重做」重构：从全量快照法（ lf.render 整图重灌）迁到命令模式（每步操作自带正向执行与反向撤销）。"
+    },
+    {
+      "title": "21.Vue Vapor 组件的实现原理",
+      "url": "https://juejin.cn/post/7655691054173126702",
+      "source": "juejin",
+      "score": 303,
+      "raw_score": 33,
+      "comments": 0,
+      "author": "Cobyte",
+      "created_at": "",
+      "summary": "前言 我们在上一篇中了解到在 Vue Vapor 中因为需要兼容原来 Vue3 的 API，所以还是必须存在组件这个概念。 如何渲染组件 我们知道在普通 Vue3 项目中的组件本质就是一个对象，如下面"
+    },
+    {
+      "title": "Cesium实现黄昏效果：按钮一键控制打开/关闭黄昏效果，滑块拖动实时控制黄昏浓烈度",
+      "url": "https://juejin.cn/post/7655979343203156003",
+      "source": "juejin",
+      "score": 286,
+      "raw_score": 27,
+      "comments": 1,
+      "author": "Tony费",
+      "created_at": "",
+      "summary": "Cesium 自定义黄昏氛围特效，支持一键开关，搭配滑块动态调节黄昏浓烈程度。采用竖向分层渲染方式，远景自带柔和暖雾，塑造富有纵深感的日落画面，自然呈现傍晚暖橙光影氛围。"
+    },
+    {
+      "title": "给你的A2A-Agent加把锁-认证鉴权实战指南",
+      "url": "https://juejin.cn/post/7656300675647930377",
+      "source": "juejin",
+      "score": 276,
+      "raw_score": 24,
+      "comments": 0,
       "author": "vanuan",
       "created_at": "",
-      "summary": "两个AI智能体第一次对话：A2A双Agent协作实战 一、上一篇的Agent只会自言自语 上篇文章你搭了一个Echo Agent，它能收消息、能回消息，但本质上是个\"单人相声\"——只有你自己跟它对话。"
+      "summary": "A2A Agent暴露到网络上等于裸奔。手把手实现API Key、JWT Bearer、OAuth 2.0三种认证方式，从开发到生产的完整安全方案"
     },
     {
-      "title": "告别OOM！用Go+libvips实现30000×50000超大图片的流式瓦片服务",
-      "url": "https://juejin.cn/post/7656055019971788843",
-      "source": "juejin",
-      "score": 301,
-      "raw_score": 32,
-      "comments": 0,
-      "author": "GetcharZp",
-      "created_at": "",
-      "summary": "作为一名后端开发者，你一定遇到过这样的需求：前端需要加载一张显微镜扫描的病理切片、一张卫星遥感影像，或者一张高精度地图渲染图。这些图片的分辨率动辄几万像素，30000×50000只是家常便饭，更极端的"
-    },
-    {
-      "title": "码农的AI翻身（四）你好，我叫 Attention",
-      "url": "https://juejin.cn/post/7655992347483602986",
-      "source": "juejin",
-      "score": 298,
-      "raw_score": 31,
-      "comments": 0,
-      "author": "Kfaino",
-      "created_at": "",
-      "summary": "你好，我叫 Attention 有人叫我：注意力机制。 还有人喜欢叫我： Self-Attention。 第一次听见这个名字的时候..."
-    },
-    {
-      "title": "从历史的角度看 Android 软件架构",
-      "url": "https://juejin.cn/post/7655971054038188041",
-      "source": "juejin",
-      "score": 292,
-      "raw_score": 29,
-      "comments": 0,
-      "author": "李斯维",
-      "created_at": "",
-      "summary": "本文回顾了Android开发架构的演进历程，从早期的无架构状态到MVC、MVP、MVVM等架构模式。"
-    },
-    {
-      "title": "这个 GitHub 有意思啊，Claude Code + Obsidian = 知识库王炸。",
-      "url": "https://juejin.cn/post/7656276853405024271",
-      "source": "juejin",
-      "score": 282,
-      "raw_score": 26,
-      "comments": 0,
-      "author": "逛逛GitHub",
-      "created_at": "",
-      "summary": "Karpathy 2026 年 4 月在 GitHub 上贴过一条 gist，标题叫 LLM Wiki。 不详细介绍了， 之前提过。 大意是说，理想的知识库就该让 LLM 自己来读、自己来链接、自己来"
-    },
-    {
-      "title": "2026一线大厂Java八股文精选（附答案，高质量整理）",
-      "url": "https://juejin.cn/post/7655701939901743144",
-      "source": "juejin",
-      "score": 282,
-      "raw_score": 26,
-      "comments": 0,
-      "author": "神奇小汤圆",
-      "created_at": "",
-      "summary": "Java 面试 大家都知道，现在的 Java 面试是越来越难了！主要原因无非是两个： 随着 Java 这个行业的兴起，不管是在家待业的、对自己现在工作不满意的、大学选错专业的、缺钱的、想自己学的等等这"
-    },
-    {
-      "title": "vLLM 是怎么工作的？",
-      "url": "https://juejin.cn/post/7656050169524273152",
-      "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
-      "comments": 0,
-      "author": "奇点以内",
-      "created_at": "",
-      "summary": "本文从 prefill / decode / KV cache 讲起，拆解 vLLM 靠 PagedAttention 与连续批处理把\"一张 GPU 服务多少用户\"做到极致的工程原理。"
-    },
-    {
-      "title": "置身AI内",
-      "url": "https://juejin.cn/post/7656025505837826091",
-      "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
-      "comments": 0,
-      "author": "小巫debug日记",
-      "created_at": "",
-      "summary": "简单分享下最近半年使用AI的一些感受和思考： 古法编程已经成为过去，人机协作将成为主流，需要我们彻底改变思维 职能边界 会变得模糊，只懂开发已经远远不够了，要有产品思维和运营思维，做什么比怎么做更重要"
-    },
-    {
-      "title": "Spring Cloud Gateway 微服务网关：路由、断言、过滤器",
-      "url": "https://juejin.cn/post/7655701939901759528",
-      "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
-      "comments": 0,
-      "author": "吃饱了得干活",
-      "created_at": "",
-      "summary": "一、网关核心定位：微服务统一流量入口 在微服务架构中，后端会拆分出订单、支付、用户等多个独立服务，前端无法维护海量服务 IP 与端口，Spring Cloud Gateway 应运而生，作为整个业务集"
-    },
-    {
-      "title": "手搓MiniVLA全实战教程-一步一步用pytorch解释原理与思路",
-      "url": "https://juejin.cn/post/7655977856870907944",
-      "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
-      "comments": 0,
-      "author": "ThreeS",
-      "created_at": "",
-      "summary": "创建了一个具身智能，AI 与工业数字化学习工具站 — 记录、实践、分享 PyTorch极简入门-MiniVLA全实战教程(1-8章完整版) 第1章：深度学习与PyTorch基础认知"
-    },
-    {
-      "title": "Docker虚拟化失败解决方案",
-      "url": "https://juejin.cn/post/7656104477686005779",
-      "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
-      "comments": 0,
-      "author": "EMA",
-      "created_at": "",
-      "summary": "Docker / WSL / Windows 虚拟化功能回滚故障修复记录 生成时间：2026-06-28 机器环境：Windows 10 Pro 19045 相关组件：Docker Desktop、W"
-    },
-    {
-      "title": "机械革命 单系统纯净重装Ubuntu（全盘覆盖，清空原有Windows）",
-      "url": "https://juejin.cn/post/7656104477686398995",
+      "title": "Trae 读取 agents.md 并驱动 AI 完整底层原理",
+      "url": "https://juejin.cn/post/7656300675647963145",
       "source": "juejin",
       "score": 222,
       "raw_score": 13,
       "comments": 0,
-      "author": "Oneslide",
+      "author": "我是大卫",
       "created_at": "",
-      "summary": "前置准备 U盘 ≥16G，U盘内文件全部备份，制作启动盘会全盘格式化 下载镜像：ubuntu-24.04-desktop-amd64.iso（长期支持，游戏本独显兼容最好） Windows下烧录工具："
+      "summary": "一、基础定义：什么是 agents.md（AGENTS.md） AGENTS.md 是 AAIF（Agentic AI Foundation）推出的跨 IDE 标准化 AI 智能体指令文件，专门写给 "
+    },
+    {
+      "title": "React useDebounce Hook：给状态和回调做防抖（2026）",
+      "url": "https://juejin.cn/post/7656286434067775526",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "前端导师顾北",
+      "created_at": "",
+      "summary": "你有一个搜索框。用户输入 react hooks，你的组件就在每一次按键上发一个 API 请求——一个查询发了十一个请求，其中十个在返回时早就过期了。所有人都会想到的修法是防抖（debounce）：等"
+    },
+    {
+      "title": "OkHttp 和 Retrofit  封装使用",
+      "url": "https://juejin.cn/post/7655665051705212969",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "CYY95",
+      "created_at": "",
+      "summary": "kHttp 负责网络传输——建立连接、发数据、收数据、协议协商；Retrofit 负责把 Java/Kotlin 接口翻译成 HTTP 请求——解析注解、拼接参数、序列化/反序列化、适配返回类型。"
+    },
+    {
+      "title": "调查研究-202 SGLang 深度解析：为什么大模型推理框架不只是“把模型跑起来“",
+      "url": "https://juejin.cn/post/7655992822657482802",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "武子康",
+      "created_at": "",
+      "summary": "TL;DR 场景：RAG、多轮对话、Agent 工具调用、JSON 强约束、长 system prompt、高并发生产环境 结论：SGLang 的价值不在于\"比 vLLM 更快\"，而在于把 LLM 应"
     }
   ]
 }
