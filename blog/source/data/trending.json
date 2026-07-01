@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-01T02:36:07.347999+00:00",
+  "updated_at": "2026-07-01T14:08:57.713609+00:00",
   "articles": [
     {
-      "title": "可视化大屏设计器脚手架：从设计到交付的一站式方案",
-      "url": "https://juejin.cn/post/7657067589738463282",
+      "title": "别只盯着最强模型了，Agent 场景更该看这类 Flash 档模型",
+      "url": "https://juejin.cn/post/7657009566030872576",
       "source": "juejin",
-      "score": 419,
-      "raw_score": 125,
-      "comments": 1,
-      "author": "柳杉",
+      "score": 749,
+      "raw_score": 5619,
+      "comments": 0,
+      "author": "猫猫头啊",
       "created_at": "",
-      "summary": "做可视化大屏时，很多项目一开始只是“画几个图表”，后面很快会出现一整套工程问题： 设计稿怎么适配不同屏幕？ 图表位置怎么让业务方自己调？ 多个页面怎么切换和传参？ 主题、背景、卡片装饰怎么复用？ 设计"
+      "summary": "最近，GLM 5.2 接连刷屏，国产模型又热闹起来了。 加上 DeepSeek V4、MiniMax M3，还有阶跃星辰的 Step-3.7-Flash，国产大模型这一波可以说是你追我赶，热度一下子又"
     },
     {
-      "title": "调查研究-206 DeepSeek DSpark 深度解析：大模型推理加速，正在从“模型能力”转向“系统工程”",
-      "url": "https://juejin.cn/post/7657104125784768522",
+      "title": "Amper 正式转正 Kotlin Toolchain ，Gradle 未来何去何从",
+      "url": "https://juejin.cn/post/7656202263124082730",
+      "source": "juejin",
+      "score": 574,
+      "raw_score": 743,
+      "comments": 1,
+      "author": "恋猫de小郭",
+      "created_at": "",
+      "summary": "最近 Amper 发布了《Kotlin Toolchain 0.11: The Next Step for Amper》 ，核心就是 Amper has evolved into the Kotlin"
+    },
+    {
+      "title": "《Kingbase护城河》——猎捕慢查询：执行计划的微观解析与索引调优实战",
+      "url": "https://juejin.cn/post/7657366002275614754",
+      "source": "juejin",
+      "score": 572,
+      "raw_score": 730,
+      "comments": 0,
+      "author": "倔强的石头_",
+      "created_at": "",
+      "summary": "“为什么这条 SQL 跑得这么慢？”——猎捕慢查询：执行计划的微观解析与索引调优实战 在过去的专栏里面，我们把数据库的安全问题搞了搞，像僵尸进程、行锁死锁，还有磁盘满的这些情况，都给处理了"
+    },
+    {
+      "title": "牛逼，NextJs 从 16.3 开始全面拥抱 Agent Native 🥰🥰🥰",
+      "url": "https://juejin.cn/post/7656739536886710314",
+      "source": "juejin",
+      "score": 510,
+      "raw_score": 355,
+      "comments": 0,
+      "author": "Moment",
+      "created_at": "",
+      "summary": "过去讨论 Next.js 更新，关注点多半落在构建速度、渲染性能、缓存策略和 React API 上。 到了 16.3，框架的边界明显扩大了。Instant Navigations 发布公告 把用户侧"
+    },
+    {
+      "title": "从狂野代码到按目标生产：得物推荐 AI Harness 的工程化实践｜AICon 演讲整理",
+      "url": "https://juejin.cn/post/7656741994434576427",
+      "source": "juejin",
+      "score": 473,
+      "raw_score": 233,
+      "comments": 0,
+      "author": "得物技术",
+      "created_at": "",
+      "summary": "本文是得物技术专家在 AICon 上海演讲整理的技术实录。 「得物推荐 AI Harness 工程化实践系列」的开篇内容，本系列共三篇连载。将系统拆解得物推荐复杂业务场景下，AI代码从生成、防护校验到"
+    },
+    {
+      "title": "小红书虚拟商品怎么做？我先用 Skill 跑通了壁纸品类",
+      "url": "https://juejin.cn/post/7656968961599193140",
+      "source": "juejin",
+      "score": 442,
+      "raw_score": 163,
+      "comments": 1,
+      "author": "后端小肥肠",
+      "created_at": "",
+      "summary": "虚拟资料训练营还在继续。6月我带着大家顺利起号了，7月准备开始挂品，我开的个人店，虚拟资料类目只有PDF、简历、壁纸这类。本文就是给大家介绍一下，我如何用skill来做小红书虚拟商品中壁纸品类的制提效"
+    },
+    {
+      "title": "6月沸点活动获奖名单公示｜本周互动话题上新🎊",
+      "url": "https://juejin.cn/post/7656725464405164059",
+      "source": "juejin",
+      "score": 417,
+      "raw_score": 122,
+      "comments": 0,
+      "author": "沸点小助手",
+      "created_at": "",
+      "summary": "🎉各位掘友，本月互动话题 获奖名单新鲜出炉啦 感谢大家的积极参与优质分享，本周互动话题 抢先看，福利不断，期待你们的分享~ 活动话题：第一份工资花哪了 ＆绩效季渡劫现场~"
+    },
+    {
+      "title": "Flutter 类库大揭秘#02 | path_provider 各平台实现",
+      "url": "https://juejin.cn/post/7656726047949881353",
+      "source": "juejin",
+      "score": 389,
+      "raw_score": 89,
+      "comments": 0,
+      "author": "张风捷特烈",
+      "created_at": "",
+      "summary": "引言： 上一篇我们看了快递公司的整体架构：总调度台、服务协议、加盟审核。你已经知道了\"系统怎么运转\"。但有一个问题还没回答：各个分公司到底是怎么找到仓库地址的？ Android 分公司用 JNI 打电"
+    },
+    {
+      "title": "Workflow 系列（03）：状态管理——持久化、幂等性与版本绑定",
+      "url": "https://juejin.cn/post/7656828565456027663",
+      "source": "juejin",
+      "score": 359,
+      "raw_score": 63,
+      "comments": 0,
+      "author": "冬奇Lab",
+      "created_at": "",
+      "summary": "工作流的状态持久化不是可选项，而是中断续接能力的基础。本文讲三个层次：用 JSON 状态文件实现 Durable Execution（可中断可续接）、为每个 Step 设计幂等性"
+    },
+    {
+      "title": "Wot UI 2.2.0 发布：Button 新增 subtle，VideoPreview 预览体验继续增强",
+      "url": "https://juejin.cn/post/7657449804227543091",
+      "source": "juejin",
+      "score": 330,
+      "raw_score": 45,
+      "comments": 1,
+      "author": "不如摸鱼去",
+      "created_at": "",
+      "summary": "大家好，我是不如摸鱼去，wot-ui 的主要维护者。 Wot UI 2.2.0 正式发布啦。 这次更新依然不是那种“把整个组件库翻一遍”的大版本，但很适合日常项目直接升级体验。它主要补了两类内容：一类"
+    },
+    {
+      "title": "Anthropic 估值逼近万亿美元，Claude Sonnet 5 + Claude Science 一天两连发",
+      "url": "https://juejin.cn/post/7657129096331083827",
       "source": "juejin",
       "score": 279,
       "raw_score": 25,
       "comments": 0,
-      "author": "武子康",
+      "author": "kyriewen",
       "created_at": "",
-      "summary": "DeepSeek DSpark 深度解析：大模型推理加速，正在从「模型能力」转向「系统工程」 TL;DR 场景：DeepSeek-V4-Flash / DeepSeek-V4-Pro 预览版生产推理、"
+      "summary": "Anthropic 昨天一口气放了两个大招：Claude Sonnet 5 正式上线成为全员默认模型，Claude Science 同步发布要让 AI 接管科研流水线..."
     },
     {
-      "title": "Claude Code 官宣新升级：子智能体默认后台跑，你边聊它边干活",
-      "url": "https://juejin.cn/post/7657076812560859146",
+      "title": "【机器人 / 强化学习】HIL-SERL 算法篇：HG-DAgger 与 RLPD —— 从模仿到超越的训练双阶段",
+      "url": "https://juejin.cn/post/7657449804227625011",
       "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
+      "score": 235,
+      "raw_score": 15,
       "comments": 0,
-      "author": "蝎子莱莱爱打怪",
+      "author": "罗西的思考",
       "created_at": "",
-      "summary": "备注：本文水文一篇，主要是传递信息。 6 月 29 号，Claude Code 的作者 Boris Cherny，在 X 上甩了一句话：下一版 Claude Code，子智能体默认在后台跑。 啥意思呢"
+      "summary": "【机器人 / 强化学习】HIL-SERL 算法篇：HG-DAgger 与 RLPD —— 从模仿到超越的训练双阶段 0x00 概要 0x01 HG-DAgger 的核心思想：人类门控的数据聚合 1.1"
     },
     {
-      "title": "手写Promise--微任务、静态方法、async/await 全搞懂（三）",
-      "url": "https://juejin.cn/post/7657027972361355264",
+      "title": "Workflow 系列（04）：Multi-Agent 协调——编排器边界、并发控制与上下文隔离",
+      "url": "https://juejin.cn/post/7657509944644714530",
       "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
+      "score": 222,
+      "raw_score": 13,
       "comments": 0,
-      "author": "蜡笔熊",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "1. 为什么 `Promise.then` 的回调比 `setTimeout` 先执行？微任务 —— Promise 回调为什么慢一步 2. `Promise.all/race/allSettled/"
+      "summary": "Multi-Agent 工作流的核心工程问题不是'让 Agent 协作'，而是三个具体问题：Orchestrator 和 Subagent 的职责边界在哪里"
     },
     {
-      "title": "OpenHarness源码研究-3-codex配置到输出对话",
-      "url": "https://juejin.cn/post/7656864709929451535",
+      "title": "每日一个开源项目（第147篇）：HyperGraphRAG - 用超图表示 N 元关系，RAG 的第三代范式",
+      "url": "https://juejin.cn/post/7657509944644648994",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "冬奇Lab",
+      "created_at": "",
+      "summary": "NeurIPS 2025 论文的官方实现，第一个基于超图的 RAG 系统。用超边（hyperedge）替代知识图谱的二元边，原生表示多实体关系。在医疗、农业、计算机科学、法律四个领域超越GraphRA"
+    },
+    {
+      "title": "SSE和WebSocket 是什么，AI 场景下如何选择",
+      "url": "https://juejin.cn/post/7657366002275729442",
       "source": "juejin",
       "score": 215,
       "raw_score": 12,
       "comments": 0,
-      "author": "BothSavage",
+      "author": "Worlds",
       "created_at": "",
-      "summary": "从Provider Registry的声明式注册出发，深入OpenAI兼容客户端的消息格式转换，最后横向对比四种Client（Anthropic/OpenAI/Codex/Copilot）的设计，理"
-    },
-    {
-      "title": "记一次 GitHub 幽灵协作者大清洗：强制重写 Git 历史与穿透 CDN 缓存实践",
-      "url": "https://juejin.cn/post/7657095880312340543",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "A_Lonely_Cat",
-      "created_at": "",
-      "summary": "本文介绍了通过重写Git历史修正错误提交邮箱，并利用切换默认分支技巧穿透GitHub前端缓存，从而彻底清除项目中“幽灵”协作者的完整解决方案。"
-    },
-    {
-      "title": "分享一个在 Claude Code 里 [同时] 用多个 ApiKey 的方法",
-      "url": "https://juejin.cn/post/7657147946866147337",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "齐翊",
-      "created_at": "",
-      "summary": "解决 claude code 无法多窗口同时使用多个 coding plan 的问题，真正的会话级隔离，多窗口混用 API Key， 自由切换，互不干扰。"
-    },
-    {
-      "title": "LoRA低秩适配：一张图说清矩阵分解如何改写大模型微调规则",
-      "url": "https://juejin.cn/post/7657063330016198665",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "Lkstar",
-      "created_at": "",
-      "summary": "全参数微调的痛，懂的都懂 大模型时代，全参数微调（Full Fine-tuning）的成本已经卷到离谱。以GPT-3 175B为例，单张A100 80G都塞不下一个完整训练实例，多卡并行更是直接跟"
-    },
-    {
-      "title": "第4章 CLI横行背后的成本结构",
-      "url": "https://juejin.cn/post/7656730922039967754",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "鱼疯而行",
-      "created_at": "",
-      "summary": "第4章 CLI横行背后的成本结构 引言 2025年上半年，一个有趣的现象集中爆发：Claude Code、Codex CLI、Gemini CLI、Aider、Qoder——主流AI编码产品几乎都以C"
-    },
-    {
-      "title": "继 Web Coding Agent 后，我做了一个本地优先的桌面 AI Agent",
-      "url": "https://juejin.cn/post/7657095880312487999",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "lihaozecq",
-      "created_at": "",
-      "summary": "两个月前，我开源过一个 Web 端的 AI Coding Agent——code-artisan。它能在浏览器里用自然语言写代码、跑代码，但形态上绕不开云端沙箱和后端，并且与本地办公资料很难结合起来。"
-    },
-    {
-      "title": "字符串算法入门：从反转字符串到回文判断，面试不再慌",
-      "url": "https://juejin.cn/post/7657076812560990218",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "烬羽",
-      "created_at": "",
-      "summary": "字符串算法入门：从反转字符串到回文判断，面试不再慌 开篇：字符串，程序员最熟悉的\"陌生人\" 每天写代码，你一定和字符串打过无数次交道——拼接 SQL、解析 JSON、处理用户输入……字符串无处不在。 "
-    },
-    {
-      "title": "Linux 常用操作命令合集与运维实战",
-      "url": "https://juejin.cn/post/7657098348509102123",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "Csvn",
-      "created_at": "",
-      "summary": "一、文件系统操作 📖 知识点简介 Linux 文件系统是运维工作的基础，掌握文件查找、内容检索、磁盘分析等操作能大幅提升日常排查效率。 🔧 核心命令整理 命令 作用 常用参数 find 查找文件 -n"
-    },
-    {
-      "title": "从\"抽卡\"到\"搭台\"：一文讲透上下文工程（Context Engineering）的底层逻辑",
-      "url": "https://juejin.cn/post/7657076812560891914",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "烬羽",
-      "created_at": "",
-      "summary": "从\"抽卡\"到\"搭台\"：一文讲透上下文工程（Context Engineering）的底层逻辑 开篇：两个奶茶店老板的故事 假设你是一名大学城附近的奶茶店老板，想让AI帮你设计一款夏季新品。 老板A的做"
-    },
-    {
-      "title": "Prompt要花心思写，与 AI 对话的七个技巧",
-      "url": "https://juejin.cn/post/7657074612481245219",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "Coffeeee",
-      "created_at": "",
-      "summary": "说件事情 年初不是开始倡导什么AI提效吗，然后刚好要写什么季度总结，所以我让AI帮我写了一篇季度总结报告,它洋洋洒洒写了八百字，从\"本季度完成了多个项目\"一路抒情到\"感谢领导的信任与栽培\",听起来像年"
-    },
-    {
-      "title": "ESLint",
-      "url": "https://juejin.cn/post/7656686863231565833",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "CodingSpace",
-      "created_at": "",
-      "summary": "ESLint: https://eslint.org/docs/user-guide/configuring/ 优先级 如果同一个目录中同时包含多个配置文件，则会按照以下优先级，使用高优先级中的配置："
+      "summary": "一、前置基础：AI 实时通信的底层认知 在讲解具体协议前，先明确两个基础认知，理解两类技术的诞生逻辑与适配边界： AI 场景的两类核心实时需求 AI 产品的实时通信需求本质分为两类，对应完全不同的技术"
     }
   ]
 }
