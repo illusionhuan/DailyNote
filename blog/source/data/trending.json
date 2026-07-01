@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-06-30T13:56:48.469480+00:00",
+  "updated_at": "2026-07-01T02:36:07.347999+00:00",
   "articles": [
     {
-      "title": "React Renderer 分离的多平台架构",
-      "url": "https://juejin.cn/post/7656342465024540718",
+      "title": "可视化大屏设计器脚手架：从设计到交付的一站式方案",
+      "url": "https://juejin.cn/post/7657067589738463282",
       "source": "juejin",
-      "score": 697,
-      "raw_score": 3072,
-      "comments": 2,
-      "author": "老王以为",
-      "created_at": "",
-      "summary": "React 的 Renderer 分离的多平台架构，让 React 可以支持多平台，真正的实现一次编写，到处运行。今天来探究这个架构的实现原因和背后的思考。"
-    },
-    {
-      "title": "DeepSeek正式官宣摇人，夯！",
-      "url": "https://juejin.cn/post/7656721849944064010",
-      "source": "juejin",
-      "score": 655,
-      "raw_score": 1902,
-      "comments": 5,
-      "author": "CodeSheep",
-      "created_at": "",
-      "summary": "话说 DeepSeek 这次真的是破天荒了。 自 2023 年正式创立以来，三年了，你啥时候见过这个公司专门大张旗鼓发公告招过人。 但是就在前几天，DeepSeek 直接丢出王炸，正式官宣大规模摇人，"
-    },
-    {
-      "title": "AI具身交互：实现一个会说话的3D虚拟伴侣",
-      "url": "https://juejin.cn/post/7656050265523372032",
-      "source": "juejin",
-      "score": 600,
-      "raw_score": 1006,
-      "comments": 8,
-      "author": "石小石Orz",
-      "created_at": "",
-      "summary": "市面上绝大多数 3D 虚拟形象仍停留在循环播放预制内容的阶段，交互方式单一，缺乏真实的理解与反馈能力；本文实现一个可以接入大模型的智能3D虚拟形象。"
-    },
-    {
-      "title": "急招！前端｜测试｜后端｜产品（名额多，速来）",
-      "url": "https://juejin.cn/post/7656751882111991835",
-      "source": "juejin",
-      "score": 597,
-      "raw_score": 972,
-      "comments": 8,
-      "author": "古茗前端团队",
-      "created_at": "",
-      "summary": "前端｜测试｜后端 ｜ 产品都需要，没有套路，公司直招，快到碗里来～ ✅ 奶茶畅饮，喝到饱 ✅ 每年 2 次晋升，2 次加薪机会 ✅ 技术氛围好，WLB ✅ 业务想象空间大，个人成长有保证 📩 投递：z"
-    },
-    {
-      "title": "如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。",
-      "url": "https://juejin.cn/post/7656055019972722731",
-      "source": "juejin",
-      "score": 591,
-      "raw_score": 912,
+      "score": 419,
+      "raw_score": 125,
       "comments": 1,
-      "author": "恋猫de小郭",
+      "author": "柳杉",
       "created_at": "",
-      "summary": "在之前我们聊过 《Agent 的基础概念概念》，今天就聊让 AI 快速搭建一套 Agent 的极简架构设计。 简单来说，你判断一个 Agent 方案靠不靠谱，可以从这 10 个问题开始： 准确来说，A"
+      "summary": "做可视化大屏时，很多项目一开始只是“画几个图表”，后面很快会出现一整套工程问题： 设计稿怎么适配不同屏幕？ 图表位置怎么让业务方自己调？ 多个页面怎么切换和传参？ 主题、背景、卡片装饰怎么复用？ 设计"
     },
     {
-      "title": "比 iTerm2 更适合 Claude Code/Codex 的终端，我换成 Ghostty 了",
-      "url": "https://juejin.cn/post/7656624552290713634",
+      "title": "调查研究-206 DeepSeek DSpark 深度解析：大模型推理加速，正在从“模型能力”转向“系统工程”",
+      "url": "https://juejin.cn/post/7657104125784768522",
       "source": "juejin",
-      "score": 462,
-      "raw_score": 206,
+      "score": 279,
+      "raw_score": 25,
       "comments": 0,
-      "author": "JavaGuide",
+      "author": "武子康",
       "created_at": "",
-      "summary": "你好，我是小 G。我把终端从 iTerm2 换到 Ghostty 已经有三个月了。 整体体验还不错，这篇文章来分享一下。 Ghostty 不是 Claude Code 的官方指定终端，但确实被 Cla"
+      "summary": "DeepSeek DSpark 深度解析：大模型推理加速，正在从「模型能力」转向「系统工程」 TL;DR 场景：DeepSeek-V4-Flash / DeepSeek-V4-Pro 预览版生产推理、"
     },
     {
-      "title": "Clade Code 泄露的源码，我给大家整体解读下。",
-      "url": "https://juejin.cn/post/7656300675648503817",
+      "title": "Claude Code 官宣新升级：子智能体默认后台跑，你边聊它边干活",
+      "url": "https://juejin.cn/post/7657076812560859146",
       "source": "juejin",
-      "score": 449,
-      "raw_score": 177,
+      "score": 276,
+      "raw_score": 24,
       "comments": 0,
-      "author": "cxuanAI",
+      "author": "蝎子莱莱爱打怪",
       "created_at": "",
-      "summary": "系列前景提要： 我偶然间找着了一个 GitHub 项目，这个 GitHub 项目是针对 Claude Code 泄露的源码进行分析。 之前我看到过很多 Claude Code 源码分析文章，要么太具体"
+      "summary": "备注：本文水文一篇，主要是传递信息。 6 月 29 号，Claude Code 的作者 Boris Cherny，在 X 上甩了一句话：下一版 Claude Code，子智能体默认在后台跑。 啥意思呢"
     },
     {
-      "title": "AI真好玩系列-2分钟快速了解DeepAgents | Quick Guide to DeepAgents in 2 Minutes",
-      "url": "https://juejin.cn/post/7637011261794320422",
+      "title": "手写Promise--微任务、静态方法、async/await 全搞懂（三）",
+      "url": "https://juejin.cn/post/7657027972361355264",
       "source": "juejin",
-      "score": 424,
-      "raw_score": 133,
-      "comments": 3,
-      "author": "tangdou369098655",
-      "created_at": "",
-      "summary": "DeepAgents是LangChain团队推出的开源Agent框架，内置任务规划、文件系统、子代理和长期记忆四大核心能力，支持Python和JS/TS，2分钟带你用TypeScript快速上手！"
-    },
-    {
-      "title": "从零搭建 AI 代码审查服务：一份前端也能看懂的 Python 学习笔记",
-      "url": "https://juejin.cn/post/7656251277947109428",
-      "source": "juejin",
-      "score": 421,
-      "raw_score": 128,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "雨夜寻晴天",
+      "author": "蜡笔熊",
       "created_at": "",
-      "summary": "前几天，我搭了一套 AI 代码审查服务，用 Python + Flask 写了大概 200 行代码，实现了：**当 GitLab 收到 MR 时，自动调用 AI 分析代码 diff，然后把审查意见贴回"
+      "summary": "1. 为什么 `Promise.then` 的回调比 `setTimeout` 先执行？微任务 —— Promise 回调为什么慢一步 2. `Promise.all/race/allSettled/"
     },
     {
-      "title": "LogicFlow 工作流撤销与重做：从「全量快照」到「命令模式」🎯",
-      "url": "https://juejin.cn/post/7656556949907177515",
+      "title": "OpenHarness源码研究-3-codex配置到输出对话",
+      "url": "https://juejin.cn/post/7656864709929451535",
       "source": "juejin",
-      "score": 363,
-      "raw_score": 66,
+      "score": 215,
+      "raw_score": 12,
       "comments": 0,
-      "author": "橙某人",
+      "author": "BothSavage",
       "created_at": "",
-      "summary": "本文记录基于 LogicFlow 的流程图编辑器「撤销/重做」重构：从全量快照法（ lf.render 整图重灌）迁到命令模式（每步操作自带正向执行与反向撤销）。"
+      "summary": "从Provider Registry的声明式注册出发，深入OpenAI兼容客户端的消息格式转换，最后横向对比四种Client（Anthropic/OpenAI/Codex/Copilot）的设计，理"
     },
     {
-      "title": "每日一个开源项目（第146篇）：openpilot - 开源自动驾驶辅助系统，曾在 Consumer Reports 评测中超过特斯拉 Autopilot",
-      "url": "https://juejin.cn/post/7656968961599406132",
+      "title": "记一次 GitHub 幽灵协作者大清洗：强制重写 Git 历史与穿透 CDN 缓存实践",
+      "url": "https://juejin.cn/post/7657095880312340543",
       "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
+      "score": 200,
+      "raw_score": 10,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "A_Lonely_Cat",
       "created_at": "",
-      "summary": "comma.ai 开源的半自动驾驶软件，端到端神经网络直接从摄像头图像预测行驶轨迹，支持 325+ 款车型。2020 年 Consumer Reports 评测排名超过特斯拉 Autopilot。"
+      "summary": "本文介绍了通过重写Git历史修正错误提交邮箱，并利用切换默认分支技巧穿透GitHub前端缓存，从而彻底清除项目中“幽灵”协作者的完整解决方案。"
     },
     {
-      "title": "多Agent之间的区别",
-      "url": "https://juejin.cn/post/7657018622746296361",
+      "title": "分享一个在 Claude Code 里 [同时] 用多个 ApiKey 的方法",
+      "url": "https://juejin.cn/post/7657147946866147337",
       "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
+      "score": 180,
+      "raw_score": 8,
       "comments": 0,
-      "author": "lizhongxuan",
+      "author": "齐翊",
       "created_at": "",
-      "summary": "一个真正可用的 Agent 至少由模型、Prompt、上下文、工具、循环控制、权限策略、状态记录和最终输出约束组成。Prompt 决定“模型应该怎么想”，Runtime 决定“模型实际能做什么”。"
+      "summary": "解决 claude code 无法多窗口同时使用多个 coding plan 的问题，真正的会话级隔离，多窗口混用 API Key， 自由切换，互不干扰。"
     },
     {
-      "title": "Workflow 系列（03）：状态管理——持久化、幂等性与版本绑定",
-      "url": "https://juejin.cn/post/7656828565456027663",
+      "title": "LoRA低秩适配：一张图说清矩阵分解如何改写大模型微调规则",
+      "url": "https://juejin.cn/post/7657063330016198665",
       "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
+      "score": 180,
+      "raw_score": 8,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "Lkstar",
       "created_at": "",
-      "summary": "工作流的状态持久化不是可选项，而是中断续接能力的基础。本文讲三个层次：用 JSON 状态文件实现 Durable Execution（可中断可续接）、为每个 Step 设计幂等性"
+      "summary": "全参数微调的痛，懂的都懂 大模型时代，全参数微调（Full Fine-tuning）的成本已经卷到离谱。以GPT-3 175B为例，单张A100 80G都塞不下一个完整训练实例，多卡并行更是直接跟"
     },
     {
-      "title": "独立开发推荐安装的skills",
-      "url": "https://juejin.cn/post/7657015744480935999",
+      "title": "第4章 CLI横行背后的成本结构",
+      "url": "https://juejin.cn/post/7656730922039967754",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "鱼疯而行",
+      "created_at": "",
+      "summary": "第4章 CLI横行背后的成本结构 引言 2025年上半年，一个有趣的现象集中爆发：Claude Code、Codex CLI、Gemini CLI、Aider、Qoder——主流AI编码产品几乎都以C"
+    },
+    {
+      "title": "继 Web Coding Agent 后，我做了一个本地优先的桌面 AI Agent",
+      "url": "https://juejin.cn/post/7657095880312487999",
       "source": "juejin",
       "score": 169,
       "raw_score": 7,
       "comments": 0,
-      "author": "Warson_L",
+      "author": "lihaozecq",
       "created_at": "",
-      "summary": "关于“全局（Global）”与“项目（Project）”技能的区别与选择： 一、 技能分类：全局 vs 项目 在 Cursor 和主流 AI 编码 Agent（如 Claude Code 等）所采用的"
+      "summary": "两个月前，我开源过一个 Web 端的 AI Coding Agent——code-artisan。它能在浏览器里用自然语言写代码、跑代码，但形态上绕不开云端沙箱和后端，并且与本地办公资料很难结合起来。"
     },
     {
-      "title": "linux curl命令详解_curl详解",
-      "url": "https://juejin.cn/post/7656996455107739699",
+      "title": "字符串算法入门：从反转字符串到回文判断，面试不再慌",
+      "url": "https://juejin.cn/post/7657076812560990218",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "烬羽",
+      "created_at": "",
+      "summary": "字符串算法入门：从反转字符串到回文判断，面试不再慌 开篇：字符串，程序员最熟悉的\"陌生人\" 每天写代码，你一定和字符串打过无数次交道——拼接 SQL、解析 JSON、处理用户输入……字符串无处不在。 "
+    },
+    {
+      "title": "Linux 常用操作命令合集与运维实战",
+      "url": "https://juejin.cn/post/7657098348509102123",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "Csvn",
+      "created_at": "",
+      "summary": "一、文件系统操作 📖 知识点简介 Linux 文件系统是运维工作的基础，掌握文件查找、内容检索、磁盘分析等操作能大幅提升日常排查效率。 🔧 核心命令整理 命令 作用 常用参数 find 查找文件 -n"
+    },
+    {
+      "title": "从\"抽卡\"到\"搭台\"：一文讲透上下文工程（Context Engineering）的底层逻辑",
+      "url": "https://juejin.cn/post/7657076812560891914",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "烬羽",
+      "created_at": "",
+      "summary": "从\"抽卡\"到\"搭台\"：一文讲透上下文工程（Context Engineering）的底层逻辑 开篇：两个奶茶店老板的故事 假设你是一名大学城附近的奶茶店老板，想让AI帮你设计一款夏季新品。 老板A的做"
+    },
+    {
+      "title": "Prompt要花心思写，与 AI 对话的七个技巧",
+      "url": "https://juejin.cn/post/7657074612481245219",
       "source": "juejin",
       "score": 139,
       "raw_score": 5,
       "comments": 0,
-      "author": "tntxia",
+      "author": "Coffeeee",
       "created_at": "",
-      "summary": "curl(CommandLine Uniform Resource Locator),即在命令行中利用URL进行数据或者文件传输 这是curl的官网：https://curl.haxx.se 可以从上"
+      "summary": "说件事情 年初不是开始倡导什么AI提效吗，然后刚好要写什么季度总结，所以我让AI帮我写了一篇季度总结报告,它洋洋洒洒写了八百字，从\"本季度完成了多个项目\"一路抒情到\"感谢领导的信任与栽培\",听起来像年"
+    },
+    {
+      "title": "ESLint",
+      "url": "https://juejin.cn/post/7656686863231565833",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "CodingSpace",
+      "created_at": "",
+      "summary": "ESLint: https://eslint.org/docs/user-guide/configuring/ 优先级 如果同一个目录中同时包含多个配置文件，则会按照以下优先级，使用高优先级中的配置："
     }
   ]
 }
