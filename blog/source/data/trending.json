@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-03T02:00:37.133603+00:00",
+  "updated_at": "2026-07-03T13:43:15.299281+00:00",
   "articles": [
     {
-      "title": "🚀 2026 年 6 月 GitHub 十大热门项目排行榜 🔥",
-      "url": "https://juejin.cn/post/7657794899357761570",
+      "title": "Agent 场景下，谁才是真正好用的 Flash 模型",
+      "url": "https://juejin.cn/post/7656658447573729323",
       "source": "juejin",
-      "score": 420,
-      "raw_score": 127,
+      "score": 858,
+      "raw_score": 19718,
       "comments": 0,
-      "author": "一点一木",
+      "author": "猫猫头啊",
       "created_at": "",
-      "summary": "欢迎来到 2026 年 6 月 GitHub 热门开源项目排行榜！聚焦 Agent 感知 + 技能市场 + 视频生产 + 代码智能 + 并行编排五大主线！"
+      "summary": "模型圈一直都很热闹，每月都有各种新的模型出来。 最近一个月，国产大模型不断推出新模型，Step 3.7 Flash、MiniMax M3、GLM-5.2、Kimi K2.7 Code几乎都是前后脚发布"
     },
     {
-      "title": "Room 3.0 正式发布！包名彻底重构，KMP 成为核心主线",
-      "url": "https://juejin.cn/post/7657822489852149806",
+      "title": "别只盯着最强模型了，Agent 场景更该看这类 Flash 档模型",
+      "url": "https://juejin.cn/post/7657009566030872576",
       "source": "juejin",
-      "score": 349,
-      "raw_score": 56,
+      "score": 843,
+      "raw_score": 16545,
       "comments": 0,
-      "author": "黄林晴",
+      "author": "猫猫头啊",
       "created_at": "",
-      "summary": "7 月 1 日，androidx.room3:room3-*:3.0.0 正式发布。 这次不是 Room 2.x 的小版本升级。Room 3.0 换到了新的 androidx.room3 包和 Mav"
+      "summary": "最近，GLM 5.2 接连刷屏，国产模型又热闹起来了。 加上 DeepSeek V4、MiniMax M3，还有阶跃星辰的 Step-3.7-Flash，国产大模型这一波可以说是你追我赶，热度一下子又"
     },
     {
-      "title": "FastAPI 如何连接 MySQL",
-      "url": "https://juejin.cn/post/7657794899358482466",
+      "title": "别被模型宣传骗了，真实 Agent 任务一跑就知道",
+      "url": "https://juejin.cn/post/7658119907389554738",
       "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
-      "comments": 0,
-      "author": "copyer_xyf",
+      "score": 594,
+      "raw_score": 935,
+      "comments": 1,
+      "author": "轻口味",
       "created_at": "",
-      "summary": "写 FastAPI 后端时，数据库连接不是只写一行连接串就结束了。 一个能长期维护的 MySQL 接入方式，通常要同时解决这些问题： Python 用什么驱动真正连上 MySQL ORM 用什么方式把"
+      "summary": "现在市面上能调用的模型确实越来越多了，各家都有自己的亮点和侧重点，光看宣传文档和跑分数据其实很难判断哪个真正适合自己——尤其是当任务从单轮对话延伸到多步操作的时候，情况就更加复杂了。 所以我就想着，不"
     },
     {
-      "title": "Flutter 的默认颜色",
-      "url": "https://juejin.cn/post/7657833280843628570",
+      "title": "对车完全小白，不知买油买电还是买混动，求建议| 沸点周刊 7.2",
+      "url": "https://juejin.cn/post/7657504173896515622",
       "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
-      "comments": 0,
-      "author": "JarvanMo",
+      "score": 586,
+      "raw_score": 853,
+      "comments": 1,
+      "author": "掘金一周",
       "created_at": "",
-      "summary": "Material 3 带来的最大改进之一是让几乎所有 widget 都从 ColorScheme 派生颜色。 但缺点也是很明显，哪个 widget 使用哪个颜色经常让我蒙逼，我经常搞不清楚某个widg"
+      "summary": "本周话题推荐 一周“金”选 内容评审们会在过去的一周内对社区沸点进行挖掘和筛选，优质的技术、生活内容有机会出现在下方榜单中，排名不分先后。"
     },
     {
-      "title": "Cocos视频拼图，终于支持微信小游戏了！",
-      "url": "https://juejin.cn/post/7657822489852280878",
+      "title": "聊一聊近年来互联网公司的裁员情况",
+      "url": "https://juejin.cn/post/7657863114353229862",
       "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
+      "score": 569,
+      "raw_score": 701,
       "comments": 0,
-      "author": "亿元程序员",
+      "author": "狂师",
       "created_at": "",
-      "summary": "引言 哈喽大家好，我是亿元程序员，一位有着8年游戏行业经验的主程。 不知道大家还记不记得笔者上一期出的《Cocos视频拼图，拼图游戏的最后一块碎片，支持原生！》，当时我们搞定了 Web 和 Andro"
+      "summary": "最近总有人在问，互联网是不是不行了。 我一般不直接回答。因为\"行不行\"是个主观判断，而眼下大家真正想问的，其实是另一个问题：那些曾经被视为\"金饭碗\"的大厂岗位，怎么就突然不香了？ 这个问题，问得比\"互"
     },
     {
-      "title": "一个人 + AI：246 commits 做出设计系统 CLI 的故事",
-      "url": "https://juejin.cn/post/7657708779312676898",
+      "title": "windows终端体验大升级，让你拥有macos级别的美化",
+      "url": "https://juejin.cn/post/7657755366327664680",
       "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
+      "score": 537,
+      "raw_score": 487,
       "comments": 0,
-      "author": "feiyu_gao",
+      "author": "非洲农业不发达",
       "created_at": "",
-      "summary": "22 天，246 个 commit，一个人用 AI 从零构建了一套完整的设计系统 CLI 工具。这是一个关于“个人开发者在 AI 时代能走多远”的实验。"
+      "summary": "天下开发苦windows久矣 。windows的cmd黑窗口，性能拉胯，样式奇丑，还有编码问题，狗都不用"
     },
     {
-      "title": "LLM结构化输出：让AI返回JSON而不是废话，我踩了4个坑",
-      "url": "https://juejin.cn/post/7657377526926950450",
+      "title": "别被模型宣传骗了，真实 Agent 任务一跑就知道",
+      "url": "https://juejin.cn/post/7657829617064706100",
+      "source": "juejin",
+      "score": 529,
+      "raw_score": 442,
+      "comments": 0,
+      "author": "猫猫头啊",
+      "created_at": "",
+      "summary": "最近这段时间，国内外模型更新得很快。 如果只看发布会和榜单，大家都会觉得每个模型都很强。参数更大、上下文更长、推理更强、价格更低，听起来都挺猛。 但真正用到工作流里，会发现另一件事：模型强不强，不只看"
+    },
+    {
+      "title": "别再被 worktree 绕晕了！AI 编程时代你必须掌握的 Git 隔离神器",
+      "url": "https://juejin.cn/post/7657811451365982208",
+      "source": "juejin",
+      "score": 480,
+      "raw_score": 253,
+      "comments": 0,
+      "author": "阳光是sunny",
+      "created_at": "",
+      "summary": "最近很多朋友像我一样，同时在 macOS 和 Windows 上用 Codex 和 Claude Desktop 写代码，结果被一个叫 worktree​ 的东西搞懵了。 明明让 AI 改了代码，刷新"
+    },
+    {
+      "title": "Go语言第一章(入门)",
+      "url": "https://juejin.cn/post/7657567333606506505",
+      "source": "juejin",
+      "score": 478,
+      "raw_score": 247,
+      "comments": 4,
+      "author": "小满zs",
+      "created_at": "",
+      "summary": "Go（又称 Golang）是Google在 2007 年推出、2009 年正式开源的静态编译型编程语言，由罗伯特・格瑞史莫（Rob Pike）、肯・汤普森（Ken Thompson，C 语言、Unix"
+    },
+    {
+      "title": "你的 AI 写的 React 烂透了？这个 8000+ Star 的开源工具能揪出 90% 的「Agent 屎山」",
+      "url": "https://juejin.cn/post/7638514648440176683",
+      "source": "juejin",
+      "score": 390,
+      "raw_score": 90,
+      "comments": 0,
+      "author": "吴琼琼",
+      "created_at": "",
+      "summary": "AI写的React代码漏洞百出？react-doctor这款8000+ Star的开源工具能扫描代码库，给出0-100健康评分，还能直接装到AI代理里从源头提升代码质量。"
+    },
+    {
+      "title": "AI Agent 安全实战指南：当智能体开始\"不听话\"，开发者该如何应对？",
+      "url": "https://juejin.cn/post/7658185555315408934",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "米小虾",
+      "created_at": "",
+      "summary": "一、问题有多严峻？ 2026年7月2日，联合国独立国际科学小组发布的首份全球AI评估报告中，有一段话值得所有开发者反复阅读： 更令人担忧的是报告的另一发现：AI Agent能够完成的任务复杂度每几个月"
+    },
+    {
+      "title": "Flutter进阶：基于 EasyRefresh 的下拉刷新封装 n_easy_refresh_mixin.dart",
+      "url": "https://juejin.cn/post/7658096117939224639",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "荣码",
+      "author": "SoaringHeart",
       "created_at": "",
-      "summary": "写了很多AI应用了——RAG、Agent、GraphRAG……有一个问题一直困扰我：**AI的输出太"
+      "summary": "开发中中90%的页面需要下拉刷新功能，所以一直在构思能否有个完美的封装思路，将刷新通用逻辑封装。这样既可以提高开发效率，方便维护，也可以减少bug。经过多个app打磨，两次重大升级，分享给大家。"
     },
     {
-      "title": "JavaScript this 指向全解实战指南",
-      "url": "https://juejin.cn/post/7657835910533169188",
+      "title": "Workflow 系列（06）：安全——跨步骤注入传播与四层防御",
+      "url": "https://juejin.cn/post/7658107153195663375",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "橘子星",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "在前端开发中，this 是高频考点也是极易踩坑的核心知识点，它的核心规则：this 的指向由函数调用方式决定，而非函数声明位置。结合本地存储项目实战代码，本文拆解 this 5 种调用场景、call/"
+      "summary": "Workflow 安全与 Skill 安全的核心区别：Skill 安全关注单次调用，Workflow 安全关注跨 Step 的攻击传播。"
     },
     {
-      "title": "地图渲染模块架构设计文档",
-      "url": "https://juejin.cn/post/7657831024941481994",
+      "title": "【机器人 / 强化学习】HIL-SERL 工程篇：人类在环的工程架构与物理设计",
+      "url": "https://juejin.cn/post/7657643263090049051",
       "source": "juejin",
       "score": 180,
       "raw_score": 8,
       "comments": 0,
-      "author": "十年功力的一拳",
+      "author": "罗西的思考",
       "created_at": "",
-      "summary": "1. 架构概述 本项目采用高吞吐量、低开销的增量渲染架构来处理海量船舶和航线的展示。为了避免 Vue 响应式系统在处理海量 DOM 节点时的性能瓶颈，地图渲染核心完全与 Vue 的视图模板解耦，采用原"
+      "summary": "【机器人 / 强化学习】HIL-SERL 工程篇：人类在环的工程架构与物理设计 0x00 概要 0x01 系统架构总览 1.1 逻辑架构 1.2 物理拓扑 1.3 部署拓扑与启动顺序 1.4 独立运行"
     },
     {
-      "title": "GoF设计模式——备忘录模式",
-      "url": "https://juejin.cn/post/7657781902922121226",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "咖啡八杯",
-      "created_at": "",
-      "summary": "备忘录模式（`Memento Pattern`）也叫快照（`Snapshot`）模式，是一种**行为型设计模式**，核心思想是**在不破坏封装性的前提下，捕获一个对象的内部状态，并将该状态保存到对象外"
-    },
-    {
-      "title": "在 Obsidian 中嵌入 Claude Code 的实践记录",
-      "url": "https://juejin.cn/post/7657709791473385513",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "Quz",
-      "created_at": "",
-      "summary": "之前在看直播的时候，别人秀出了他的Obsidian知识库，我看到右侧多了一个类似Claude Code的命令行终端，这样在知识库中进行复盘和整理的时候就很方便了。我也很想有一个，于是尝试了动手安装。 "
-    },
-    {
-      "title": "从 0 到 1 搭建高可用 Redis Cluster：踩坑、优化与生产实践",
-      "url": "https://juejin.cn/post/7657782809376145427",
+      "title": "每日一个开源项目（第149篇）：RAG-Anything - 把图片、表格、公式当成一等公民的多模态 RAG 框架",
+      "url": "https://juejin.cn/post/7658132119806525480",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "奶油mm",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "Redis Cluster 是 Redis 的分布式解决方案，但\"能用\"和\"好用\"之间隔着一百个坑。这篇文章基于我们团队维护的 200+ 节点 Redis Cluster 集群的实战经验，讲清楚从搭建"
-    },
-    {
-      "title": "react路由懒加载、history 模式刷新404 解决方案",
-      "url": "https://juejin.cn/post/7657794899357466658",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "光影少年",
-      "created_at": "",
-      "summary": "这是 React 面试中出现频率最高 的问题之一，也是企业项目部署时必须解决的问题。 我会从 懒加载原理 → 配置 → history刷新404 → 不同服务器解决方案 → 面试回答 全面讲解。 一、"
-    },
-    {
-      "title": "JS垃圾回收：从原理到项目实战，彻底根治内存泄漏",
-      "url": "https://juejin.cn/post/7657709044954529826",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "weedsfly",
-      "created_at": "",
-      "summary": "JavaScript的垃圾回收机制给了我们不用手动管理内存的自由，但自由不等于放纵。理解可达性、标记-清除、分代回收，能够帮助我们有意识地写出“易于回收”的代码。"
-    },
-    {
-      "title": "调查研究-209 Apptronik Robot Park 深度解析：人形机器人竞争，开始拼“真实世界数据工厂“",
-      "url": "https://juejin.cn/post/7657833280843907098",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "武子康",
-      "created_at": "",
-      "summary": "Apptronik Robot Park 深度解析：人形机器人下半场，开始拼「真实世界数据工厂」（Apollo 2 双形态, 2026） TL;DR 场景：2026 年 6 月 30 日，Apptro"
+      "summary": "HKUDS 开源的全模态 RAG 框架，基于 LightRAG 扩展，把图像、表格、LaTeX 公式作为知识图谱的一等实体，而非转成纯文本处理。DocBench 评测 63.4%，超越 MMGraph"
     }
   ]
 }
