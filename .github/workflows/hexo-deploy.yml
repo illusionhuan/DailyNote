@@ -18,7 +18,7 @@ permissions:
 # 同一时间只允许一个部署任务运行
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
