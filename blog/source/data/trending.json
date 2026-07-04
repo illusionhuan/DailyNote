@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-03T13:43:15.299281+00:00",
+  "updated_at": "2026-07-04T01:58:43.096036+00:00",
   "articles": [
     {
-      "title": "Agent 场景下，谁才是真正好用的 Flash 模型",
-      "url": "https://juejin.cn/post/7656658447573729323",
+      "title": "TypeScript类型系统其实是个图灵完备的语言",
+      "url": "https://juejin.cn/post/7658102477074366502",
       "source": "juejin",
-      "score": 858,
-      "raw_score": 19718,
+      "score": 215,
+      "raw_score": 12,
       "comments": 0,
-      "author": "猫猫头啊",
+      "author": "飞天狗",
       "created_at": "",
-      "summary": "模型圈一直都很热闹，每月都有各种新的模型出来。 最近一个月，国产大模型不断推出新模型，Step 3.7 Flash、MiniMax M3、GLM-5.2、Kimi K2.7 Code几乎都是前后脚发布"
+      "summary": "TypeScript 类型系统是图灵完备的——用4个实战场景展示怎么用它防呆：①条件类型推断API响应；②映射类型生成表单/验证/提交类型；③模板字面量类型约束路由参数；④infer的三种用法。"
     },
     {
-      "title": "别只盯着最强模型了，Agent 场景更该看这类 Flash 档模型",
-      "url": "https://juejin.cn/post/7657009566030872576",
-      "source": "juejin",
-      "score": 843,
-      "raw_score": 16545,
-      "comments": 0,
-      "author": "猫猫头啊",
-      "created_at": "",
-      "summary": "最近，GLM 5.2 接连刷屏，国产模型又热闹起来了。 加上 DeepSeek V4、MiniMax M3，还有阶跃星辰的 Step-3.7-Flash，国产大模型这一波可以说是你追我赶，热度一下子又"
-    },
-    {
-      "title": "别被模型宣传骗了，真实 Agent 任务一跑就知道",
-      "url": "https://juejin.cn/post/7658119907389554738",
-      "source": "juejin",
-      "score": 594,
-      "raw_score": 935,
-      "comments": 1,
-      "author": "轻口味",
-      "created_at": "",
-      "summary": "现在市面上能调用的模型确实越来越多了，各家都有自己的亮点和侧重点，光看宣传文档和跑分数据其实很难判断哪个真正适合自己——尤其是当任务从单轮对话延伸到多步操作的时候，情况就更加复杂了。 所以我就想着，不"
-    },
-    {
-      "title": "对车完全小白，不知买油买电还是买混动，求建议| 沸点周刊 7.2",
-      "url": "https://juejin.cn/post/7657504173896515622",
-      "source": "juejin",
-      "score": 586,
-      "raw_score": 853,
-      "comments": 1,
-      "author": "掘金一周",
-      "created_at": "",
-      "summary": "本周话题推荐 一周“金”选 内容评审们会在过去的一周内对社区沸点进行挖掘和筛选，优质的技术、生活内容有机会出现在下方榜单中，排名不分先后。"
-    },
-    {
-      "title": "聊一聊近年来互联网公司的裁员情况",
-      "url": "https://juejin.cn/post/7657863114353229862",
-      "source": "juejin",
-      "score": 569,
-      "raw_score": 701,
-      "comments": 0,
-      "author": "狂师",
-      "created_at": "",
-      "summary": "最近总有人在问，互联网是不是不行了。 我一般不直接回答。因为\"行不行\"是个主观判断，而眼下大家真正想问的，其实是另一个问题：那些曾经被视为\"金饭碗\"的大厂岗位，怎么就突然不香了？ 这个问题，问得比\"互"
-    },
-    {
-      "title": "windows终端体验大升级，让你拥有macos级别的美化",
-      "url": "https://juejin.cn/post/7657755366327664680",
-      "source": "juejin",
-      "score": 537,
-      "raw_score": 487,
-      "comments": 0,
-      "author": "非洲农业不发达",
-      "created_at": "",
-      "summary": "天下开发苦windows久矣 。windows的cmd黑窗口，性能拉胯，样式奇丑，还有编码问题，狗都不用"
-    },
-    {
-      "title": "别被模型宣传骗了，真实 Agent 任务一跑就知道",
-      "url": "https://juejin.cn/post/7657829617064706100",
-      "source": "juejin",
-      "score": 529,
-      "raw_score": 442,
-      "comments": 0,
-      "author": "猫猫头啊",
-      "created_at": "",
-      "summary": "最近这段时间，国内外模型更新得很快。 如果只看发布会和榜单，大家都会觉得每个模型都很强。参数更大、上下文更长、推理更强、价格更低，听起来都挺猛。 但真正用到工作流里，会发现另一件事：模型强不强，不只看"
-    },
-    {
-      "title": "别再被 worktree 绕晕了！AI 编程时代你必须掌握的 Git 隔离神器",
-      "url": "https://juejin.cn/post/7657811451365982208",
-      "source": "juejin",
-      "score": 480,
-      "raw_score": 253,
-      "comments": 0,
-      "author": "阳光是sunny",
-      "created_at": "",
-      "summary": "最近很多朋友像我一样，同时在 macOS 和 Windows 上用 Codex 和 Claude Desktop 写代码，结果被一个叫 worktree​ 的东西搞懵了。 明明让 AI 改了代码，刷新"
-    },
-    {
-      "title": "Go语言第一章(入门)",
-      "url": "https://juejin.cn/post/7657567333606506505",
-      "source": "juejin",
-      "score": 478,
-      "raw_score": 247,
-      "comments": 4,
-      "author": "小满zs",
-      "created_at": "",
-      "summary": "Go（又称 Golang）是Google在 2007 年推出、2009 年正式开源的静态编译型编程语言，由罗伯特・格瑞史莫（Rob Pike）、肯・汤普森（Ken Thompson，C 语言、Unix"
-    },
-    {
-      "title": "你的 AI 写的 React 烂透了？这个 8000+ Star 的开源工具能揪出 90% 的「Agent 屎山」",
-      "url": "https://juejin.cn/post/7638514648440176683",
-      "source": "juejin",
-      "score": 390,
-      "raw_score": 90,
-      "comments": 0,
-      "author": "吴琼琼",
-      "created_at": "",
-      "summary": "AI写的React代码漏洞百出？react-doctor这款8000+ Star的开源工具能扫描代码库，给出0-100健康评分，还能直接装到AI代理里从源头提升代码质量。"
-    },
-    {
-      "title": "AI Agent 安全实战指南：当智能体开始\"不听话\"，开发者该如何应对？",
-      "url": "https://juejin.cn/post/7658185555315408934",
+      "title": "揭秘大语言模型的底层逻辑：从文本分词到高维向量的计算之旅",
+      "url": "https://juejin.cn/post/7658132883367657535",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "米小虾",
+      "author": "阿黎梨梨",
       "created_at": "",
-      "summary": "一、问题有多严峻？ 2026年7月2日，联合国独立国际科学小组发布的首份全球AI评估报告中，有一段话值得所有开发者反复阅读： 更令人担忧的是报告的另一发现：AI Agent能够完成的任务复杂度每几个月"
+      "summary": "在当前人工智能迅猛发展的时代，大型语言模型（Large Language Models, LLM）已经深刻地改变了人机交互的模式。从简单的问答到复杂的代码生成，LLM 展现出了令人惊叹的“理解”能力。"
     },
     {
-      "title": "Flutter进阶：基于 EasyRefresh 的下拉刷新封装 n_easy_refresh_mixin.dart",
-      "url": "https://juejin.cn/post/7658096117939224639",
+      "title": "性能优化实战：如何定位冗余重组并榨干 Compose 的每一帧性能？",
+      "url": "https://juejin.cn/post/7658072876424544310",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "SoaringHeart",
+      "author": "杉氧",
       "created_at": "",
-      "summary": "开发中中90%的页面需要下拉刷新功能，所以一直在构思能否有个完美的封装思路，将刷新通用逻辑封装。这样既可以提高开发效率，方便维护，也可以减少bug。经过多个app打磨，两次重大升级，分享给大家。"
+      "summary": "前言 作为一名 Android 老兵，你可能还记得当年为了减少 View 绘制开销，拼命优化 onDraw、减少 invalidate 调用的日子。 到了 Compose 时代，虽然我们不再直接操作 "
     },
     {
-      "title": "Workflow 系列（06）：安全——跨步骤注入传播与四层防御",
-      "url": "https://juejin.cn/post/7658107153195663375",
-      "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
-      "comments": 0,
-      "author": "冬奇Lab",
-      "created_at": "",
-      "summary": "Workflow 安全与 Skill 安全的核心区别：Skill 安全关注单次调用，Workflow 安全关注跨 Step 的攻击传播。"
-    },
-    {
-      "title": "【机器人 / 强化学习】HIL-SERL 工程篇：人类在环的工程架构与物理设计",
-      "url": "https://juejin.cn/post/7657643263090049051",
+      "title": "PolarDB + Spring Boot 实战：从自建MySQL到云原生数据库的零停机迁移",
+      "url": "https://juejin.cn/post/7658132883367591999",
       "source": "juejin",
       "score": 180,
       "raw_score": 8,
       "comments": 0,
-      "author": "罗西的思考",
+      "author": "行者全栈架构师",
       "created_at": "",
-      "summary": "【机器人 / 强化学习】HIL-SERL 工程篇：人类在环的工程架构与物理设计 0x00 概要 0x01 系统架构总览 1.1 逻辑架构 1.2 物理拓扑 1.3 部署拓扑与启动顺序 1.4 独立运行"
+      "summary": "一、从一次大促事故说起 去年双11预热期间，我负责的电商平台订单系统遭遇了严重性能危机。自建MySQL主从集群在流量峰值下，主从延迟飙升到30秒以上，导致用户下单后查询订单状态出现\"订单不存在\"的诡异"
     },
     {
-      "title": "每日一个开源项目（第149篇）：RAG-Anything - 把图片、表格、公式当成一等公民的多模态 RAG 框架",
-      "url": "https://juejin.cn/post/7658132119806525480",
+      "title": "为什么你应该学习JavaScript？",
+      "url": "https://juejin.cn/post/7658107153196269583",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "阿橙的百宝箱",
+      "created_at": "",
+      "summary": "为什么你应该学习JavaScript？** -- 引言 在当今快速发展的技术世界中，编程语言的选择往往决定了开发者的职业方向和技术影响力。而JavaScript，作为一门诞生于1995年的语言，已"
+    },
+    {
+      "title": "中小厂前端候选人简历面试拆解：从 HR 面、技术面到主管面的双赢提问法",
+      "url": "https://juejin.cn/post/7658167450391986218",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "掘金安东尼",
+      "created_at": "",
+      "summary": "中小厂前端候选人简历面试拆解：从 HR 面、技术面到主管面的双赢提问法 一、第一眼判断：值得进面，但不能直接按中高级看 如果我是中小厂前端面试官，这份简历的第一判断是： 值得进面，但要带着验证意识。 "
+    },
+    {
+      "title": "AI工程化 03：给模型喂上下文",
+      "url": "https://juejin.cn/post/7658158057849651227",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "绿色蟑螂",
       "created_at": "",
-      "summary": "HKUDS 开源的全模态 RAG 框架，基于 LightRAG 扩展，把图像、表格、LaTeX 公式作为知识图谱的一等实体，而非转成纯文本处理。DocBench 评测 63.4%，超越 MMGraph"
+      "summary": "给模型喂上下文：从一段代码说起 一个奶茶店老板的 AI 需求 假设你在大学附近开了一家奶茶店。你的客人大多是 17 到 22 岁的学生，每杯饮品卖 15 到 20 块钱。夏天到了，你想让 AI 帮你设"
+    },
+    {
+      "title": "你的 Agent 为什么总失忆？—— Memory 设计从入门到 Claude Code",
+      "url": "https://juejin.cn/post/7658163848707473446",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "Longvox",
+      "created_at": "",
+      "summary": "Agent 记不住东西，本质上不是模型不够聪明，而是缺了 Memory 这个基础设施。没有它，每次新开 Session 都得重新交代项目架构、工具偏好、代码规范——Token 全耗在重复劳动上。"
+    },
+    {
+      "title": "缓存击穿、穿透、雪崩一次讲透：附 Redis hotkey 实战",
+      "url": "https://juejin.cn/post/7658163848707457062",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "晚安code",
+      "created_at": "",
+      "summary": "缓存击穿、穿透、雪崩一次讲透：附 Redis hotkey 实战 导读：写过后端的同学，多少都被这三兄弟教做人过。如果你刚接触 Redis 缓存，看完这篇你能分清缓存击穿、穿透、雪崩的本质差别，并在生"
+    },
+    {
+      "title": "MAI-04｜干净数据在工程上意味着什么：MAI 预训练数据治理",
+      "url": "https://juejin.cn/post/7658172806171492361",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "贵慜_Derek",
+      "created_at": "",
+      "summary": "上一篇（MAI-03）讲了 Scaling Ladder 和 EG：架构或数据改动划不划算，要在多个模型尺寸上对照 loss 和算力成本。本篇只回答：30T 语料从哪来、怎么处理、和「干净数据」在工程"
+    },
+    {
+      "title": "上下文工程（Context Engineering）：AI 应用开发的新范式 —— 从理论到实战全解析",
+      "url": "https://juejin.cn/post/7658171932030238761",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "何时梦醒",
+      "created_at": "",
+      "summary": "🧠 上下文工程（Context Engineering）：AI 应用开发的新范式 —— 从理论到实战全解析 一、引言：为什么\"完美提示词\"正在失效？ 如果你是从 2022 年就开始使用 ChatGPT"
+    },
+    {
+      "title": "从0构建SDK第4节：实现 ReflectionAgent 的自我反思循环",
+      "url": "https://juejin.cn/post/7658085653294202934",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "ch_0918",
+      "created_at": "",
+      "summary": "从零手写一个最小可用的 TypeScript LLM SDK，讲清消息、配置、异常、OpenAI 兼容调用、流式输出和 examples 验证。"
+    },
+    {
+      "title": "Room 3.0 包名重构 + KMP 迁移：我把项目升级踩了个遍",
+      "url": "https://juejin.cn/post/7658163848707112998",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "Flynt",
+      "created_at": "",
+      "summary": "先说结论：Room 3.0 不是简单换个版本号，它是一次伤筋动骨的底层重构。7月1日 androidx.room3:room3-*:3.0.0 正式发布，包名、Maven坐标、核心API全换了一遍"
+    },
+    {
+      "title": "Java 将 Word 文档转换为 Markdown：基础转换与导出选项详解",
+      "url": "https://juejin.cn/post/7658194063062204442",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "用户372157426135",
+      "created_at": "",
+      "summary": "前言 在写技术文档、知识库内容或接口说明时，很多资料一开始都是 Word 格式，比如 ​​.doc​​、​​.docx​​。但如果后续要放到 GitHub、Gitee、静态博客、文档站点或内部知识库中"
+    },
+    {
+      "title": "moby-容器对象与状态学习",
+      "url": "https://juejin.cn/post/7658132883369099327",
+      "source": "juejin",
+      "score": 60,
+      "raw_score": 2,
+      "comments": 0,
+      "author": "H_拾忆",
+      "created_at": "",
+      "summary": "Docker 以 * Container 为容器主写对象，内嵌带全局锁的 State 多布尔状态机管控生命周期。写入完成后深拷贝同步至 memdb 实现 ACID 的 ViewDB"
     }
   ]
 }
