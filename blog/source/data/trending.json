@@ -1,170 +1,159 @@
 {
-  "updated_at": "2026-07-05T13:09:09.404647+00:00",
+  "updated_at": "2026-07-06T02:11:56.220350+00:00",
   "articles": [
     {
-      "title": "Agent 场景下，谁才是真正好用的 Flash 模型",
-      "url": "https://juejin.cn/post/7656658447573729323",
+      "title": "JOIN 不是拼上就完事，多表查询这几个坑先跑一遍",
+      "url": "https://juejin.cn/post/7658601500857597978",
       "source": "juejin",
-      "score": 875,
-      "raw_score": 23779,
+      "score": 497,
+      "raw_score": 309,
       "comments": 0,
-      "author": "猫猫头啊",
+      "author": "一只牛博",
       "created_at": "",
-      "summary": "模型圈一直都很热闹，每月都有各种新的模型出来。 最近一个月，国产大模型不断推出新模型，Step 3.7 Flash、MiniMax M3、GLM-5.2、Kimi K2.7 Code几乎都是前后脚发布"
+      "summary": "单表查询跑顺以后，多表查询很快就会出现。业务接口里很少只有一张表：用户要带订单，订单要带支付，统计时还要按用户、状态、时间分组。join 这几个字本身不难，真正容易出问题的是结果行到底从哪张表开始保留"
     },
     {
-      "title": "别只盯着最强模型了，Agent 场景更该看这类 Flash 档模型",
-      "url": "https://juejin.cn/post/7657009566030872576",
+      "title": "Flutter 开发怎么做 Agent ？从工程实战详细给你解读下",
+      "url": "https://juejin.cn/post/7658865284564926518",
       "source": "juejin",
-      "score": 862,
-      "raw_score": 20564,
-      "comments": 0,
-      "author": "猫猫头啊",
-      "created_at": "",
-      "summary": "最近，GLM 5.2 接连刷屏，国产模型又热闹起来了。 加上 DeepSeek V4、MiniMax M3，还有阶跃星辰的 Step-3.7-Flash，国产大模型这一波可以说是你追我赶，热度一下子又"
-    },
-    {
-      "title": "别被模型宣传骗了，真实 Agent 任务一跑就知道",
-      "url": "https://juejin.cn/post/7658119907389554738",
-      "source": "juejin",
-      "score": 745,
-      "raw_score": 5351,
+      "score": 442,
+      "raw_score": 164,
       "comments": 2,
-      "author": "轻口味",
+      "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "现在市面上能调用的模型确实越来越多了，各家都有自己的亮点和侧重点，光看宣传文档和跑分数据其实很难判断哪个真正适合自己——尤其是当任务从单轮对话延伸到多步操作的时候，情况就更加复杂了。 所以我就想着，不"
+      "summary": "之前发 Angent 文章的时候，有人提过几次说有没有工程实战的，这次就干脆通过 Flutter 的 Agent 实现来聊一聊实战实现。 Flutter 开发做 Agent 几乎绕不开 GenKit "
     },
     {
-      "title": "扒了Reasonix的源码，总算知道为什么缓存命中率这么高了",
-      "url": "https://juejin.cn/post/7658596342127394826",
+      "title": "栗子前端技术周刊第 136 期 - pnpr、Flow 重构移植 Rust、Astryx...",
+      "url": "https://juejin.cn/post/7658622701872791587",
       "source": "juejin",
-      "score": 328,
-      "raw_score": 44,
-      "comments": 1,
-      "author": "HLAIA光子",
-      "created_at": "",
-      "summary": "大家好，我是HLAIA光子。 我自己的项目 OpenMMV，默认接的 AI 是 DeepSeek。最近有件事挺困扰我的：ds 的缓存命中率特别低，有时候只有 20% 到 30%。 DeepSeek 的"
-    },
-    {
-      "title": "手搓自然语义搜索：从传统匹配到向量化，理解 RAG 的第一步",
-      "url": "https://juejin.cn/post/7658598727730020404",
-      "source": "juejin",
-      "score": 298,
-      "raw_score": 31,
+      "score": 371,
+      "raw_score": 72,
       "comments": 0,
-      "author": "爱吃混沌",
+      "author": "晓得迷路了",
       "created_at": "",
-      "summary": "手搓自然语义搜索：从传统匹配到向量化，理解 RAG 的第一步 先看效果 没有一行 LIKE '%react%'，它是 1536 维向量 + 余弦相似度算出来的。 RAG 是什么 RAG = Retri"
+      "summary": "🌰**栗子前端技术周刊第 136 期 (2026.06.29 - 2026.07.05)**：浏览"
     },
     {
-      "title": "Phase 7.4 学习博客：为什么多 API 项目需要 Swagger / OpenAPI",
-      "url": "https://juejin.cn/post/7658556824337317898",
-      "source": "juejin",
-      "score": 292,
-      "raw_score": 29,
-      "comments": 0,
-      "author": "柒和远方",
-      "created_at": "",
-      "summary": "Phase 7.4 学习博客：为什么多 API 项目需要 Swagger / OpenAPI 这次解决的真实问题 PrepMind AI 做到 Phase 7.4 时，问题已经不是“有没有 API”。"
-    },
-    {
-      "title": "🔥 从点积到 Transformer：我终于搞懂大模型是怎么\"猜\"出下一个词的了",
-      "url": "https://juejin.cn/post/7658603691032788998",
+      "title": "我写了个 10 行的加法函数，终于搞懂了什么是 Harness Engineering",
+      "url": "https://juejin.cn/post/7658633099739381786",
       "source": "juejin",
       "score": 289,
       "raw_score": 28,
+      "comments": 0,
+      "author": "To_OC",
+      "created_at": "",
+      "summary": "直到我随手在项目里加了个 CLAUDE.md 文件，再让它写，突然就稳了。输出的代码和我预期的几乎一模一样，连注释风格都对上了。我就好奇，这不就是把 prompt 写文件里了吗，怎么效果差这么多？顺着"
+    },
+    {
+      "title": "代码都已经让 AI 写了，为什么有些人却更慌了？",
+      "url": "https://juejin.cn/post/7658709899376132131",
+      "source": "juejin",
+      "score": 289,
+      "raw_score": 28,
+      "comments": 0,
+      "author": "乘风gg",
+      "created_at": "",
+      "summary": "1.前言讨论：为什么 AI Coding 会让人很慌 最近我在技术群里，看到一个提问，完美诠释了当下 AI 时代绝大多数人的技术焦虑。 提问的是一位产品经理，很早就深度上手了 AI 开发。他可以熟练用"
+    },
+    {
+      "title": "🔥 50 行代码，我手写了一个 MCP Server 给 Claude 用！",
+      "url": "https://juejin.cn/post/7658501413066096681",
+      "source": "juejin",
+      "score": 255,
+      "raw_score": 19,
       "comments": 1,
       "author": "ReBound",
       "created_at": "",
-      "summary": "🔥 从点积到 Transformer：我终于搞懂大模型是怎么\"猜\"出下一个词的了 📌 前言：一个让我困惑了很久的问题 我第一次读 Transformer 论文时，被满屏的公式劝退了。Q、K、V、Sof"
+      "summary": "🔥 50 行代码，我手写了一个 MCP Server 给 Claude 用！ 📌 前言 最近在学 AI 开发，到处都能看到 MCP 这个词。什么\"AI 界的 USB-C\"、\"统一工具调用协议\"……概念"
     },
     {
-      "title": "Phase 7.3 复盘：后台任务不只是“扔进队列”，还要能被看见",
-      "url": "https://juejin.cn/post/7658508718037352499",
+      "title": "AI Agent 实战：last30days-skill-cn 一键搜索中国 8 大平台，30 秒生成深度研究报告",
+      "url": "https://juejin.cn/post/7658588277832433705",
       "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
+      "score": 246,
+      "raw_score": 17,
       "comments": 0,
-      "author": "柒和远方",
+      "author": "呆呆敲代码的小Y",
       "created_at": "",
-      "summary": "Phase 7.3 复盘：后台任务不只是“扔进队列”，还要能被看见 这篇博客记录 PrepMind AI 在 Phase 7.3 做的事件可观测增强。它不是一个很炫的 AI 功能，但非常适合面试讲，因"
+      "summary": "如果你需要研究\"AI 编程助手\"在中国互联网上的最新讨论。打开微博搜一轮，打开 B 站搜一轮，再打开知乎、小红书、抖音、头条……30 分钟过去了，你才刚刚把 8 个平台的原始结果扒完，还没开始分析。"
     },
     {
-      "title": "🚀 从 Prompt 到 Harness：AI 编程的下半场，我们如何给大模型套上“挽具”？",
-      "url": "https://juejin.cn/post/7658601500857106458",
+      "title": "模型越来越便宜之后，AI 应用团队要重算的不是 token 价格",
+      "url": "https://juejin.cn/post/7658922842857537582",
       "source": "juejin",
-      "score": 282,
-      "raw_score": 26,
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
-      "author": "黄敬峰",
+      "author": "程序猿小卡",
       "created_at": "",
-      "summary": "🤔 为什么我们需要“Harness”？ 想象一下，你拥有一匹烈马（LLM）。它拥有惊人的力量（海量的知识、强大的逻辑），但它野性难驯，没有方向，甚至可能随时尥蹶子（产生幻觉、遗忘上下文）"
+      "summary": "模型越来越便宜，AI 应用团队真正要重算的不是 token 单价，而是产品边界。哪些能力该从按钮进入主流程？为什么 bench 过了业务仍觉得不好用？这篇聊聊 AI 从 demo 到生产，最容易被低估"
     },
     {
-      "title": "Pregel 为什么会成为LangGraph编排的心脏",
-      "url": "https://juejin.cn/post/7658601500856778778",
+      "title": "RAG 实战：给大模型装上“开卷考试”的外挂",
+      "url": "https://juejin.cn/post/7658601500857827354",
       "source": "juejin",
-      "score": 279,
-      "raw_score": 25,
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
-      "author": "Kel",
+      "author": "先吃饱再说",
       "created_at": "",
-      "summary": "拆解 LangGraph.js 最核心的 Pregel 执行引擎——看它如何用 Superstep、Channel 和 Checkpoint 三板斧，解决 AI Agent 编排中状态管理、并行执行、"
+      "summary": "RAG 让 LLM 从“闭卷考试”变为“开卷考试”。本文从定义出发，拆解 RAG 的建库与查询流程，用代码演示如何将 JSON 数据向量化并实现语义搜索。"
     },
     {
-      "title": "如何把小米 MiMo 接入 CodeBuddy，打造私有 Agent",
-      "url": "https://juejin.cn/post/7658622701872103459",
+      "title": "AI 领域的 Harness，到底是什么意思？",
+      "url": "https://juejin.cn/post/7658917202316525603",
       "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
+      "score": 200,
+      "raw_score": 10,
       "comments": 0,
-      "author": "再吃一根胡萝卜",
+      "author": "程序员_小雨",
       "created_at": "",
-      "summary": "把小米 MiMo 接入 VSCode：用 CodeBuddy 打造你的专属 AI 编程 Agent 前言 最近拿到了小米 MiMo 的 API Key，本想直接在 VSCode 里写代码，却发现市面上"
+      "summary": "随着 AI Agent 从 Demo 走向生产环境，模型能力已经不再是唯一竞争力。 真正决定一个 Agent 是否稳定、可靠、可落地的，往往是它背后的 Harness。"
     },
     {
-      "title": "MCP（Model Context Protocol）学习分享：从理论到实践",
-      "url": "https://juejin.cn/post/7658501413065375785",
-      "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
-      "comments": 0,
-      "author": "无糖可可果",
-      "created_at": "",
-      "summary": "MCP（Model Context Protocol）学习分享：从理论到实践 一、MCP 是什么？ MCP 不是工具，不是应用，不是 API SDK，也不是一个产品——它是一个协议。"
-    },
-    {
-      "title": "无状态 LLM 架构深度解析：从 HTTP 协议到上下文工程",
-      "url": "https://juejin.cn/post/7658665688068816911",
-      "source": "juejin",
-      "score": 264,
-      "raw_score": 21,
-      "comments": 0,
-      "author": "凌涘",
-      "created_at": "",
-      "summary": "LLM本无记忆，每次请求带上全部历史便是\"状态\"。无状态架构换来无限扩展与高可用，三层工程演进只为管好上下文。模型不需记忆，你需要。"
-    },
-    {
-      "title": "第11周：Activity 跳转与传值 + 跳转优化",
-      "url": "https://juejin.cn/post/7658189424326459442",
-      "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
-      "comments": 0,
-      "author": "随遇丿而安",
-      "created_at": "",
-      "summary": "第 11 周继续围绕 Activity，但重点从“页面自己怎么活着”，切到“页面之间怎么来回”。很多刚入门的 Demo 会把跳转写成一行：startActivity"
-    },
-    {
-      "title": "随手 vibecoding 的浏览器插件已经 6000 多次下载，聊聊他的产品设计",
-      "url": "https://juejin.cn/post/7658710517372059688",
+      "title": "从0开始实现个人最简harness项目",
+      "url": "https://juejin.cn/post/7658831018950361097",
       "source": "juejin",
       "score": 180,
       "raw_score": 8,
       "comments": 0,
-      "author": "五阳",
+      "author": "chaowwwww",
       "created_at": "",
-      "summary": "做梦也想不到，熬了几个通宵写的浏览器插件，上架3 个月后已经有 6000 人在用，6月份还收到来自用户 128元的赞赏。已经被用户夸得上瘾了，他们说话好听又有趣，非常有趣"
+      "summary": "这是一个教学项目，包含agent的最简单但是完整的实现。跟着这个项目走一遍，你将会搞懂harness的关键概念和代码实现。"
+    },
+    {
+      "title": "手写一个文件读写 MCP Server：让大模型“触摸”你的硬盘",
+      "url": "https://juejin.cn/post/7658428809248063538",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "先吃饱再说",
+      "created_at": "",
+      "summary": "MCP 让大模型能够调用外部工具。本文从零搭建一个文件读写 MCP Server，通过 Zod 定义参数、StdioServerTransport 建立通信通道，并加入路径安全限制。读完你会理解 MC"
+    },
+    {
+      "title": "🚀 Agentic RAG：从\"检索增强生成\"到\"智能体驱动的检索增强生成\"，RAG 的下一个范式",
+      "url": "https://juejin.cn/post/7658501413066047529",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "阿耶同学",
+      "created_at": "",
+      "summary": "🚀 Agentic RAG：从\"检索增强生成\"到\"智能体驱动的检索增强生成\"，RAG 的下一个范式 📖 前言 2023 年，RAG（Retrieval-Augmented Generation，检索增"
+    },
+    {
+      "title": "用Flutter做背单词APP-00前言",
+      "url": "https://juejin.cn/post/7658663867577516059",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "雪隐_上班了",
+      "created_at": "",
+      "summary": "背景 痛点很简单： 背单词 App，好用的功能全要钱。 我想背词组？没有。 问客服，客服态度很好：“确实没有这个功能呢，以后可能会加哦～” 翻译一下：“以后”≈“下辈子”。 最近，正好失业了。 想着反"
     }
   ]
 }
