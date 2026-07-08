@@ -357,8 +357,8 @@ CDN:
 # --------------------------------------
 inject:
   head:
-    - <link rel="stylesheet" href="/DailyNote/css/carousel.css">
-    - <link rel="stylesheet" href="/DailyNote/css/gradient.css">
-    - <link rel="stylesheet" href="/DailyNote/css/custom-pages.css">
+    - <link rel="stylesheet" href="/DailyNote/css/carousel.min.css">
+    - <link rel="stylesheet" href="/DailyNote/css/gradient.min.css">
+    - <link rel="stylesheet" href="/DailyNote/css/custom-pages.min.css">
   bottom:
-    - <script src="/DailyNote/js/carousel.js"></script>
+    - <script src="/DailyNote/js/carousel.min.js"></script>

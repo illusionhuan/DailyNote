@@ -7,11 +7,18 @@
 # 站点信息（影响页面标题、SEO meta 标签、RSS）
 title: 我的博客
 subtitle: 技术分享与热文聚合
-description: 个人技术博客，分享编程心得与全网技术热文
+description: 个人技术博客，分享编程心得与全网技术热文，聚合掘金等平台优质中文技术文章
 keywords:
   - 技术博客
   - 编程
   - 热文聚合
+  - 掘金
+  - 前端开发
+  - 后端开发
+  - 数据库
+  - 算法
+  - 开发者社区
+  - 中文技术文章
 author: illusionhuan
 language: zh-CN
 timezone: Asia/Shanghai
