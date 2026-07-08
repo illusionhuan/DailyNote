@@ -2,7 +2,7 @@
 title: 每日测试
 date: 2026-06-28
 type: "quiz"
-top_img: /DailyNote/images/landscape3.jpg
+top_img: /images/landscape3.jpg
 aside: false
 ---
 

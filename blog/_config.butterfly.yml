@@ -58,10 +58,10 @@ avatar:
 
 disable_top_img: false
 
-archive_img: /DailyNote/images/landscape1.jpg
-category_img: /DailyNote/images/landscape2.jpg
-tag_img: /DailyNote/images/landscape3.jpg
-default_top_img: /DailyNote/images/landscape4.jpg
+archive_img: /images/landscape1.jpg
+category_img: /images/landscape2.jpg
+tag_img: /images/landscape3.jpg
+default_top_img: /images/landscape4.jpg
 
 cover:
   index_enable: true    # 首页显示封面图

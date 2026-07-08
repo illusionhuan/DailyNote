@@ -2,7 +2,7 @@
 title: 分类
 date: 2026-06-21
 type: "page"
-top_img: /DailyNote/images/landscape2.jpg
+top_img: /images/landscape2.jpg
 ---
 
 <div class="classify-tabs">

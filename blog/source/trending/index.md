@@ -2,7 +2,7 @@
 title: 热文榜
 date: 2026-06-08
 type: "trending"
-top_img: /DailyNote/images/landscape7.jpg
+top_img: /images/landscape7.jpg
 ---
 
 <!-- 热文聚合页面：从 trending.json 加载数据，展示中文技术热文 -->
