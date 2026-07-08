@@ -4,7 +4,7 @@
 """
 import os
 import shutil
-from PIL import Image
+from PIL import Image, UnidentifiedImageError
 from pathlib import Path
 
 
@@ -18,62 +18,72 @@ def compress_image(input_path, output_path, target_mb, min_quality=30, max_width
     智能压缩图片：调整尺寸 + 质量
     保留原始格式
     """
-    ext = Path(input_path).suffix.lower()
-    is_png = ext == '.png'
+    try:
+        ext = Path(input_path).suffix.lower()
+        is_png = ext == '.png'
 
-    current_size = get_file_size_mb(input_path)
-    if current_size <= target_mb:
-        print(f"  已经足够小 ({current_size:.2f}MB <= {target_mb:.2f}MB)，跳过")
+        current_size = get_file_size_mb(input_path)
+        if current_size <= target_mb:
+            print(f"  已经足够小 ({current_size:.2f}MB <= {target_mb:.2f}MB)，跳过")
+            return True
+
+        with Image.open(input_path) as img:
+            original_size = img.size
+
+            # 转换 RGBA 为 RGB（JPEG 不支持 RGBA）
+            if img.mode == 'RGBA' and not is_png:
+                img = img.convert('RGB')
+            elif img.mode == 'RGBA' and is_png:
+                # PNG 保留 RGBA
+                pass
+            elif img.mode in ('CMYK', 'LA', 'P'):
+                img = img.convert('RGB')
+
+            # 第一步：缩小尺寸
+            width, height = img.size
+            if width > max_width:
+                ratio = max_width / width
+                new_size = (max_width, int(height * ratio))
+                img = img.resize(new_size, Image.Resampling.LANCZOS)
+                print(f"  尺寸调整: {original_size} -> {new_size}")
+
+            # 第二步：迭代降低质量
+            if is_png:
+                # PNG：先缩小尺寸，再减少颜色
+                for colors in [256, 128, 64]:
+                    if img.mode == 'RGBA':
+                        quantized = img.quantize(colors=colors, method=Image.Quantize.FASTOCTREE)
+                    else:
+                        quantized = img.quantize(colors=colors, method=Image.Quantize.MEDIANCUT)
+                    quantized.save(output_path, 'PNG', optimize=True)
+                    size = get_file_size_mb(output_path)
+                    print(f"  colors={colors}, 大小={size:.2f}MB")
+                    if size <= target_mb:
+                        return True
+            else:
+                # JPEG：降低质量
+                quality = 80
+                while quality >= min_quality:
+                    img.save(output_path, 'JPEG', quality=quality, optimize=True)
+                    size = get_file_size_mb(output_path)
+                    print(f"  quality={quality}, 大小={size:.2f}MB")
+                    if size <= target_mb:
+                        return True
+                    quality -= 10
+
+                # 最终保存
+                img.save(output_path, 'JPEG', quality=min_quality, optimize=True)
+
         return True
-
-    with Image.open(input_path) as img:
-        original_size = img.size
-
-        # 转换 RGBA 为 RGB（JPEG 不支持 RGBA）
-        if img.mode == 'RGBA' and not is_png:
-            img = img.convert('RGB')
-        elif img.mode == 'RGBA' and is_png:
-            # PNG 保留 RGBA
-            pass
-        elif img.mode in ('CMYK', 'LA', 'P'):
-            img = img.convert('RGB')
-
-        # 第一步：缩小尺寸
-        width, height = img.size
-        if width > max_width:
-            ratio = max_width / width
-            new_size = (max_width, int(height * ratio))
-            img = img.resize(new_size, Image.Resampling.LANCZOS)
-            print(f"  尺寸调整: {original_size} -> {new_size}")
-
-        # 第二步：迭代降低质量
-        if is_png:
-            # PNG：先缩小尺寸，再减少颜色
-            for colors in [256, 128, 64]:
-                if img.mode == 'RGBA':
-                    quantized = img.quantize(colors=colors, method=Image.Quantize.FASTOCTREE)
-                else:
-                    quantized = img.quantize(colors=colors, method=Image.Quantize.MEDIANCUT)
-                quantized.save(output_path, 'PNG', optimize=True)
-                size = get_file_size_mb(output_path)
-                print(f"  colors={colors}, 大小={size:.2f}MB")
-                if size <= target_mb:
-                    return True
-        else:
-            # JPEG：降低质量
-            quality = 80
-            while quality >= min_quality:
-                img.save(output_path, 'JPEG', quality=quality, optimize=True)
-                size = get_file_size_mb(output_path)
-                print(f"  quality={quality}, 大小={size:.2f}MB")
-                if size <= target_mb:
-                    return True
-                quality -= 10
-
-            # 最终保存
-            img.save(output_path, 'JPEG', quality=min_quality, optimize=True)
-
-    return True
+    except UnidentifiedImageError:
+        print(f"  无法识别图片格式: {input_path}")
+        return False
+    except OSError as e:
+        print(f"  文件操作失败 {input_path}: {e}")
+        return False
+    except Exception as e:
+        print(f"  压缩失败 {input_path}: {e}")
+        return False
 
 
 def main():
