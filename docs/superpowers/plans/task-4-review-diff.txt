@@ -1,0 +1,93 @@
+diff --git a/blog/_config.butterfly.yml b/blog/_config.butterfly.yml
+index 82d25c3..47c9a33 100644
+--- a/blog/_config.butterfly.yml
++++ b/blog/_config.butterfly.yml
+@@ -350,15 +350,15 @@ Open_Graph_meta:
+ CDN:
+   internal_provider: local
+   third_party_provider: local
+   version: true
+ 
+ # --------------------------------------
+ # Inject (自定义 CSS/JS 注入)
+ # --------------------------------------
+ inject:
+   head:
+-    - <link rel="stylesheet" href="/DailyNote/css/carousel.css">
+-    - <link rel="stylesheet" href="/DailyNote/css/gradient.css">
+-    - <link rel="stylesheet" href="/DailyNote/css/custom-pages.css">
++    - <link rel="stylesheet" href="/DailyNote/css/carousel.min.css">
++    - <link rel="stylesheet" href="/DailyNote/css/gradient.min.css">
++    - <link rel="stylesheet" href="/DailyNote/css/custom-pages.min.css">
+   bottom:
+-    - <script src="/DailyNote/js/carousel.js"></script>
++    - <script src="/DailyNote/js/carousel.min.js"></script>
+diff --git a/blog/_config.yml b/blog/_config.yml
+index bdd86e0..51d9db5 100644
+--- a/blog/_config.yml
++++ b/blog/_config.yml
+@@ -1,24 +1,31 @@
+ # ======================================
+ # Hexo 站点配置
+ # 文档：https://hexo.io/docs/configuration.html
+ # 此文件控制站点级别的行为：站点信息、URL、插件、构建规则等
+ # ======================================
+ 
+ # 站点信息（影响页面标题、SEO meta 标签、RSS）
+ title: 我的博客
+ subtitle: 技术分享与热文聚合
+-description: 个人技术博客，分享编程心得与全网技术热文
++description: 个人技术博客，分享编程心得与全网技术热文，聚合掘金等平台优质中文技术文章
+ keywords:
+   - 技术博客
+   - 编程
+   - 热文聚合
++  - 掘金
++  - 前端开发
++  - 后端开发
++  - 数据库
++  - 算法
++  - 开发者社区
++  - 中文技术文章
+ author: illusionhuan
+ language: zh-CN
+ timezone: Asia/Shanghai
+ 
+ # URL 配置
+ # GitHub Pages 项目站点部署在 /DailyNote/ 子目录
+ url: https://illusionhuan.github.io/DailyNote
+ root: /DailyNote/
+ permalink: posts/:title/  # 文章永久链接格式：/posts/文章标题/
+ permalink_defaults:
+diff --git a/blog/source/css/carousel.min.css b/blog/source/css/carousel.min.css
+new file mode 100644
+index 0000000..5d55f40
+--- /dev/null
++++ b/blog/source/css/carousel.min.css
+@@ -0,0 +1 @@
++#page-header{position:relative;overflow:hidden}#page-header:not(.not-top-img):before{z-index:-1}#page-header .carousel-container{position:absolute;top:0;left:0;right:0;bottom:0;display:flex;flex-direction:column}#page-header .carousel-slide{position:absolute;top:0;left:0;right:0;bottom:0;background-size:cover;background-position:center;opacity:0;transition:opacity 1.5s ease-in-out;z-index:0}#page-header .carousel-slide.active{opacity:1}#page-header #site-info,#page-header nav{position:relative;z-index:1}#page-header #scroll-down{position:relative;z-index:1;margin-top:auto}#page-header.carousel-page{z-index:2}#page-header.carousel-page #page-site-info{position:relative;z-index:1}#page-header.carousel-page #page-site-info .page-subtitle,#page-header.carousel-page #page-site-info .page-title{text-shadow:0 2px 12px rgba(0,0,0,.5)}#page-header.carousel-page::after{content:'';position:absolute;bottom:0;left:0;right:0;height:80px;background:linear-gradient(transparent,rgba(0,0,0,.25));z-index:0;pointer-events:none}
+\ No newline at end of file
+diff --git a/blog/source/css/custom-pages.min.css b/blog/source/css/custom-pages.min.css
+new file mode 100644
+index 0000000..17c7389
+--- /dev/null
++++ b/blog/source/css/custom-pages.min.css
+@@ -0,0 +1 @@
++#archive .article-sort{border-left:3px solid transparent;border-image:linear-gradient(180deg,#7CABBA 0%,#9CC5D0 50%,#5A8C9C 100%) 1;padding-left:24px}#archive .article-sort .article-sort-item.year{background:linear-gradient(135deg,#7cabba 0,#5a8c9c 100%);color:#fff;font-size:18px;font-weight:700;padding:6px 16px;border-radius:6px;margin-left:-32px;margin-bottom:12px;margin-top:20px;width:fit-content;box-shadow:0 2px 8px rgba(124,171,186,.3)}#archive .article-sort .article-sort-item.year:first-child{margin-top:0}#archive .article-sort .article-sort-item:not(.year)::before{border-color:#7cabba;background:#fff;width:11px;height:11px;left:-29px;transition:background .2s,transform .2s}#archive .article-sort .article-sort-item:not(.year):hover::before{background:#7cabba;transform:scale(1.3)}#archive .article-sort .article-sort-item:not(.year){padding:12px 16px;border-radius:8px;transition:background .2s,box-shadow .2s}#archive .article-sort .article-sort-item:not(.year):hover{background:rgba(124,171,186,.06);box-shadow:0 2px 12px rgba(124,171,186,.12)}#archive .article-sort .article-sort-item-img{border-radius:6px;overflow:hidden}#archive .article-sort .article-sort-item-img img{transition:transform .3s}#archive .article-sort .article-sort-item:not(.year):hover .article-sort-item-img img{transform:scale(1.05)}#archive .article-sort .article-sort-item-title a{transition:color .2s}#archive .article-sort .article-sort-item-title a:hover{color:#5a8c9c}[data-theme=dark] #archive .article-sort .article-sort-item.year{background:linear-gradient(135deg,#5a8c9c 0,#4a7c8c 100%)}[data-theme=dark] #archive .article-sort .article-sort-item:not(.year)::before{background:#1a1a1a;border-color:#7cabba}[data-theme=dark] #archive .article-sort .article-sort-item:not(.year):hover{background:rgba(124,171,186,.08)}[data-theme=dark] #archive .article-sort .article-sort-item-title a:hover{color:#9cc5d0}.category-lists .category-list{display:none}.category-cards-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;padding:10px 0}.category-card{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:28px 20px;border-radius:12px;background:#fff;border:1px solid #eee;cursor:pointer;text-decoration:none;transition:transform .25s,box-shadow .25s;text-align:center}.category-card:hover{transform:translateY(-4px);box-shadow:0 8px 24px rgba(124,171,186,.2);text-decoration:none}.category-card-icon{font-size:32px;margin-bottom:12px;width:56px;height:56px;display:flex;align-items:center;justify-content:center;border-radius:50%;background:linear-gradient(135deg,rgba(124,171,186,.15) 0,rgba(156,197,208,.15) 100%)}.category-card-name{font-size:16px;font-weight:600;color:#333;margin-bottom:6px}.category-card-count{font-size:13px;color:#999}.category-card-count span{font-size:20px;font-weight:700;color:#7cabba;margin-right:2px}[data-theme=dark] .category-card{background:#1e1e1e;border-color:#333}[data-theme=dark] .category-card:hover{box-shadow:0 8px 24px rgba(74,122,138,.2)}[data-theme=dark] .category-card-name{color:#e0e0e0}[data-theme=dark] .category-card-icon{background:linear-gradient(135deg,rgba(124,171,186,.1) 0,rgba(156,197,208,.1) 100%)}[data-theme=dark] .category-card-count span{color:#9cc5d0}@media (max-width:768px){.category-cards-grid{grid-template-columns:repeat(2,1fr);gap:14px}.category-card{padding:20px 14px}.category-card-icon{font-size:26px;width:46px;height:46px}#archive .article-sort .article-sort-item.year{margin-left:-28px;font-size:16px}}@media (max-width:480px){.category-cards-grid{grid-template-columns:1fr}}#pagination.pagination-post .pagination-related:first-child{background-image:linear-gradient(135deg,rgba(90,140,156,.85) 0,rgba(0,0,0,.7) 100%),url('/DailyNote/images/1.png');background-size:cover;background-position:center 30%}#pagination.pagination-post .pagination-related:last-child{background-image:linear-gradient(135deg,rgba(0,0,0,.7) 0,rgba(90,140,156,.85) 100%),url('/DailyNote/images/2.jpg');background-size:cover;background-position:center 30%}#pagination.pagination-post .pagination-related .cover:not([style*=url]){background:0 0!important}.relatedPosts .relatedPosts-list a{background-image:linear-gradient(180deg,rgba(0,0,0,.3) 0,rgba(0,0,0,.7) 100%),url('/DailyNote/images/3.jpg')!important;background-size:cover!important;background-position:center!important}.relatedPosts .relatedPosts-list a:nth-child(3n+1){background-image:linear-gradient(180deg,rgba(0,0,0,.3) 0,rgba(0,0,0,.7) 100%),url('/DailyNote/images/1.png')!important;background-position:center 20%!important}.relatedPosts .relatedPosts-list a:nth-child(3n+2){background-image:linear-gradient(180deg,rgba(0,0,0,.3) 0,rgba(0,0,0,.7) 100%),url('/DailyNote/images/2.jpg')!important;background-position:center 40%!important}[data-theme=dark] #pagination.pagination-post .pagination-related:first-child{background-image:linear-gradient(135deg,rgba(40,70,80,.9) 0,rgba(0,0,0,.85) 100%),url('/DailyNote/images/1.png')}[data-theme=dark] #pagination.pagination-post .pagination-related:last-child{background-image:linear-gradient(135deg,rgba(0,0,0,.85) 0,rgba(40,70,80,.9) 100%),url('/DailyNote/images/2.jpg')}[data-theme=dark] .relatedPosts .relatedPosts-list a{background-image:linear-gradient(180deg,rgba(0,0,0,.4) 0,rgba(0,0,0,.8) 100%),url('/DailyNote/images/3.jpg')!important}[data-theme=dark] .relatedPosts .relatedPosts-list a:nth-child(3n+1){background-image:linear-gradient(180deg,rgba(0,0,0,.4) 0,rgba(0,0,0,.8) 100%),url('/DailyNote/images/1.png')!important}[data-theme=dark] .relatedPosts .relatedPosts-list a:nth-child(3n+2){background-image:linear-gradient(180deg,rgba(0,0,0,.4) 0,rgba(0,0,0,.8) 100%),url('/DailyNote/images/2.jpg')!important}
+\ No newline at end of file
+diff --git a/blog/source/css/gradient.min.css b/blog/source/css/gradient.min.css
+new file mode 100644
+index 0000000..da06a7f
+--- /dev/null
++++ b/blog/source/css/gradient.min.css
+@@ -0,0 +1 @@
++#footer{background:linear-gradient(135deg,#7cabba 0,#5a8c9c 100%)!important}#page-header:not(.full_page):not(.carousel-archive){background:linear-gradient(135deg,#5a8c9c 0,#7cabba 50%,#9cc5d0 100%)!important}#page-header.nav-fixed>#nav,#page-header.not-top-img>#nav{background:linear-gradient(90deg,rgba(124,171,186,.12),rgba(255,255,255,.72))!important}#article-container .btn-beautify,.btn-beautify{background:linear-gradient(135deg,#7cabba 0,#6a9bab 100%)!important}#article-container .btn-beautify:hover,.btn-beautify:hover{background:linear-gradient(135deg,#6a9bab 0,#5a8c9c 100%)!important}.pagination .page-number:hover{background:linear-gradient(135deg,#7cabba 0,#6a9bab 100%)!important}.custom-hr,hr{border-image:linear-gradient(90deg,transparent 0%,#9CC5D0 20%,#7CABBA 50%,#9CC5D0 80%,transparent 100%) 1!important;border-width:2px 0 0 0!important;border-style:solid!important}blockquote{border-left:4px solid transparent!important;border-image:linear-gradient(to bottom,#7CABBA,#9CC5D0) 1!important;border-image-slice:0 0 0 4!important;background:linear-gradient(135deg,rgba(124,171,186,.08),rgba(156,197,208,.04))!important}.toc-link.active{background:linear-gradient(135deg,#7cabba 0,#5a8c9c 100%)!important}::selection{background:linear-gradient(135deg,#7cabba,#9cc5d0)!important;background-color:#7cabba!important;color:#fff!important}::-webkit-scrollbar-thumb{background:linear-gradient(180deg,#9cc5d0 0,#7cabba 100%)!important}@-moz-document url-prefix(){*{scrollbar-color:#7CABBA transparent!important}}.card-widget::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,#7cabba,#9cc5d0,#5a8c9c);border-radius:8px 8px 0 0;z-index:1}#article-container .post-title-prefix,.post-title-prefix{background:linear-gradient(135deg,#f47466,#e85a4f);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}#article-container{font-size:16px;line-height:1.8}#article-container h1{font-size:28px}#article-container h2{font-size:24px}#article-container h3{font-size:20px}#article-container h4{font-size:18px}[data-theme=dark] #footer{background:linear-gradient(135deg,#4a7a8a 0,#3a6a7a 100%)!important}[data-theme=dark] #page-header:not(.full_page):not(.carousel-archive){background:linear-gradient(135deg,#3a6a7a 0,#4a7a8a 50%,#5a8c9c 100%)!important}[data-theme=dark] #page-header.nav-fixed>#nav,[data-theme=dark] #page-header.not-top-img>#nav{background:linear-gradient(90deg,rgba(74,122,138,.15),rgba(18,18,18,.8))!important}[data-theme=dark] #article-container .btn-beautify,[data-theme=dark] .btn-beautify{background:linear-gradient(135deg,#4a7a8a 0,#3a6a7a 100%)!important}[data-theme=dark] #article-container .btn-beautify:hover,[data-theme=dark] .btn-beautify:hover{background:linear-gradient(135deg,#5a8c9c 0,#4a7a8a 100%)!important}[data-theme=dark] .pagination .page-number:hover{background:linear-gradient(135deg,#4a7a8a 0,#3a6a7a 100%)!important}[data-theme=dark] .custom-hr,[data-theme=dark] hr{border-image:linear-gradient(90deg,transparent 0%,#4A7A8A 20%,#5A8C9C 50%,#4A7A8A 80%,transparent 100%) 1!important}[data-theme=dark] blockquote{border-image:linear-gradient(to bottom,#4A7A8A,#5A8C9C) 1!important;border-image-slice:0 0 0 4!important;background:linear-gradient(135deg,rgba(74,122,138,.1),rgba(90,140,156,.05))!important}[data-theme=dark] .toc-link.active{background:linear-gradient(135deg,#4a7a8a 0,#3a6a7a 100%)!important}[data-theme=dark] ::-webkit-scrollbar-thumb{background:linear-gradient(180deg,#4a7a8a 0,#3a6a7a 100%)!important}[data-theme=dark] .card-widget::before{background:linear-gradient(90deg,#4a7a8a,#5a8c9c,#3a6a7a)}[data-theme=dark] #article-container .post-title-prefix,[data-theme=dark] .post-title-prefix{background:linear-gradient(135deg,#ff8a7a,#f47466);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+\ No newline at end of file
+diff --git a/blog/source/js/carousel.min.js b/blog/source/js/carousel.min.js
+new file mode 100644
+index 0000000..d5db802
+--- /dev/null
++++ b/blog/source/js/carousel.min.js
+@@ -0,0 +1 @@
++(()=>{var e,a,t,s,l,i,n=document.getElementById("page-header");n&&(e=n.classList.contains("full_page"),l=n.classList.contains("post-bg"),a=n.classList.contains("not-home-page"),e||l||a)&&((l||a)&&n.classList.add("carousel-page"),(t=document.createElement("div")).className="carousel-container",n.insertBefore(t,n.firstChild),s=["/DailyNote/images/landscape1.jpg","/DailyNote/images/landscape2.jpg","/DailyNote/images/landscape3.jpg","/DailyNote/images/landscape4.jpg","/DailyNote/images/landscape5.jpg","/DailyNote/images/landscape6.jpg","/DailyNote/images/landscape7.jpg"].map(function(e,a){var s=document.createElement("div");return s.className="carousel-slide"+(0===a?" active":""),s.style.backgroundImage="url("+e+")",t.appendChild(s),s}),e&&(l=document.getElementById("scroll-down"))&&t.appendChild(l),i=0,setInterval(function(){s[i].classList.remove("active"),i=(i+1)%s.length,s[i].classList.add("active")},5e3))})();
+\ No newline at end of file

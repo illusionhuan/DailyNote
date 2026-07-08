@@ -1,0 +1,117 @@
+diff --git a/blog/_config.butterfly.yml b/blog/_config.butterfly.yml
+index 072e23d..82d25c3 100644
+--- a/blog/_config.butterfly.yml
++++ b/blog/_config.butterfly.yml
+@@ -51,24 +51,24 @@ social:
+ # avatar: 侧边栏头像
+ # disable_top_img: 是否禁用文章顶部图片
+ # cover: 文章封面图在各页面的显示开关
+ # --------------------------------------
+ avatar:
+   img: /images/9-tuya.jpg
+   effect: false
+ 
+ disable_top_img: false
+ 
+-archive_img: /DailyNote/images/landscape1.jpg
+-category_img: /DailyNote/images/landscape2.jpg
+-tag_img: /DailyNote/images/landscape3.jpg
+-default_top_img: /DailyNote/images/landscape4.jpg
++archive_img: /images/landscape1.jpg
++category_img: /images/landscape2.jpg
++tag_img: /images/landscape3.jpg
++default_top_img: /images/landscape4.jpg
+ 
+ cover:
+   index_enable: true    # 首页显示封面图
+   aside_enable: true    # 侧边栏显示封面图
+   archives_enable: true # 归档页显示封面图
+ 
+ # --------------------------------------
+ # 文章元信息（日期、分类、标签的显示方式）
+ # date_type: created=创建时间 | updated=更新时间 | both=两者都显示
+ # date_format: relative=相对时间（3天前） | YYYY-MM-DD=绝对时间
+diff --git a/blog/source/about/index.md b/blog/source/about/index.md
+index 9776294..6ac1725 100644
+--- a/blog/source/about/index.md
++++ b/blog/source/about/index.md
+@@ -1,15 +1,15 @@
+ ---
+ title: 关于
+ date: 2026-06-08
+ type: "about"
+-top_img: /DailyNote/images/landscape6.jpg
++top_img: /images/landscape6.jpg
+ ---
+ 
+ ## 关于这个博客
+ 
+ 这是一个个人技术博客，主要用于：
+ 
+ - **技术分享** - 记录编程学习过程中的心得与总结
+ - **热文聚合** - 每天自动抓取全网技术热文，一站式阅读
+ 
+ ## 技术栈
+diff --git a/blog/source/classify/index.md b/blog/source/classify/index.md
+index 5013671..9da1361 100644
+--- a/blog/source/classify/index.md
++++ b/blog/source/classify/index.md
+@@ -1,15 +1,15 @@
+ ---
+ title: 分类
+ date: 2026-06-21
+ type: "page"
+-top_img: /DailyNote/images/landscape2.jpg
++top_img: /images/landscape2.jpg
+ ---
+ 
+ <div class="classify-tabs">
+   <button class="classify-tab active" data-tab="categories">分类</button>
+   <button class="classify-tab" data-tab="tags">标签</button>
+ </div>
+ <div class="classify-content" id="classify-categories">
+   <div class="category-cards-grid" id="category-grid"></div>
+ </div>
+ <div class="classify-content" id="classify-tags" style="display:none">
+diff --git a/blog/source/quiz/index.md b/blog/source/quiz/index.md
+index 83f89ae..8a854a8 100644
+--- a/blog/source/quiz/index.md
++++ b/blog/source/quiz/index.md
+@@ -1,15 +1,15 @@
+ ---
+ title: 每日测试
+ date: 2026-06-28
+ type: "quiz"
+-top_img: /DailyNote/images/landscape3.jpg
++top_img: /images/landscape3.jpg
+ aside: false
+ ---
+ 
+ <div id="quiz-container">
+   <div id="quiz-select" class="quiz-screen">
+     <div class="quiz-tabs">
+       <button class="quiz-tab quiz-tab-active" data-tab="bank">题库</button>
+       <button class="quiz-tab" data-tab="notebook">错题本 <span id="quiz-notebook-badge" class="quiz-tab-badge" style="display:none">0</span></button>
+     </div>
+     <div id="quiz-tab-bank" class="quiz-tab-panel">
+diff --git a/blog/source/trending/index.md b/blog/source/trending/index.md
+index f76a7f8..7cf3f4c 100644
+--- a/blog/source/trending/index.md
++++ b/blog/source/trending/index.md
+@@ -1,15 +1,15 @@
+ ---
+ title: 热文榜
+ date: 2026-06-08
+ type: "trending"
+-top_img: /DailyNote/images/landscape7.jpg
++top_img: /images/landscape7.jpg
+ ---
+ 
+ <!-- 热文聚合页面：从 trending.json 加载数据，展示中文技术热文 -->
+ 
+ <div id="trending-container">
+   <div class="trending-header">
+     <p class="trending-updated" id="trending-updated"></p>
+   </div>
+   <div class="trending-list" id="trending-list">
+     <p>加载中...</p>
