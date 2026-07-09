@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-08T13:41:15.826552+00:00",
+  "updated_at": "2026-07-09T02:00:08.135144+00:00",
   "articles": [
+    {
+      "title": "Fiber 节点 —— 一个数据结构如何承载整个 React 运行时",
+      "url": "https://juejin.cn/post/7659763781161730102",
+      "source": "juejin",
+      "score": 809,
+      "raw_score": 11094,
+      "comments": 1,
+      "author": "老王以为",
+      "created_at": "",
+      "summary": "React通过 Fiber 节点去承载整个 React 的运行时，今天我们通过这篇文章来梳理一下 React 是如何做的，为什么要这样做，这样做背后的考量是什么？"
+    },
     {
       "title": "凌晨睡不着，我给台风巴威写了个追踪网站",
       "url": "https://juejin.cn/post/7659393583027896330",
       "source": "juejin",
-      "score": 702,
-      "raw_score": 3265,
+      "score": 718,
+      "raw_score": 3911,
       "comments": 23,
       "author": "HiSt",
       "created_at": "",
       "summary": "索性爬起来，打开电脑，用 Claude Fable 5 把想法一点点敲了出来。把基于中央气象台、日本气象厅、美国 JTWC、台湾气象署四家的路径数据放在同一张地图上之后，很多事一眼就看明白了"
     },
     {
-      "title": "Fiber 节点 —— 一个数据结构如何承载整个 React 运行时",
-      "url": "https://juejin.cn/post/7659763781161730102",
+      "title": "南京IT公司六小龙",
+      "url": "https://juejin.cn/post/7659978807450796075",
       "source": "juejin",
-      "score": 691,
-      "raw_score": 2872,
+      "score": 373,
+      "raw_score": 74,
       "comments": 0,
-      "author": "老王以为",
+      "author": "CodeSheep",
       "created_at": "",
-      "summary": "React通过 Fiber 节点去承载整个 React 的运行时，今天我们通过这篇文章来梳理一下 React 是如何做的，为什么要这样做，这样做背后的考量是什么？"
+      "summary": "提到「杭州六小龙」，相信大家都耳熟能详了。 它指的是聚焦于人工智能、机器人、脑机接口、游戏开发等前沿领域的 6 家杭州高科技企业，包括： 游戏科学 深度求索 宇树科技 云深处科技 强脑科技 群核科技 "
     },
     {
-      "title": "我多年积累的 100+ 简历优化经验，整理成了 Skill",
-      "url": "https://juejin.cn/post/7659275867992850486",
+      "title": "KES 优化行为避坑指南-那条从没被质疑过的 LEFT JOIN，在迁 KES 时终于露馅了",
+      "url": "https://juejin.cn/post/7660229701227675663",
       "source": "juejin",
-      "score": 582,
-      "raw_score": 822,
+      "score": 361,
+      "raw_score": 64,
       "comments": 0,
-      "author": "双越AI_club",
+      "author": "倔强的石头_",
       "created_at": "",
-      "summary": "大家好，我是双越。wangEditor 作者，前百度 滴滴 资深前端工程师，慕课网精英讲师，PMP。我把我多年简历优化的经验，整理成了一个 简历优化 skill，这样你就可以使用 AI 自己优化简历。"
+      "summary": "报表少了 40%：那条从没被质疑过的 LEFT JOIN，在迁 KES 时终于露馅了 上个周五吧，大概下午四点左右，运营那边的人在群里开始找我了。问的是这个事：“为什么用户报表今天的总数，比昨天少了快"
     },
     {
-      "title": "基于 Claude Code 的 AI 编程工作流探索",
-      "url": "https://juejin.cn/post/7659569188227285019",
+      "title": "别再让 AI 瞎找代码了！CodeGraph 这工具能让它秒懂你的项目",
+      "url": "https://juejin.cn/post/7660064037460344858",
       "source": "juejin",
-      "score": 518,
-      "raw_score": 393,
+      "score": 348,
+      "raw_score": 55,
       "comments": 1,
-      "author": "Lsx_",
+      "author": "阳光是sunny",
       "created_at": "",
-      "summary": "Claude Code 不是一个简单的聊天机器人，而是一位执行力极强、但需要明确约束的工程师。记住三个关键原则：1. 提问越具体，产出越精准 — 说清楚背景、目标、约束。2. 选择合适的模式 - A"
+      "summary": "你有没有这种经历？ 你问 AI：“帮我看看用户登录的逻辑在哪？” 它回你一堆操作日志： 等了一分多钟，它还在那儿“吭哧吭哧”地翻文件，最后给你一个似是而非的答案。这时候你心里肯定在骂：你是人工智障吗？"
     },
     {
-      "title": "DOMagic：把 AI 修改绑定到页面节点的前端开发态插件",
-      "url": "https://juejin.cn/post/7659556749486014516",
+      "title": "Flutter material/cupertino 解耦最新进展，已经在做新样式了",
+      "url": "https://juejin.cn/post/7660030380293357609",
       "source": "juejin",
-      "score": 490,
-      "raw_score": 283,
-      "comments": 0,
-      "author": "灏仟亿前端技术团队",
-      "created_at": "",
-      "summary": "DOMagic插件 关注的正是这类开发态问题：让开发者可以在浏览器页面中直接选中目标节点，发起“AI 修改样式”或“AI 修改业务”，并把修改写回源码文件。"
-    },
-    {
-      "title": "为什么你的大文件断点续传，一遇到弱网就崩溃？",
-      "url": "https://juejin.cn/post/7659345269612855330",
-      "source": "juejin",
-      "score": 476,
-      "raw_score": 240,
-      "comments": 3,
-      "author": "ErpanOmer",
-      "created_at": "",
-      "summary": "大文件上传在弱网环境下易失败，标准切片上传方案缺乏并发控制与容错机制，导致页面崩溃、上传卡死。需实现原生并发队列、错误重试、状态持久化等优化措施，才能保障真实网络环境下的上传稳定性。"
-    },
-    {
-      "title": "让 AI 写代码半年后，我发现了几个藏在项目里的安全隐患",
-      "url": "https://juejin.cn/post/7659327186160549915",
-      "source": "juejin",
-      "score": 423,
-      "raw_score": 131,
+      "score": 313,
+      "raw_score": 37,
       "comments": 1,
-      "author": "大前端历险记",
+      "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "AI 生成的代码看起来能跑，但安全问题藏得很深。我翻了过去半年让 AI 写的功能，找出了 6 个最容易被忽略、但后果很严重的隐患。每一个都能在生产环境里埋雷"
+      "summary": "下个月就要发布新的 Flutter 版本了，今天看了下 Flutter 样式解耦的进度，看起来进度还挺可以。上个月那个 60 多万行改动的 #11888 Decoupling recopy 已经合并了"
     },
     {
-      "title": "第10章 实战项目二：自动化研发运维Agent",
-      "url": "https://juejin.cn/post/7659319329247674422",
-      "source": "juejin",
-      "score": 371,
-      "raw_score": 72,
-      "comments": 0,
-      "author": "怕浪猫",
-      "created_at": "",
-      "summary": "上一章我们落地了智能数据分析Agent，完成了业务数据场景的AI自动化闭环。本章我们聚焦技术研发本身，打造面向代码开发、Bug修复、调试运维、流水线发布、故障复盘的全流程自动化研发运维Agent。 传"
-    },
-    {
-      "title": "调查研究-217 Fortress：当浏览器 Agent 开始被网站识别，开源 Chromium 反拦截引擎来了",
-      "url": "https://juejin.cn/post/7659225944679481382",
-      "source": "juejin",
-      "score": 369,
-      "raw_score": 70,
-      "comments": 0,
-      "author": "武子康",
-      "created_at": "",
-      "summary": "TL;DR 场景：Browser Use / Stagehand / Crawl4AI 等浏览器 Agent 真正进入网页后，反爬、指纹、验证码、行为识别成为落地主要障碍。 结论：Fortress（t"
-    },
-    {
-      "title": "从外星人到大模型，语言如何泄露了人类的思维方式。",
-      "url": "https://juejin.cn/post/7659358026358112308",
-      "source": "juejin",
-      "score": 354,
-      "raw_score": 59,
-      "comments": 0,
-      "author": "写代码像蔡徐抻",
-      "created_at": "",
-      "summary": "从外星人到大模型，语言如何泄露了人类的思维方式。大模型不是真的具有思维，它只是从语言——这种人类的思维编码中摸索到了思维的形状"
-    },
-    {
-      "title": "Maven",
-      "url": "https://juejin.cn/post/7659618815766265875",
-      "source": "juejin",
-      "score": 318,
-      "raw_score": 39,
-      "comments": 0,
-      "author": "梨子同志",
-      "created_at": "",
-      "summary": "技术简介 Maven 是 Java 项目的“管家”。你告诉它要用哪些第三方库，它自动帮你下载、组织好，并且能一键完成编译、测试、打包这些重复工作。没有 Maven 前，你需要手动拷贝 jar 包、自己"
-    },
-    {
-      "title": "Agent开发进阶指南（第 1 章）：AI Agent 到底是什么？",
-      "url": "https://juejin.cn/post/7659953914108444681",
+      "title": "这是一篇关于忘记的文章",
+      "url": "https://juejin.cn/post/7660007537018748955",
       "source": "juejin",
       "score": 295,
       "raw_score": 30,
-      "comments": 1,
-      "author": "gyx_这个杀手不太冷静",
-      "created_at": "",
-      "summary": "1. 开篇导读 这章解决什么问题？ 很多开发者第一次听到 AI Agent 这个词时，脑子里会蹦出一堆概念：大模型、Function Call、RAG、ReAct、Tool Use、AutoGPT……"
-    },
-    {
-      "title": "别再手动写 updated_at了，这坑我踩过",
-      "url": "https://juejin.cn/post/7659936053579628579",
-      "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
       "comments": 0,
-      "author": "我叫黑大帅",
+      "author": "小流苏生",
       "created_at": "",
-      "summary": "做后端写业务表，updated_at 几乎是标配。谁都知道它用来记数据最后修改时间，排查问题、对账、做增量同步都靠它。 但绝大多数人写代码的习惯，其实从一开始就埋了雷……"
+      "summary": "忘了就忘了吧，人这一辈子总会忘记很多事情，也总想忘记很多事情。但不管是具体的忘记，还是抽象的忘记，都至少曾经还记得。"
     },
     {
-      "title": "每日一个开源项目（第153篇）：AgentsView - 跨 30+ AI 编程工具的会话分析和费用追踪，本地优先，无需账号",
-      "url": "https://juejin.cn/post/7660041027785031720",
+      "title": "ES2026，早该这样了",
+      "url": "https://juejin.cn/post/7659966629887574051",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "Agions",
+      "created_at": "",
+      "summary": "6月30号，ECMAScript 2026 的规范悄悄过审了。 没有发布会，没有倒计时，连个热搜都没上。说实话，挺符合这次更新的气质——闷声干活，不整花里胡哨的。 打开 changelog 扫了一遍，"
+    },
+    {
+      "title": "Android ViewModel 接收 Intent 参数",
+      "url": "https://juejin.cn/post/7660007537017831451",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "星火燎原16",
+      "created_at": "",
+      "summary": "通常我们会将页面中的参数通过 ViewModel 来管理，上一页面 Intent 传过来的数据，应直接存入 ViewModel 中，防止 Activity 和 ViewModel 各存一份。 方法一:"
+    },
+    {
+      "title": "Agent Skill 工程化指南（三）：运行与生效 — 运行时的全链路机制",
+      "url": "https://juejin.cn/post/7659956009936502825",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "chanalbert",
+      "created_at": "",
+      "summary": "读完这篇，你将完整理解从\"用户说了一句话\"到\"Skill 返回结果\"之间发生的每一件事，包括匹配、加载、安全校验、执行和监控。"
+    },
+    {
+      "title": "鸿蒙 ArkWeb 混合开发全攻略：JSBridge 双向通信 + 实战登录注入",
+      "url": "https://juejin.cn/post/7659953914108723209",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "TrisighT",
+      "created_at": "",
+      "summary": "一、为什么要做混合开发？ 纯鸿蒙原生性能最优，但现实项目里有大量历史 H5 页面、跨平台运营活动页，全部用 ArkTS 重写成本高到离谱。混合开发（Hybrid）是工程化的最优解： H5 负责：活动营"
+    },
+    {
+      "title": "后端开发入门：业务能力、数据库与程序员的核心竞争力",
+      "url": "https://juejin.cn/post/7659953914108362761",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "甜味弥漫",
+      "created_at": "",
+      "summary": "很多同学学习后端时，容易陷入一个误区： 实际上，真正决定一个后端工程师水平的，并不是会不会写几个 API，而是能否理解业务、设计数据结构，并把需求落地。 随着 AI 的发展，未来程序员最重要的能力也正"
+    },
+    {
+      "title": "纯函数与副作用——前端开发中最容易被忽视的质量保证",
+      "url": "https://juejin.cn/post/7660145164791660544",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "weedsfly",
+      "created_at": "",
+      "summary": "纯函数与副作用的分离是现代前端可维护性的基石，是一种**让代码变得可预测、可测试、可复用**的工程方法。当你习惯把大部分逻辑写成纯函数，把副作用集中在少数明确的角落时，bug 更少、重构更安全..."
+    },
+    {
+      "title": "React Router：从单页应用到前端路由",
+      "url": "https://juejin.cn/post/7660007537017716763",
       "source": "juejin",
       "score": 169,
       "raw_score": 7,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "甜味弥漫",
       "created_at": "",
-      "summary": "AgentsView 是一个本地优先的 AI 编程 Agent 会话分析工具，单二进制文件，支持 30+ 个 Agent（Claude Code、Codex、Cursor、Gemini CLI 等）"
+      "summary": "学习 React 时，几乎所有项目都会使用： 很多同学刚接触路由时会有一个疑问： 想搞懂 React Router，首先要理解前端的发展历史。 多页应用时代（MPA） 早期的网站大多采用： 例如： 用"
     },
     {
-      "title": "Workflow 系列（10）：企业级架构——注册表、组合与治理",
-      "url": "https://juejin.cn/post/7659966629887688739",
+      "title": "一文终结 SpringBoot 国际化!从 0 到 1 完整案例(中/英/日)",
+      "url": "https://juejin.cn/post/7660064037460819994",
       "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
+      "score": 120,
+      "raw_score": 4,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "SimonKing",
       "created_at": "",
-      "summary": "从单个工作流到企业级工作流体系，三个核心问题：Workflow Registry 如何管理多个工作流的发现和路由、工作流组合如何让父工作流调用子工作流形成流水线、三层治理（修改权限/审计责任/回滚机制"
+      "summary": "国际化从入行之初了解过以后，再也没有碰到过应用场景。近期，公司扩展国际业务，网站需要支持多语言切换，刚好可以试一试Spring框架的国际化I18N。"
     }
   ]
 }
