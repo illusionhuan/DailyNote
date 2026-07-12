@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-12T01:49:03.257833+00:00",
+  "updated_at": "2026-07-12T12:57:00.789194+00:00",
   "articles": [
     {
-      "title": "从零理解远程 MCP：串联三个 MCP Server 打造 AI 自动化工作流",
-      "url": "https://juejin.cn/post/7661085673139568667",
+      "title": "Fiber 节点 —— 一个数据结构如何承载整个 React 运行时",
+      "url": "https://juejin.cn/post/7659763781161730102",
       "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
-      "comments": 0,
-      "author": "嘟嘟0717",
+      "score": 822,
+      "raw_score": 12927,
+      "comments": 10,
+      "author": "老王以为",
       "created_at": "",
-      "summary": "配置三种 MCP Server 连接方式（URL / npx），串联高德地图、浏览器控制与文件系统，打造自动化 AI 工作流，含常见踩坑与解决方案"
+      "summary": "React通过 Fiber 节点去承载整个 React 的运行时，今天我们通过这篇文章来梳理一下 React 是如何做的，为什么要这样做，这样做背后的考量是什么？"
     },
     {
-      "title": "第一章：从零构建终端 AI 助手 —— Octo 项目实战",
-      "url": "https://juejin.cn/post/7660896500881375284",
+      "title": "一键还原任意网站，这套 Playwright + 多 Agent 工程流太猛了",
+      "url": "https://juejin.cn/post/7661439504077176847",
+      "source": "juejin",
+      "score": 343,
+      "raw_score": 52,
+      "comments": 0,
+      "author": "我不是外星人",
+      "created_at": "",
+      "summary": "一 前言 哈喽，大家好，我是 alien，今天我们来讲一个能够将精美网站一键复制的功能——ai-website-cloner-template 的使用和实现原理。 通过本篇文档你能收获到哪些内容？ A"
+    },
+    {
+      "title": "九成 OPC 失败的原因只有一个，大多数人不愿承认",
+      "url": "https://juejin.cn/post/7661247262477484083",
+      "source": "juejin",
+      "score": 322,
+      "raw_score": 41,
+      "comments": 0,
+      "author": "小虎AI生活",
+      "created_at": "",
+      "summary": "20 年前，互联网让平台型公司崛起，阿里、腾讯成了巨无霸。 大家好，我是小虎。 20 年后，AI 正在催生另一种公司，一个人就是一支队伍。 而杭州，我的老家，上个月刚开了全国首场 OPC 大会，把这个"
+    },
+    {
+      "title": "3位工程师靠“删AI代码”创业，一周收费1万美元：以后最贵的能力，可能不是写代码",
+      "url": "https://juejin.cn/post/7661251852345458697",
+      "source": "juejin",
+      "score": 298,
+      "raw_score": 31,
+      "comments": 0,
+      "author": "勇宝趣学前端",
+      "created_at": "",
+      "summary": "AI让写代码越来越便宜，却让维护成本迅速上升。Slopfix靠删除AI代码收费，揭示未来工程师最稀缺的能力：判断、重构与负责。"
+    },
+    {
+      "title": "基于MCP协议搭建全链路智能Agent：地图检索+浏览器自动化+本地文件操控实战",
+      "url": "https://juejin.cn/post/7661247262477041715",
+      "source": "juejin",
+      "score": 268,
+      "raw_score": 22,
+      "comments": 0,
+      "author": "mONESY",
+      "created_at": "",
+      "summary": "前言 在AI Agent快速迭代的当下，单纯的大模型对话已经无法满足落地自动化业务的需求。真正可用的智能Agent，核心能力是大模型语义理解 + 标准化工具调用 + 多端能力联动。 MCP（Model"
+    },
+    {
+      "title": "为什么 macOS 应用一换 Bundle ID，之前授予的权限就全失效了？",
+      "url": "https://juejin.cn/post/7661165305651445806",
       "source": "juejin",
       "score": 235,
       "raw_score": 15,
       "comments": 0,
-      "author": "范闲",
+      "author": "Hyyy",
       "created_at": "",
-      "summary": "1. 我们要做什么？ 在大模型时代，最简单的智能体形态就是一个对话助手——接收用户输入，调用 LLM API，返回生成结果。但\"能跑\"和\"工程化\"之间隔着一道鸿沟： 配置散落在代码各处，换个模型要改好"
+      "summary": "macOS 为什么会在 Bundle ID 或签名变化后重新索要权限？本文从 TCC、代码签名与 Designated Requirement 入手，给出 Electron 配置和排查方法。"
     },
     {
-      "title": "第二章：Octo v0.1.1：从「能用」到「好用」——终端 AI 聊天体验的全面升级",
-      "url": "https://juejin.cn/post/7661439504076455951",
+      "title": "Facebook登录的这条红色警告，我终于搞明白了，真是反人类设计！",
+      "url": "https://juejin.cn/post/7661062882848620553",
+      "source": "juejin",
+      "score": 229,
+      "raw_score": 14,
+      "comments": 0,
+      "author": "CocoaKier",
+      "created_at": "",
+      "summary": "iOS 版图谱 API 处理所有图谱API调用。 访问口令将失效。如需详细了解iOS版 Facebook SDK 相关变更以及如何继续使用 Facebook 登录 SDK，请访问博客。"
+    },
+    {
+      "title": "Redis的KEYS命令把我搞崩溃了，改用SCAN才活过来",
+      "url": "https://juejin.cn/post/7660902254527217704",
+      "source": "juejin",
+      "score": 229,
+      "raw_score": 14,
+      "comments": 0,
+      "author": "阿橙的百宝箱",
+      "created_at": "",
+      "summary": "Redis的KEYS命令把我搞崩溃了，改用SCAN才活过来** -- 引言 作为Redis的长期用户，我一直对它的高性能和灵活性赞不绝口。然而，在一次生产环境的事故中，我深刻体会到了错误使用Redis"
+    },
+    {
+      "title": "Java 开发基础速查手册",
+      "url": "https://juejin.cn/post/7661118589546348587",
+      "source": "juejin",
+      "score": 229,
+      "raw_score": 14,
+      "comments": 0,
+      "author": "花颜yyds",
+      "created_at": "",
+      "summary": "一、Hello World 编译运行： 二、基本语法 2.1 变量与数据类型 基本数据类型（8种）： 类型 关键字 大小 取值范围 字节型 byte 1字节 -128 ~ 127 短整型 short "
+    },
+    {
+      "title": "我学习到的npx内部实现机制",
+      "url": "https://juejin.cn/post/7661152754473697289",
+      "source": "juejin",
+      "score": 229,
+      "raw_score": 14,
+      "comments": 0,
+      "author": "前端工作日常",
+      "created_at": "",
+      "summary": "「造入口」的是 npm install：安装依赖时生成 .bin 里的软链接 / 脚本；「用入口」的是 npx：自动按优先级查找入口并执行，不用手写完整路径、不用提前配脚本。"
+    },
+    {
+      "title": "【节点】[EvaluateFoamData节点]原理解析与实际应用",
+      "url": "https://juejin.cn/post/7661451496554233906",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "SmalBox",
+      "created_at": "",
+      "summary": "Evaluate Foam Data 节点是Unity高清渲染管线（HDRP）中水面着色系统的核心组件之一，专门用于计算和生成水面泡沫效果。在现代化的游戏开发中，逼真的水体渲染对于创造沉浸式环境体验至"
+    },
+    {
+      "title": "【JS击败90%】前缀和+定长滑动窗口",
+      "url": "https://juejin.cn/post/7661160060999958568",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "海石",
+      "created_at": "",
+      "summary": "读题，题目假设的场景还是挺有趣的。我们从题干中看到了这样一句话：“老板只能连续不生气x分钟。” 我们抓住关键词，连续，那本题就和滑动窗口关联上了。"
+    },
+    {
+      "title": "用 wagmi v2 + Next.js 14 踩坑实录：手写一个支持多链的 NFT 市场前端",
+      "url": "https://juejin.cn/post/7661325178648018984",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "竹林818",
+      "created_at": "",
+      "summary": "在开发 NFT 市场前端时，我遇到了钱包连接、多链切换、合约交互、IPFS 元数据解析等一堆坑。本文记录了我用 wagmi v2、Next.js 14 和 viem 实现完整 NFT 列表、购买、上架"
+    },
+    {
+      "title": "1次遍历，空间复杂度击败100%，时间复杂度击败85%",
+      "url": "https://juejin.cn/post/7661439504077144079",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "范闲",
+      "author": "海石",
       "created_at": "",
-      "summary": "前言 Octo 是一个基于 Go 语言构建的终端 AI 聊天工具，采用 Bubbletea 框架实现 TUI（终端用户界面），支持对接多种 LLM API（如 DeepSeek）。在 v0.1.0 版"
+      "summary": "一开始以为是【每日温度】那种题目，但是仔细读了下，实际上可以转换成另一个问题，即“比较两个数组的最长相同子序列” 。"
     },
     {
-      "title": "【ROS2】动作通信机制 Action 代码示例（C++版）",
-      "url": "https://juejin.cn/post/7661085673140158491",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "万俟淋曦",
-      "created_at": "",
-      "summary": "ROS1 系列教程(总目录) ROS2 系列教程(总目录) ROS2 系列教程源码、学习群 @TOC 下面通过代码演示自定义 Action 的基本实现。 一、创建功能包 其中， 使用 --build-"
-    },
-    {
-      "title": "MCP 协议实战博客：跨进程、跨语言可复用 AI 工具标准化方案",
-      "url": "https://juejin.cn/post/7660720162030993434",
+      "title": "单元测试\"假绿\"实录：测试全过但线上崩了，这 3 个坑你踩过吗？",
+      "url": "https://juejin.cn/post/7661165305650642990",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "mONESY",
+      "author": "前端阿凡",
       "created_at": "",
-      "summary": "前言 做 AI Agent 开发长期有两个致命痛点： 工具代码和主项目强耦合，换一套 Agent 就要复制、重写适配层，完全无法复用； 工具受开发语言限制，Node 写的工具，Java/Python/"
-    },
-    {
-      "title": "从零搭建MCP Server，让LLM 拥有工具调用能力",
-      "url": "https://juejin.cn/post/7660720162030682138",
-      "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
-      "comments": 0,
-      "author": "许我半盏清茶",
-      "created_at": "",
-      "summary": "一、前言 我们在与LLM对话时，问出一个实时性比较强的问题，如今天天气怎么样？这时候，LLM其实是不知道今天天气怎么样的，因为LLM只能根据它被训练过的数据进行回答，此时，LLM就会出现幻觉，开始胡言"
-    },
-    {
-      "title": "海康威视 IoT 平台前端实战：视频流、海量设备与实时数据可视化",
-      "url": "https://juejin.cn/post/7660771080019591231",
-      "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
-      "comments": 0,
-      "author": "miss",
-      "created_at": "",
-      "summary": "前言 海康威视作为全球领先的安防与物联网解决方案提供商，其业务覆盖视频监控、智能交通、门禁报警、环境监测等多个领域。在海康的 IoT 生态中，Web 前端不仅仅是\"展示层\"——它承担着设备管理、实时视"
-    },
-    {
-      "title": "链表的基础操作(二)",
-      "url": "https://juejin.cn/post/7661063882418126875",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "看见我请踢我去刷题",
-      "created_at": "",
-      "summary": "回文链表 简单描述就是 1->2->3->2->1 这种结构，也就是正着念跟反着念是一样的。所以可以使用栈，可以使得倒过来然后再来跟正着一一比对。 高级版本的操作 分隔链表 给你一个链表的头节点 he"
-    },
-    {
-      "title": "听说大模型总“胡言乱语”？用 RAG 堵住它的嘴！",
-      "url": "https://juejin.cn/post/7660720162030977050",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "阿黎梨梨",
-      "created_at": "",
-      "summary": "不知道你在调戏各种 AI 大模型的时候，有没有遇到过以下经典翻车现场： 这种现象在人工智能领域有个专门的名字，叫“幻觉”（Hallucination）。"
-    },
-    {
-      "title": "手写 AJAX：从 XMLHttpRequest 到封装一个简易 axios",
-      "url": "https://juejin.cn/post/7660945059173941263",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "EEEEEEEason",
-      "created_at": "",
-      "summary": "从 XMLHttpRequest 原理出发，封装支持拦截器、配置合并的简易 axios，对比 fetch 的优劣与缺陷。"
-    },
-    {
-      "title": "万物皆 Runnable：LangChain 如何用一个接口统一模型、链与图",
-      "url": "https://juejin.cn/post/7660857644617908260",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "Kel",
-      "created_at": "",
-      "summary": "拆解 Runnable 如何用统一接口让模型、链与图以相同方式执行和组合，揭示从抽象契约到 Pregel 引擎的全链路运行机制。"
-    },
-    {
-      "title": "CSS 隔离与 qiankun 样式问题总结",
-      "url": "https://juejin.cn/post/7660945059174236175",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "charmson",
-      "created_at": "",
-      "summary": "一、CSS Modules 能做什么 对类选择器和 ID 选择器基于文件路径 + 类名做 hash，保证组件间类名不冲突。 编译后： JS 侧同步生成映射： 编译规则 选择器类型 是否加 hash 示"
-    },
-    {
-      "title": "一文搞懂 RAG（检索增强生成）：从 LLM 幻觉到智能检索，手把手带你理解核心原理与代码实现",
-      "url": "https://juejin.cn/post/7660850473310208063",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "何时梦醒",
-      "created_at": "",
-      "summary": "一文搞懂 RAG（检索增强生成）：从 LLM 幻觉到智能检索，手把手带你理解核心原理与代码实现 引言 想象一下这个场景：你问 ChatGPT 一个关于你们公司内部制度的问题，它信誓旦旦地给出一段看似合"
-    },
-    {
-      "title": "CSS Loader 与样式处理链路",
-      "url": "https://juejin.cn/post/7660902254525972520",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "charmson",
-      "created_at": "",
-      "summary": "一、处理顺序 Webpack 里 loader 从右到左执行： 二、核心 Loader sass-loader / less-loader / stylus-loader 把预处理器语法编译成标准 C"
-    },
-    {
-      "title": "Agent 的 JSON 解析崩了三次——拆完 SDK 源码我才搞懂 arguments 为什么是字符串",
-      "url": "https://juejin.cn/post/7661153673079570441",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "TrisighT",
-      "created_at": "",
-      "summary": "OpenAI 的 tool_calls.arguments 是字符串不是对象，流式架构的妥协导致 JSON.parse 频繁翻车。拆了 SDK 源码找到根因后写了四步解析管道，两个月零崩溃。"
+      "summary": "问题场景 团队推行单元测试，CI 门禁要求覆盖率 ≥80%。你兢兢业业写了上百条用例，全部绿了，自信上线。 结果线上反馈：某个功能完全不可用，点按钮报错。 回查代码：实现逻辑确实错了。但——测试也的确"
     }
   ]
 }
