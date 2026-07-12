@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-11T12:56:00.526635+00:00",
+  "updated_at": "2026-07-12T01:49:03.257833+00:00",
   "articles": [
     {
-      "title": "Fiber 节点 —— 一个数据结构如何承载整个 React 运行时",
-      "url": "https://juejin.cn/post/7659763781161730102",
+      "title": "从零理解远程 MCP：串联三个 MCP Server 打造 AI 自动化工作流",
+      "url": "https://juejin.cn/post/7661085673139568667",
       "source": "juejin",
-      "score": 820,
-      "raw_score": 12652,
-      "comments": 10,
-      "author": "老王以为",
-      "created_at": "",
-      "summary": "React通过 Fiber 节点去承载整个 React 的运行时，今天我们通过这篇文章来梳理一下 React 是如何做的，为什么要这样做，这样做背后的考量是什么？"
-    },
-    {
-      "title": "凌晨睡不着，我给台风巴威写了个追踪网站",
-      "url": "https://juejin.cn/post/7659393583027896330",
-      "source": "juejin",
-      "score": 784,
-      "raw_score": 8325,
-      "comments": 40,
-      "author": "HiSt",
-      "created_at": "",
-      "summary": "索性爬起来，打开电脑，用 Claude Fable 5 把想法一点点敲了出来。把基于中央气象台、日本气象厅、美国 JTWC、台湾气象署四家的路径数据放在同一张地图上之后，很多事一眼就看明白了"
-    },
-    {
-      "title": "AI 是怎么操作浏览器的——browser use 实现原理",
-      "url": "https://juejin.cn/post/7660466008562892835",
-      "source": "juejin",
-      "score": 450,
-      "raw_score": 178,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "谭sir",
+      "author": "嘟嘟0717",
       "created_at": "",
-      "summary": "AI Agent 操作浏览器的方式分两种。第一种是截图发给 LLM，LLM 返回一个 (x, y) 坐标，让浏览器自动化工具在该坐标模拟点击；第二种是把网页转换成一棵带编号的文本树，LLM 从文本树里"
+      "summary": "配置三种 MCP Server 连接方式（URL / npx），串联高德地图、浏览器控制与文件系统，打造自动化 AI 工作流，含常见踩坑与解决方案"
     },
     {
-      "title": "Handler（一）：post 之后，Runnable 到底在哪个线程执行？",
-      "url": "https://juejin.cn/post/7660755249067229226",
-      "source": "juejin",
-      "score": 338,
-      "raw_score": 49,
-      "comments": 0,
-      "author": "爱笑鱼",
-      "created_at": "",
-      "summary": "从 post(Runnable) 出发，沿消息包装、入队、Looper 取出和分发链路，讲清 Handler、Looper、Thread 的关系，以及任务为何在目标线程执行。"
-    },
-    {
-      "title": "开篇：VS Code 为什么不是一个普通 React App",
-      "url": "https://juejin.cn/post/7660861087915999278",
-      "source": "juejin",
-      "score": 301,
-      "raw_score": 32,
-      "comments": 0,
-      "author": "慢功夫",
-      "created_at": "",
-      "summary": "很多人第一次看 VS Code，都会先看到它的界面：侧边栏、编辑器、终端、面板，看起来像是一个复杂一点的前端应用。 但真正深入之后会发现，VS Code 并不是一个普通的 React App"
-    },
-    {
-      "title": "用 LangChain.js 手写一个能读写文件和执行命令的 Mini Cursor",
-      "url": "https://juejin.cn/post/7660828864555483145",
-      "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
-      "comments": 0,
-      "author": "半个落月",
-      "created_at": "",
-      "summary": "从一次普通模型调用出发，逐步封装读文件、写文件、列目录和执行命令工具，用 ReAct 循环实现一个迷你编程 Agent，并生成 React TodoList"
-    },
-    {
-      "title": "一文搞懂 GPT-5.6，Sol、Terra和Luna有什么区别？",
-      "url": "https://juejin.cn/post/7660828864555139081",
-      "source": "juejin",
-      "score": 282,
-      "raw_score": 26,
-      "comments": 0,
-      "author": "前端_逍遥生",
-      "created_at": "",
-      "summary": "从 GPT-5.6 开始，OpenAI 不再只是用一个模型名，而是把同一代模型分成了 三个长期能力等级： 模型 定位 速度 能力 成本 适合场景 ☀️ Sol 旗舰版 最慢 ⭐⭐⭐⭐⭐ 最高 编程、A"
-    },
-    {
-      "title": "我用 Next.js 16 + DeepSeek API 做了一个 AI 简历吐槽器，已开源",
-      "url": "https://juejin.cn/post/7660496737155579931",
-      "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
-      "comments": 0,
-      "author": "小Bk",
-      "created_at": "",
-      "summary": "Resume Roaster — AI 简历吐槽器，上传你的 PDF 简历，让 AI 用最毒舌的方式告诉你哪里有问题，每条吐槽附带专业改进建议。"
-    },
-    {
-      "title": "凌晨告警轰炸！Go 服务协程只增不减，内存持续暴涨直至 OOM",
-      "url": "https://juejin.cn/post/7660828864555122697",
-      "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
-      "comments": 0,
-      "author": "小旭Coding",
-      "created_at": "",
-      "summary": "凌晨告警轰炸！Go 服务协程只增不减，内存持续暴涨直至 OOM 读完本文你将收获： 如何用 pprof 快速定位协程泄漏"
-    },
-    {
-      "title": "从 ethers.js 迁移到 Viem：一个签名验证 Bug 让我彻底放弃旧爱",
-      "url": "https://juejin.cn/post/7660773919465701391",
-      "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
-      "comments": 0,
-      "author": "竹林818",
-      "created_at": "",
-      "summary": "在做一个跨链 NFT 桥项目时，ethers.js 的 EIP-712 签名在合约端总是验证失败。折腾两天后，我尝试用 Viem 重写签名逻辑，问题瞬间解决。这篇文章记录了我从 ethers.js 迁"
-    },
-    {
-      "title": "SpringBoot集成BCrypt密码加密库",
-      "url": "https://juejin.cn/post/7660828864555221001",
+      "title": "第一章：从零构建终端 AI 助手 —— Octo 项目实战",
+      "url": "https://juejin.cn/post/7660896500881375284",
       "source": "juejin",
       "score": 235,
       "raw_score": 15,
       "comments": 0,
-      "author": "菜鸟码农_",
+      "author": "范闲",
       "created_at": "",
-      "summary": "‌工作原理‌ ‌自动加盐‌：每次加密时自动生成随机盐值，即使两个用户密码相同，加密后的结果也完全不同 。 ‌成本因子可调‌：通过设置\"轮数\"（如 10、12）控制计算耗时，轮数每增加 1，计算时间翻倍"
+      "summary": "1. 我们要做什么？ 在大模型时代，最简单的智能体形态就是一个对话助手——接收用户输入，调用 LLM API，返回生成结果。但\"能跑\"和\"工程化\"之间隔着一道鸿沟： 配置散落在代码各处，换个模型要改好"
     },
     {
-      "title": "远程MCP实战：高德地图 + Chrome DevTools + File System 三大 Server 联动打造 AI 超级 Agent",
-      "url": "https://juejin.cn/post/7661087388796813350",
-      "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
-      "comments": 0,
-      "author": "Darling噜啦啦",
-      "created_at": "",
-      "summary": "远程MCP实战：高德地图 + Chrome DevTools + File System 三大 Server 联动打造 AI 超级 Agent 前置知识 理解 MCP 协议基本概念（Server / "
-    },
-    {
-      "title": "【节点】[ComputeVertexPosition节点]原理解析与实际应用",
-      "url": "https://juejin.cn/post/7661087388797124646",
-      "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
-      "comments": 0,
-      "author": "SmalBox",
-      "created_at": "",
-      "summary": "Compute Water Vertex Position 节点是Unity高清渲染管线（HDRP）中专门用于水面渲染系统的重要着色器图节点。该节点在水面着色器的开发过程中扮演着关键角色，为开发者提供"
-    },
-    {
-      "title": "【机器人 / 强化学习】QAM：基于伴随匹配的 Q-learning 流策略优化",
-      "url": "https://juejin.cn/post/7661087388815654922",
-      "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
-      "comments": 0,
-      "author": "罗西的思考",
-      "created_at": "",
-      "summary": "【机器人 / 强化学习】QAM：基于伴随匹配的 Q-learning 流策略优化 0x00 概要 1.1 核心问题：Flow 策略的优化困境 1.1 为什么 Flow 策略难以用 RL 优化？ 1.2"
-    },
-    {
-      "title": "SpringBoot自动配置不是你以为的那样的智能",
-      "url": "https://juejin.cn/post/7660773919465848847",
+      "title": "第二章：Octo v0.1.1：从「能用」到「好用」——终端 AI 聊天体验的全面升级",
+      "url": "https://juejin.cn/post/7661439504076455951",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "阿橙的百宝箱",
+      "author": "范闲",
       "created_at": "",
-      "summary": "SpringBoot自动配置不是你以为的那样的智能** -- 引言 SpringBoot自问世以来，凭借其\"约定优于配置\"的理念和自动配置（Auto-configuration）的特性，极大地简化了S"
+      "summary": "前言 Octo 是一个基于 Go 语言构建的终端 AI 聊天工具，采用 Bubbletea 框架实现 TUI（终端用户界面），支持对接多种 LLM API（如 DeepSeek）。在 v0.1.0 版"
+    },
+    {
+      "title": "【ROS2】动作通信机制 Action 代码示例（C++版）",
+      "url": "https://juejin.cn/post/7661085673140158491",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "万俟淋曦",
+      "created_at": "",
+      "summary": "ROS1 系列教程(总目录) ROS2 系列教程(总目录) ROS2 系列教程源码、学习群 @TOC 下面通过代码演示自定义 Action 的基本实现。 一、创建功能包 其中， 使用 --build-"
+    },
+    {
+      "title": "MCP 协议实战博客：跨进程、跨语言可复用 AI 工具标准化方案",
+      "url": "https://juejin.cn/post/7660720162030993434",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "mONESY",
+      "created_at": "",
+      "summary": "前言 做 AI Agent 开发长期有两个致命痛点： 工具代码和主项目强耦合，换一套 Agent 就要复制、重写适配层，完全无法复用； 工具受开发语言限制，Node 写的工具，Java/Python/"
+    },
+    {
+      "title": "从零搭建MCP Server，让LLM 拥有工具调用能力",
+      "url": "https://juejin.cn/post/7660720162030682138",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "许我半盏清茶",
+      "created_at": "",
+      "summary": "一、前言 我们在与LLM对话时，问出一个实时性比较强的问题，如今天天气怎么样？这时候，LLM其实是不知道今天天气怎么样的，因为LLM只能根据它被训练过的数据进行回答，此时，LLM就会出现幻觉，开始胡言"
+    },
+    {
+      "title": "海康威视 IoT 平台前端实战：视频流、海量设备与实时数据可视化",
+      "url": "https://juejin.cn/post/7660771080019591231",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "miss",
+      "created_at": "",
+      "summary": "前言 海康威视作为全球领先的安防与物联网解决方案提供商，其业务覆盖视频监控、智能交通、门禁报警、环境监测等多个领域。在海康的 IoT 生态中，Web 前端不仅仅是\"展示层\"——它承担着设备管理、实时视"
+    },
+    {
+      "title": "链表的基础操作(二)",
+      "url": "https://juejin.cn/post/7661063882418126875",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "看见我请踢我去刷题",
+      "created_at": "",
+      "summary": "回文链表 简单描述就是 1->2->3->2->1 这种结构，也就是正着念跟反着念是一样的。所以可以使用栈，可以使得倒过来然后再来跟正着一一比对。 高级版本的操作 分隔链表 给你一个链表的头节点 he"
+    },
+    {
+      "title": "听说大模型总“胡言乱语”？用 RAG 堵住它的嘴！",
+      "url": "https://juejin.cn/post/7660720162030977050",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "阿黎梨梨",
+      "created_at": "",
+      "summary": "不知道你在调戏各种 AI 大模型的时候，有没有遇到过以下经典翻车现场： 这种现象在人工智能领域有个专门的名字，叫“幻觉”（Hallucination）。"
+    },
+    {
+      "title": "手写 AJAX：从 XMLHttpRequest 到封装一个简易 axios",
+      "url": "https://juejin.cn/post/7660945059173941263",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "EEEEEEEason",
+      "created_at": "",
+      "summary": "从 XMLHttpRequest 原理出发，封装支持拦截器、配置合并的简易 axios，对比 fetch 的优劣与缺陷。"
+    },
+    {
+      "title": "万物皆 Runnable：LangChain 如何用一个接口统一模型、链与图",
+      "url": "https://juejin.cn/post/7660857644617908260",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "Kel",
+      "created_at": "",
+      "summary": "拆解 Runnable 如何用统一接口让模型、链与图以相同方式执行和组合，揭示从抽象契约到 Pregel 引擎的全链路运行机制。"
+    },
+    {
+      "title": "CSS 隔离与 qiankun 样式问题总结",
+      "url": "https://juejin.cn/post/7660945059174236175",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "charmson",
+      "created_at": "",
+      "summary": "一、CSS Modules 能做什么 对类选择器和 ID 选择器基于文件路径 + 类名做 hash，保证组件间类名不冲突。 编译后： JS 侧同步生成映射： 编译规则 选择器类型 是否加 hash 示"
+    },
+    {
+      "title": "一文搞懂 RAG（检索增强生成）：从 LLM 幻觉到智能检索，手把手带你理解核心原理与代码实现",
+      "url": "https://juejin.cn/post/7660850473310208063",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "何时梦醒",
+      "created_at": "",
+      "summary": "一文搞懂 RAG（检索增强生成）：从 LLM 幻觉到智能检索，手把手带你理解核心原理与代码实现 引言 想象一下这个场景：你问 ChatGPT 一个关于你们公司内部制度的问题，它信誓旦旦地给出一段看似合"
+    },
+    {
+      "title": "CSS Loader 与样式处理链路",
+      "url": "https://juejin.cn/post/7660902254525972520",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "charmson",
+      "created_at": "",
+      "summary": "一、处理顺序 Webpack 里 loader 从右到左执行： 二、核心 Loader sass-loader / less-loader / stylus-loader 把预处理器语法编译成标准 C"
+    },
+    {
+      "title": "Agent 的 JSON 解析崩了三次——拆完 SDK 源码我才搞懂 arguments 为什么是字符串",
+      "url": "https://juejin.cn/post/7661153673079570441",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "TrisighT",
+      "created_at": "",
+      "summary": "OpenAI 的 tool_calls.arguments 是字符串不是对象，流式架构的妥协导致 JSON.parse 频繁翻车。拆了 SDK 源码找到根因后写了四步解析管道，两个月零崩溃。"
     }
   ]
 }
