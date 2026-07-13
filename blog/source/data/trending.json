@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-12T12:57:00.789194+00:00",
+  "updated_at": "2026-07-13T01:51:32.398426+00:00",
   "articles": [
     {
-      "title": "Fiber 节点 —— 一个数据结构如何承载整个 React 运行时",
-      "url": "https://juejin.cn/post/7659763781161730102",
+      "title": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
+      "url": "https://juejin.cn/post/7661160753004904448",
       "source": "juejin",
-      "score": 822,
-      "raw_score": 12927,
-      "comments": 10,
-      "author": "老王以为",
-      "created_at": "",
-      "summary": "React通过 Fiber 节点去承载整个 React 的运行时，今天我们通过这篇文章来梳理一下 React 是如何做的，为什么要这样做，这样做背后的考量是什么？"
-    },
-    {
-      "title": "一键还原任意网站，这套 Playwright + 多 Agent 工程流太猛了",
-      "url": "https://juejin.cn/post/7661439504077176847",
-      "source": "juejin",
-      "score": 343,
-      "raw_score": 52,
+      "score": 427,
+      "raw_score": 138,
       "comments": 0,
-      "author": "我不是外星人",
+      "author": "柳杉",
       "created_at": "",
-      "summary": "一 前言 哈喽，大家好，我是 alien，今天我们来讲一个能够将精美网站一键复制的功能——ai-website-cloner-template 的使用和实现原理。 通过本篇文档你能收获到哪些内容？ A"
+      "summary": "先说结论。 从设计稿到能在浏览器里打开、点击充电桩弹出状态面板的 3D 可视化大屏，我没有写任何一行代码，没有在 Blender 里手动拖过一次控件，也没有切过一张图。 整条链路交给了 ChatGPT"
     },
     {
-      "title": "九成 OPC 失败的原因只有一个，大多数人不愿承认",
-      "url": "https://juejin.cn/post/7661247262477484083",
+      "title": "Flutter Windows 开始支持 Impeller ，还修复了多窗口 bug",
+      "url": "https://juejin.cn/post/7661123972889559046",
       "source": "juejin",
-      "score": 322,
-      "raw_score": 41,
+      "score": 389,
+      "raw_score": 89,
       "comments": 0,
-      "author": "小虎AI生活",
+      "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "20 年前，互联网让平台型公司崛起，阿里、腾讯成了巨无霸。 大家好，我是小虎。 20 年后，AI 正在催生另一种公司，一个人就是一支队伍。 而杭州，我的老家，上个月刚开了全国首场 OPC 大会，把这个"
+      "summary": "因为这段时间一直在使用 Flutter 多窗口的原因，有一个 windows 多窗口的 bug 一直挺难受的，就是在切换到项目子窗口的时候，会默认激化主窗口，之后才能再次点击回到子窗口： 这个问题的诱"
     },
     {
-      "title": "3位工程师靠“删AI代码”创业，一周收费1万美元：以后最贵的能力，可能不是写代码",
-      "url": "https://juejin.cn/post/7661251852345458697",
+      "title": "AI 编程普及，初学者还要不要学习基础语法？",
+      "url": "https://juejin.cn/post/7661117411174350890",
       "source": "juejin",
-      "score": 298,
-      "raw_score": 31,
+      "score": 381,
+      "raw_score": 81,
       "comments": 0,
-      "author": "勇宝趣学前端",
+      "author": "双越AI_club",
       "created_at": "",
-      "summary": "AI让写代码越来越便宜，却让维护成本迅速上升。Slopfix靠删除AI代码收费，揭示未来工程师最稀缺的能力：判断、重构与负责。"
+      "summary": "大家好，我是双越。wangEditor 作者，前百度 滴滴 资深前端工程师，慕课网精英讲师，PMP，前端面试派作者。本文分享 AI 编程普及，初学者还要不要学习基础语法？"
     },
     {
-      "title": "基于MCP协议搭建全链路智能Agent：地图检索+浏览器自动化+本地文件操控实战",
-      "url": "https://juejin.cn/post/7661247262477041715",
+      "title": "30 分钟用 Trae Work + 魔珐星云做出会讲故事的 AI 3D 具身交互智能数字人",
+      "url": "https://juejin.cn/post/7661439504083582976",
       "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
-      "comments": 0,
-      "author": "mONESY",
+      "score": 370,
+      "raw_score": 71,
+      "comments": 1,
+      "author": "前端梦工厂",
       "created_at": "",
-      "summary": "前言 在AI Agent快速迭代的当下，单纯的大模型对话已经无法满足落地自动化业务的需求。真正可用的智能Agent，核心能力是大模型语义理解 + 标准化工具调用 + 多端能力联动。 MCP（Model"
+      "summary": "我用 Trae Work + Vue 3 做了一个会动的 3D 故事大王：大模型写故事，魔珐星云 SDK 驱动数字人实时播报，能语音输入、随时打断。端到端约 500ms，已上线可体验"
     },
     {
-      "title": "为什么 macOS 应用一换 Bundle ID，之前授予的权限就全失效了？",
-      "url": "https://juejin.cn/post/7661165305651445806",
+      "title": "GPT5.6和Fable5“杀疯了”，无限制+延期+50%！",
+      "url": "https://juejin.cn/post/7661531339728846886",
       "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
+      "score": 365,
+      "raw_score": 67,
       "comments": 0,
-      "author": "Hyyy",
+      "author": "甲维斯",
       "created_at": "",
-      "summary": "macOS 为什么会在 Bundle ID 或签名变化后重新索要权限？本文从 TCC、代码签名与 Designated Requirement 入手，给出 Electron 配置和排查方法。"
+      "summary": "周一早上给大家两个好消息！没有坏消息！ 第一个好消息来自 Claude： 第二个好消息来自 OpenAI： 有什么重要工作，可以使劲蹬了！ 这个图片太形象了！！！我就是那个骡子！ Fable 5 被放"
     },
     {
-      "title": "Facebook登录的这条红色警告，我终于搞明白了，真是反人类设计！",
-      "url": "https://juejin.cn/post/7661062882848620553",
+      "title": "10分钟搭建你的专属AI外教！基于魔珐星云参数流架构的AI口语陪练官实战指南",
+      "url": "https://juejin.cn/post/7661324464742907947",
       "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
+      "score": 344,
+      "raw_score": 53,
       "comments": 0,
-      "author": "CocoaKier",
+      "author": "倔强的石头_",
       "created_at": "",
-      "summary": "iOS 版图谱 API 处理所有图谱API调用。 访问口令将失效。如需详细了解iOS版 Facebook SDK 相关变更以及如何继续使用 Facebook 登录 SDK，请访问博客。"
+      "summary": "大模型的语言能力已经远超一个称职的外教，但陪练体验却依然停留在\"聊天框 + 语音条\"的原始阶段。真正的口语陪练体验缺的从来不是 IQ，而是\"具身感\""
     },
     {
-      "title": "Redis的KEYS命令把我搞崩溃了，改用SCAN才活过来",
-      "url": "https://juejin.cn/post/7660902254527217704",
+      "title": "基于 Ollama + Vectra + MCP 从零搭建本地 RAG 知识库",
+      "url": "https://juejin.cn/post/7661451496554397746",
       "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
+      "score": 246,
+      "raw_score": 17,
       "comments": 0,
-      "author": "阿橙的百宝箱",
+      "author": "许我半盏清茶",
       "created_at": "",
-      "summary": "Redis的KEYS命令把我搞崩溃了，改用SCAN才活过来** -- 引言 作为Redis的长期用户，我一直对它的高性能和灵活性赞不绝口。然而，在一次生产环境的事故中，我深刻体会到了错误使用Redis"
+      "summary": "一、前言 我们要知道，目前所有的LLM都是推理模型，只能基于自身已经训练好的语料库进行回应。而常见的LLM都是通用模型，什么都知道一点，但是不知道私域数据，比如公司的财务报表。在一些私有领域，我们想要"
     },
     {
-      "title": "Java 开发基础速查手册",
-      "url": "https://juejin.cn/post/7661118589546348587",
-      "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
-      "comments": 0,
-      "author": "花颜yyds",
-      "created_at": "",
-      "summary": "一、Hello World 编译运行： 二、基本语法 2.1 变量与数据类型 基本数据类型（8种）： 类型 关键字 大小 取值范围 字节型 byte 1字节 -128 ~ 127 短整型 short "
-    },
-    {
-      "title": "我学习到的npx内部实现机制",
-      "url": "https://juejin.cn/post/7661152754473697289",
-      "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
-      "comments": 0,
-      "author": "前端工作日常",
-      "created_at": "",
-      "summary": "「造入口」的是 npm install：安装依赖时生成 .bin 里的软链接 / 脚本；「用入口」的是 npx：自动按优先级查找入口并执行，不用手写完整路径、不用提前配脚本。"
-    },
-    {
-      "title": "【节点】[EvaluateFoamData节点]原理解析与实际应用",
-      "url": "https://juejin.cn/post/7661451496554233906",
-      "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
-      "comments": 0,
-      "author": "SmalBox",
-      "created_at": "",
-      "summary": "Evaluate Foam Data 节点是Unity高清渲染管线（HDRP）中水面着色系统的核心组件之一，专门用于计算和生成水面泡沫效果。在现代化的游戏开发中，逼真的水体渲染对于创造沉浸式环境体验至"
-    },
-    {
-      "title": "【JS击败90%】前缀和+定长滑动窗口",
-      "url": "https://juejin.cn/post/7661160060999958568",
+      "title": "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码",
+      "url": "https://juejin.cn/post/7661530411243356206",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "海石",
+      "author": "美团技术团队",
       "created_at": "",
-      "summary": "读题，题目假设的场景还是挺有趣的。我们从题干中看到了这样一句话：“老板只能连续不生气x分钟。” 我们抓住关键词，连续，那本题就和滑动窗口关联上了。"
+      "summary": "美团万亿参数大模型 LongCat-2.0 正式开源！美团 LongCat-2.0 总参数 1.6T，平均激活约 48B，为真实的 Agentic Coding 任务而生。"
     },
     {
-      "title": "用 wagmi v2 + Next.js 14 踩坑实录：手写一个支持多链的 NFT 市场前端",
-      "url": "https://juejin.cn/post/7661325178648018984",
-      "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
-      "comments": 0,
-      "author": "竹林818",
-      "created_at": "",
-      "summary": "在开发 NFT 市场前端时，我遇到了钱包连接、多链切换、合约交互、IPFS 元数据解析等一堆坑。本文记录了我用 wagmi v2、Next.js 14 和 viem 实现完整 NFT 列表、购买、上架"
-    },
-    {
-      "title": "1次遍历，空间复杂度击败100%，时间复杂度击败85%",
-      "url": "https://juejin.cn/post/7661439504077144079",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "海石",
-      "created_at": "",
-      "summary": "一开始以为是【每日温度】那种题目，但是仔细读了下，实际上可以转换成另一个问题，即“比较两个数组的最长相同子序列” 。"
-    },
-    {
-      "title": "单元测试\"假绿\"实录：测试全过但线上崩了，这 3 个坑你踩过吗？",
-      "url": "https://juejin.cn/post/7661165305650642990",
+      "title": "LLM 推理到底是怎么跑起来的？",
+      "url": "https://juejin.cn/post/7661117411173515306",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "前端阿凡",
+      "author": "零一探秘",
       "created_at": "",
-      "summary": "问题场景 团队推行单元测试，CI 门禁要求覆盖率 ≥80%。你兢兢业业写了上百条用例，全部绿了，自信上线。 结果线上反馈：某个功能完全不可用，点按钮报错。 回查代码：实现逻辑确实错了。但——测试也的确"
+      "summary": "从 tokenization、embedding、attention 到 prefill、decode、KV Cache 和量化，拆开一次 LLM 推理请求真正发生了什么。"
+    },
+    {
+      "title": "RAG 是什么？带你从0搭建本地向量数据库",
+      "url": "https://juejin.cn/post/7661160061000646696",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "riuphan",
+      "created_at": "",
+      "summary": "一、RAG是什么？ RAG(Retrieval-Augmented Generation 检索增强生成) ，是AI领域常用到的一种技术。主要有以下两种使用场景： 在一些私有领域，想要让LLM能接入这部"
+    },
+    {
+      "title": "目前最火AI协议-> MCP 协议实战：从原理到落地，让 AI 拥有\"超能力\"",
+      "url": "https://juejin.cn/post/7660902254527397928",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "EEEEEEEason",
+      "created_at": "",
+      "summary": "MCP 是 AI 的\"USB 接口\"，实战接入高德地图、文件系统、浏览器控制三个 MCP Server，实现 Agent 自动调用工具完成复杂任务。"
+    },
+    {
+      "title": "管道、IPC、Socket：你以为的三种技术，其实是同一件事",
+      "url": "https://juejin.cn/post/7661266769256349737",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "Kel",
+      "created_at": "",
+      "summary": "从内核 fd 模型出发，揭示管道、IPC 与网络 Socket 的底层统一本质，一文让你彻底了解Nodejs中最重要的进程通信原理。"
+    },
+    {
+      "title": "第 03 章 — Schema 检索（应对大库）",
+      "url": "https://juejin.cn/post/7661451496555167794",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "广东王多鱼",
+      "created_at": "",
+      "summary": "第 03 章 — Schema 检索（应对大库） 上一章的痛点 第 02 章能自动提取全库 Schema 了。但开放题已经点破：全库注入在大库上直接崩。 1200 张表 → 40 万 token → "
+    },
+    {
+      "title": "第 08 章 — Agent 化编排",
+      "url": "https://juejin.cn/post/7661451496555266098",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "广东王多鱼",
+      "created_at": "",
+      "summary": "第 08 章 — Agent 化编排 上一章的痛点 到第 07 章，功能已经很完整了。但看看我们的代码 —— 流程逻辑散落在各个 if/else 里： 澄清判断在 ConversationalAgen"
+    },
+    {
+      "title": "Dify Agent调用插件超时：PluginDaemonInternalServerError:  killed by timeout",
+      "url": "https://juejin.cn/post/7661114609013932051",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "阿虎儿",
+      "created_at": "",
+      "summary": "错误链路全景 这是一个3 层架构的超时杀进程错误： 第 1 层 — 根源：Plugin Daemon (Go) 错误消息 \"killed by timeout\" 来源于 langgenius/dify"
     }
   ]
 }
