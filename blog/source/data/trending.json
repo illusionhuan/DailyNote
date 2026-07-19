@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-18T12:52:50.279929+00:00",
+  "updated_at": "2026-07-19T01:46:53.772875+00:00",
   "articles": [
     {
-      "title": "停更的这一年，All In AI、陪媳妇生娃、还考了个研",
-      "url": "https://juejin.cn/post/7662691781214470180",
+      "title": "Vue+Threejs实现人物奔跑场景",
+      "url": "https://juejin.cn/post/7663097122267725851",
       "source": "juejin",
-      "score": 721,
-      "raw_score": 4048,
-      "comments": 62,
-      "author": "我是Allen",
-      "created_at": "",
-      "summary": "停更的这一年，All In AI、陪媳妇生娃、还考了个研 打开掘金 App，看了一眼自己的最近更新——停在了整整一年前。 不是不想写，是这一年确实被塞得太满了。如果非要用几个关键词来概括，那就是： A"
-    },
-    {
-      "title": "Skill 是什么？一个让 AI 从“现想”变成“照做”的操作手册",
-      "url": "https://juejin.cn/post/7663320605399646227",
-      "source": "juejin",
-      "score": 341,
-      "raw_score": 51,
+      "score": 276,
+      "raw_score": 24,
       "comments": 0,
-      "author": "先吃饱再说",
+      "author": "Tony费",
       "created_at": "",
-      "summary": "每次让 AI 整理会议纪要，都要重新解释一遍格式要求？Skill 就是解决这个问题的——把重复性任务的“最佳实践”固化下来，让 AI 遇到同类任务时直接照章执行。本文从两个实际 Skill 案例出发，"
+      "summary": "基于 Vue+Three.js 搭建户外跑动三维场景，完成角色跑步、地面无限滚动、雾效景深开发，补充容易被忽略的内存优化手段，规避页面切换带来的显存泄漏问题。"
     },
     {
-      "title": "SSE 流式输出的工程化拐点——为什么你需要一个 BFF 层",
-      "url": "https://juejin.cn/post/7663518564783702025",
-      "source": "juejin",
-      "score": 320,
-      "raw_score": 40,
-      "comments": 1,
-      "author": "dzhd",
-      "created_at": "",
-      "summary": "SSE 流式输出的工程化拐点——为什么你需要一个 BFF 层 一、SSE —— 服务器主动\"推\"给前端的单向通道 1.1 SSE 是什么 SSE（Server-Sent Events），直译是\"服务器"
-    },
-    {
-      "title": "V043：BFF 层流式输出：从前端直连到生产级流式网关的架构演进",
-      "url": "https://juejin.cn/post/7663438837187821602",
-      "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
-      "comments": 1,
-      "author": "柒和远方",
-      "created_at": "",
-      "summary": "BFF 层流式输出：从前端直连到生产级流式网关的架构演进 v039 拆解了 LLM 流式输出的完整技术链路——从 HTTP chunked transfer encoding 到 SSE 协议，从 R"
-    },
-    {
-      "title": "当 AI 学会写代码：一个自动生成 React 项目的 Agent 实战",
-      "url": "https://juejin.cn/post/7663097122267398171",
-      "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
-      "comments": 0,
-      "author": "Larcher",
-      "created_at": "",
-      "summary": "本文拆解一个基于 ReAct 模式的 AI 编程 Agent，讲解其如何调用工具、生成 React 项目，并讨论工具设计、执行循环与安全实践。"
-    },
-    {
-      "title": "JS 代码技巧 vol.4 — 10 个异步并发控制，Promise.all 这帮兄弟的踩坑实录",
-      "url": "https://juejin.cn/post/7663396987304132608",
+      "title": "大前端工程师必学：用 BFF 架构搭建安全的 AI 流式应用",
+      "url": "https://juejin.cn/post/7663548569470844991",
       "source": "juejin",
       "score": 260,
       "raw_score": 20,
       "comments": 0,
-      "author": "不简说",
+      "author": "嘟嘟0717",
       "created_at": "",
-      "summary": "JS 代码技巧 vol.4 — 10 个异步并发控制，Promise.all 这帮兄弟的踩坑实录。。"
+      "summary": "从前端到 BFF 再到 AI 接口，用 Vue+Vite+Express 搭建安全、简洁的流式对话应用，大前端工程师一人搞定整条链路。"
     },
     {
-      "title": "安企CMS的安装-常见安装问题排查",
-      "url": "https://juejin.cn/post/7663438837187788834",
-      "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
-      "comments": 0,
-      "author": "Sinclair",
-      "created_at": "",
-      "summary": "问题 1：端口被占用 现象：启动 AnQiCMS 后，网站无法访问。 原因：默认端口 8001 被其他程序占用。 排查方法： Windows 端口排查： 解决方法：修改 config.json"
-    },
-    {
-      "title": "从 Token 到 RAG：我这一周搭起的大模型基础认知地图",
-      "url": "https://juejin.cn/post/7663518564783931401",
-      "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
-      "comments": 0,
-      "author": "Lei_official",
-      "created_at": "",
-      "summary": "1. 为什么开始学这些 我是一名典型的学院派，一直以来秉承的思想是，如果要弄懂一个领域的知识，那么一定要从它最基础的概念开始学起。LLM、Agent大家都会用，但模型是如何理解文字，又是如何生成答案的"
-    },
-    {
-      "title": "安企CMS的安装-安装引导与初始化",
-      "url": "https://juejin.cn/post/7663419501434699816",
-      "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
-      "comments": 0,
-      "author": "Sinclair",
-      "created_at": "",
-      "summary": "何时需要初始化 以下情况需要进行初始化安装： 场景 说明 首次部署 全新安装 AnQiCMS 恢复出厂状态 清空数据后重新安装 初始化步骤 Step 1：启动 AnQiCMS"
-    },
-    {
-      "title": "Go 语言大白话入门 7 - 函数：把重复代码收起来",
-      "url": "https://juejin.cn/post/7663320605401006099",
-      "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
-      "comments": 0,
-      "author": "码栈研说",
-      "created_at": "",
-      "summary": "函数：把重复代码收起来 本章目标：把重复逻辑收进函数里，做到三件事就算过关：会写函数、会传参数、会接返回值。 常见坑位 代码还没重复，就提前拆一堆函数，最后自己都看不懂。 函数写好了，但忘了在 mai"
-    },
-    {
-      "title": "基础 6 —— Docker 容器数据卷",
-      "url": "https://juejin.cn/post/7663486605853114414",
-      "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
-      "comments": 0,
-      "author": "nuo534202",
-      "created_at": "",
-      "summary": "本文介绍 Docker 数据卷的概念、作用与核心特性，并通过 Ubuntu 容器演示宿主机与容器目录挂载、数据实时同步、只读权限设置，以及使用 volumes-from 实现容器间的数据共享。"
-    },
-    {
-      "title": "安企CMS的安装-同一服务器多站点部署",
-      "url": "https://juejin.cn/post/7663419501434683432",
+      "title": "从前端响应式到后端背压：深度拆解生成式 UI（Generative UI）",
+      "url": "https://juejin.cn/post/7663419501434896424",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "Sinclair",
+      "author": "随风123weber",
       "created_at": "",
-      "summary": "方案一：多站点管理（推荐） 前置准备 已部署并正常运行一个 AnQiCMS 主站点（端口 8001） 主站后台有 多站点管理 菜单权限（默认安装的站点具备） 新站点的域名已解析到服务器"
+      "summary": "在大模型（LLM）时代，AI 给我们带来的震撼早已不仅限于文本对话。你可能已经在使用 ChatGPT Canvas 或 Anthropic Artifacts 时体验过这样的场景：输入一句“帮我看看明"
     },
     {
-      "title": "最新注册谷歌邮箱遇到此号码验证次数过多提示 | 谷歌账号电话号码用太多次的解决办法",
-      "url": "https://juejin.cn/post/7663426727990476863",
+      "title": "FastAPI高并发实战：缓存、分布式限流、链路日志三位一体架构",
+      "url": "https://juejin.cn/post/7663438837188198434",
       "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
+      "score": 180,
+      "raw_score": 8,
       "comments": 0,
-      "author": "Mac的实验室",
+      "author": "CaffeinePro",
       "created_at": "",
-      "summary": "Google账号验证是一个难题，谷歌一直在升级注册防护措施来防止滥用，但也误伤了很多想申请谷歌账号的真实普通用户。 许多同学在申请注册谷歌邮箱时输入86号码会提示此电话号码无法用于验证，及时更换了国外"
+      "summary": "接口上线后，最先被业务压垮的往往不是业务逻辑本身，而是三类横切能力：重复读打穿数据库、恶意刷接口拖垮限流阈值、日志散落导致线上问题无法复盘。缓存负责把热点读请求挡在Redis前。限流负责按IP或用户T"
     },
     {
-      "title": "从BFF到SSE：我在Vue项目里藏了个“AI翻译官”",
-      "url": "https://juejin.cn/post/7663405360652795947",
+      "title": "第一次真正调用 LLM 后，我看清了 Runtime、SDK 和模型的边界",
+      "url": "https://juejin.cn/post/7663456780569215002",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "前端开发江鸟",
+      "created_at": "",
+      "summary": "第一次用 Node.js 调用真实 DeepSeek API，从 401、响应结构、多轮上下文和 Token 数据中，重新理解 Runtime、SDK、API 服务与 LLM 的职责边界。"
+    },
+    {
+      "title": "用 Pytest 接管大模型记忆存储测试，状态一致性问题减少 90%",
+      "url": "https://juejin.cn/post/7663486299680489524",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "用户05954017446",
+      "created_at": "",
+      "summary": "凌晨两点十七分，Slack 里炸出一条用户反馈：“你们的 AI 助理像得了健忘症，刚说完的会议纪要，再问就说没存过。”翻日志发现，写入 Redis 的消息 ACK 了，但向量库里那一条竟然是空的。这种"
+    },
+    {
+      "title": "MCP（Model Context Protocol）深入解析：从概念到实践",
+      "url": "https://juejin.cn/post/7663379467675582464",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "小林ixn",
+      "author": "Goodbye",
       "created_at": "",
-      "summary": "前言：一个前端开发的“非分之想” “咱们要加一个AI聊天功能，而且要流式输出，就像ChatGPT那样打字机效果。”产品经理轻描淡写地扔过来一句话，我却盯着屏幕上DeepSeek的API文档陷入了沉思。"
+      "summary": "目录 为什么需要 MCP？ MCP 协议是什么？ MCP 的核心特点 项目实战：构建一个 MCP Server 4.1 项目初始化 4.2 核心依赖解析 4.3 MCP Server 代码详解 MCP"
     },
     {
-      "title": "GitHub 登录配置流程",
-      "url": "https://juejin.cn/post/7663486299680473140",
+      "title": "Vue 3 `markRaw` 详解：什么时候该让一个对象\"别被代理\"",
+      "url": "https://juejin.cn/post/7663548569471139903",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "李明卫杭州",
+      "created_at": "",
+      "summary": "> 一句话总结：markRaw 的作用是把一个对象标记为\"原始对象\"，让它永远、在任何情况下都不会被 Vue 的响应式系统转成 Proxy。它常用于包裹第三方库实例、不可变的静态大对象，避免无意义的响"
+    },
+    {
+      "title": "AI Harness 最佳实践",
+      "url": "https://juejin.cn/post/7663405360652894251",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "用户59360874140",
+      "created_at": "",
+      "summary": "本文深入探讨 AI Harness 的核心架构、生产级最佳实践、测试策略及部署运维方案，帮助开发者构建高韧性的生产级 AI 应用。"
+    },
+    {
+      "title": "# WebGPU 的渲染原理与 Shader",
+      "url": "https://juejin.cn/post/7663486299680915508",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "申君健2486418277202",
+      "created_at": "",
+      "summary": "WebGPU 的渲染原理与 Shader 一帧游戏画面里，人物在草地上站着，手里武器轻轻摆动，剑身外环绕着流动的法术光环，头顶还有无数粒子往天上飞——这些看起来像「魔法」，底层却是同一条清晰的链路： "
+    },
+    {
+      "title": "AI Agent 核心组件",
+      "url": "https://juejin.cn/post/7663438837188345890",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "Qt历险记",
+      "created_at": "",
+      "summary": "AI Agent 核心组件深度解析：构建你的太空探险指挥中心 当人类探索宇宙时，需要一个高效的指挥中心来协调各项任务。AI Agent 就像这样一个太空探险指挥中心，它由五大核心模块构成，共同协作完成"
+    },
+    {
+      "title": "Unity MyFramework 用法说明（十）：使用 ClassObject 和 ClassScope 管理可复用对象",
+      "url": "https://juejin.cn/post/7663165474499690534",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "_zhourui_h_",
+      "created_at": "",
+      "summary": "上一篇介绍 EventSystem 时，带参数事件通过 ClassScope 创建： ClassScope 背后使用的是 MyFramework 的 ClassPool。它不仅能减少高频创建临时对象产"
+    },
+    {
+      "title": "Capital One 开源 VulnHunter：AI 自动扫描代码漏洞，开发者安全实战指南",
+      "url": "https://juejin.cn/post/7663438837188378658",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "深蓝AI",
+      "created_at": "",
+      "summary": "一、引子：你的代码仓库里藏着多少漏洞？ 上周跟一个做金融科技的朋友聊天，他说他们团队每次上线前都要花三天做安全审计——人工翻代码、找漏洞、写报告。结果上个月还是被安全团队扫出一个「高危-未授权访问」。"
+    },
+    {
+      "title": "MaaS 平台踩坑记：你记住的模型名，可能明天就没了",
+      "url": "https://juejin.cn/post/7663518564784226313",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "明月光818",
+      "created_at": "",
+      "summary": "故事的开始 今天我在折腾 ModelScope 的 API，想试试用它的 Qwen 模型跑个对话。代码写好了，token 也配好了，结果一跑—— 嗯？......"
+    },
+    {
+      "title": "AI 评测系列（02）：评测指标设计——从业务目标到可量化指标",
+      "url": "https://juejin.cn/post/7663379467675959296",
       "source": "juejin",
       "score": 60,
       "raw_score": 2,
       "comments": 0,
-      "author": "Harries",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "上一篇讲了 OAuth 登录的通用流程。这一篇我们用 GitHub 登录做一次完整配置。 GitHub 登录很适合面向开发者、独立开发者、开源用户、技术团队的 SaaS 产品。它能降低注册成本，也能让"
+      "summary": "如何把'AI 回答要好'这个模糊目标拆解成具体指标。L1/L2/L3 三层框架：L1 业务结果（任务完成率、采纳率）、L2 输出质量（准确性、相关性、完整性）、L3 系统健康（延迟、Token 消耗）"
     }
   ]
 }
