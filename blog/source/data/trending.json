@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-19T12:55:05.204128+00:00",
+  "updated_at": "2026-07-20T03:11:22.953209+00:00",
   "articles": [
     {
       "title": "我把刘备一生做成了可播放的高德地图，还把整套方法封装成了 Skill",
       "url": "https://juejin.cn/post/7663708874660331556",
       "source": "juejin",
-      "score": 494,
-      "raw_score": 296,
+      "score": 800,
+      "raw_score": 10068,
       "comments": 0,
       "author": "LucianaiB",
       "created_at": "",
       "summary": "人生很短，不过三万天。人生经纬，高德陪你看看你的过去的人生。 你可以用人生经纬Skill来了解的某个人物（偶像，名人）的一生，看看他的一生是什么样的，你也可以看看自己的一生"
     },
     {
-      "title": "跑了个最简 RAG demo 后，我终于搞懂向量检索那堆分数到底啥意思",
-      "url": "https://juejin.cn/post/7663438837188476962",
+      "title": "AI 又又造词，Graph 就又要替代 Loop 了？",
+      "url": "https://juejin.cn/post/7664063148857442347",
       "source": "juejin",
-      "score": 388,
-      "raw_score": 88,
+      "score": 510,
+      "raw_score": 358,
       "comments": 1,
-      "author": "To_OC",
+      "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "先从把我整懵的那行输出说起 事情是这样的，我准备了 7 段小故事当知识库，问了一句「东东和光光是怎么成为朋友的」，按道理应该返回最相关的 3 条文档。结果控制台打出来这么个东西： 我第一反应是：不对啊"
+      "summary": "OpenClaw 的 Peter 是懂嘲讽的，之前也是他提的，Prompt Engineering 已经成为过去，开始要进入 Loop Engineering 了，然后最近他发现，大家已经开始炒 Gr"
     },
     {
-      "title": "requestAnimationFrame和setTimeout有什么不同",
-      "url": "https://juejin.cn/post/7663486605852835886",
+      "title": "阿里要求全员卸载 Claude Code：事件始末与深层逻辑",
+      "url": "https://juejin.cn/post/7663822459978137646",
       "source": "juejin",
-      "score": 361,
-      "raw_score": 64,
+      "score": 384,
+      "raw_score": 84,
       "comments": 0,
-      "author": "Hyyy",
+      "author": "SimonKing",
       "created_at": "",
-      "summary": "前置基础：理解 requestAnimationFrame 的必备认知 在学习 requestAnimationFrame 之前，需要先建立两个底层认知，理解动画流畅性的本质与传统方案的缺陷。 1. "
+      "summary": "前两天看到阿里要求卸载Claude Code的新闻没有在意，今天有空扒一扒事件的始末。是什么原因让阿里全员卸载Claude Code?"
     },
     {
-      "title": "从 Token 到 RAG：我这一周搭起的大模型基础认知地图",
-      "url": "https://juejin.cn/post/7663518564783931401",
+      "title": "跨平台开发地图 | 2026年7月",
+      "url": "https://juejin.cn/post/7663409514726309934",
       "source": "juejin",
       "score": 352,
       "raw_score": 58,
       "comments": 0,
-      "author": "Lei_official",
+      "author": "程序员老刘",
       "created_at": "",
-      "summary": "1. 为什么开始学这些 我是一名典型的学院派，一直以来秉承的思想是，如果要弄懂一个领域的知识，那么一定要从它最基础的概念开始学起。LLM、Agent大家都会用，但模型是如何理解文字，又是如何生成答案的"
+      "summary": "Flutter连发4个补丁至3.44.6、KMP 2.4.20-Beta1发布、uni-app x 5.14大版本上线iOS蒸汽模式、.NET MAUI Preview 6 CoreCLR取代Mono"
     },
     {
-      "title": "从零实现AI流式对话：一篇搞懂SSE、ReadableStream与JSON截断处理",
-      "url": "https://juejin.cn/post/7663326241874198568",
+      "title": "AI Coding 那么快，为什么还需要 SDD？",
+      "url": "https://juejin.cn/post/7664139332774363170",
       "source": "juejin",
-      "score": 344,
-      "raw_score": 53,
+      "score": 332,
+      "raw_score": 46,
       "comments": 0,
-      "author": "小林ixn",
+      "author": "_瑞",
       "created_at": "",
-      "summary": "写在前面 最近在做一个AI聊天应用，需求很明确：调用大模型接口时，要让回复内容像ChatGPT那样一个字一个字地“蹦”出来，而不是转圈圈等半天后一次性显示完整答案。 说实话，刚开始我以为这很简单——不"
+      "summary": "截至 2026 年 7 月，GitHub 上关于 SDD 的库，spec-kit 已经有了 12 万多 Star，OpenSpec 也有 6 万多 Star。能在 GitHub 拿下这么高的 Star"
     },
     {
-      "title": "再也不用手动整理会议纪要！我给 Claude 封装了一套永久自动化 Skill",
-      "url": "https://juejin.cn/post/7663518981036195874",
+      "title": "展示！我 Vibe 了一个 Codex HUD",
+      "url": "https://juejin.cn/post/7664150646268051510",
       "source": "juejin",
-      "score": 320,
-      "raw_score": 40,
-      "comments": 1,
-      "author": "To_OC",
+      "score": 313,
+      "raw_score": 37,
+      "comments": 0,
+      "author": "学什么前端",
       "created_at": "",
-      "summary": "今天把我踩坑、搭建、调试完整流程捋一遍，全程都是实操过程，没有空洞概念，看完你也能给自己封装专属工作技能。 先聊明白：Skill 到底解决了我什么痛点 以前我用 AI 写纪要的低效模式 没接触 Ski"
+      "summary": "一个用于 codex cli 编程的常驻终端 HUD，集中展示上下文、额度、Git 状态、工具活动、Agent、任务与会话信息。"
     },
     {
-      "title": "万字长文谈谈Loop Engineering",
-      "url": "https://juejin.cn/post/7663708874660364324",
+      "title": "n8n 又活了？用 Codex把跨境电商工作流转成 Skill",
+      "url": "https://juejin.cn/post/7664109407349473321",
+      "source": "juejin",
+      "score": 282,
+      "raw_score": 26,
+      "comments": 0,
+      "author": "饼干哥哥",
+      "created_at": "",
+      "summary": "做一个skill让Codex原地复活所有n8n 划重点 之前一直有人叫我「n8n之神」，过去一年多写的东西，工作流分享、TikTok视频生产、SHEIN的邮件Agent等等确实全靠n8n跑出来的。"
+    },
+    {
+      "title": "从文本到具身：我给 AI Agent 搭了套实时 3D 交互身体",
+      "url": "https://juejin.cn/post/7664150646267576374",
+      "source": "juejin",
+      "score": 276,
+      "raw_score": 24,
+      "comments": 0,
+      "author": "前端梦工厂",
+      "created_at": "",
+      "summary": "别再让 Agent 只当聊天框！我给 AI Agent 搭了套 3D 身体：500ms 延迟、可打断播报，附 SDK 初始化、多形象切换和踩坑实录。"
+    },
+    {
+      "title": "Java 后端 → 实时语音 AI 转型复盘：4 个 FDE 技术底座 + 6 个差距 + 6 类职业资产路线",
+      "url": "https://juejin.cn/post/7664071379975012402",
+      "source": "juejin",
+      "score": 276,
+      "raw_score": 24,
+      "comments": 0,
+      "author": "武子康",
+      "created_at": "",
+      "summary": "TL;DR 场景:Java 后端工程师转入机器人创新中心负责实时语音 AI 模块,链路跨越端侧音频、WebRTC、Go/Python 网关、ASR/LLM/TTS、机器人播放与动作、首音等端到端指标 "
+    },
+    {
+      "title": "【图】React源码解析-从“上帝视角”俯瞰React的认知框架",
+      "url": "https://juejin.cn/post/7664071379975127090",
       "source": "juejin",
       "score": 251,
       "raw_score": 18,
       "comments": 0,
-      "author": "周末程序猿",
+      "author": "我是大卫",
       "created_at": "",
-      "summary": "万字长文谈谈Loop Engineering，Google 工程师**Addy Osmani**发表了一篇博客，将这个概念正式命名为**Loop Engineering**（循环工程）..."
+      "summary": "第一层：建立核心心智模型 把React的运行机制浓缩为一句话： 只要记住这三个核心角色，所有原理都能对号入座： 角色 对应原理 一句话解释 底片 State / Props 描述UI当前应该长什么样的"
     },
     {
-      "title": "WorkBuddy 加 WorkRally，AI 帮你拍短剧的全流程拆解，附保姆级教程",
-      "url": "https://juejin.cn/post/7663690608759210018",
+      "title": "【图】React源码解析-从源码数据结构、执行机制对比、闭包陷阱与最佳实践四个维度，深挖useMemo和useCallback的底层原理",
+      "url": "https://juejin.cn/post/7664150646267772982",
       "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
+      "score": 235,
+      "raw_score": 15,
       "comments": 0,
-      "author": "小虎AI生活",
+      "author": "我是大卫",
       "created_at": "",
-      "summary": "今天说说腾讯出品的漫剧平台workrally，用AI如何一站式搞定。 文章的最后会有实操部分，大家耐心看下去。 大家好，我是小虎。 龙虾知识库训练营结营了。 15 天，说实话我自己都没想到能跑下来。白"
+      "summary": "useMemo 在 Fiber 上的数据结构与更新机制 这张图展示 useMemo 在首次挂载和后续更新时，如何存储和比较依赖项，决定是否重新执行计算函数。 📝 源码级深度解析（useMemo） ： "
     },
     {
-      "title": "模型返回了 JSON，为什么还不能调用工具？Runtime 的结构化输出校验链路",
-      "url": "https://juejin.cn/post/7663687661035290659",
+      "title": "LangChain v1.3.4 笔记 - 03 Agent 的 model、tools、response_format 及 stream 输出",
+      "url": "https://juejin.cn/post/7664150646268182582",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "前端开发江鸟",
+      "author": "65岁退休Coder",
       "created_at": "",
-      "summary": "昨天我写了一篇文章：《第一次真正调用 LLM 后，我看清了 Runtime、SDK 和模型的边界》。 那篇文章最后，我给自己留下了一个下一步： 昨天真实调用 DeepSeek API 时，我已经看到："
+      "summary": "Agent 是当前应用开发的最终形态；与前面模型调用不同，Agent 可以自主规划调用工具，然后再返回内容 通过 create_agent 创建智能体 create_agent 常用参数 model "
     },
     {
-      "title": "React useEffect依赖数组中埋的坑，这次终于让我逮到了",
-      "url": "https://juejin.cn/post/7663687661035405347",
-      "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
-      "comments": 0,
-      "author": "阿橙的百宝箱",
-      "created_at": "",
-      "summary": "React useEffect依赖数组中埋的坑，这次终于让我逮到了** -- 引言 在React开发中，无疑是处理副作用的利器。然而，依赖数组（dependency array）的设计既是它的核心"
-    },
-    {
-      "title": "多 Agent 协作：从委派到受限执行",
-      "url": "https://juejin.cn/post/7663860459421941800",
-      "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
-      "comments": 0,
-      "author": "付玉祥",
-      "created_at": "",
-      "summary": "你让 Agent 检查一个复杂项目的测试失败。 它要读实现代码，要看测试用例，还要对照文档判断行为是否变更。单个 Agent 当然也能顺着做，但上下文会越来越重，探索路径也会互相污染：刚读完日志，又被"
-    },
-    {
-      "title": "Hook 怎么写才不翻车：小、确定、可解释、可回滚",
-      "url": "https://juejin.cn/post/7663860459421958184",
+      "title": "Stripe 集成教程",
+      "url": "https://juejin.cn/post/7664150646268084278",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "阿新聊ai",
+      "author": "Harries",
       "created_at": "",
-      "summary": "TL;DR： Hook 是确定性治理层，不是第二个 Agent。四条硬性约束：小（代码 ≤ 50 行，复杂度评分 ≤ 20）、确定（同样 stdin → 同样退出码）、可解释（每个 exit 2 必须"
+      "summary": "Stripe 是很多 SaaS 产品的默认支付方案。它能处理信用卡、订阅、发票、税务、收据、客户门户和 Webhook，适合从早期产品一路扩展到更复杂的商业化阶段。 但 Stripe 集成不能只理解成"
     },
     {
-      "title": "Flink DataStream API多流操作与实践",
-      "url": "https://juejin.cn/post/7663860459421876264",
+      "title": "JS 代码技巧 vol.6 — 20 个性能优化野路子，从渲染到网络全栈提速",
+      "url": "https://juejin.cn/post/7663882443645091875",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "大大大大晴天",
+      "author": "不简说",
       "created_at": "",
-      "summary": "Flink DataStream 多流操作主要包括 union、connect、广播流、窗口 Join、Interval Join、CoGroup 和 Side Output，本文将逐一介绍。"
+      "summary": "JS 代码技巧 vol.6 — 20 个性能优化野路子，从渲染到网络全栈提速。坑这东西吧，要么不踩，踩就踩大的😂"
     },
     {
-      "title": "PostgreSQL：数据还在内存里，为什么断电也不怕？",
-      "url": "https://juejin.cn/post/7663690608758128674",
+      "title": "Java 8 编译器扩展点",
+      "url": "https://juejin.cn/post/7663854184965455918",
       "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
+      "score": 155,
+      "raw_score": 6,
       "comments": 0,
-      "author": "Lihua奏",
+      "author": "减瓦",
       "created_at": "",
-      "summary": "前两篇文章所讲,都是 PostgreSQL 帮你做了什么,这篇所说,则是要搞懂 它是怎么做到 断电不丢数据、崩溃能恢复 前面讲Redis中的 AOF 和 RDB,一个 每次操作都记日志,一个 定期拍快"
-    },
-    {
-      "title": "LLM 流式输出的“中间商”方案：BFF 层到底在做什么？",
-      "url": "https://juejin.cn/post/7663705597687660598",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "先吃饱再说",
-      "created_at": "",
-      "summary": "从 Vue3 + Vite 项目出发，拆解 BFF 层如何将 LLM 流式输出的复杂协议解析和安全隔离从前端移出，让前端代码保持极简与稳定。"
+      "summary": "一、概述 OpenJDK 8 的 javac 编译器（位于 langtools 仓库）由三层 API 构成，从内到外分别是： 层级 包名 用途 稳定性 内部实现层 com.sun.tools.java"
     }
   ]
 }
