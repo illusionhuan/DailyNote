@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-23T01:53:25.383153+00:00",
+  "updated_at": "2026-07-23T13:24:51.260570+00:00",
   "articles": [
-    {
-      "title": "我把刘备一生做成了可播放的高德地图，还把整套方法封装成了 Skill",
-      "url": "https://juejin.cn/post/7663708874660331556",
-      "source": "juejin",
-      "score": 859,
-      "raw_score": 19895,
-      "comments": 15,
-      "author": "LucianaiB",
-      "created_at": "",
-      "summary": "人生很短，不过三万天。人生经纬，高德陪你看看你的过去的人生。 你可以用人生经纬Skill来了解的某个人物（偶像，名人）的一生，看看他的一生是什么样的，你也可以看看自己的一生"
-    },
     {
       "title": "订单号查出了三笔，我以为是数据脏了，其实是自己写错了",
       "url": "https://juejin.cn/post/7664904418249900084",
       "source": "juejin",
-      "score": 577,
-      "raw_score": 775,
+      "score": 647,
+      "raw_score": 1721,
       "comments": 0,
       "author": "一只牛博",
       "created_at": "",
       "summary": "订单号查出了三笔，我以为是数据脏了，其实是自己写错了 前几天翻一个批量对账脚本，里面有一条查订单的 SQL，条件是 where order_no = 123，没加引号。"
     },
     {
-      "title": "Flutter 全新真 3D 实现，用 flutter_scene 能开发一个「我的世界」",
-      "url": "https://juejin.cn/post/7665253291312316479",
+      "title": "如何设计一个优秀的 Skills",
+      "url": "https://juejin.cn/post/7664905579035410441",
       "source": "juejin",
-      "score": 448,
-      "raw_score": 175,
-      "comments": 4,
-      "author": "恋猫de小郭",
+      "score": 632,
+      "raw_score": 1454,
+      "comments": 1,
+      "author": "石小石Orz",
       "created_at": "",
-      "summary": "最近一个第三方实现的 bdero/flutter_scene 惊艳到我了，比如下面这个类似「我的世界」的游戏效果，就是作者用 Flutter Scene 做的，全部基于 Flutter GPU/Imp"
+      "summary": "大家好，我是石小石~ 引言：AI 的下一阶段，不只是更会思考 最近，被一个新概念深深吸引了： \"具身交互智能\" 。 它的核心主张很直白：让 AI 拥有身体、感知世界、理解环境，并通过语音、表情、动作和"
     },
     {
-      "title": "🤯 面试被问 AI Workflow 和 Agent 有啥区别？3 张图 + 2 段代码讲清楚！",
-      "url": "https://juejin.cn/post/7665189305632718883",
+      "title": "2026 年前端大洗牌：React 服务端到 Vite 的底层重构",
+      "url": "https://juejin.cn/post/7664880484322099263",
       "source": "juejin",
-      "score": 334,
-      "raw_score": 47,
+      "score": 573,
+      "raw_score": 733,
+      "comments": 5,
+      "author": "ErpanOmer",
+      "created_at": "",
+      "summary": "2026年前端已转向服务端渲染与编译优化，React 19、Astro 5等框架通过零JS输出和孤岛架构，彻底消除客户端运行时负担。Vite 8基于Rust重构，构建速度提升数十倍，性能内卷成为核心。技术选型需适配业务场景，而非盲目追新。"
+    },
+    {
+      "title": "如何以前端视角（非0基础）学 Java ？",
+      "url": "https://juejin.cn/post/7665035990350594054",
+      "source": "juejin",
+      "score": 561,
+      "raw_score": 645,
+      "comments": 10,
+      "author": "双越AI_club",
+      "created_at": "",
+      "summary": "大家好，我是双越。wangEditor 作者，前百度 滴滴 资深前端工程师，慕课网精英讲师，PMP，前端面试派作者。本文介绍如何以前端视角（非0基础）学习 Java 全栈开发。"
+    },
+    {
+      "title": "AI 编程的工程化实践：Flutter AI Harness 的设计与落地",
+      "url": "https://juejin.cn/post/7665553541961433098",
+      "source": "juejin",
+      "score": 246,
+      "raw_score": 17,
+      "comments": 0,
+      "author": "达达尼昂",
+      "created_at": "",
+      "summary": "Flutter AI Harness：从代码生成到可验证的工程协作 项目地址：https://github.com/bladeofgod/flutter-ai-harness 摘要 AI 编程工具已经"
+    },
+    {
+      "title": "原本要 2 天的服务端冒烟前置审查，为什么 3 分半就能出报告？｜QA 质量交付实践（三）",
+      "url": "https://juejin.cn/post/7665553541961515018",
+      "source": "juejin",
+      "score": 235,
+      "raw_score": 15,
+      "comments": 0,
+      "author": "花椒技术",
+      "created_at": "",
+      "summary": "过去，一个项目进入测试前，我们需要根据需求、测试用例和服务端代码冒烟测试一遍。中型项目完成同等范围的人工审查，通常需要一天；大型项目通常要两天。 现在我们把这套工作沉淀成服务端冒烟前置审查 Skill"
+    },
+    {
+      "title": "04 | 召回前置准备：搭好召回所需的四个数据库",
+      "url": "https://juejin.cn/post/7665553541962006538",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "颜酱",
+      "created_at": "",
+      "summary": "04 | 召回前置准备：搭好召回所需的四个数据库 这是一篇系列文，请按照顺序阅读。 终态回顾：召回三步分别需要什么 回到流程图，关键词抽取完之后紧接着三路并行召回： 倒推一下，要跑通这三步，必须提前准"
+    },
+    {
+      "title": "🚀 从 DOM0 级到 React 合成事件：前端事件监听的 20 年演进史",
+      "url": "https://juejin.cn/post/7665417513740173364",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
       "comments": 0,
       "author": "ReBound",
       "created_at": "",
-      "summary": "🤯 面试被问 AI Workflow 和 Agent 有啥区别？3 张图 + 2 段代码讲清楚！ 📌 前言 上周面试，面试官笑眯眯地问了一句： 我心想这不简单嘛，都是让 AI 干活呗。结果说了三分钟，"
+      "summary": "🚀 从 DOM0 级到 React 合成事件：前端事件监听的 20 年演进史 📌 前言 在写 DeepSeek-R1 WebGPU Demo 时，我写了这样一段代码： 看起来很简单对吧？但你有没有想过"
     },
     {
-      "title": "从0开发一个 Coding Agent（一）：前言",
-      "url": "https://juejin.cn/post/7665215351420534810",
+      "title": "2026 GOAI 世界人工智能开源大赛「Agent Infra 新智基座」赛道正式启动",
+      "url": "https://juejin.cn/post/7665504807507935266",
       "source": "juejin",
-      "score": 322,
-      "raw_score": 41,
+      "score": 215,
+      "raw_score": 12,
       "comments": 0,
-      "author": "东方小月",
+      "author": "阿里云云原生",
       "created_at": "",
-      "summary": "本专栏将带你从一个空目录开始，逐步开发一个真正可运行的 Coding Agent。我们不会只封装一次大模型 API 请求，而是完整实现模型接口、Agent Loop、工具调用、文件操作、命令执行、会话"
+      "summary": "2026 年 7 月 21 日，首届 GOAI 世界人工智能开源大赛在杭州云谷中心正式启动。作为大赛核心赛道之一，由阿里云承办的 “新智基座（Agent Infra）”赛道 面向全球征集可运行、可验证"
     },
     {
-      "title": "测试开发必备的 AI 技能库：推荐6 个让接口自动化测试效率翻倍的 Skills",
-      "url": "https://juejin.cn/post/7665279573097676840",
+      "title": "NDK 初探：基于 C++ 实现参数哈希与签名校验",
+      "url": "https://juejin.cn/post/7665558748464185386",
       "source": "juejin",
-      "score": 295,
-      "raw_score": 30,
+      "score": 190,
+      "raw_score": 9,
       "comments": 0,
-      "author": "狂师",
+      "author": "雨白",
       "created_at": "",
-      "summary": "前一个系列，我们用 AI + Agent Skill 把接口测试脚本\"造\"了出来。但脚本生成只是起点——真正让接口自动化测试产生价值的，是让脚本跑起来、修得好、清得净、出报告"
+      "summary": "这是一篇 NDK 入门导学，带你通过 C++ 实现接口参数 MD5 哈希，并在 Native 层完成包名与签名校验，有效防止 so 库盗用，帮你快速了解 Android 底层安全基础。"
     },
     {
-      "title": "Vue的响应式让我加班到凌晨3点，原来问题出在这",
-      "url": "https://juejin.cn/post/7665168262498418723",
+      "title": "LangChain v1.3.4 笔记 - 05 Agent 上下文记忆",
+      "url": "https://juejin.cn/post/7665530652352921606",
       "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
+      "score": 180,
+      "raw_score": 8,
       "comments": 0,
-      "author": "阿橙的百宝箱",
+      "author": "65岁退休Coder",
       "created_at": "",
-      "summary": "Vue的响应式让我加班到凌晨3点，原来问题出在这** -- 引言 作为一名前端开发者，Vue.js 的响应式系统一直是我的得力助手。它让我能够轻松地管理状态，实现数据驱动的视图更新。然而，最近的一"
+      "summary": "模型本质上是没有记忆的，每次对话将之前的对话再塞给模型使模型看起来拥有了记忆； 在 LangChain 中记忆分为短期记忆、长期记忆 官方说明 短期记忆：作用于单个会话线程内，开启新对话或者更改 th"
     },
     {
-      "title": "Nearby Connections 重大变更：不再自动开启 Wi-Fi / 蓝牙，适配指南",
-      "url": "https://juejin.cn/post/7665266178302459914",
+      "title": "把记忆存储的回归测试从手工换成 Playwright + GitHub Actions，线上缺陷降低 80%",
+      "url": "https://juejin.cn/post/7665534249408806952",
       "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
+      "score": 180,
+      "raw_score": 8,
       "comments": 0,
-      "author": "黄林晴",
+      "author": "用户05954017446",
       "created_at": "",
-      "summary": "7 月 20 日，Android Developers Blog 发了一条 Nearby Connections API 的变更通知。 到 2026 年底以后，Nearby Connections 不"
+      "summary": "凌晨两点十七分，PagerDuty 又响了——用户反馈页面刷新后偏好设置全部变回默认值，Dashboard 的自定义布局也丢了。这是我们本月第三次因为前端记忆存储问题半夜爬起来，而每次发布前的“回归测"
     },
     {
-      "title": "瑞幸也AI上了？我用AI命令行帮我点了一杯咖啡，但是我花了不止一杯咖啡钱",
-      "url": "https://juejin.cn/post/7665313565674684462",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "李剑一",
-      "created_at": "",
-      "summary": "前一阵子瑞幸搞了一个 Skill，简单说就是通过AI帮你点咖啡。 其实整个原理说起来并不复杂，都是一个AI掉接口的过程，有兴趣的朋友可以解一下官方的 Zip 包看一下..."
-    },
-    {
-      "title": "Copilot Code Review 从固定 Reviewer 演进为可编程 Runtime，仓库控制面、Setup 供应链、Runner 资源和 MCP 工具同时被纳入审查决策",
-      "url": "https://juejin.cn/post/7665301964935102514",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "武子康",
-      "created_at": "",
-      "summary": "Copilot Code Review 已成为可编程 Agent Runtime（2026-07-17 GitHub Changelog 解析） TL;DR 场景：GitHub 在 2026-07-1"
-    },
-    {
-      "title": "Hudi技术内幕：Clustering原理与实践",
-      "url": "https://juejin.cn/post/7665229629452435506",
+      "title": "从装一堆工具到看懂 Node 工程化思维：我的项目复盘记录",
+      "url": "https://juejin.cn/post/7665553541962088458",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "大大大大晴天",
+      "author": "独立开发阿平",
       "created_at": "",
-      "summary": "Hudi 作为数据湖领域的核心开源框架，其Clustering（聚簇）功能是优化查询性能的关键手段，本文将深入剖析Clustering的执行原理和调度机制，并结合生产经验给出最佳使用实践。"
+      "summary": "判断一个工程化动作值不值得做，就看三件事——它能不能少让一个人来问你\"这个怎么配\"、能不能让半年后的自己少骂几句当时的代码、能不能让上线的时候少出几次冷汗。说白了就是协作成本、维护成本、出错成本。"
     },
     {
-      "title": "不用 @CircuitBreaker 注解，自定义 Resilience4j 熔断器 + AOP 实现",
-      "url": "https://juejin.cn/post/7665191840870514698",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "小狼183",
-      "created_at": "",
-      "summary": "不用@CircuitBreaker注解，自定义Resilience4j熔断器 + AOP实现。解决非Feign直连调用中，因业务异常不抛错导致熔断器“失灵”的问题，实现业务码级精准熔断。"
-    },
-    {
-      "title": "GPT 5.6 连续编码 10 小时，纯 Python 啃下 Word 二进制格式——doc2docx 实现拆解",
-      "url": "https://juejin.cn/post/7665177880380882978",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "Huiturn",
-      "created_at": "",
-      "summary": "一个 specification-driven 的纯 Python Word 97–2003 .doc → .docx 转换器，不依赖 Word、LibreOffice、COM、Java——只用标准库"
-    },
-    {
-      "title": "记一次 Spring AOP 与定时任务引发的死锁排查",
-      "url": "https://juejin.cn/post/7665014267738308671",
+      "title": "【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 --- (11)--- 算法总体实现",
+      "url": "https://juejin.cn/post/7665563875711352895",
       "source": "juejin",
       "score": 139,
       "raw_score": 5,
       "comments": 0,
-      "author": "蚰蜒螟",
+      "author": "罗西的思考",
       "created_at": "",
-      "summary": "一、现象：应用启动“僵住” 某天下午，运维反馈服务无法正常提供服务。登录服务器检查，进程仍在运行，CPU 和内存指标正常，但所有 HTTP 接口全部超时。凭借经验，第一反应是可能发生了死锁。 果断执行"
+      "summary": "【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 --- (11)--- 算法总体实现 0x00 概要 0x01 基础背景 1.1 架构 1.2 算法 0x02 "
     },
     {
-      "title": "langgraph之interrupt（事例篇）",
-      "url": "https://juejin.cn/post/7665139081606692916",
+      "title": "腾讯云 CloudBase 登上 WAIC：我们为 Agent 重新设计了云的生产线",
+      "url": "https://juejin.cn/post/7665220516446552073",
       "source": "juejin",
       "score": 120,
       "raw_score": 4,
       "comments": 0,
-      "author": "决战灬",
+      "author": "腾讯云开发CloudBase",
       "created_at": "",
-      "summary": "LangGraph 中的 interrupt 是一个人工介入（Human-in-the-loop）和流程暂停/恢复机制。它允许一个正在执行的 Agent 工作流在某个节点主动暂停，把当前状态暴露出来，"
+      "summary": "Agent 时代，云要成为一条适合 Agent 工作的软件生产线CloudBase 正在将 Serverless、BaaS、托管、多租户、权限和计费等能力重新组织为更适合Agent调用的基础设施。"
     }
   ]
 }
