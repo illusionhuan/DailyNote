@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-23T13:24:51.260570+00:00",
+  "updated_at": "2026-07-24T01:48:55.674934+00:00",
   "articles": [
     {
-      "title": "订单号查出了三笔，我以为是数据脏了，其实是自己写错了",
-      "url": "https://juejin.cn/post/7664904418249900084",
+      "title": "Flutter 3D 渲染的全新选择和应用场景",
+      "url": "https://juejin.cn/post/7665563875712450623",
       "source": "juejin",
-      "score": 647,
-      "raw_score": 1721,
+      "score": 365,
+      "raw_score": 67,
       "comments": 0,
-      "author": "一只牛博",
+      "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "订单号查出了三笔，我以为是数据脏了，其实是自己写错了 前几天翻一个批量对账脚本，里面有一条查订单的 SQL，条件是 where order_no = 123，没加引号。"
+      "summary": "昨天发布了《Flutter 全新真 3D 实现，用 flutter_scene 能开发一个「我的世界」》 之后，不少人觉得 Flutter 这是变成游戏引擎了？实际上目前的主要应用场景不是游戏，只是说"
     },
     {
-      "title": "如何设计一个优秀的 Skills",
-      "url": "https://juejin.cn/post/7664905579035410441",
+      "title": "从 LLM 评测到 AI Agent 评测，我的一些思考！",
+      "url": "https://juejin.cn/post/7665504807509229602",
       "source": "juejin",
-      "score": 632,
-      "raw_score": 1454,
-      "comments": 1,
-      "author": "石小石Orz",
-      "created_at": "",
-      "summary": "大家好，我是石小石~ 引言：AI 的下一阶段，不只是更会思考 最近，被一个新概念深深吸引了： \"具身交互智能\" 。 它的核心主张很直白：让 AI 拥有身体、感知世界、理解环境，并通过语音、表情、动作和"
-    },
-    {
-      "title": "2026 年前端大洗牌：React 服务端到 Vite 的底层重构",
-      "url": "https://juejin.cn/post/7664880484322099263",
-      "source": "juejin",
-      "score": 573,
-      "raw_score": 733,
-      "comments": 5,
-      "author": "ErpanOmer",
-      "created_at": "",
-      "summary": "2026年前端已转向服务端渲染与编译优化，React 19、Astro 5等框架通过零JS输出和孤岛架构，彻底消除客户端运行时负担。Vite 8基于Rust重构，构建速度提升数十倍，性能内卷成为核心。技术选型需适配业务场景，而非盲目追新。"
-    },
-    {
-      "title": "如何以前端视角（非0基础）学 Java ？",
-      "url": "https://juejin.cn/post/7665035990350594054",
-      "source": "juejin",
-      "score": 561,
-      "raw_score": 645,
-      "comments": 10,
-      "author": "双越AI_club",
-      "created_at": "",
-      "summary": "大家好，我是双越。wangEditor 作者，前百度 滴滴 资深前端工程师，慕课网精英讲师，PMP，前端面试派作者。本文介绍如何以前端视角（非0基础）学习 Java 全栈开发。"
-    },
-    {
-      "title": "AI 编程的工程化实践：Flutter AI Harness 的设计与落地",
-      "url": "https://juejin.cn/post/7665553541961433098",
-      "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
+      "score": 315,
+      "raw_score": 38,
       "comments": 0,
-      "author": "达达尼昂",
+      "author": "狂师",
       "created_at": "",
-      "summary": "Flutter AI Harness：从代码生成到可验证的工程协作 项目地址：https://github.com/bladeofgod/flutter-ai-harness 摘要 AI 编程工具已经"
+      "summary": "写在开头 2026 年，国内外AI大模型已经「卷」到了一个新高度。 GPT、Claude、Gemini、GLM、DeepSeek、KIMI、Qwen……各家厂商每隔一两个月就发布新模型，声称在各项基准"
     },
     {
-      "title": "原本要 2 天的服务端冒烟前置审查，为什么 3 分半就能出报告？｜QA 质量交付实践（三）",
-      "url": "https://juejin.cn/post/7665553541961515018",
+      "title": "LiveData 的缺陷：为什么我现在越来越少使用 LiveData？",
+      "url": "https://juejin.cn/post/7665574563510140979",
       "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
+      "score": 315,
+      "raw_score": 38,
       "comments": 0,
-      "author": "花椒技术",
+      "author": "潜龙勿用之化骨龙",
       "created_at": "",
-      "summary": "过去，一个项目进入测试前，我们需要根据需求、测试用例和服务端代码冒烟测试一遍。中型项目完成同等范围的人工审查，通常需要一天；大型项目通常要两天。 现在我们把这套工作沉淀成服务端冒烟前置审查 Skill"
+      "summary": " > 我第一次接触 LiveData 的时候，觉得它非常惊艳。 > > 在那个时代，Android "
     },
     {
-      "title": "04 | 召回前置准备：搭好召回所需的四个数据库",
-      "url": "https://juejin.cn/post/7665553541962006538",
+      "title": "第6章 检索增强生成：打造知识库驱动型Agent",
+      "url": "https://juejin.cn/post/7665563875712483391",
+      "source": "juejin",
+      "score": 298,
+      "raw_score": 31,
+      "comments": 0,
+      "author": "怕浪猫",
+      "created_at": "",
+      "summary": "Agent如果只依赖LLM的内置知识，就像一个只靠记忆力的学生——知识有限且会过时。RAG（Retrieval-Augmented Generation）让Agent能从外部知识库中检索专业、实时的信"
+    },
+    {
+      "title": "看完DeepSeek梁文锋内部交流会发言实录，我或许明白了为什么一直坚持不融资的DeepSeek开启了融资之路，也明白了中国人做AI一定是能够成功的",
+      "url": "https://juejin.cn/post/7665640105878470691",
+      "source": "juejin",
+      "score": 298,
+      "raw_score": 31,
+      "comments": 0,
+      "author": "李剑一",
+      "created_at": "",
+      "summary": "不知道大家清不清楚之前DeepSeek融资的事儿，简单的说一下背景： 之前DeepSeek一直秉持着不融资、不上市、不商业化的原则。 但是后来可能是因为种种原因的推动，DeepSeek最终还是决定正式"
+    },
+    {
+      "title": "配置 GoLand 与 VS Code 开发环境",
+      "url": "https://juejin.cn/post/7665613563865038857",
+      "source": "juejin",
+      "score": 260,
+      "raw_score": 20,
+      "comments": 0,
+      "author": "程序员爱钓鱼",
+      "created_at": "",
+      "summary": "上一篇《Go 开发环境安装（Windows/macOS/Linux）》中，我们已经完成了 Go 编译器的安装，并成功运行了第一个 Go 程序。本篇将进一步介绍如何配置 Go 的开发环境，包括目前最主流"
+    },
+    {
+      "title": "Doubao-Seed-Evolving实测：我做了个情绪价值拉满的星座记账 Skill",
+      "url": "https://juejin.cn/post/7665607110682443782",
+      "source": "juejin",
+      "score": 255,
+      "raw_score": 19,
+      "comments": 0,
+      "author": "后端小肥肠",
+      "created_at": "",
+      "summary": "我觉得检测一个模型能力的方式就是把它放进真实任务里用一遍，借着这次豆包出的新模型，我做了一个记账skill，还融入了趣味星座测试，我把它叫做小肥肠星运记账。"
+    },
+    {
+      "title": "Rust Vec 动态数组详解：创建、增删、遍历与排序",
+      "url": "https://juejin.cn/post/7665613563865055241",
+      "source": "juejin",
+      "score": 251,
+      "raw_score": 18,
+      "comments": 0,
+      "author": "程序员爱钓鱼",
+      "created_at": "",
+      "summary": "在上一篇文章中，我们学习了 String 与 &str。 这一篇继续学习 Rust 中最常用的集合类型之一： Vec 通常称为动态数组，也叫向量。 与普通数组不同，Vec 的长度可以在程序运行过程中变"
+    },
+    {
+      "title": "Java线程池踩了个坑，任务居然默默消失了",
+      "url": "https://juejin.cn/post/7665417513740976180",
+      "source": "juejin",
+      "score": 240,
+      "raw_score": 16,
+      "comments": 0,
+      "author": "阿橙的百宝箱",
+      "created_at": "",
+      "summary": "Java线程池踩了个坑，任务居然默默消失了** -- 引言 在多线程编程中，线程池（ThreadPool）是Java开发者最常用的并发工具之一。它能够有效管理线程生命周期，减少资源开销，提高系统吞吐量"
+    },
+    {
+      "title": "CSS 新特性：Container Queries 到底能解决什么痛点？",
+      "url": "https://juejin.cn/post/7665563875712565311",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "黑土豆",
+      "created_at": "",
+      "summary": "2026年前端CSS 新特性：Container Queries 到底能解决什么痛点？快点进来看看吧！"
+    },
+    {
+      "title": "Superpowers 6.0 的 SDD 重写，我扒了源码才知道：token 砍半不是优化，是设计哲学的转向",
+      "url": "https://juejin.cn/post/7665504807509344290",
       "source": "juejin",
       "score": 215,
       "raw_score": 12,
       "comments": 0,
-      "author": "颜酱",
+      "author": "码哥字节",
       "created_at": "",
-      "summary": "04 | 召回前置准备：搭好召回所需的四个数据库 这是一篇系列文，请按照顺序阅读。 终态回顾：召回三步分别需要什么 回到流程图，关键词抽取完之后紧接着三路并行召回： 倒推一下，要跑通这三步，必须提前准"
+      "summary": "扒了 SKILL.md 和 prompt 模板源码，拆解 Do Not Trust the Report 原则、File Handoffs 的 42k 字符真实翻车案例……"
     },
     {
-      "title": "🚀 从 DOM0 级到 React 合成事件：前端事件监听的 20 年演进史",
-      "url": "https://juejin.cn/post/7665417513740173364",
-      "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
-      "comments": 0,
-      "author": "ReBound",
-      "created_at": "",
-      "summary": "🚀 从 DOM0 级到 React 合成事件：前端事件监听的 20 年演进史 📌 前言 在写 DeepSeek-R1 WebGPU Demo 时，我写了这样一段代码： 看起来很简单对吧？但你有没有想过"
-    },
-    {
-      "title": "2026 GOAI 世界人工智能开源大赛「Agent Infra 新智基座」赛道正式启动",
-      "url": "https://juejin.cn/post/7665504807507935266",
-      "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
-      "comments": 0,
-      "author": "阿里云云原生",
-      "created_at": "",
-      "summary": "2026 年 7 月 21 日，首届 GOAI 世界人工智能开源大赛在杭州云谷中心正式启动。作为大赛核心赛道之一，由阿里云承办的 “新智基座（Agent Infra）”赛道 面向全球征集可运行、可验证"
-    },
-    {
-      "title": "NDK 初探：基于 C++ 实现参数哈希与签名校验",
-      "url": "https://juejin.cn/post/7665558748464185386",
-      "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
-      "comments": 0,
-      "author": "雨白",
-      "created_at": "",
-      "summary": "这是一篇 NDK 入门导学，带你通过 C++ 实现接口参数 MD5 哈希，并在 Native 层完成包名与签名校验，有效防止 so 库盗用，帮你快速了解 Android 底层安全基础。"
-    },
-    {
-      "title": "LangChain v1.3.4 笔记 - 05 Agent 上下文记忆",
-      "url": "https://juejin.cn/post/7665530652352921606",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "65岁退休Coder",
-      "created_at": "",
-      "summary": "模型本质上是没有记忆的，每次对话将之前的对话再塞给模型使模型看起来拥有了记忆； 在 LangChain 中记忆分为短期记忆、长期记忆 官方说明 短期记忆：作用于单个会话线程内，开启新对话或者更改 th"
-    },
-    {
-      "title": "把记忆存储的回归测试从手工换成 Playwright + GitHub Actions，线上缺陷降低 80%",
-      "url": "https://juejin.cn/post/7665534249408806952",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "用户05954017446",
-      "created_at": "",
-      "summary": "凌晨两点十七分，PagerDuty 又响了——用户反馈页面刷新后偏好设置全部变回默认值，Dashboard 的自定义布局也丢了。这是我们本月第三次因为前端记忆存储问题半夜爬起来，而每次发布前的“回归测"
-    },
-    {
-      "title": "从装一堆工具到看懂 Node 工程化思维：我的项目复盘记录",
-      "url": "https://juejin.cn/post/7665553541962088458",
+      "title": "为什么我不建议你在 MySQL 里写 `IN (超过1000个ID)`？从 AST 解析到存储引擎的深度拆解",
+      "url": "https://juejin.cn/post/7665373523435896895",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "独立开发阿平",
+      "author": "程序员Assby",
       "created_at": "",
-      "summary": "判断一个工程化动作值不值得做，就看三件事——它能不能少让一个人来问你\"这个怎么配\"、能不能让半年后的自己少骂几句当时的代码、能不能让上线的时候少出几次冷汗。说白了就是协作成本、维护成本、出错成本。"
+      "summary": "01. 抛出问题：IN 列表越大越好吗？ 在微服务架构下，为了减少 RPC 交互和网络往返（RTT），我们习惯将多次单条查询合并为一次批量查询： SQL 从 1 到 100，性能提升是成百上千倍的，因"
     },
     {
-      "title": "【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 --- (11)--- 算法总体实现",
-      "url": "https://juejin.cn/post/7665563875711352895",
+      "title": "如果写Redis序列化与读Redis序列化不一致，你觉得会发生什么",
+      "url": "https://juejin.cn/post/7665899624167194643",
       "source": "juejin",
       "score": 139,
       "raw_score": 5,
       "comments": 0,
-      "author": "罗西的思考",
+      "author": "青石路",
       "created_at": "",
-      "summary": "【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 --- (11)--- 算法总体实现 0x00 概要 0x01 基础背景 1.1 架构 1.2 算法 0x02 "
+      "summary": "Redis 的写读序列化要保持一致，推荐用 json 序列化，可读性高；不同的 Serializer 反序列化异常时所做的处理肯定是不一样的，大家要结合实际使用的 Serializer 来分析"
     },
     {
-      "title": "腾讯云 CloudBase 登上 WAIC：我们为 Agent 重新设计了云的生产线",
-      "url": "https://juejin.cn/post/7665220516446552073",
+      "title": "祖传老代码重构：揪出假分页与N+1查询，用最小代价完成接口性能优化",
+      "url": "https://juejin.cn/post/7665526852569923626",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "敖行客Allthinker",
+      "created_at": "",
+      "summary": "摘要：本文记录了对网盘文件列表接口的性能优化过程。原接口采用假分页方式，每次翻页都全量查询10000条数据并在内存处理，导致100条数据耗时11秒。排查发现真正瓶颈在于N+1查询（每行8-10次IO）"
+    },
+    {
+      "title": "Spring Boot 接入大模型：从配置到实战的完整指南",
+      "url": "https://juejin.cn/post/7665331286681862159",
       "source": "juejin",
       "score": 120,
       "raw_score": 4,
       "comments": 0,
-      "author": "腾讯云开发CloudBase",
+      "author": "用户44613943027",
       "created_at": "",
-      "summary": "Agent 时代，云要成为一条适合 Agent 工作的软件生产线CloudBase 正在将 Serverless、BaaS、托管、多租户、权限和计费等能力重新组织为更适合Agent调用的基础设施。"
+      "summary": "基于 10+ AI 平台密钥（DeepSeek/智谱/豆包/通义/Midjourney），从零搭建 Spring Boot AI 模块。涵盖模型智能路由、图片生成、RAG 知识库、租户配额管"
     }
   ]
 }
