@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-24T13:18:01.866309+00:00",
+  "updated_at": "2026-07-25T01:48:53.258397+00:00",
   "articles": [
     {
-      "title": "Flutter 全新真 3D 实现，用 flutter_scene 能开发一个「我的世界」",
-      "url": "https://juejin.cn/post/7665253291312316479",
+      "title": "LangGraph 核心概念详解：从编译到可视化",
+      "url": "https://juejin.cn/post/7665985256395882530",
       "source": "juejin",
-      "score": 592,
-      "raw_score": 920,
-      "comments": 6,
-      "author": "恋猫de小郭",
-      "created_at": "",
-      "summary": "最近一个第三方实现的 bdero/flutter_scene 惊艳到我了，比如下面这个类似「我的世界」的游戏效果，就是作者用 Flutter Scene 做的，全部基于 Flutter GPU/Imp"
-    },
-    {
-      "title": "三伏天正是减肥天：我在 EdgeOne Makers 上从 0 到 1 上线了一个 AI 健康教练",
-      "url": "https://juejin.cn/post/7665614902707617827",
-      "source": "juejin",
-      "score": 575,
-      "raw_score": 755,
+      "score": 282,
+      "raw_score": 26,
       "comments": 0,
-      "author": "一只牛博",
+      "author": "培歌行Coding",
       "created_at": "",
-      "summary": "三伏天正是减肥天：我在 EdgeOne Makers 上从 0 到 1 上线了一个 AI 健康教练 一、起因：入伏那天，体重秤先给了我一击 今年 7 月 15 日入伏，8 月 23 日出伏，整整四十天"
+      "summary": "前情回顾 1.LangGraph 入门基础全解析 2.LangGraph中的Reducer是什么 在人工智能代理开发的旅程中，LangGraph 作为一个强大的图编排框架，正在改变我们构建复杂 AI "
     },
     {
-      "title": "HTTP 迎来 16 年来首个全新请求方法：QUERY",
-      "url": "https://juejin.cn/post/7665313565674717230",
+      "title": "LLM 生产环境的 Prompt 注入防御工程实践：5 层防护体系与真实攻防案例",
+      "url": "https://juejin.cn/post/7665992925348593674",
       "source": "juejin",
-      "score": 547,
-      "raw_score": 544,
-      "comments": 2,
-      "author": "JarvanMo",
-      "created_at": "",
-      "summary": "如果你开发过 REST API，一定对 GET、POST、PUT、DELETE 等 HTTP 方法非常熟悉。 但你知道吗？2026 年 6 月，IETF 正式发布了 RFC 10008，为 HTTP "
-    },
-    {
-      "title": "再见 Superpowers！很多 Skill 真的可以扔掉了。",
-      "url": "https://juejin.cn/post/7665897866712858674",
-      "source": "juejin",
-      "score": 527,
-      "raw_score": 432,
+      "score": 260,
+      "raw_score": 20,
       "comments": 0,
-      "author": "JavaGuide",
+      "author": "AINative软件工程",
       "created_at": "",
-      "summary": "前几天在知乎看到有人问：Codex 用上 GPT-5.6 后，为什么不少人开始不用 Skills 了？ 确实，相信大家也发现，很多 Skill，尤其是开发相关的，真的慢慢就开始用不上了。 我现在看到一"
+      "summary": "Prompt 注入是 LLM 应用生产环境最常见却最被低估的安全风险。本文从真实攻击类型出发，设计 5 层防护体系，包含可运行的检测代码、越权判断逻辑、输出审计链路，以及生产监控指标。"
     },
     {
-      "title": "图解 120 个大语言模型（LLM）核心概念（61-90）",
-      "url": "https://juejin.cn/post/7665944296248950810",
+      "title": "Claude Opus5 “便宜”稳定的最强“AGI”！",
+      "url": "https://juejin.cn/post/7665983042769322011",
       "source": "juejin",
-      "score": 404,
-      "raw_score": 105,
-      "comments": 0,
-      "author": "周末程序猿",
-      "created_at": "",
-      "summary": "图解 120 个大语言模型（LLM）核心概念（61-90），这是第三篇，介绍 LLM 的核心概念，科普大模型..."
-    },
-    {
-      "title": "我要开始吹牛逼了！Kimi K3 “宇宙无敌”！",
-      "url": "https://juejin.cn/post/7665921531208024114",
-      "source": "juejin",
-      "score": 366,
-      "raw_score": 68,
+      "score": 235,
+      "raw_score": 15,
       "comments": 0,
       "author": "甲维斯",
       "created_at": "",
-      "summary": "其实这篇文章的正经标题是：我用 K3 复刻《植物大战僵尸》 ！ 我大概花了 48 个小时，33 轮对话，457 次工具调用。消耗了 3.3 亿 Token（缓存 3.25 亿）！ 最终的复刻效果也非常"
+      "summary": "Kimi K3 这么强，对 K3 用户和 Claude 用户都是好事情。Opus 5 这不就来了嘛！ 我一直说 K3 虽强，但是 Claude 更全面，更稳定，自主性更强。 今天 Claude Opu"
     },
     {
-      "title": "鸿蒙应用开发教程：以红绿灯切换为例，掌握条件渲染的核心用法",
-      "url": "https://juejin.cn/post/7665220516445798409",
+      "title": "AI对话打字机效果卡顿崩溃？1套Vue3流式代码搞定逐Token输出，彻底解决断包报错",
+      "url": "https://juejin.cn/post/7665922156626460714",
       "source": "juejin",
-      "score": 348,
-      "raw_score": 55,
+      "score": 235,
+      "raw_score": 15,
       "comments": 0,
-      "author": "程序员黑豆",
+      "author": "GuWenyue",
       "created_at": "",
-      "summary": "一、引言 在鸿蒙应用开发中，条件渲染是一项基础且强大的功能。它允许开发者根据应用状态（如用户输入、数据变化、设备条件等）动态地决定界面上显示哪些内容。简单来说，就是“满足某个条件，才渲染对应的UI组件"
+      "summary": "😵做AI对话时，我被流式输出坑到崩溃 之前开发AI聊天页面，想实现文字逐字弹出的打字机效果，踩满一堆致命问题： 网络分片导致JSON半截，页面直接报错白屏； 中文多字节截断，渲染一堆乱码方块； 分不清"
     },
     {
-      "title": "快速过下我2026年上半年的前端学了些啥",
-      "url": "https://juejin.cn/post/7665983042767781915",
+      "title": "从零构建 React Todo 应用：组件化设计与数据流深度解析",
+      "url": "https://juejin.cn/post/7666028758717464582",
       "source": "juejin",
-      "score": 315,
-      "raw_score": 38,
+      "score": 229,
+      "raw_score": 14,
       "comments": 0,
-      "author": "张鑫旭",
+      "author": "dzhd",
       "created_at": "",
-      "summary": "时光匆匆，一晃又半年过去了。这半年来，学习的脚步依然没有停止，这里和大家分享下自己半年所学，去粗取精，言简意赅，与大家共同成长。"
+      "summary": "从零构建 React Todo 应用：组件化设计与数据流深度解析 引言 如果你正在学习 React，或者已经写过一些 Demo，但始终觉得“组件通信”“状态管理”只是会抄、会改，而没有真正理解为什么这"
     },
     {
-      "title": "我让AI给前端项目做了一次完整的Code Review——它和人类的差距，比我想的大得多",
-      "url": "https://juejin.cn/post/7665921531207958578",
+      "title": "第7章 多智能体协作：从单兵作战到群体智能",
+      "url": "https://juejin.cn/post/7665981990437666842",
       "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
-      "author": "kyriewen",
+      "author": "怕浪猫",
       "created_at": "",
-      "summary": "我拿AI对前端项目做了一轮完整的Code Review，发现它在边界检查、性能反模式、安全漏洞上比人类强得多，但在业务逻辑、架构决策、用户体验上完全是盲区。附实战速查表：哪些Review交给AI..."
+      "summary": "单个Agent再强大，也受限于一个LLM的推理能力和知识边界。当多个Agent组成团队，各司其职、相互协作，就能解决远超单Agent能力范围的复杂问题。这就是多智能体系统（Multi-Agent Sy"
     },
     {
-      "title": "今天我们讲讲大模型的“核心”技术：蒸馏（Model Distillation）",
-      "url": "https://juejin.cn/post/7665780788496007222",
+      "title": "React 父子组件通信 Todo List 看透单向数据流与不可变数据",
+      "url": "https://juejin.cn/post/7665780788496351286",
       "source": "juejin",
-      "score": 279,
-      "raw_score": 25,
+      "score": 200,
+      "raw_score": 10,
       "comments": 0,
-      "author": "吴佳浩Alben",
+      "author": "玉宇夕落",
       "created_at": "",
-      "summary": "文章摘要： 大模型蒸馏技术已成为AI公司的核心竞争力之一。随着模型参数规模指数级增长，推理成本、部署难度等问题日益突出，蒸馏能够在几乎不损失能力的前提下，将大模型能力迁移到更小、更高效的模型上。几乎所"
+      "summary": "导语 如果你已经写过 React 项目，一定遇到过这样的困惑：为什么子组件不能直接修改父组件的状态？为什么用 todos.push() 后调用 setTodos 页面却不更新？props 传递回调函数"
     },
     {
-      "title": "多轮对话生成架构图 Agent 设计实践",
-      "url": "https://juejin.cn/post/7665897936963469348",
+      "title": "Java Jetty 实战详解：从嵌入式 HTTP 服务到 Spring Boot 容器替换",
+      "url": "https://juejin.cn/post/7665945008647061556",
       "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
+      "score": 190,
+      "raw_score": 9,
       "comments": 0,
-      "author": "犀利豆",
+      "author": "唐青枫",
       "created_at": "",
-      "summary": "引子 前段时间做了一个把自然语言转成架构图的小工具 —— 一句话描述流程,LLM 生成 Mermaid 代码,右边实时预览。用了几个月,反复收敛到两类失败: 一类是 LLM 生成的 Mermaid 看"
+      "summary": "简介 Jetty 是 Eclipse 基金会维护的 Java Web 服务器，也是一个 Servlet 容器。 它主要能做这些事： 一句话概括： Jetty 最突出的特点是“嵌入式”和“可编程”。 很"
     },
     {
-      "title": "[开源] 做了一个本地优先的多 Agent 市场研究桌面：Evidence Loom",
-      "url": "https://juejin.cn/post/7665718818648031272",
-      "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
-      "comments": 0,
-      "author": "郭小铭",
-      "created_at": "",
-      "summary": "大家好，最近把一个折腾了一段时间的项目整理出来了：Evidence Loom，一个本地优先、开源的多智能体市场研究桌面工作区。"
-    },
-    {
-      "title": "Agent Hook：在概率推理之上，为 Agent 叠加确定性控制",
-      "url": "https://juejin.cn/post/7665961135787294754",
+      "title": "Android compose详解",
+      "url": "https://juejin.cn/post/7665944296248786970",
       "source": "juejin",
       "score": 180,
       "raw_score": 8,
       "comments": 0,
-      "author": "玉鸯",
+      "author": "albert0211",
       "created_at": "",
-      "summary": "我最早用 LangChain 做 Agent 的时候，写过这样一个\"调试器\"：在每个可能的调用点前面加 print()。LLM 调用之前 print，工具执行之后 print，Agent 思考步骤前后"
+      "summary": "Jetpack Compose 是 Android 官方推出的现代化声明式 UI 工具包。它彻底颠覆了传统的基于 XML 和命令式 View 系统的开发模式，转而采用完全基于 Kotlin 的声明式 "
     },
     {
-      "title": "GPT-5.6 意味着什么？从 Benchmark 跑分到模型分层，读懂 AI 行业的三个真相",
-      "url": "https://juejin.cn/post/7665897936963600420",
+      "title": "Python线程池把我坑惨了，这些盲区你不踩？",
+      "url": "https://juejin.cn/post/7665943714632679464",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "阿橙的百宝箱",
+      "created_at": "",
+      "summary": "Python线程池把我坑惨了，这些盲区你不踩？** -- 引言 Python的线程池（）是并发编程中常用的工具，它简化了多线程任务的管理，但背后隐藏的陷阱却可能让开发者踩坑无数。从GIL的限制到资"
+    },
+    {
+      "title": "Oracle 数据库备份还原工具",
+      "url": "https://juejin.cn/post/7665961135787753506",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "user_lwl",
+      "created_at": "",
+      "summary": "使用 Python + Tkinter 开发一个功能完善的 Oracle 数据库备份还原小工具，便于日常开发。"
+    },
+    {
+      "title": "别把 TodoList 写成面条代码！一文吃透 React 组件通信与状态驱动的核心内功",
+      "url": "https://juejin.cn/post/7665920190530306088",
       "source": "juejin",
       "score": 169,
       "raw_score": 7,
       "comments": 0,
-      "author": "Darling噜啦啦",
+      "author": "渣波",
       "created_at": "",
-      "summary": "GPT-5.6 意味着什么？从 Benchmark 跑分到模型分层，读懂 AI 行业的三个真相 前置知识 了解 LLM（大语言模型）的基本概念 了解 Benchmark（基准测试）的基本含义 了解 A"
+      "summary": "很多前端新手在初学 React 时，往往觉得 TodoList 只是一个简单的“增删改查”玩具。但事实上，它是检验你是否真正掌握 React 核心设计哲学的最佳试金石。"
     },
     {
-      "title": "Apache Doris Segment V3 宽表优化实战教程：从建表到体验元数据按需加载",
-      "url": "https://juejin.cn/post/7665361315444129802",
+      "title": "02. 从0开始学习硅基智能 - buddy-mlir deepseek模型导入代码解析",
+      "url": "https://juejin.cn/post/7665961135786836002",
       "source": "juejin",
       "score": 169,
       "raw_score": 7,
       "comments": 0,
-      "author": "SelectDB",
+      "author": "手拿菜刀",
       "created_at": "",
-      "summary": "宽表查询慢，往往不是数据量大，而是元数据拖了后腿。Doris 4.1 引入的 Segment V3 把列元数据从 Footer 外置到 CMR，实测 7000 列场景下 Segment 打开从 65"
+      "summary": "该文章介绍 buddy-mlir 项目中，导入 deepseek r1 模型并生成mlir 代码的过程"
+    },
+    {
+      "title": "Spring Boot依赖注入方式对比详解",
+      "url": "https://juejin.cn/post/7665553448478507018",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "dkbnull",
+      "created_at": "",
+      "summary": "依赖注入（Dependency Injection，DI）是 Spring 框架的核心特性之一，也是实现 IoC（控制反转）的具体方式。Spring 提供了多种依赖注入方式，每种方式各有优劣。本文系统"
+    },
+    {
+      "title": "React 组件通信：一套 TodoList 讲清 props 与回调",
+      "url": "https://juejin.cn/post/7665961135788032034",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "bonechips",
+      "created_at": "",
+      "summary": "父传子靠props，子传父靠回调。一套完整TodoList--App管状态、TodoInput上报新增、TodoList展示操作、TodoStates底部统计四种通信模式串成一条完整组件树"
     }
   ]
 }
