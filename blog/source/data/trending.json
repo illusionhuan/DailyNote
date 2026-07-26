@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-26T01:52:06.955749+00:00",
+  "updated_at": "2026-07-26T12:58:43.675213+00:00",
   "articles": [
-    {
-      "title": "我把刘备一生做成了可播放的高德地图，还把整套方法封装成了 Skill",
-      "url": "https://juejin.cn/post/7663708874660331556",
-      "source": "juejin",
-      "score": 865,
-      "raw_score": 21191,
-      "comments": 20,
-      "author": "LucianaiB",
-      "created_at": "",
-      "summary": "人生很短，不过三万天。人生经纬，高德陪你看看你的过去的人生。 你可以用人生经纬Skill来了解的某个人物（偶像，名人）的一生，看看他的一生是什么样的，你也可以看看自己的一生"
-    },
     {
       "title": "ArkTS 用 Preferences 存 App 配置的正确姿势 —— 从踩坑到 singleton 封装",
       "url": "https://juejin.cn/post/7665969736425488425",
       "source": "juejin",
-      "score": 785,
-      "raw_score": 8429,
+      "score": 817,
+      "raw_score": 12260,
       "comments": 0,
       "author": "SameX",
       "created_at": "",
       "summary": "上周三晚上，我在 breathing 这个项目里补一个\"多语言持久化\"的功能。原本以为半小时能搞定的活，前后弄了差不多两个多小时。不是因为多语言复杂，是因为我第一次开始怀疑：这个项目里的 Prefer"
     },
     {
-      "title": "遇到 Seed Evolving，我终于把脑海里的小说世界图谱做出来了：《斗破苍穹》篇",
-      "url": "https://juejin.cn/post/7665601892052189224",
-      "source": "juejin",
-      "score": 768,
-      "raw_score": 6966,
-      "comments": 0,
-      "author": "LucianaiB",
-      "created_at": "",
-      "summary": "小说爱好者集合啦！ 你是否想把自己正在阅读的小说，转换成一张可以浏览和探索的可视化图谱？ 你是否想快速理清小说中的人物关系、地图场景、势力分布与关键事件？"
-    },
-    {
-      "title": "如何设计一个优秀的 Skills",
-      "url": "https://juejin.cn/post/7664905579035410441",
-      "source": "juejin",
-      "score": 706,
-      "raw_score": 3396,
-      "comments": 4,
-      "author": "石小石Orz",
-      "created_at": "",
-      "summary": "大家好，我是石小石~ 引言：AI 的下一阶段，不只是更会思考 最近，被一个新概念深深吸引了： \"具身交互智能\" 。 它的核心主张很直白：让 AI 拥有身体、感知世界、理解环境，并通过语音、表情、动作和"
-    },
-    {
-      "title": "三伏天正是减肥天：我在 EdgeOne Makers 上从 0 到 1 上线了一个 AI 健康教练",
-      "url": "https://juejin.cn/post/7665614902707617827",
-      "source": "juejin",
-      "score": 694,
-      "raw_score": 2959,
-      "comments": 0,
-      "author": "一只牛博",
-      "created_at": "",
-      "summary": "三伏天正是减肥天：我在 EdgeOne Makers 上从 0 到 1 上线了一个 AI 健康教练 一、起因：入伏那天，体重秤先给了我一击 今年 7 月 15 日入伏，8 月 23 日出伏，整整四十天"
-    },
-    {
       "title": "TRAE SOLO实战：实现一个桌面3D助手",
       "url": "https://juejin.cn/post/7665981990437797914",
       "source": "juejin",
-      "score": 576,
-      "raw_score": 763,
-      "comments": 1,
+      "score": 606,
+      "raw_score": 1079,
+      "comments": 2,
       "author": "石小石Orz",
       "created_at": "",
       "summary": "引言 上一篇文章《星云 SDK + 油猴：给 LLM 塑造肉身，陪伴你在每个网页》中，我用油猴脚本 + 魔珐星云 SDK，让 3D 虚拟人出现在任意网页上，让AI拥有身体，感知世界，理解环境，自然表达"
     },
     {
-      "title": "Flutter 3D 渲染的全新选择和应用场景",
-      "url": "https://juejin.cn/post/7665563875712450623",
+      "title": "LangGraph实战教程：预定义状态MessagesState与AgentState",
+      "url": "https://juejin.cn/post/7666368669444161588",
       "source": "juejin",
-      "score": 531,
-      "raw_score": 456,
-      "comments": 4,
-      "author": "恋猫de小郭",
-      "created_at": "",
-      "summary": "昨天发布了《Flutter 全新真 3D 实现，用 flutter_scene 能开发一个「我的世界」》 之后，不少人觉得 Flutter 这是变成游戏引擎了？实际上目前的主要应用场景不是游戏，只是说"
-    },
-    {
-      "title": "MCP Server 权限边界工程实践：OAuth、最小权限与工具沙箱，别让 Agent 拿到整台机器",
-      "url": "https://juejin.cn/post/7666142463166775323",
-      "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
+      "score": 279,
+      "raw_score": 25,
       "comments": 0,
-      "author": "AINative软件工程",
+      "author": "培歌行Coding",
       "created_at": "",
-      "summary": "MCP 让 Agent 接工具变得很快，但生产风险也随之集中到权限边界上。本文用五层模型拆解入口身份、资源授权、工具白名单、执行沙箱与审计回放，并给出 TypeScript policy engine、scope、manifest 与上线检查清单，帮助团队避免让 Agent 拿到整台机器。"
+      "summary": "在构建与LLM交互的LangGraph应用时，消息列表的管理是一个非常常见的需求。每次调用模型都需要传入历史消息，而模型返回的新消息又需要追加到列表中。如果每次都手动处理消息的合并逻辑，不仅繁琐，而且"
     },
     {
-      "title": "Rust Option 详解：安全处理“可能存在，也可能不存在”的值",
-      "url": "https://juejin.cn/post/7666367425407107122",
+      "title": "LangGraph高级教程：Multi Schema多状态管理详解",
+      "url": "https://juejin.cn/post/7666245761521893391",
       "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
+      "score": 276,
+      "raw_score": 24,
       "comments": 0,
-      "author": "程序员爱钓鱼",
+      "author": "培歌行Coding",
       "created_at": "",
-      "summary": "在上一篇文章中，我们学习了 HashMap。 在使用 HashMap 查询数据时，经常会看到这样的代码： 它的返回值并不是直接返回某个值，而是： 为什么？ 因为指定的键可能存在，也可能不存在。 Rus"
+      "summary": "LangGraph的 **Multi Schema**​ 机制正是为了解决这些问题而设计的。它支持在一个图中使用多个状态Schema，分别管理不同类型的数据。"
     },
     {
-      "title": "当老板说「数据库里加个字段就行了」时，我在想什么——一个后端开发的奇葩需求大赏",
-      "url": "https://juejin.cn/post/7666102855687847977",
+      "title": "07｜（前端转后全栈）为什么后端也要缓存？从前端缓存思维理解 Redis",
+      "url": "https://juejin.cn/post/7666453566625873947",
       "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
+      "score": 235,
+      "raw_score": 15,
       "comments": 0,
-      "author": "吴琼琼",
+      "author": "swipe",
       "created_at": "",
-      "summary": "从后端开发视角，聊聊「加个字段」「导出Excel」「换个数据库」「定时任务」这些看似简单实则巨坑的奇葩需求，以及我是怎么活着熬过来的。"
+      "summary": "1. 这篇解决什么问题 前 6 篇我们已经建立了后端工程地图：Spring Boot 如何启动，Controller 如何接 HTTP 请求，Request / Response 如何定义，MySQL"
     },
     {
-      "title": "Python的线程池把我CPU跑满了，原来少传了个参数",
-      "url": "https://juejin.cn/post/7666250786229846050",
+      "title": "深入理解JavaScript:核心原理与最佳实践",
+      "url": "https://juejin.cn/post/7666483008576897059",
       "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
+      "score": 229,
+      "raw_score": 14,
       "comments": 0,
       "author": "阿橙的百宝箱",
       "created_at": "",
-      "summary": "Python的线程池把我CPU跑满了，原来少传了个参数** -- 引言 最近在优化一个Python数据处理项目时，我遇到了一个令人头疼的问题：使用创建线程池后，程序的CPU使用率直接飙升至100%，导"
+      "summary": "深入理解JavaScript:核心原理与最佳实践** -- 引言 JavaScript作为现代Web开发的基石语言，其重要性已毋庸置疑。从简单的表单验证到复杂的单页应用(SPA)，再到服务器端(Nod"
     },
     {
-      "title": "Go Modules 包管理详解：go.mod、go.sum 与依赖管理",
-      "url": "https://juejin.cn/post/7666343034912555058",
+      "title": "06｜（前端转后全栈）登录后端到底在做什么？JWT、Spring Security 和权限链路",
+      "url": "https://juejin.cn/post/7666447843595452425",
       "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
+      "score": 222,
+      "raw_score": 13,
       "comments": 0,
-      "author": "程序员爱钓鱼",
+      "author": "swipe",
       "created_at": "",
-      "summary": "> Go 编程实战系列（五） 上一篇《第一个 Go 程序：Hello World》中，我们创建了第一个 Go 项目，并执行过这样一条命令： ``` go mod init hello-go ``` 执"
+      "summary": "1. 这篇解决什么问题 在前 5 篇里，我们已经把后端工程地图、Java / Maven / Spring Boot 启动、Controller 请求响应、MySQL、MyBatis-Plus 都打了"
     },
     {
-      "title": "IFEO Debugger、VerifierDlls 与 SilentProcessExit 配置",
-      "url": "https://juejin.cn/post/7666250786229207074",
+      "title": "Godot 4 角色移动为什么要用 CharacterBody2D？从 Input Map 到碰撞滑动一次讲透",
+      "url": "https://juejin.cn/post/7666354528842022921",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "大鹏AI教育",
+      "created_at": "",
+      "summary": "OK，OK，大家好，欢迎大家来到大鹏 AI 教育，我是张大鹏。 很多同学第一次做角色移动，会直接修改 position。角色确实动了，但遇到墙会穿过去，斜向移动还可能更快。问题不是少写了一句代码，而是"
+    },
+    {
+      "title": "git 的 NFD 与 NFC 有什么区别？为什么我有个文件在 NFC 中间不会被当成改动，在 NFD 中就会当成改动",
+      "url": "https://juejin.cn/post/7666446436604198939",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "我叫黑大帅",
+      "created_at": "",
+      "summary": "git 的 NFD 与 NFC 有什么区别？为什么我有个文件在 NFC 中间不会被当成改动，在 NFD 中就会当成改动.Unicode 正规化 和 Git 底层存储机制"
+    },
+    {
+      "title": "开源项目第167期：Buzz — Block 开源的人机协作工作空间，Agent 是成员不是 Bot",
+      "url": "https://juejin.cn/post/7666102855688978473",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "冬奇Lab",
+      "created_at": "",
+      "summary": "Block Inc. 开源的自托管团队工作空间，基于 Nostr 中继协议构建。消息、反应、工作流、代码审查、Git 事件全部是同一个签名事件日志。AI agent 是正式成员，有自己的密钥、频道成员"
+    },
+    {
+      "title": "Memory向量记忆系统3-数据选取",
+      "url": "https://juejin.cn/post/7666289945598951439",
       "source": "juejin",
       "score": 180,
       "raw_score": 8,
       "comments": 0,
-      "author": "WangWei_CM",
+      "author": "程序员麻辣烫",
       "created_at": "",
-      "summary": "IFEO Debugger、VerifierDlls 与 SilentProcessExit 配置 本节的目标是读取 Image File Execution Options（IFEO，映像文件执行选"
+      "summary": "从SQLite里召回的数据有很多，都要保留吗？可能返回的前 5 条结果可能都在讲同一个话题的不同段落——内容高度重复，信息增益有限。或者有的已经是一年前的信息了。"
     },
     {
-      "title": "Antv G2中自定义技巧📊",
-      "url": "https://juejin.cn/post/7666098265134219315",
+      "title": "第9篇：《AI终于记住我是谁了：多轮对话的上下文记忆与压缩》",
+      "url": "https://juejin.cn/post/7666368669444292660",
       "source": "juejin",
       "score": 169,
       "raw_score": 7,
       "comments": 0,
-      "author": "太平洋月光",
+      "author": "第一行代码HW",
       "created_at": "",
-      "summary": "当前项目需要将图表的依赖库更新为 Antd G2，所以为了还原原有样式效果，就衍生出了一些需要自定义组件模块才可以还原的内容 关键词：图表、自定义"
+      "summary": "后端老鸟的类比：这不就是HTTP的无状态问题吗？ HTTP每次请求独立，我们用Session/Cookie来保持状态。AI对话也需要一个“Session”——这就是 ChatMemory（对话记忆）。"
     },
     {
-      "title": "流式文件响应 `Controller is already closed` 崩溃复盘",
-      "url": "https://juejin.cn/post/7666217642172825634",
+      "title": "用了3年Redis，才发现我一直没搞懂缓存一致性测试",
+      "url": "https://juejin.cn/post/7666483008577044515",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "用户05954017446",
+      "created_at": "",
+      "summary": "凌晨两点半，报警电话把我从睡梦中薅起来。用户群炸了——订单状态和实际支付结果对不上，有人付了钱却显示待付款，有人没付钱反而显示已发货。我迷迷糊糊打开监控，数据库连接池没爆，CPU也没飙，Redis 内"
+    },
+    {
+      "title": "Java 项目用 Single-flight 一招终结 AI 接口重复调用",
+      "url": "https://juejin.cn/post/7666102855688667177",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "Damai",
+      "author": "程序员天天困",
       "created_at": "",
-      "summary": "流式文件响应 Controller is already closed 崩溃复盘 一、现象 生产环境 PM2 的 next-error.log 持续刷出同一条未捕获异常： 它有两个危险特征： 是 un"
+      "summary": "Single-flight 并发去重模式 Java 落地实践，从单体 CompletableFuture 到分布式 Redis，彻底解决 AI 接口重复调用"
+    },
+    {
+      "title": "Java 并发锁体系全解：从 synchronized、Lock 到 AQS 底层原理与源码深度剖析",
+      "url": "https://juejin.cn/post/7666368669443866676",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "Java编程爱好者",
+      "created_at": "",
+      "summary": "在 Java 并发编程体系中，锁是解决多线程共享资源竞争、保证线程安全的核心机制。从 JVM 内置的synchronized隐式锁，到 JUC 包提供的Lock显式锁，再到支撑整个并发工具集的底层基石"
     }
   ]
 }
