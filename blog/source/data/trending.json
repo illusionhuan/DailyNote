@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-26T12:58:43.675213+00:00",
+  "updated_at": "2026-07-27T01:59:53.539806+00:00",
   "articles": [
     {
-      "title": "ArkTS 用 Preferences 存 App 配置的正确姿势 —— 从踩坑到 singleton 封装",
-      "url": "https://juejin.cn/post/7665969736425488425",
+      "title": "我把 22 篇 RAG 论文喂给了 RAG，让 AI 自己给我讲明白什么是 RAG",
+      "url": "https://juejin.cn/post/7666646110229020712",
       "source": "juejin",
-      "score": 817,
-      "raw_score": 12260,
+      "score": 456,
+      "raw_score": 191,
       "comments": 0,
-      "author": "SameX",
+      "author": "倔强的石头_",
       "created_at": "",
-      "summary": "上周三晚上，我在 breathing 这个项目里补一个\"多语言持久化\"的功能。原本以为半小时能搞定的活，前后弄了差不多两个多小时。不是因为多语言复杂，是因为我第一次开始怀疑：这个项目里的 Prefer"
+      "summary": "最近想搞懂 RAG（检索增强生成），去 arXiv 一顿下载，22 篇经典论文 PDF 整整齐齐躺在文件夹里——然后就开始吃灰了"
     },
     {
-      "title": "TRAE SOLO实战：实现一个桌面3D助手",
-      "url": "https://juejin.cn/post/7665981990437797914",
+      "title": "AI 会不会取代前端？我看了 2026 年 7 月整个市场，给你一个不吓人的答案",
+      "url": "https://juejin.cn/post/7666019880676622345",
       "source": "juejin",
-      "score": 606,
-      "raw_score": 1079,
-      "comments": 2,
-      "author": "石小石Orz",
+      "score": 452,
+      "raw_score": 184,
+      "comments": 4,
+      "author": "鱼樱前端",
       "created_at": "",
-      "summary": "引言 上一篇文章《星云 SDK + 油猴：给 LLM 塑造肉身，陪伴你在每个网页》中，我用油猴脚本 + 魔珐星云 SDK，让 3D 虚拟人出现在任意网页上，让AI拥有身体，感知世界，理解环境，自然表达"
+      "summary": "AI不会整体取代前端，但会结构性重构岗位。看2026年7月海内外行情+最新智能体数据：会用AI的前端，正在取代不用的。"
     },
     {
-      "title": "LangGraph实战教程：预定义状态MessagesState与AgentState",
-      "url": "https://juejin.cn/post/7666368669444161588",
+      "title": "栗子前端技术周刊第 139 期 - Nuxt 4.5、Vue 3.6 RC、Angular 发布节奏...",
+      "url": "https://juejin.cn/post/7666373286322700330",
       "source": "juejin",
-      "score": 279,
-      "raw_score": 25,
+      "score": 399,
+      "raw_score": 99,
       "comments": 0,
-      "author": "培歌行Coding",
+      "author": "晓得迷路了",
       "created_at": "",
-      "summary": "在构建与LLM交互的LangGraph应用时，消息列表的管理是一个非常常见的需求。每次调用模型都需要传入历史消息，而模型返回的新消息又需要追加到列表中。如果每次都手动处理消息的合并逻辑，不仅繁琐，而且"
+      "summary": "🌰栗子前端技术周刊第 139 期 (2026.07.20 - 2026.07.26)：浏览前端一周最新消息，学习国内外优秀文章，让我们保持对前端的好奇心。 📰 技术资讯 Nuxt 4.5：Nuxt"
     },
     {
-      "title": "LangGraph高级教程：Multi Schema多状态管理详解",
-      "url": "https://juejin.cn/post/7666245761521893391",
+      "title": "Kimi K3太牛了！但老板说API太贵，让我本地化部署，我算完成本，他涨红脸沉默不语了！其实成本不高，三千万足矣。",
+      "url": "https://juejin.cn/post/7666482995197722630",
       "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
+      "score": 272,
+      "raw_score": 23,
       "comments": 0,
-      "author": "培歌行Coding",
+      "author": "李剑一",
       "created_at": "",
-      "summary": "LangGraph的 **Multi Schema**​ 机制正是为了解决这些问题而设计的。它支持在一个图中使用多个状态Schema，分别管理不同类型的数据。"
+      "summary": "我看着老板的脸色由白转红，又有点儿紫，最后有点儿黑，没说一句话。沉默良久以后老板开口说：小X啊，这个事儿公司需要开会讨论一下，你把材料留下先回去吧。走出办公室的一刻，我看着老板拿起那份账单..."
     },
     {
-      "title": "07｜（前端转后全栈）为什么后端也要缓存？从前端缓存思维理解 Redis",
-      "url": "https://juejin.cn/post/7666453566625873947",
+      "title": "深入理解 React 核心：Fiber 机制与 Diff 算法",
+      "url": "https://juejin.cn/post/7666854465840889902",
       "source": "juejin",
       "score": 235,
       "raw_score": 15,
       "comments": 0,
-      "author": "swipe",
+      "author": "为你学会写情书",
       "created_at": "",
-      "summary": "1. 这篇解决什么问题 前 6 篇我们已经建立了后端工程地图：Spring Boot 如何启动，Controller 如何接 HTTP 请求，Request / Response 如何定义，MySQL"
+      "summary": "深入理解 React 核心：Fiber 机制与 Diff 算法 前言 React 作为现代前端开发的主流框架，其高效性能背后离不开两大核心机制的支撑：Fiber 架构和Diff 算法。本文将从底层原理"
     },
     {
-      "title": "深入理解JavaScript:核心原理与最佳实践",
-      "url": "https://juejin.cn/post/7666483008576897059",
+      "title": "💡 React 父子组件通信：一个进度条教会我的 5 件事",
+      "url": "https://juejin.cn/post/7666295207609303040",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "阿橙的百宝箱",
+      "author": "ReBound",
       "created_at": "",
-      "summary": "深入理解JavaScript:核心原理与最佳实践** -- 引言 JavaScript作为现代Web开发的基石语言，其重要性已毋庸置疑。从简单的表单验证到复杂的单页应用(SPA)，再到服务器端(Nod"
+      "summary": "💡 React 父子组件通信：一个进度条教会我的 5 件事 📌 前言 在写 DeepSeek-R1 WebGPU Demo 的模型下载功能时，我遇到了一个经典问题： 怎么把数据从父组件传到子组件？子组"
     },
     {
-      "title": "06｜（前端转后全栈）登录后端到底在做什么？JWT、Spring Security 和权限链路",
-      "url": "https://juejin.cn/post/7666447843595452425",
+      "title": "AI时代，使用大模型学习——LangChain (2)",
+      "url": "https://juejin.cn/post/7666368669444751412",
       "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
-      "author": "swipe",
+      "author": "鱼饼Y",
       "created_at": "",
-      "summary": "1. 这篇解决什么问题 在前 5 篇里，我们已经把后端工程地图、Java / Maven / Spring Boot 启动、Controller 请求响应、MySQL、MyBatis-Plus 都打了"
+      "summary": "前言 上一章学习了基本的agent，下面来学习RAG。 我们在使用大模型时，经常会遇到大模型的信息过时和幻觉问题，主要有以下几方面原因： 知识的局限性：大模型自身的知识完全源于训练数据，而现有的主流大"
     },
     {
-      "title": "Godot 4 角色移动为什么要用 CharacterBody2D？从 Input Map 到碰撞滑动一次讲透",
-      "url": "https://juejin.cn/post/7666354528842022921",
+      "title": "踩坑无数！吃透useState 3个核心技巧，彻底解决状态旧值、性能卡顿问题",
+      "url": "https://juejin.cn/post/7666676230221987891",
       "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
+      "score": 200,
+      "raw_score": 10,
       "comments": 0,
-      "author": "大鹏AI教育",
+      "author": "GuWenyue",
       "created_at": "",
-      "summary": "OK，OK，大家好，欢迎大家来到大鹏 AI 教育，我是张大鹏。 很多同学第一次做角色移动，会直接修改 position。角色确实动了，但遇到墙会穿过去，斜向移动还可能更快。问题不是少写了一句代码，而是"
+      "summary": "😵写React总被useState坑到崩溃？ 你是否遇到过这些高频bug： 连续三次setCount(count+1)，页面只+1，打印永远是旧数值 组件每次重渲染，复杂列表计算重复执行，页面卡顿 循"
     },
     {
-      "title": "git 的 NFD 与 NFC 有什么区别？为什么我有个文件在 NFC 中间不会被当成改动，在 NFD 中就会当成改动",
-      "url": "https://juejin.cn/post/7666446436604198939",
+      "title": "从 vibe coding 到 spec coding：我用 Trellis 的实践总结",
+      "url": "https://juejin.cn/post/7666404460445564943",
       "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
+      "score": 190,
+      "raw_score": 9,
       "comments": 0,
-      "author": "我叫黑大帅",
+      "author": "洛卡卡了",
       "created_at": "",
-      "summary": "git 的 NFD 与 NFC 有什么区别？为什么我有个文件在 NFC 中间不会被当成改动，在 NFD 中就会当成改动.Unicode 正规化 和 Git 底层存储机制"
+      "summary": "我现在用 ai 写代码很多时候都是一把梭的，也就是说我只需要给 ai 一个要求指令，剩下的就交给 ai了，现在模型能力确实越来越强，有时候我甚至可以不用 superpowers 这种工作流插件都可以做"
     },
     {
-      "title": "开源项目第167期：Buzz — Block 开源的人机协作工作空间，Agent 是成员不是 Bot",
-      "url": "https://juejin.cn/post/7666102855688978473",
+      "title": "TINKER：工具箱能被 AI 操作的那一刻，我知道它成型了",
+      "url": "https://juejin.cn/post/7666483008577175587",
       "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
+      "score": 190,
+      "raw_score": 9,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "RedHood",
       "created_at": "",
-      "summary": "Block Inc. 开源的自托管团队工作空间，基于 Nostr 中继协议构建。消息、反应、工作流、代码审查、Git 事件全部是同一个签名事件日志。AI agent 是正式成员，有自己的密钥、频道成员"
+      "summary": "记录 TINKER 如何一步步补齐开放能力：快捷方式、命令行、HTTP 远程、插件 AI 助手与 MCP、Skill。看着 AI 直接操作工具箱，这才觉得它真正成型了。"
     },
     {
-      "title": "Memory向量记忆系统3-数据选取",
-      "url": "https://juejin.cn/post/7666289945598951439",
+      "title": "从\"AI写代码我喝咖啡\"到 Harness Engineering：Vibe Coding 不翻车的工程化生存指南",
+      "url": "https://juejin.cn/post/7666453566625939483",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "Ricado",
+      "created_at": "",
+      "summary": "🎢 从\"AI写代码我喝咖啡\"到 Harness Engineering：Vibe Coding 不翻车的工程化生存指南 一、那个\"甜蜜陷阱\"：为什么 Vibe Coding 项目总是\"先甜后苦\"？ 想"
+    },
+    {
+      "title": "Jackson 使用指南",
+      "url": "https://juejin.cn/post/7666014608419045427",
       "source": "juejin",
       "score": 180,
       "raw_score": 8,
       "comments": 0,
-      "author": "程序员麻辣烫",
+      "author": "减瓦",
       "created_at": "",
-      "summary": "从SQLite里召回的数据有很多，都要保留吗？可能返回的前 5 条结果可能都在讲同一个话题的不同段落——内容高度重复，信息增益有限。或者有的已经是一年前的信息了。"
+      "summary": "概述 Jackson 是 Java 生态中最流行的 JSON 处理库，由 FasterXML 团队维护。它提供了高性能的 JSON 序列化与反序列化能力，广泛应用于 Spring Boot"
     },
     {
-      "title": "第9篇：《AI终于记住我是谁了：多轮对话的上下文记忆与压缩》",
-      "url": "https://juejin.cn/post/7666368669444292660",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "第一行代码HW",
-      "created_at": "",
-      "summary": "后端老鸟的类比：这不就是HTTP的无状态问题吗？ HTTP每次请求独立，我们用Session/Cookie来保持状态。AI对话也需要一个“Session”——这就是 ChatMemory（对话记忆）。"
-    },
-    {
-      "title": "用了3年Redis，才发现我一直没搞懂缓存一致性测试",
-      "url": "https://juejin.cn/post/7666483008577044515",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "用户05954017446",
-      "created_at": "",
-      "summary": "凌晨两点半，报警电话把我从睡梦中薅起来。用户群炸了——订单状态和实际支付结果对不上，有人付了钱却显示待付款，有人没付钱反而显示已发货。我迷迷糊糊打开监控，数据库连接池没爆，CPU也没飙，Redis 内"
-    },
-    {
-      "title": "Java 项目用 Single-flight 一招终结 AI 接口重复调用",
-      "url": "https://juejin.cn/post/7666102855688667177",
+      "title": "AI 生成的代码又乱又爱编？试试这套“先规划，再胶水”的三步法",
+      "url": "https://juejin.cn/post/7666289945599246351",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "程序员天天困",
+      "author": "kisshyshy",
       "created_at": "",
-      "summary": "Single-flight 并发去重模式 Java 落地实践，从单体 CompletableFuture 到分布式 Redis，彻底解决 AI 接口重复调用"
+      "summary": "从被AI的“幻觉代码”和“屎山”折磨，到通过 Vibe Coding指南领悟协作心法，本文用一次实战复盘，拆解了“先规划、再胶水、后复盘”三步法，带你从把 AI 当工具，进阶到把它当成编程的靠谱同事。"
     },
     {
-      "title": "Java 并发锁体系全解：从 synchronized、Lock 到 AQS 底层原理与源码深度剖析",
-      "url": "https://juejin.cn/post/7666368669443866676",
+      "title": "从 Vue3 到 React · 快速上手系列第 4 篇：条件渲染与列表渲染",
+      "url": "https://juejin.cn/post/7666403249922310195",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "Java编程爱好者",
+      "author": "Y_d",
       "created_at": "",
-      "summary": "在 Java 并发编程体系中，锁是解决多线程共享资源竞争、保证线程安全的核心机制。从 JVM 内置的synchronized隐式锁，到 JUC 包提供的Lock显式锁，再到支撑整个并发工具集的底层基石"
+      "summary": "v-if 和 v-for 是 Vue 模板里用得最多的两个指令。React 没有指令——因为 JSX 就是 JS，条件用三元/逻辑运算符，循环用 .map()。"
+    },
+    {
+      "title": "Gradle 版本演进全景：构建工具的进化密码",
+      "url": "https://juejin.cn/post/7666657719915642930",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "减瓦",
+      "created_at": "",
+      "summary": "如果你是一位 JVM 生态的开发者，几乎不可能绕开 Gradle。从 Android Studio 默认的构建工具，到 Spring Boot 项目的脚手架，再到大数据组件的源码编译"
     }
   ]
 }
