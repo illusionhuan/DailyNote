@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-28T01:42:48.901781+00:00",
+  "updated_at": "2026-07-28T13:40:14.711010+00:00",
   "articles": [
     {
-      "title": "给 AI 的 Agent 实现指南，可控 Agent 的关键",
-      "url": "https://juejin.cn/post/7667103725047431174",
+      "title": "ArkTS 用 Preferences 存 App 配置的正确姿势 —— 从踩坑到 singleton 封装",
+      "url": "https://juejin.cn/post/7665969736425488425",
       "source": "juejin",
-      "score": 370,
-      "raw_score": 71,
-      "comments": 0,
-      "author": "恋猫de小郭",
+      "score": 844,
+      "raw_score": 16704,
+      "comments": 1,
+      "author": "SameX",
       "created_at": "",
-      "summary": "好久没聊 Agent 了，今天继续聊聊 Agent 的关键实现要点，事实上一个 Agent 在日常生产里最主要的问题就是可控和可靠，所以虽然理论上 Agent 就是 LLM + Tools + RAG"
+      "summary": "上周三晚上，我在 breathing 这个项目里补一个\"多语言持久化\"的功能。原本以为半小时能搞定的活，前后弄了差不多两个多小时。不是因为多语言复杂，是因为我第一次开始怀疑：这个项目里的 Prefer"
     },
     {
-      "title": "microVM 技术解析：面向多租户 Serverless 与 AI Agent 的微虚拟机架构",
-      "url": "https://juejin.cn/post/7667109400314511387",
+      "title": "解剖 Claude Code：逆向工程视角下的入口架构分析",
+      "url": "https://juejin.cn/post/7667096004731846682",
       "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
+      "score": 640,
+      "raw_score": 1599,
       "comments": 0,
-      "author": "瀛川",
+      "author": "老王以为",
       "created_at": "",
-      "summary": "microVM 技术通过极简的设备模型与硬件虚拟化支持，尝试在硬件隔离边界与资源开销之间取得平衡。本文分析microVM的演进由来、核心技术原理、横向技术以及在AI Agent执行沙箱的适用性。"
+      "summary": "从 Claude Code 的入口代码去分析 Claude Code 的设计和考量，并且和其他的 AI 编程工具进行横纵向对比，去更加深度去思考和考虑 AI 编程工具的设计。"
     },
     {
-      "title": "Vue3 + DeepSeek 实现流式打字机效果：一文讲透 SSE 流处理与 Buffer 粘包细节",
-      "url": "https://juejin.cn/post/7667109400314495003",
+      "title": "为什么在 2026 年，MPA（多页面应用）正在悄悄复辟？",
+      "url": "https://juejin.cn/post/7667127162155581449",
+      "source": "juejin",
+      "score": 526,
+      "raw_score": 427,
+      "comments": 4,
+      "author": "ErpanOmer",
+      "created_at": "",
+      "summary": "SPA因内存生命周期长导致内存泄漏和状态污染，需复杂客户端逻辑补救。现代MPA借助HTTP/3、边缘节点和浏览器缓存，实现极速页面跳转，路由与鉴权回归服务端，代码更简洁安全。除重度交互应用外，多数场景无需全站打包为巨型JS应用。"
+    },
+    {
+      "title": "原来 AI Agent 的核心循环这么简单：手搓一个 Agent Loop",
+      "url": "https://juejin.cn/post/7666403249923473459",
+      "source": "juejin",
+      "score": 500,
+      "raw_score": 319,
+      "comments": 2,
+      "author": "不一样的少年_",
+      "created_at": "",
+      "summary": "为什么 Cursor、Claude Code 能自己读代码、改文件？答案藏在一个简单循环里。本文带你手写 Agent 核心机制，揭开 AI 自主工作的秘密。"
+    },
+    {
+      "title": "从零开发一个 Coding Agent（三）：EventStream 事件流通道设计与实现",
+      "url": "https://juejin.cn/post/7667081930400317490",
+      "source": "juejin",
+      "score": 431,
+      "raw_score": 143,
+      "comments": 0,
+      "author": "东方小月",
+      "created_at": "",
+      "summary": "本篇文章是《从零开发一个Coding Agent》系列第三篇，主要介绍Agent的事件流机制以及实现一个事件流（EventStream）通道。 我们都知道，当调用大模型 API 时，通常开启流式响应（"
+    },
+    {
+      "title": "终于在今天入选了 Gitee GVP，这真值得庆祝~",
+      "url": "https://juejin.cn/post/7667399814504202275",
+      "source": "juejin",
+      "score": 410,
+      "raw_score": 113,
+      "comments": 5,
+      "author": "前端梦工厂",
+      "created_at": "",
+      "summary": "uView Pro 从开源到 Gitee 推荐项目用了 1 个月，从 Gitee 推荐项目到 GVP 年度最具价值开源项目用了 8 个月，开源不容易，但好在坚持下来了，感谢大家的使用和支持~"
+    },
+    {
+      "title": "AI 的玩法，该做减法了",
+      "url": "https://juejin.cn/post/7667380763466285119",
+      "source": "juejin",
+      "score": 334,
+      "raw_score": 47,
+      "comments": 0,
+      "author": "stormzhangV",
+      "created_at": "",
+      "summary": "Anthropic 砍掉 80% 系统提示词，规则式约束过时了；补能力的 Skill 在快速贬值，私有知识型沉淀更值钱；Kimi K3 开放权重可以直接上云；新手入坑选 Codex 更稳；推理档位别拉"
+    },
+    {
+      "title": "我review了一份Vibe Coding写的前端代码——能跑，但5个地方迟早要命",
+      "url": "https://juejin.cn/post/7667424209937121331",
+      "source": "juejin",
+      "score": 318,
+      "raw_score": 39,
+      "comments": 0,
+      "author": "kyriewen",
+      "created_at": "",
+      "summary": "帮朋友review了一份用Vibe Coding三天写出来的React管理后台代码。能跑，但有5个迟早出事的问题：全局状态爆炸、请求裸奔、密钥明文、权限只在前端、组件500行。附review速查表"
+    },
+    {
+      "title": "第12篇：《AI的幻觉差点让我背锅：于是我给它开了一场\"开卷考试\"》",
+      "url": "https://juejin.cn/post/7667137500810969151",
+      "source": "juejin",
+      "score": 276,
+      "raw_score": 24,
+      "comments": 0,
+      "author": "第一行代码HW",
+      "created_at": "",
+      "summary": "AI就像一个博览群书但从没进过你公司的实习生。 你问它\"公司年假几天\"，它只能根据\"一般公司都是10-15天\"来编。"
+    },
+    {
+      "title": "从 React 到 Flutter：写给前端的一张跨端知识地图",
+      "url": "https://juejin.cn/post/7667388433301618707",
+      "source": "juejin",
+      "score": 268,
+      "raw_score": 22,
+      "comments": 0,
+      "author": "Wilson王艺谋",
+      "created_at": "",
+      "summary": "写给初级前端的跨端综述：用 React/JS 类比 Flutter/Dart 入门，讲清设计令牌如何统一双端、原生怎么渲染与构建，以及 RN、Flutter、KMP 的 2026 现状与选型。"
+    },
+    {
+      "title": "DeepResearchSystem 0x03：HITL",
+      "url": "https://juejin.cn/post/7667424209937252403",
+      "source": "juejin",
+      "score": 255,
+      "raw_score": 19,
+      "comments": 0,
+      "author": "chaors",
+      "created_at": "",
+      "summary": "这一章主要为 DeepRearchSystem 增加 HITL 功能，让人来在 Agent 运行过程中参与进来。进而使 Agent 行为更可控，最终得到更符合人类意图。"
+    },
+    {
+      "title": "《AI工程》：构建应用，需要哪些技术？（解惑篇）",
+      "url": "https://juejin.cn/post/7667468802850750490",
+      "source": "juejin",
+      "score": 229,
+      "raw_score": 14,
+      "comments": 0,
+      "author": "灵感__idea",
+      "created_at": "",
+      "summary": "上一篇文，我们从需求和产品角度分析了要不要构建一个应用。 本篇文章，解决接下来要面对的问题，为大家解释一些最常见的技术概念究竟什么意思，可以为开发过程提供什么帮助。"
+    },
+    {
+      "title": "【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 --- (13)--- OPD实现",
+      "url": "https://juejin.cn/post/7667459437679968298",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "罗西的思考",
+      "created_at": "",
+      "summary": "【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 --- (13)--- OPD实现 0x00 概要 0x01 基础背景 1.1 通俗讲解 1.2 数学形式 1."
+    },
+    {
+      "title": "06 | 把 meta_config 同步进 MySQL（生成阶段）",
+      "url": "https://juejin.cn/post/7667468802850684954",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "YIAN",
+      "author": "颜酱",
       "created_at": "",
-      "summary": "一、先搞懂：流式输出到底是什么？ 1.1 为什么必须做流式？ 大模型生成回答不是一次性算出完整结果，而是逐 Token（可以理解为逐字 / 逐词）生成。如果等到全部生成完再返回，用户会面临几秒甚至几十"
+      "summary": "06 | 把 meta_config 同步进 MySQL（生成阶段） 这是一篇系列文，请按顺序阅读。 本文目标 NL2SQL 召回前，要先把业务元数据灌进各个存储： MySQL meta 库：结构化元"
     },
     {
-      "title": "🔥 TypeScript 类型断言：为什么 `e.target` 必须「断言」才能用？",
-      "url": "https://juejin.cn/post/7667028246001614882",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "ReBound",
-      "created_at": "",
-      "summary": "🔥 TypeScript 类型断言：为什么 e.target 必须「断言」才能用？ 📌 前言 上周在写一个 DeepSeek-R1 WebGPU 的 Demo 时，遇到了一个经典的 TypeScrip"
-    },
-    {
-      "title": "向量数据库：Milvus 与 MySQL 的本质差异",
-      "url": "https://juejin.cn/post/7667013663632408576",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "不好听613",
-      "created_at": "",
-      "summary": "一个 MySQL 回答不了的问题 假设你在做一个 AI 日记应用，用户输入**\"最近心情比较好的户外活动\"**，想把相关的日记找出来。 在 MySQL 里你能怎么做？ 问题在于：MySQL 只能做符号"
-    },
-    {
-      "title": "做完 AI 日记本后，我终于理解了：向量数据库不是用来替代 MySQL 的",
-      "url": "https://juejin.cn/post/7666842496225968128",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "BreezeJiang",
-      "created_at": "",
-      "summary": "做完 AI 日记本后，我终于理解了：向量数据库不是用来替代 MySQL 的 第一次接触向量数据库时，很容易把它理解成“更高级的数据库”。 做完一个 AI 日记本练习后，我发现这个理解不准确。Milvu"
-    },
-    {
-      "title": "为什么弹窗状态不该放在全局Store？React性能优化面经复盘与实战指南",
-      "url": "https://juejin.cn/post/7667109400314331163",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "为你学会写情书",
-      "created_at": "",
-      "summary": "前言：初级工程师如何看待性能优化？ 很多刚接触React的同学往往陷入两个极端：要么觉得“虚拟DOM很快，不需要优化”，要么盲目地在每个组件外面包一层 React.memo 并塞满 useCallba"
-    },
-    {
-      "title": "GoGBA 上架半年记",
-      "url": "https://juejin.cn/post/7667096082065129478",
+      "title": "ArkTS 进阶之道（3）：为哈禁解构声明？类型一眼可见 vs 推断链断裂",
+      "url": "https://juejin.cn/post/7667414759935541257",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "hamber",
+      "author": "Conan在掘金",
       "created_at": "",
-      "summary": "GoGBA 上线 App Store 和 Google Play 半年多，月活 7.4k，分享一些感悟。"
-    },
-    {
-      "title": "别再写 setter 了！MapStruct Plus vs MapStruct，谁才是 Bean 转换的真神？",
-      "url": "https://juejin.cn/post/7667135915525439515",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "SimonKing",
-      "created_at": "",
-      "summary": "日常开发中，我们经常会遇到对象转化的问题。尤其阿里提出了DTO、BO、VO、PO的概念之后，对于转化的场景更多。 转化的工具也不少，BeanUtils、MapStruct、Orika等工具"
-    },
-    {
-      "title": "Tool as Agent Harness",
-      "url": "https://juejin.cn/post/7667029783956881442",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "HeHigh",
-      "created_at": "",
-      "summary": "Code as Agent Harness 让单次改动变得安全；Tool as Agent Harness 让一个完整任务变得可靠、一整个队列变得持续。"
-    },
-    {
-      "title": "深入理解 JavaScript 变量提升（Hoisting）",
-      "url": "https://juejin.cn/post/7667112349978476554",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "今日无bug",
-      "created_at": "",
-      "summary": "所谓的变量提升，是指在JS代码执行过程中，JavaScript引擎（Chrome V8引擎）把变量的声明部分和函数的声明部分提升到代码开头的“行为”。变量提升后，会给变量设置默认值undefined。"
-    },
-    {
-      "title": "Vue的响应式原理",
-      "url": "https://juejin.cn/post/7667103725047136262",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "做前端的娜娜子",
-      "created_at": "",
-      "summary": "Vue 3 的响应式系统用 ES6 `Proxy` + `Reflect` 替代了 Vue 2 的 `Object.defineProperty`，解决了无法检测属性增删、数组索引修改等痛点"
-    },
-    {
-      "title": "从 Vue3 到 React · 快速上手系列第 5 篇：事件处理与表单（受控组件 vs v-model）",
-      "url": "https://juejin.cn/post/7667109400315461659",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "Y_d",
-      "created_at": "",
-      "summary": "React 没有 v-model——它推崇受控组件（Controlled Component）：状态是唯一数据源，输入框的值由 state 决定，用户输入时通过事件更新 state。"
-    },
-    {
-      "title": "🎀 大模型说\"呀\"还是\"吗\"？temperature 和 Top K 在偷偷控制它的\"性格\"",
-      "url": "https://juejin.cn/post/7666842496225820672",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "默_笙",
-      "created_at": "",
-      "summary": "一、LLM 怎么\"选词\"？ 1.1 概率分布 老师举了一个例子： 上一句是\"你好\"，LLM 预测下一个词的概率分布可能是： LLM 本质上是根据前面的词，算每个候选词的概率。概率最高的词就叫\"最优解\""
-    },
-    {
-      "title": "用 React 写一个 TodoList",
-      "url": "https://juejin.cn/post/7667028246001385506",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "绿色蟑螂",
-      "created_at": "",
-      "summary": "目录 我们要做什么 项目初始化 先画组件树再写代码 入口文件：React 是怎么跑起来的 根组件 App：状态的\"大本营\" TodoInput：输入框与受控组件 TodoList：列表渲染与事件冒泡 "
+      "summary": "ArkTS 进阶之道（3）：为哈禁解构声明？类型一眼可见 vs 推断链断裂本文是「ArkTS 进阶之道」系列第 3 篇，也是「ArkTS 类型哲学」阶段收官。上两篇讲 any（篇 50）和 {} 装对"
     }
   ]
 }
