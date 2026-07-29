@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-29T01:44:20.653383+00:00",
+  "updated_at": "2026-07-29T13:46:04.378837+00:00",
   "articles": [
     {
-      "title": "Flutter UI 解耦 - 天下大势，合久必分， 分久必合",
-      "url": "https://juejin.cn/post/7667440437864300544",
+      "title": "解剖 Claude Code：逆向工程视角下的入口架构分析",
+      "url": "https://juejin.cn/post/7667096004731846682",
       "source": "juejin",
-      "score": 424,
-      "raw_score": 133,
-      "comments": 2,
-      "author": "张风捷特烈",
-      "created_at": "",
-      "summary": "一、一切从一个合理的决定开始 2017 年 5 月，Google I/O 大会上，Flutter 第一个 alpha 版本正式亮相。它的核心卖点是**\"一套代码，两个平台\"**。为了让开发者快速上手，"
-    },
-    {
-      "title": "手把手书写你的第一个 AI Skill：从原则到工程化",
-      "url": "https://juejin.cn/post/7667440437864448000",
-      "source": "juejin",
-      "score": 282,
-      "raw_score": 26,
+      "score": 716,
+      "raw_score": 3815,
       "comments": 0,
-      "author": "莪_幻尘",
+      "author": "老王以为",
       "created_at": "",
-      "summary": "手把手书写你的第一个 AI Skill：从原则到工程化 目录 先说结论 一、原则：写之前必须知道的 6 件事 二、实战：15 分钟写一个日报生成器 三、复杂 Skill：当 30 行不够用时 四、通用"
+      "summary": "从 Claude Code 的入口代码去分析 Claude Code 的设计和考量，并且和其他的 AI 编程工具进行横纵向对比，去更加深度去思考和考虑 AI 编程工具的设计。"
     },
     {
-      "title": "深入理解 Compose 副作用",
-      "url": "https://juejin.cn/post/7667502327419846702",
+      "title": "携程员工：在携程4年，月薪3万左右，基本没涨薪了。不过挺满足的，毕竟稳定，福利也不错（附Agent面试题）",
+      "url": "https://juejin.cn/post/7667495083470471177",
       "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
-      "comments": 0,
-      "author": "RockByte",
+      "score": 644,
+      "raw_score": 1672,
+      "comments": 3,
+      "author": "沉默王二",
       "created_at": "",
-      "summary": "各位 Compose 爱好者们，你们好。 如果你去打开任何一个 Compose 页面源码，几乎总能看到各种 Effect API。那你知道他们的内部逻辑吗......"
+      "summary": "携程员工爆料4年月薪3万没涨薪但满足，14道Coding Agent面试题全解：Prompt组装、上下文三层压缩、Tool与Skill区别、多Agent编排、Plan设计，附源码级回答。"
     },
     {
-      "title": "第10章 实战项目一：智能数据分析Agent",
-      "url": "https://juejin.cn/post/7667440437864595456",
+      "title": "那就和前端好好道个别吧",
+      "url": "https://juejin.cn/post/7667757814613934143",
       "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
-      "comments": 0,
-      "author": "怕浪猫",
+      "score": 585,
+      "raw_score": 850,
+      "comments": 10,
+      "author": "吃饺子不吃馅",
       "created_at": "",
-      "summary": "理论到实践的距离，只有动手才能缩短。从本章开始，我们将用三个完整的实战项目，把前面学到的知识融会贯通。第一个项目是智能数据分析Agent——用户用自然语言提问，Agent自动查询数据、执行分析、生成图"
+      "summary": "思绪良久，正好今天下午有空闲时间，不想干正事，那就写点东西吧。 22年毕业，那时候还没有意识到几年后会出现一个叫AI的东西，它能在10分钟内完成之前需要3-7天的工作。是的刚开始它叫ChatGPT,后"
     },
     {
-      "title": "手写 Rollup 插件实现解析 Vue 文件",
-      "url": "https://juejin.cn/post/7667127162156482569",
+      "title": "上线一个人静态网站需要多少钱，难不难？",
+      "url": "https://juejin.cn/post/7666490925375815718",
+      "source": "juejin",
+      "score": 574,
+      "raw_score": 749,
+      "comments": 9,
+      "author": "五阳",
+      "created_at": "",
+      "summary": "https://aichatproxy.com 这是我发布的一个静态站，每个月有上万的 PV。有了 AI coding 加持，发布这种静态站，简直太简单了。"
+    },
+    {
+      "title": "谷歌的一个优化建议，让我重新学了一遍Android里面如何正确处理位图",
+      "url": "https://juejin.cn/post/7667097178154319912",
+      "source": "juejin",
+      "score": 515,
+      "raw_score": 378,
+      "comments": 0,
+      "author": "Coffeeee",
+      "created_at": "",
+      "summary": "背景 谷歌这位哥哥真的会整幺蛾子，好不容易把crash跟anr数据压下来一点，最近发现又给了我一条技术质量类型的整改建议，大致内容是 真的是一点不让我闲着，天天关心着我的kpi有没有达标，天天给我整技"
+    },
+    {
+      "title": "终于在今天入选了 Gitee GVP，这真值得庆祝~",
+      "url": "https://juejin.cn/post/7667399814504202275",
+      "source": "juejin",
+      "score": 501,
+      "raw_score": 322,
+      "comments": 6,
+      "author": "前端梦工厂",
+      "created_at": "",
+      "summary": "uView Pro 从开源到 Gitee 推荐项目用了 1 个月，从 Gitee 推荐项目到 GVP 年度最具价值开源项目用了 8 个月，开源不容易，但好在坚持下来了，感谢大家的使用和支持~"
+    },
+    {
+      "title": "鸿蒙应用开发之V2状态管理：@Local、@ObservedV2、@Trace 使用教程",
+      "url": "https://juejin.cn/post/7667140623372468234",
+      "source": "juejin",
+      "score": 311,
+      "raw_score": 36,
+      "comments": 0,
+      "author": "程序员黑豆",
+      "created_at": "",
+      "summary": "一、@State 存在的问题 在 HarmonyOS 状态管理 V1 中，@State 存在一个关键缺陷：@State装饰的变量既可以从父组件传入初始值，也可以在组件内部初始化，这会导致： 外部覆盖内"
+    },
+    {
+      "title": "鸿蒙应用开发之@State 装饰器详解：从基本类型到 @Observed/@ObjectLink/@Track 嵌套监听",
+      "url": "https://juejin.cn/post/7667388974337064987",
+      "source": "juejin",
+      "score": 308,
+      "raw_score": 35,
+      "comments": 0,
+      "author": "程序员黑豆",
+      "created_at": "",
+      "summary": "一、引言 在鸿蒙（HarmonyOS）应用开发中，ArkTS 框架提供了一套强大的响应式编程模型。其中，@State 装饰器是实现组件内部状态管理、驱动 UI 自动刷新的核心工具。本文将深入浅出地讲解"
+    },
+    {
+      "title": "鸿蒙应用开发之父子组件传参：@Prop 装饰器使用教程",
+      "url": "https://juejin.cn/post/7667388974337605659",
+      "source": "juejin",
+      "score": 308,
+      "raw_score": 35,
+      "comments": 0,
+      "author": "程序员黑豆",
+      "created_at": "",
+      "summary": "一、引言 在鸿蒙 ArkUI 框架中，状态管理是构建动态交互界面的核心。@Prop 装饰器是实现父子组件间单向数据同步的关键工具。它允许父组件将状态值传递给子组件，子组件可以读取并临时修改该值，但修改"
+    },
+    {
+      "title": "一次 git reset 翻车，让我彻底分清了 hard 和 soft，也想通了 Vibe Coding 的本质",
+      "url": "https://juejin.cn/post/7667838623728058418",
+      "source": "juejin",
+      "score": 255,
+      "raw_score": 19,
+      "comments": 1,
+      "author": "To_OC",
+      "created_at": "",
+      "summary": "先从下午那次惊魂说起 当时的提交记录是这样的，三个提交，最新的一次是 append GPL，就是我想撤掉的那次。 说实话我之前对 reset 一直一知半解，只知道能回退版本，后面加啥参数全靠瞎蒙。那天"
+    },
+    {
+      "title": "用 LSPosed 模拟录屏音频编码器卡顿：从思路到落地",
+      "url": "https://juejin.cn/post/7667805387362304035",
+      "source": "juejin",
+      "score": 240,
+      "raw_score": 16,
+      "comments": 0,
+      "author": "solo_99",
+      "created_at": "",
+      "summary": "用 LSPosed 模拟录屏音频编码器卡顿：从思路到落地 预备 需要安装kernelSU 和LSPosed 安装kernelSU 和LSPosed 一、为什么要做这个 录屏链路里，视频和音频往往分开编"
+    },
+    {
+      "title": "每日一个开源项目（第169篇）：AIRI - 开源自托管 AI 虚拟伴侣，能打 Minecraft 的 Neuro-sama 复现",
+      "url": "https://juejin.cn/post/7667781242172014598",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "Cobyte",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "通过本文的逐步推导，我们完整实现了一个 Rollup 插件对 Vue 单文件组件的编译流程。从插件的基础结构出发，我们利用 `@vue/compiler-sfc` 提供的 `parse`、`compi"
+      "summary": "Web 优先架构的开源 AI VTuber 系统，复现 Neuro-sama 的能力：实时语音对话、Live2D/VRM 虚拟形象、Minecraft/Factorio 游戏实战、30+ LLM 提供"
     },
     {
-      "title": "AI 会做多、看少、不收尾：七种失效和拦住它们的办法",
-      "url": "https://juejin.cn/post/7667401749826404367",
+      "title": "07 | 把字段与指标同步到 Qdrant（生成阶段）",
+      "url": "https://juejin.cn/post/7667785513274048575",
       "source": "juejin",
       "score": 222,
       "raw_score": 13,
       "comments": 0,
-      "author": "StarkCoder",
+      "author": "颜酱",
       "created_at": "",
-      "summary": "AI 给一个新页面生成了完整分层：domain 层定接口、data 层落实现、mapper 隔离映射。命名统一、注释齐全，逐行看下去挑不出毛病。 问题是那个接口只有一个实现，可以预见未来也只会有一个。"
+      "summary": "07 | 把字段与指标同步到 Qdrant（生成阶段） 这是一篇系列文，请按顺序阅读。 本文目标 NL2SQL 生成 SQL 之前，需要先召回与用户问题相关的字段和指标。 上一篇已经把结构化元数据同步"
     },
     {
-      "title": "你敢信吗？R8让 Compose 协程直接快 2 倍！你敢相信吗？R8 让合成程度直接协调快速 2 倍！",
-      "url": "https://juejin.cn/post/7667468802852126746",
-      "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
-      "comments": 0,
-      "author": "黄林晴",
-      "created_at": "",
-      "summary": "从 AGP 9.2.0 开始，R8 会优化大多数 Atomic*FieldUpdater 调用。这个改动看起来离业务代码很远，却让 Compose LaunchedEffect 的协程启动和取消微基准"
-    },
-    {
-      "title": "GLM 5.2 核心能力与效果实测全景",
-      "url": "https://juejin.cn/post/7667450155558338610",
-      "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
-      "comments": 0,
-      "author": "把所有砖敲烂",
-      "created_at": "",
-      "summary": "本文用确定性异步任务检验GLM-5.2生成代码的工程可靠性，对比两种方案的成功率、耗时与故障处理，并结合多轮稳定性、Token消耗和实际账单给出选型判断。"
-    },
-    {
-      "title": "Python-openpyxl操作Excel",
-      "url": "https://juejin.cn/post/7667450155558944818",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "渣男教父",
-      "created_at": "",
-      "summary": "openpyxl 简介 为什么选择 openpyxl？ Python 能操作 Excel 的库有很多： 库名 特点 适用场景 openpyxl 功能强大，支持读写 .xlsx 格式 日常办公自动化 x"
-    },
-    {
-      "title": "AI应用部署上线：Docker打包+API服务+监控告警，我踩了4个坑",
-      "url": "https://juejin.cn/post/7667465942311338035",
-      "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
-      "comments": 0,
-      "author": "荣码",
-      "created_at": "",
-      "summary": "前11篇都在本地跑AI应用——`python app.py`，终端里看输出，调试完事。但产品说： *"
-    },
-    {
-      "title": "自己实现GIS配图软件（二）",
-      "url": "https://juejin.cn/post/7667503991685365770",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "jinshw",
-      "created_at": "",
-      "summary": "Rust 原生 MVT 矢量瓦片生成引擎深度解析 一、引言 矢量瓦片（Vector Tile）技术将地理数据以 Tile 为单位进行组织和传输，客户端按需加载并本地渲染。相比传统栅格瓦片，矢量瓦片具有"
-    },
-    {
-      "title": "Windows 进程枚举的 Native API 缓冲区遍历",
-      "url": "https://juejin.cn/post/7667390528322011188",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "WangWei_CM",
-      "created_at": "",
-      "summary": "Windows 进程枚举的 Native API 缓冲区遍历 文章所述内容全部在KswordARK中有良好项目实现，开源地址https://github.com/wangwei-cm/ksword"
-    },
-    {
-      "title": "React 性能优化",
-      "url": "https://juejin.cn/post/7667450155557978162",
+      "title": "【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 --- (14)--- Teacher",
+      "url": "https://juejin.cn/post/7667781179438202886",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "做前端的娜娜子",
+      "author": "罗西的思考",
       "created_at": "",
-      "summary": "React 性能优化的核心目标是减少不必要的 re-render（重渲染）和降低首屏/交互耗时。优化手段分三层：组件层、加载层和工程层"
+      "summary": "【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 --- (14)--- Teacher 0x00 概要 0x01 基础背景 1.1 完整数据流 1.2 关键点 "
     },
     {
-      "title": "jstack 如何分析死锁：从线程栈到等待环",
-      "url": "https://juejin.cn/post/7667404454753828907",
+      "title": "Java日期时间三十年战争：从Date考古到LocalDateTime革命，以及数据库与前端的那点事儿",
+      "url": "https://juejin.cn/post/7667779444729315380",
       "source": "juejin",
       "score": 139,
       "raw_score": 5,
       "comments": 0,
-      "author": "CoderF",
+      "author": "都叫我大帅哥",
       "created_at": "",
-      "summary": "jstack 是 Java 线上排查死锁最常用的工具。它可以导出 JVM 当前所有线程的调用栈、线程状态、持有的锁以及正在等待的锁。分析死锁的核心不是只看线程是否 BLOCKED，而是看多个线程之间是"
-    },
-    {
-      "title": "React usePrevious Hook：追踪上一次的 State 和 Props（2026）",
-      "url": "https://juejin.cn/post/7667127162156597257",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "前端导师顾北",
-      "created_at": "",
-      "summary": "React 在每次渲染时都会给你 state 和 props 的当前值——但没有任何内置手段问一句：这个值之前是多少？于是所有人都在复制同一份十行的老配方：在 useEffect 里把值塞进 ref，"
+      "summary": "Java日期时间三十年战争：从Date考古到LocalDateTime革命，以及数据库与前端的那点事儿 引言：一个让无数程序员崩溃的“小问题” 如果你是一位Java开发者，你一定见过这样的代码："
     }
   ]
 }
