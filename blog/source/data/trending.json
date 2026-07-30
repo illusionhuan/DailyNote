@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-30T01:27:10.203113+00:00",
+  "updated_at": "2026-07-30T13:27:43.708201+00:00",
   "articles": [
     {
-      "title": "解剖 Claude Code：逆向工程视角下的入口架构分析",
-      "url": "https://juejin.cn/post/7667096004731846682",
+      "title": "Flutter UI 解耦 - 天下大势，合久必分， 分久必合",
+      "url": "https://juejin.cn/post/7667440437864300544",
       "source": "juejin",
-      "score": 718,
-      "raw_score": 3935,
+      "score": 569,
+      "raw_score": 702,
+      "comments": 4,
+      "author": "张风捷特烈",
+      "created_at": "",
+      "summary": "一、一切从一个合理的决定开始 2017 年 5 月，Google I/O 大会上，Flutter 第一个 alpha 版本正式亮相。它的核心卖点是**\"一套代码，两个平台\"**。为了让开发者快速上手，"
+    },
+    {
+      "title": "Android R8 为什么可以让 Kotlin 协程提速 2 倍？",
+      "url": "https://juejin.cn/post/7667459437695778870",
+      "source": "juejin",
+      "score": 521,
+      "raw_score": 404,
       "comments": 0,
-      "author": "老王以为",
+      "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "从 Claude Code 的入口代码去分析 Claude Code 的设计和考量，并且和其他的 AI 编程工具进行横纵向对比，去更加深度去思考和考虑 AI 编程工具的设计。"
+      "summary": "这个问题其实我们之前 《AGP 9.2 开始，Android 上协程启动和取消速度提升两倍》就聊过了，因为 PR 终于被合并，所以现在从 Android Gradle Plugin 9.2.0 开始，"
     },
     {
-      "title": "Nest.js 和 Spring Boot 为何如此像？写给前端转 Java 的同学",
-      "url": "https://juejin.cn/post/7667863898348093503",
+      "title": "同事：“Claude Code都能自动写代码了，还要什么Spec Coding？” 我反问：“屎山代码你来维护？”",
+      "url": "https://juejin.cn/post/7667493267350929417",
       "source": "juejin",
-      "score": 377,
-      "raw_score": 77,
+      "score": 435,
+      "raw_score": 150,
       "comments": 0,
-      "author": "双越AI_club",
+      "author": "MacroZheng",
       "created_at": "",
-      "summary": "大家好，我是双越。wangEditor 作者，前百度 滴滴 资深前端工程师，慕课网精英讲师，PMP，前端面试派作者。本文介绍 Nest.js 和 Spring boot 的相似，帮助前端转 Java"
+      "summary": "让AI写代码，踩坑比上手快。写完能跑，但不一定符合你的需求。不是模型不够强大，而是你提供的规范不够。OpenSpec就是用来解决这个问题的，先和你探讨方案，然后出规范和计划，没问题它再写。"
     },
     {
-      "title": "当客户说「用AI帮我写个和Notion一模一样的，预算5000，三天上线」时，我在想什么",
-      "url": "https://juejin.cn/post/7667802262673227830",
+      "title": "掘金VibeLaunch 沸点秀获奖公示🎊",
+      "url": "https://juejin.cn/post/7667564845584416819",
       "source": "juejin",
-      "score": 332,
-      "raw_score": 46,
-      "comments": 3,
-      "author": "吴琼琼",
-      "created_at": "",
-      "summary": "AI时代独立开发者遇到的那些奇葩需求：从复刻Notion到预测股价，从AI客服到自动写文章——每一个都让我血压飙升，但每一个都教会了我一个道理。"
-    },
-    {
-      "title": "第11章 实战项目二：自动化研发运维Agent",
-      "url": "https://juejin.cn/post/7667849988995121186",
-      "source": "juejin",
-      "score": 326,
-      "raw_score": 43,
+      "score": 429,
+      "raw_score": 140,
       "comments": 0,
-      "author": "怕浪猫",
+      "author": "沸点小助手",
       "created_at": "",
-      "summary": "软件开发中，大量重复性工作消耗着工程师的时间：代码审查、Bug定位、日志分析、故障排查。如果Agent能承担这些工作，工程师就能专注于更有创造性的任务。本章将构建一个自动化研发运维Agent，覆盖代码"
+      "summary": "🎉7 月 15 日 - 7 月 24 日#VibeLaunch 沸点秀 沸点活动正式落幕，感谢所有掘友的分享！"
     },
     {
-      "title": "AI Agent评测体系怎么搭：90% 的团队都漏了这几环...",
-      "url": "https://juejin.cn/post/7667853684409171994",
+      "title": "手把手书写你的第一个 AI Skill：从原则到工程化",
+      "url": "https://juejin.cn/post/7667440437864448000",
       "source": "juejin",
-      "score": 298,
-      "raw_score": 31,
+      "score": 428,
+      "raw_score": 139,
       "comments": 0,
-      "author": "狂师",
+      "author": "莪_幻尘",
       "created_at": "",
-      "summary": "这篇文章探讨了AI Agent评测体系的构建问题，指出传统软件测试方法不适用于非确定性输出的AI系统。作者提出了五步评测框架：明确评测目标、构建高质量数据集（优先使用真实失败案例）、采用多维度打分机制"
+      "summary": "手把手书写你的第一个 AI Skill：从原则到工程化 目录 先说结论 一、原则：写之前必须知道的 6 件事 二、实战：15 分钟写一个日报生成器 三、复杂 Skill：当 30 行不够用时 四、通用"
     },
     {
-      "title": "对接大模型流式接口，我被一个 ReadableStream 卡了半小时",
-      "url": "https://juejin.cn/post/7667842166611066926",
+      "title": "提升 Web 开发效率：我常用的 10 个 TypeScript 实战技巧",
+      "url": "https://juejin.cn/post/7667736324415701027",
       "source": "juejin",
-      "score": 282,
-      "raw_score": 26,
+      "score": 408,
+      "raw_score": 110,
       "comments": 0,
-      "author": "To_OC",
+      "author": "GitLqr",
       "created_at": "",
-      "summary": "昨天写 BFF 对接 DeepSeek 流式接口，fetch 发出去请求，response 也拿到了，200 OK，心想稳了。随手 console.log(response.body) 想看看返回啥，"
+      "summary": "写 Web 的时候，如果只是把 TypeScript 当成一个单纯的“报错检查器”，那就太浪费了。在实际的工程实践中，TypeScript 能帮我们写出更安全、更简洁的代码，甚至能帮我们在编译阶段就拦"
     },
     {
-      "title": "Android 面试系列：Retrofit 的 suspend 是如何实现的？",
-      "url": "https://juejin.cn/post/7667873177859047470",
+      "title": "Hermes Agent 进阶教程：服务器安全防护3项必做",
+      "url": "https://juejin.cn/post/7667474278617612340",
+      "source": "juejin",
+      "score": 351,
+      "raw_score": 57,
+      "comments": 0,
+      "author": "小墨同学boy",
+      "created_at": "",
+      "summary": "很多人都在使用 Hermes Agent，但是没有多少人会去注意 Agent 使用过程中的安全问题，你的聊天记录、个人信息，甚至一些密码、密钥，如果不做一些基础的检查和设置，随时都有暴露的风险。"
+    },
+    {
+      "title": "AI 核心技术解析｜OPD：大模型开始复制的不再是知识，而是判断力",
+      "url": "https://juejin.cn/post/7667748256437223487",
+      "source": "juejin",
+      "score": 348,
+      "raw_score": 55,
+      "comments": 0,
+      "author": "吴佳浩Alben",
+      "created_at": "",
+      "summary": "本文探讨了大模型技术从传统知识蒸馏（KD）向在线偏好蒸馏（OPD）的演进过程。传统KD仅能传递\"答案是什么\"的知识，而无法教授\"哪个答案更好\"的判断力。随着大模型知识储备趋同，对齐（Alignment"
+    },
+    {
+      "title": "用方差阈值过滤掉“惰性特征”",
+      "url": "https://juejin.cn/post/7667762010877427712",
+      "source": "juejin",
+      "score": 279,
+      "raw_score": 25,
+      "comments": 0,
+      "author": "databook",
+      "created_at": "",
+      "summary": "在机器学习实战中，我们常常把精力花在调参和选模型上，却忽略了一个更基础的问题：喂给模型的数据里，有多少特征是真正有用的？ 刚开始学机器学习那会儿，我特别喜欢堆特征，不管有用没用先一股脑全塞进去，总觉得"
+    },
+    {
+      "title": "Vibe Coding：一场由自己坐庄的“必赢赌局”",
+      "url": "https://juejin.cn/post/7668199817592438834",
       "source": "juejin",
       "score": 276,
       "raw_score": 24,
       "comments": 0,
-      "author": "潜龙勿用之化骨龙",
+      "author": "深海恶霸Grace",
       "created_at": "",
-      "summary": " 今天这个是送分题,但是仍然有很多人不清楚,今天就聊聊这个 比如： ```kotlin in"
+      "summary": "最近好多人突然开始和我讨论Vibe Coding，在我印象里这还是去年年初的事儿，让我有种死去的记忆开始攻击我的感觉。 今年各家都出了不少 Agent 平台，广告打的满天飞，也勾起了不少人的好奇心，我"
     },
     {
-      "title": "AI 测试提效 ｜ 告别手动抓取元素，分享我的 ui-page-parser + Skill UI 自动化提效方案",
-      "url": "https://juejin.cn/post/7667422098198691850",
+      "title": "鸿蒙应用开发：@Monitor 装饰器使用教程",
+      "url": "https://juejin.cn/post/7668156693868740662",
       "source": "juejin",
       "score": 255,
       "raw_score": 19,
       "comments": 0,
-      "author": "狂师",
+      "author": "程序员黑豆",
       "created_at": "",
-      "summary": "UI自动化测试长期面临元素定位困难、脚本脆弱、维护成本高等痛点。本文提出用AI技能链（ui-page-parser等）实现全流程自动化，核心思路是\"AI解析+人工校验\"。"
+      "summary": "一、引言 在鸿蒙（HarmonyOS）应用开发中，状态管理是构建动态用户界面的核心。随着 状态管理 V2 的推出，@Monitor 装饰器为开发者提供了一种更精细、更灵活的状态变化监听机制。本文将深入"
     },
     {
-      "title": "BCrypt 还是 Argon2？Spring Security 密码加密方案深度解析与实战对比",
-      "url": "https://juejin.cn/post/7667750500684152867",
+      "title": "解密Prompt系列71. 从DSpark聊聊大模型 Decoding 提速的技术演化",
+      "url": "https://juejin.cn/post/7668199817592586290",
       "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
+      "score": 235,
+      "raw_score": 15,
       "comments": 0,
-      "author": "都叫我大帅哥",
+      "author": "风雨中的小七",
       "created_at": "",
-      "summary": "BCrypt 还是 Argon2？Spring Security 密码加密方案深度解析与实战对比 一、引言：为什么密码加密如此重要？ 在 Web 应用开发中，用户密码的存储方式直接关系到系统的安全性。"
+      "summary": "从 DeepMind 提出的“双模型协作”，到 DeepSeek 招牌的 MTP，开源EAGLE，再到最新的 DFlash 和 DSpark，今天我们就来扒一扒这套“推理提速大法”的技术演化史。"
     },
     {
-      "title": "Python的Lambda表达式——不起名字的函数也能干大事",
-      "url": "https://juejin.cn/post/7667873177859129390",
+      "title": "深入 React 闭包陷阱：从根源上理解并根治 stale closure",
+      "url": "https://juejin.cn/post/7668204673984643082",
       "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
+      "score": 139,
+      "raw_score": 5,
       "comments": 0,
-      "author": "卷无止境",
+      "author": "前端阿凡",
       "created_at": "",
-      "summary": "写Python代码写多了，你总会在某个瞬间撞见这么一行诡异的东西——key=lambda x: x[1]。第一次看到的人多半会愣一下，这是什么鬼画符？其实它一点也不神秘，就是Python里的匿名函数，"
+      "summary": "问题场景 你遇到过这样的 Bug 吗？页面每隔几秒轮询接口获取最新数据，但始终拿到的都是第一次请求的结果： 无论你点多少次按钮，定时器里打印的 count 始终是初始值 0。这就是 React 里最经"
     },
     {
-      "title": "Python装饰器：一层糖衣包裹的函数魔法",
-      "url": "https://juejin.cn/post/7667873177859080238",
+      "title": "🎯 Web 性能 API 集合：Performance Observer 的 5 个冷门妙用",
+      "url": "https://juejin.cn/post/7668199817592750130",
       "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
+      "score": 120,
+      "raw_score": 4,
       "comments": 0,
-      "author": "卷无止境",
+      "author": "前端阿凡",
       "created_at": "",
-      "summary": "如果你写过一段时间Python，大概率见过这样的代码——函数定义上方悬着一个@something，看着像个符咒。很多人第一次碰到装饰器，反应基本是两种：要么绕着走，能不用就不用；要么硬着头皮啃，结果被"
+      "summary": "问题场景 线上项目偶尔出现卡顿，但在 DevTools 里抓不到复现。打点日志也看不出端倪——因为你只能看到结果（页面慢了），看不到原因（谁占用了主线程）。 这种方式有两个致命缺陷： 侵入性强——要改"
     },
     {
-      "title": "500 个服务时快 6 倍：我们如何将 Kibana APM 服务地图从 Canvas 重构到 React DOM",
-      "url": "https://juejin.cn/post/7667422098198528010",
+      "title": "🧩 ESM vs CJS 混用的 7 个「天坑」——从 TypeScript 编译到 Node 与浏览器",
+      "url": "https://juejin.cn/post/7668204673984659466",
       "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
+      "score": 120,
+      "raw_score": 4,
       "comments": 0,
-      "author": "Elasticsearch",
+      "author": "前端阿凡",
       "created_at": "",
-      "summary": "作者：来自 Elastic Jenny Pavlova 每个服务节点都会显示告警、 SLO 和异常健康状态，因此你可以仅筛选违反阈值的服务，并将结果嵌入到任何 Kibana 仪表板中，同时支持在整个拓"
-    },
-    {
-      "title": "KotlinLLM 开源 ，一个可以在运行时自己生成永久 Kotlin 代码的 Agent 库",
-      "url": "https://juejin.cn/post/7667863898348126271",
-      "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
-      "comments": 0,
-      "author": "恋猫de小郭",
-      "created_at": "",
-      "summary": "JetBrains 这次还真搞出来一个有意思的东西，大概理解就是： 哎~这就很有意思了是不是？它居然想的是，把 LLM 从“每次运行都要调用的在线服务”，变成一种只有在程序遇到陌生场景时能够介入、然后"
-    },
-    {
-      "title": "Redis踩了个大坑，原来DEL命令也会卡住整个实例",
-      "url": "https://juejin.cn/post/7667780391576928271",
-      "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
-      "comments": 0,
-      "author": "阿橙的百宝箱",
-      "created_at": "",
-      "summary": "Redis踩了个大坑，原来DEL命令也会卡住整个实例** -- 引言 Redis作为高性能的内存数据库，因其出色的性能和丰富的功能被广泛应用于缓存、消息队列、排行榜等场景。然而，在实际生产环境中，"
-    },
-    {
-      "title": "Elastic 机器学习预测你的磁盘何时会填满：如何让它向你发出告警",
-      "url": "https://juejin.cn/post/7667864939341365274",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "Elasticsearch",
-      "created_at": "",
-      "summary": "作者：来自 Elastic Valeriy Khakhutskyy 使用单个 Kibana Workflows YAML 每天运行磁盘使用情况的 机器学习 预测，并获取 Slack 告警，其中列出哪些"
+      "summary": "问题场景 前阵子在修一个老项目升级的 Bug：项目原本是 CJS（CommonJS）体系，逐步迁移到 ESM。一切按照文档配置好 \"type\": \"module\"，结果跑起来一堆报错"
     }
   ]
 }
