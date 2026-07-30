@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-29T13:46:04.378837+00:00",
+  "updated_at": "2026-07-30T01:27:10.203113+00:00",
   "articles": [
     {
       "title": "解剖 Claude Code：逆向工程视角下的入口架构分析",
       "url": "https://juejin.cn/post/7667096004731846682",
       "source": "juejin",
-      "score": 716,
-      "raw_score": 3815,
+      "score": 718,
+      "raw_score": 3935,
       "comments": 0,
       "author": "老王以为",
       "created_at": "",
       "summary": "从 Claude Code 的入口代码去分析 Claude Code 的设计和考量，并且和其他的 AI 编程工具进行横纵向对比，去更加深度去思考和考虑 AI 编程工具的设计。"
     },
     {
-      "title": "携程员工：在携程4年，月薪3万左右，基本没涨薪了。不过挺满足的，毕竟稳定，福利也不错（附Agent面试题）",
-      "url": "https://juejin.cn/post/7667495083470471177",
+      "title": "Nest.js 和 Spring Boot 为何如此像？写给前端转 Java 的同学",
+      "url": "https://juejin.cn/post/7667863898348093503",
       "source": "juejin",
-      "score": 644,
-      "raw_score": 1672,
+      "score": 377,
+      "raw_score": 77,
+      "comments": 0,
+      "author": "双越AI_club",
+      "created_at": "",
+      "summary": "大家好，我是双越。wangEditor 作者，前百度 滴滴 资深前端工程师，慕课网精英讲师，PMP，前端面试派作者。本文介绍 Nest.js 和 Spring boot 的相似，帮助前端转 Java"
+    },
+    {
+      "title": "当客户说「用AI帮我写个和Notion一模一样的，预算5000，三天上线」时，我在想什么",
+      "url": "https://juejin.cn/post/7667802262673227830",
+      "source": "juejin",
+      "score": 332,
+      "raw_score": 46,
       "comments": 3,
-      "author": "沉默王二",
+      "author": "吴琼琼",
       "created_at": "",
-      "summary": "携程员工爆料4年月薪3万没涨薪但满足，14道Coding Agent面试题全解：Prompt组装、上下文三层压缩、Tool与Skill区别、多Agent编排、Plan设计，附源码级回答。"
+      "summary": "AI时代独立开发者遇到的那些奇葩需求：从复刻Notion到预测股价，从AI客服到自动写文章——每一个都让我血压飙升，但每一个都教会了我一个道理。"
     },
     {
-      "title": "那就和前端好好道个别吧",
-      "url": "https://juejin.cn/post/7667757814613934143",
+      "title": "第11章 实战项目二：自动化研发运维Agent",
+      "url": "https://juejin.cn/post/7667849988995121186",
       "source": "juejin",
-      "score": 585,
-      "raw_score": 850,
-      "comments": 10,
-      "author": "吃饺子不吃馅",
-      "created_at": "",
-      "summary": "思绪良久，正好今天下午有空闲时间，不想干正事，那就写点东西吧。 22年毕业，那时候还没有意识到几年后会出现一个叫AI的东西，它能在10分钟内完成之前需要3-7天的工作。是的刚开始它叫ChatGPT,后"
-    },
-    {
-      "title": "上线一个人静态网站需要多少钱，难不难？",
-      "url": "https://juejin.cn/post/7666490925375815718",
-      "source": "juejin",
-      "score": 574,
-      "raw_score": 749,
-      "comments": 9,
-      "author": "五阳",
-      "created_at": "",
-      "summary": "https://aichatproxy.com 这是我发布的一个静态站，每个月有上万的 PV。有了 AI coding 加持，发布这种静态站，简直太简单了。"
-    },
-    {
-      "title": "谷歌的一个优化建议，让我重新学了一遍Android里面如何正确处理位图",
-      "url": "https://juejin.cn/post/7667097178154319912",
-      "source": "juejin",
-      "score": 515,
-      "raw_score": 378,
+      "score": 326,
+      "raw_score": 43,
       "comments": 0,
-      "author": "Coffeeee",
+      "author": "怕浪猫",
       "created_at": "",
-      "summary": "背景 谷歌这位哥哥真的会整幺蛾子，好不容易把crash跟anr数据压下来一点，最近发现又给了我一条技术质量类型的整改建议，大致内容是 真的是一点不让我闲着，天天关心着我的kpi有没有达标，天天给我整技"
+      "summary": "软件开发中，大量重复性工作消耗着工程师的时间：代码审查、Bug定位、日志分析、故障排查。如果Agent能承担这些工作，工程师就能专注于更有创造性的任务。本章将构建一个自动化研发运维Agent，覆盖代码"
     },
     {
-      "title": "终于在今天入选了 Gitee GVP，这真值得庆祝~",
-      "url": "https://juejin.cn/post/7667399814504202275",
+      "title": "AI Agent评测体系怎么搭：90% 的团队都漏了这几环...",
+      "url": "https://juejin.cn/post/7667853684409171994",
       "source": "juejin",
-      "score": 501,
-      "raw_score": 322,
-      "comments": 6,
-      "author": "前端梦工厂",
-      "created_at": "",
-      "summary": "uView Pro 从开源到 Gitee 推荐项目用了 1 个月，从 Gitee 推荐项目到 GVP 年度最具价值开源项目用了 8 个月，开源不容易，但好在坚持下来了，感谢大家的使用和支持~"
-    },
-    {
-      "title": "鸿蒙应用开发之V2状态管理：@Local、@ObservedV2、@Trace 使用教程",
-      "url": "https://juejin.cn/post/7667140623372468234",
-      "source": "juejin",
-      "score": 311,
-      "raw_score": 36,
+      "score": 298,
+      "raw_score": 31,
       "comments": 0,
-      "author": "程序员黑豆",
+      "author": "狂师",
       "created_at": "",
-      "summary": "一、@State 存在的问题 在 HarmonyOS 状态管理 V1 中，@State 存在一个关键缺陷：@State装饰的变量既可以从父组件传入初始值，也可以在组件内部初始化，这会导致： 外部覆盖内"
+      "summary": "这篇文章探讨了AI Agent评测体系的构建问题，指出传统软件测试方法不适用于非确定性输出的AI系统。作者提出了五步评测框架：明确评测目标、构建高质量数据集（优先使用真实失败案例）、采用多维度打分机制"
     },
     {
-      "title": "鸿蒙应用开发之@State 装饰器详解：从基本类型到 @Observed/@ObjectLink/@Track 嵌套监听",
-      "url": "https://juejin.cn/post/7667388974337064987",
+      "title": "对接大模型流式接口，我被一个 ReadableStream 卡了半小时",
+      "url": "https://juejin.cn/post/7667842166611066926",
       "source": "juejin",
-      "score": 308,
-      "raw_score": 35,
+      "score": 282,
+      "raw_score": 26,
       "comments": 0,
-      "author": "程序员黑豆",
+      "author": "To_OC",
       "created_at": "",
-      "summary": "一、引言 在鸿蒙（HarmonyOS）应用开发中，ArkTS 框架提供了一套强大的响应式编程模型。其中，@State 装饰器是实现组件内部状态管理、驱动 UI 自动刷新的核心工具。本文将深入浅出地讲解"
+      "summary": "昨天写 BFF 对接 DeepSeek 流式接口，fetch 发出去请求，response 也拿到了，200 OK，心想稳了。随手 console.log(response.body) 想看看返回啥，"
     },
     {
-      "title": "鸿蒙应用开发之父子组件传参：@Prop 装饰器使用教程",
-      "url": "https://juejin.cn/post/7667388974337605659",
+      "title": "Android 面试系列：Retrofit 的 suspend 是如何实现的？",
+      "url": "https://juejin.cn/post/7667873177859047470",
       "source": "juejin",
-      "score": 308,
-      "raw_score": 35,
+      "score": 276,
+      "raw_score": 24,
       "comments": 0,
-      "author": "程序员黑豆",
+      "author": "潜龙勿用之化骨龙",
       "created_at": "",
-      "summary": "一、引言 在鸿蒙 ArkUI 框架中，状态管理是构建动态交互界面的核心。@Prop 装饰器是实现父子组件间单向数据同步的关键工具。它允许父组件将状态值传递给子组件，子组件可以读取并临时修改该值，但修改"
+      "summary": " 今天这个是送分题,但是仍然有很多人不清楚,今天就聊聊这个 比如： ```kotlin in"
     },
     {
-      "title": "一次 git reset 翻车，让我彻底分清了 hard 和 soft，也想通了 Vibe Coding 的本质",
-      "url": "https://juejin.cn/post/7667838623728058418",
+      "title": "AI 测试提效 ｜ 告别手动抓取元素，分享我的 ui-page-parser + Skill UI 自动化提效方案",
+      "url": "https://juejin.cn/post/7667422098198691850",
       "source": "juejin",
       "score": 255,
       "raw_score": 19,
-      "comments": 1,
-      "author": "To_OC",
+      "comments": 0,
+      "author": "狂师",
       "created_at": "",
-      "summary": "先从下午那次惊魂说起 当时的提交记录是这样的，三个提交，最新的一次是 append GPL，就是我想撤掉的那次。 说实话我之前对 reset 一直一知半解，只知道能回退版本，后面加啥参数全靠瞎蒙。那天"
+      "summary": "UI自动化测试长期面临元素定位困难、脚本脆弱、维护成本高等痛点。本文提出用AI技能链（ui-page-parser等）实现全流程自动化，核心思路是\"AI解析+人工校验\"。"
     },
     {
-      "title": "用 LSPosed 模拟录屏音频编码器卡顿：从思路到落地",
-      "url": "https://juejin.cn/post/7667805387362304035",
+      "title": "BCrypt 还是 Argon2？Spring Security 密码加密方案深度解析与实战对比",
+      "url": "https://juejin.cn/post/7667750500684152867",
+      "source": "juejin",
+      "score": 255,
+      "raw_score": 19,
+      "comments": 0,
+      "author": "都叫我大帅哥",
+      "created_at": "",
+      "summary": "BCrypt 还是 Argon2？Spring Security 密码加密方案深度解析与实战对比 一、引言：为什么密码加密如此重要？ 在 Web 应用开发中，用户密码的存储方式直接关系到系统的安全性。"
+    },
+    {
+      "title": "Python的Lambda表达式——不起名字的函数也能干大事",
+      "url": "https://juejin.cn/post/7667873177859129390",
+      "source": "juejin",
+      "score": 251,
+      "raw_score": 18,
+      "comments": 0,
+      "author": "卷无止境",
+      "created_at": "",
+      "summary": "写Python代码写多了，你总会在某个瞬间撞见这么一行诡异的东西——key=lambda x: x[1]。第一次看到的人多半会愣一下，这是什么鬼画符？其实它一点也不神秘，就是Python里的匿名函数，"
+    },
+    {
+      "title": "Python装饰器：一层糖衣包裹的函数魔法",
+      "url": "https://juejin.cn/post/7667873177859080238",
       "source": "juejin",
       "score": 240,
       "raw_score": 16,
       "comments": 0,
-      "author": "solo_99",
+      "author": "卷无止境",
       "created_at": "",
-      "summary": "用 LSPosed 模拟录屏音频编码器卡顿：从思路到落地 预备 需要安装kernelSU 和LSPosed 安装kernelSU 和LSPosed 一、为什么要做这个 录屏链路里，视频和音频往往分开编"
+      "summary": "如果你写过一段时间Python，大概率见过这样的代码——函数定义上方悬着一个@something，看着像个符咒。很多人第一次碰到装饰器，反应基本是两种：要么绕着走，能不用就不用；要么硬着头皮啃，结果被"
     },
     {
-      "title": "每日一个开源项目（第169篇）：AIRI - 开源自托管 AI 虚拟伴侣，能打 Minecraft 的 Neuro-sama 复现",
-      "url": "https://juejin.cn/post/7667781242172014598",
+      "title": "500 个服务时快 6 倍：我们如何将 Kibana APM 服务地图从 Canvas 重构到 React DOM",
+      "url": "https://juejin.cn/post/7667422098198528010",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "Elasticsearch",
       "created_at": "",
-      "summary": "Web 优先架构的开源 AI VTuber 系统，复现 Neuro-sama 的能力：实时语音对话、Live2D/VRM 虚拟形象、Minecraft/Factorio 游戏实战、30+ LLM 提供"
+      "summary": "作者：来自 Elastic Jenny Pavlova 每个服务节点都会显示告警、 SLO 和异常健康状态，因此你可以仅筛选违反阈值的服务，并将结果嵌入到任何 Kibana 仪表板中，同时支持在整个拓"
     },
     {
-      "title": "07 | 把字段与指标同步到 Qdrant（生成阶段）",
-      "url": "https://juejin.cn/post/7667785513274048575",
+      "title": "KotlinLLM 开源 ，一个可以在运行时自己生成永久 Kotlin 代码的 Agent 库",
+      "url": "https://juejin.cn/post/7667863898348126271",
       "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
+      "score": 215,
+      "raw_score": 12,
       "comments": 0,
-      "author": "颜酱",
+      "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "07 | 把字段与指标同步到 Qdrant（生成阶段） 这是一篇系列文，请按顺序阅读。 本文目标 NL2SQL 生成 SQL 之前，需要先召回与用户问题相关的字段和指标。 上一篇已经把结构化元数据同步"
+      "summary": "JetBrains 这次还真搞出来一个有意思的东西，大概理解就是： 哎~这就很有意思了是不是？它居然想的是，把 LLM 从“每次运行都要调用的在线服务”，变成一种只有在程序遇到陌生场景时能够介入、然后"
     },
     {
-      "title": "【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 --- (14)--- Teacher",
-      "url": "https://juejin.cn/post/7667781179438202886",
+      "title": "Redis踩了个大坑，原来DEL命令也会卡住整个实例",
+      "url": "https://juejin.cn/post/7667780391576928271",
       "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
+      "score": 190,
+      "raw_score": 9,
       "comments": 0,
-      "author": "罗西的思考",
+      "author": "阿橙的百宝箱",
       "created_at": "",
-      "summary": "【Agentic RL / 强化学习 / OPD】OpenClaw-RL 源码阅读笔记 --- (14)--- Teacher 0x00 概要 0x01 基础背景 1.1 完整数据流 1.2 关键点 "
+      "summary": "Redis踩了个大坑，原来DEL命令也会卡住整个实例** -- 引言 Redis作为高性能的内存数据库，因其出色的性能和丰富的功能被广泛应用于缓存、消息队列、排行榜等场景。然而，在实际生产环境中，"
     },
     {
-      "title": "Java日期时间三十年战争：从Date考古到LocalDateTime革命，以及数据库与前端的那点事儿",
-      "url": "https://juejin.cn/post/7667779444729315380",
+      "title": "Elastic 机器学习预测你的磁盘何时会填满：如何让它向你发出告警",
+      "url": "https://juejin.cn/post/7667864939341365274",
       "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
+      "score": 180,
+      "raw_score": 8,
       "comments": 0,
-      "author": "都叫我大帅哥",
+      "author": "Elasticsearch",
       "created_at": "",
-      "summary": "Java日期时间三十年战争：从Date考古到LocalDateTime革命，以及数据库与前端的那点事儿 引言：一个让无数程序员崩溃的“小问题” 如果你是一位Java开发者，你一定见过这样的代码："
+      "summary": "作者：来自 Elastic Valeriy Khakhutskyy 使用单个 Kibana Workflows YAML 每天运行磁盘使用情况的 机器学习 预测，并获取 Slack 告警，其中列出哪些"
     }
   ]
 }
