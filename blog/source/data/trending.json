@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-07-30T13:27:43.708201+00:00",
+  "updated_at": "2026-07-31T01:53:47.276200+00:00",
   "articles": [
+    {
+      "title": "解剖 Claude Code：逆向工程视角下的入口架构分析",
+      "url": "https://juejin.cn/post/7667096004731846682",
+      "source": "juejin",
+      "score": 730,
+      "raw_score": 4497,
+      "comments": 0,
+      "author": "老王以为",
+      "created_at": "",
+      "summary": "从 Claude Code 的入口代码去分析 Claude Code 的设计和考量，并且和其他的 AI 编程工具进行横纵向对比，去更加深度去思考和考虑 AI 编程工具的设计。"
+    },
     {
       "title": "Flutter UI 解耦 - 天下大势，合久必分， 分久必合",
       "url": "https://juejin.cn/post/7667440437864300544",
       "source": "juejin",
-      "score": 569,
-      "raw_score": 702,
+      "score": 583,
+      "raw_score": 831,
       "comments": 4,
       "author": "张风捷特烈",
       "created_at": "",
       "summary": "一、一切从一个合理的决定开始 2017 年 5 月，Google I/O 大会上，Flutter 第一个 alpha 版本正式亮相。它的核心卖点是**\"一套代码，两个平台\"**。为了让开发者快速上手，"
     },
     {
-      "title": "Android R8 为什么可以让 Kotlin 协程提速 2 倍？",
-      "url": "https://juejin.cn/post/7667459437695778870",
+      "title": "Flutter Starling : 用 Swift和 Flutter 写了一个 Linux 桌面系统，震惊我一整年",
+      "url": "https://juejin.cn/post/7668191994554073142",
       "source": "juejin",
-      "score": 521,
-      "raw_score": 404,
+      "score": 371,
+      "raw_score": 72,
       "comments": 0,
       "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "这个问题其实我们之前 《AGP 9.2 开始，Android 上协程启动和取消速度提升两倍》就聊过了，因为 PR 终于被合并，所以现在从 Android Gradle Plugin 9.2.0 开始，"
+      "summary": "这该死的即视感，又有一个用 Swift 和 Flutter Engine 组合的项目，不过 Starling 这个项目，除了把 Flutter 的 Dart Framework 直接重写移植成了 Sw"
     },
     {
-      "title": "同事：“Claude Code都能自动写代码了，还要什么Spec Coding？” 我反问：“屎山代码你来维护？”",
-      "url": "https://juejin.cn/post/7667493267350929417",
+      "title": "别再只用 Loading、Success、Error 表示所有页面状态了",
+      "url": "https://juejin.cn/post/7667895598095826970",
       "source": "juejin",
-      "score": 435,
-      "raw_score": 150,
+      "score": 301,
+      "raw_score": 32,
       "comments": 0,
-      "author": "MacroZheng",
+      "author": "RockByte",
       "created_at": "",
-      "summary": "让AI写代码，踩坑比上手快。写完能跑，但不一定符合你的需求。不是模型不够强大，而是你提供的规范不够。OpenSpec就是用来解决这个问题的，先和你探讨方案，然后出规范和计划，没问题它再写。"
+      "summary": "各位 Compose 开发者，周五好。趁着这个愉快的周五，我们一起探讨一个问题：Compose 中的 UI State 到底应该怎么写？"
     },
     {
-      "title": "掘金VibeLaunch 沸点秀获奖公示🎊",
-      "url": "https://juejin.cn/post/7667564845584416819",
+      "title": "AI 生成到 90% 突然断了怎么办？我用 SSE、检查点和幂等把任务接着跑",
+      "url": "https://juejin.cn/post/7668140017317543986",
       "source": "juejin",
-      "score": 429,
-      "raw_score": 140,
+      "score": 298,
+      "raw_score": 31,
       "comments": 0,
-      "author": "沸点小助手",
+      "author": "大鹏AI教育",
       "created_at": "",
-      "summary": "🎉7 月 15 日 - 7 月 24 日#VibeLaunch 沸点秀 沸点活动正式落幕，感谢所有掘友的分享！"
+      "summary": "AI 生成到 90% 突然断了怎么办？我用 SSE、检查点和幂等把任务接着跑 最近我遇到一个很典型的 AI 全栈故障：模型已经生成到 90%，浏览器突然断网。用户刷新页面后，只能从头再来；前面消耗的时"
     },
     {
-      "title": "手把手书写你的第一个 AI Skill：从原则到工程化",
-      "url": "https://juejin.cn/post/7667440437864448000",
-      "source": "juejin",
-      "score": 428,
-      "raw_score": 139,
-      "comments": 0,
-      "author": "莪_幻尘",
-      "created_at": "",
-      "summary": "手把手书写你的第一个 AI Skill：从原则到工程化 目录 先说结论 一、原则：写之前必须知道的 6 件事 二、实战：15 分钟写一个日报生成器 三、复杂 Skill：当 30 行不够用时 四、通用"
-    },
-    {
-      "title": "提升 Web 开发效率：我常用的 10 个 TypeScript 实战技巧",
-      "url": "https://juejin.cn/post/7667736324415701027",
-      "source": "juejin",
-      "score": 408,
-      "raw_score": 110,
-      "comments": 0,
-      "author": "GitLqr",
-      "created_at": "",
-      "summary": "写 Web 的时候，如果只是把 TypeScript 当成一个单纯的“报错检查器”，那就太浪费了。在实际的工程实践中，TypeScript 能帮我们写出更安全、更简洁的代码，甚至能帮我们在编译阶段就拦"
-    },
-    {
-      "title": "Hermes Agent 进阶教程：服务器安全防护3项必做",
-      "url": "https://juejin.cn/post/7667474278617612340",
-      "source": "juejin",
-      "score": 351,
-      "raw_score": 57,
-      "comments": 0,
-      "author": "小墨同学boy",
-      "created_at": "",
-      "summary": "很多人都在使用 Hermes Agent，但是没有多少人会去注意 Agent 使用过程中的安全问题，你的聊天记录、个人信息，甚至一些密码、密钥，如果不做一些基础的检查和设置，随时都有暴露的风险。"
-    },
-    {
-      "title": "AI 核心技术解析｜OPD：大模型开始复制的不再是知识，而是判断力",
-      "url": "https://juejin.cn/post/7667748256437223487",
-      "source": "juejin",
-      "score": 348,
-      "raw_score": 55,
-      "comments": 0,
-      "author": "吴佳浩Alben",
-      "created_at": "",
-      "summary": "本文探讨了大模型技术从传统知识蒸馏（KD）向在线偏好蒸馏（OPD）的演进过程。传统KD仅能传递\"答案是什么\"的知识，而无法教授\"哪个答案更好\"的判断力。随着大模型知识储备趋同，对齐（Alignment"
-    },
-    {
-      "title": "用方差阈值过滤掉“惰性特征”",
-      "url": "https://juejin.cn/post/7667762010877427712",
+      "title": "AI 测试提效 ｜ 告别手工写脚本，分享我的 Playwright + Skill 批量生成 UI 自动化脚本方案",
+      "url": "https://juejin.cn/post/7668233449640312858",
       "source": "juejin",
       "score": 279,
       "raw_score": 25,
       "comments": 0,
-      "author": "databook",
+      "author": "狂师",
       "created_at": "",
-      "summary": "在机器学习实战中，我们常常把精力花在调参和选模型上，却忽略了一个更基础的问题：喂给模型的数据里，有多少特征是真正有用的？ 刚开始学机器学习那会儿，我特别喜欢堆特征，不管有用没用先一股脑全塞进去，总觉得"
+      "summary": "本文介绍了UI自动化测试脚本生成工具ui-testscript-generator，旨在解决传统UI自动化测试中脚本编写的高耗时问题。"
     },
     {
-      "title": "Vibe Coding：一场由自己坐庄的“必赢赌局”",
-      "url": "https://juejin.cn/post/7668199817592438834",
+      "title": "汉字小游戏中的逐笔效果怎么做？Cocos SVG 汉字渲染实战",
+      "url": "https://juejin.cn/post/7668262537961504778",
       "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
+      "score": 272,
+      "raw_score": 23,
       "comments": 0,
-      "author": "深海恶霸Grace",
+      "author": "亿元程序员",
       "created_at": "",
-      "summary": "最近好多人突然开始和我讨论Vibe Coding，在我印象里这还是去年年初的事儿，让我有种死去的记忆开始攻击我的感觉。 今年各家都出了不少 Agent 平台，广告打的满天飞，也勾起了不少人的好奇心，我"
+      "summary": "引言 哈喽大家好，我是亿元程序员，一位有着8年游戏行业经验的主程。 不知道小伙伴们有没有玩过汉字类小游戏。 最近，汉字找茬、拆字组合、错别字挑战、看笔画猜字等休闲玩法越来越常见。 在这些游戏中，汉字不"
     },
     {
-      "title": "鸿蒙应用开发：@Monitor 装饰器使用教程",
-      "url": "https://juejin.cn/post/7668156693868740662",
+      "title": "第12章 实战项目三：个性化教育辅导Agent",
+      "url": "https://juejin.cn/post/7668233449640378394",
       "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
+      "score": 264,
+      "raw_score": 21,
       "comments": 0,
-      "author": "程序员黑豆",
+      "author": "怕浪猫",
       "created_at": "",
-      "summary": "一、引言 在鸿蒙（HarmonyOS）应用开发中，状态管理是构建动态用户界面的核心。随着 状态管理 V2 的推出，@Monitor 装饰器为开发者提供了一种更精细、更灵活的状态变化监听机制。本文将深入"
+      "summary": "教育是最能体现AI Agent价值的领域之一。与传统的\"千人一面\"教学模式不同，Agent可以根据每个学生的知识水平、学习风格和情绪状态，动态调整教学策略，实现真正的个性化辅导。本章将构建一个个性化教"
     },
     {
-      "title": "解密Prompt系列71. 从DSpark聊聊大模型 Decoding 提速的技术演化",
-      "url": "https://juejin.cn/post/7668199817592586290",
+      "title": "Vite的热更新把我整懵了，原来漏了这个配置项",
+      "url": "https://juejin.cn/post/7668159963912847375",
+      "source": "juejin",
+      "score": 260,
+      "raw_score": 20,
+      "comments": 0,
+      "author": "阿橙的百宝箱",
+      "created_at": "",
+      "summary": "Vite的热更新把我整懵了，原来漏了这个配置项** -- 引言 作为一个前端开发者，Vite的出现无疑是一股清流。它以其极快的启动速度和高效的热更新（HMR）机制迅速赢得了开发者的青睐。然而，最近"
+    },
+    {
+      "title": "10 万行 CSV 浏览器直接分析：我用 FastAPI + DuckDB 做了一个数据看板",
+      "url": "https://juejin.cn/post/7668220205333594121",
+      "source": "juejin",
+      "score": 246,
+      "raw_score": 17,
+      "comments": 0,
+      "author": "大鹏AI教育",
+      "created_at": "",
+      "summary": "10 万行 CSV 浏览器直接分析：我用 FastAPI + DuckDB 做了一个数据看板 产品同事丢给我一个 10 万行销售 CSV，希望在浏览器里看总销售额、每日趋势和 Top 10 商品。最直"
+    },
+    {
+      "title": "LLM 生产幂等性工程：重试不等于安全，5 类陷阱与系统防护设计",
+      "url": "https://juejin.cn/post/7668202727696908322",
+      "source": "juejin",
+      "score": 240,
+      "raw_score": 16,
+      "comments": 0,
+      "author": "AINative软件工程",
+      "created_at": "",
+      "summary": "LLM 应用的幂等性工程实践：从 Idempotency-Key 到工具调用去重账本，5 类生产陷阱与系统级四层防护架构设计"
+    },
+    {
+      "title": "学习 Headroom 的整体架构",
+      "url": "https://juejin.cn/post/7668262537961324554",
       "source": "juejin",
       "score": 235,
       "raw_score": 15,
       "comments": 0,
-      "author": "风雨中的小七",
+      "author": "日习一技",
       "created_at": "",
-      "summary": "从 DeepMind 提出的“双模型协作”，到 DeepSeek 招牌的 MTP，开源EAGLE，再到最新的 DFlash 和 DSpark，今天我们就来扒一扒这套“推理提速大法”的技术演化史。"
+      "summary": "在前两篇里，我们先认识了 Headroom 是什么：一个替 AI agent 压缩上下文的中间层，在工具输出、日志、代码、对话历史进入大模型之前先把它们压小，token 能减少 60% 到 95%。然"
     },
     {
-      "title": "深入 React 闭包陷阱：从根源上理解并根治 stale closure",
-      "url": "https://juejin.cn/post/7668204673984643082",
+      "title": "Elastic 和 OpenAI 合作，将前沿智能引入非结构化企业数据",
+      "url": "https://juejin.cn/post/7668233449640001562",
       "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
+      "score": 200,
+      "raw_score": 10,
       "comments": 0,
-      "author": "前端阿凡",
+      "author": "Elasticsearch",
       "created_at": "",
-      "summary": "问题场景 你遇到过这样的 Bug 吗？页面每隔几秒轮询接口获取最新数据，但始终拿到的都是第一次请求的结果： 无论你点多少次按钮，定时器里打印的 count 始终是初始值 0。这就是 React 里最经"
+      "summary": "作者：来自 Elastic Gregory Tademoto, Hemant Malik AI agent 的价值取决于它们所推理的企业上下文。组织所掌握的知识，以及 AI agent 为了发挥价值所"
     },
     {
-      "title": "🎯 Web 性能 API 集合：Performance Observer 的 5 个冷门妙用",
-      "url": "https://juejin.cn/post/7668199817592750130",
+      "title": "如何使用免费工具在线将 Excel 转换为 XML 格式",
+      "url": "https://juejin.cn/post/7668191994554531894",
       "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
+      "score": 169,
+      "raw_score": 7,
       "comments": 0,
-      "author": "前端阿凡",
+      "author": "缺点内向",
       "created_at": "",
-      "summary": "问题场景 线上项目偶尔出现卡顿，但在 DevTools 里抓不到复现。打点日志也看不出端倪——因为你只能看到结果（页面慢了），看不到原因（谁占用了主线程）。 这种方式有两个致命缺陷： 侵入性强——要改"
+      "summary": "本文将介绍 3 款在线 Excel 转 XML 转换器，帮助您选择合适的在线转换工具，并通过 CloudxDocs（一款强大且免费的在线工具）引导您完成简单的 3 步转换方法。"
     },
     {
-      "title": "🧩 ESM vs CJS 混用的 7 个「天坑」——从 TypeScript 编译到 Node 与浏览器",
-      "url": "https://juejin.cn/post/7668204673984659466",
+      "title": "不要问模型是 Transformer 还是 Diffusion：一套五层技术栈检查法（系统角色 / 表示空间 / 网络骨架 / 训练范式 / 推理算法）",
+      "url": "https://juejin.cn/post/7668258075802910758",
       "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
+      "score": 60,
+      "raw_score": 2,
       "comments": 0,
-      "author": "前端阿凡",
+      "author": "武子康",
       "created_at": "",
-      "summary": "问题场景 前阵子在修一个老项目升级的 Bug：项目原本是 CJS（CommonJS）体系，逐步迁移到 ESM。一切按照文档配置好 \"type\": \"module\"，结果跑起来一堆报错"
+      "summary": "不要问模型是 Transformer 还是 Diffusion：一套五层技术栈检查法 摘要 Transformer、VAE、Diffusion、Flow 和 Solver 经常被放在同一张比较表里，但"
     }
   ]
 }
