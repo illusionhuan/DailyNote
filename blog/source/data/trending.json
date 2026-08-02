@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-08-02T01:51:17.927877+00:00",
+  "updated_at": "2026-08-02T12:59:17.997484+00:00",
   "articles": [
     {
-      "title": "01｜什么是 Agent Harness？为什么 LLM 裸用跑不动",
-      "url": "https://juejin.cn/post/7668568059226800168",
+      "title": "AI编程出海第二步：验证关键词能否做站",
+      "url": "https://juejin.cn/post/7668977124872732722",
       "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
+      "score": 313,
+      "raw_score": 37,
       "comments": 0,
-      "author": "浪遏",
+      "author": "卷福同学",
       "created_at": "",
-      "summary": "一个让我困惑了很久的反差 我第一次用 Claude Code 改代码的时候，是有点震撼的。 我说「把这个组件的状态管理从 useState 迁移到 useReducer」，它真的去读了文件、理解了现有"
+      "summary": "1.理论 先讲讲理论，什么样的词还是好词？ 需求存在，搜索量大，用户搜索后有明确行动意图 竞争强度可控，在搜索结果页中竞争强度适中，你做的站有机会获取流量 变现能力，能接广告、开付费订阅等方式变现 做"
     },
     {
-      "title": "从 Codex + Obsidian 到本地 RAG：我的私人知识库实践",
-      "url": "https://juejin.cn/post/7668909646717173806",
+      "title": "架构没变、规模没变，DeepSeek V4 Flash 正式版凭什么暴涨 47 分？",
+      "url": "https://juejin.cn/post/7668933720747638834",
       "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
+      "score": 301,
+      "raw_score": 32,
+      "comments": 0,
+      "author": "小帅不太帅",
+      "created_at": "",
+      "summary": "昨天（7 月 31 日）一天，AI 圈接连发生了三件事 早上，智谱 GLM Coding Plan 重新开放订阅 之前每天定点放名额，我一次没抢到过，现在不用抢了 以为是好消息呢，看到官网订阅价格，我"
+    },
+    {
+      "title": "同一链接实现 PC Web 与移动 H5 自适应",
+      "url": "https://juejin.cn/post/7668977124873273394",
+      "source": "juejin",
+      "score": 295,
+      "raw_score": 30,
+      "comments": 0,
+      "author": "做前端的娜娜子",
+      "created_at": "",
+      "summary": "通过「识别设备类型 → 按端渲染对应内容」的两步策略，用同一个 URL 让 PC 打开展示 Web 应用、手机打开展示 H5 应用"
+    },
+    {
+      "title": "编写一个颜色选择器之后，我理解了 React 工程化的三层架构",
+      "url": "https://juejin.cn/post/7669028793589612595",
+      "source": "juejin",
+      "score": 295,
+      "raw_score": 30,
+      "comments": 0,
+      "author": "先吃饱再说",
+      "created_at": "",
+      "summary": "一个包含颜色选择器和成员列表的小项目，如何从“所有代码堆在一起”演进为 Model、API、Component 三层分离？本文通过实际代码，拆解工程化如何让 React 项目变得清晰、可维护、可扩展“"
+    },
+    {
+      "title": "一套系统，让 AI 写代码的速度变成生产力",
+      "url": "https://juejin.cn/post/7669028793604046858",
+      "source": "juejin",
+      "score": 279,
+      "raw_score": 25,
+      "comments": 0,
+      "author": "KaneLogger",
+      "created_at": "",
+      "summary": "AI 生成代码的速度已经超过了人阅读代码的速度。 继续把“逐行看懂全部实现”当作主要质量控制手段，只会让人越来越跟不上 Agent。 但问题不只是代码生成太快。每次启动新会话，Agent 还需要重新理"
+    },
+    {
+      "title": "深度拆解 Dart 事件循环：从面试题看清 Microtask 与 Event Queue 的执行顺序",
+      "url": "https://juejin.cn/post/7668977124872110130",
+      "source": "juejin",
+      "score": 276,
+      "raw_score": 24,
+      "comments": 0,
+      "author": "GitLqr",
+      "created_at": "",
+      "summary": "一个能测出水平的面试题 很多 Flutter 开发者天天在写 async/await，感觉上手很顺，但真要是碰到面试官抛出一个关于执行顺序的问题，估计不少人得懵。 假设面试官在白板上给你写下这么一"
+    },
+    {
+      "title": "Android：Hilt框架入门 · 在ViewUI和ComposeUI下的应用",
+      "url": "https://juejin.cn/post/7669036838767034387",
+      "source": "juejin",
+      "score": 272,
+      "raw_score": 23,
+      "comments": 0,
+      "author": "Lesile",
+      "created_at": "",
+      "summary": "太难了太难了，踩了一堆坑，AS重装了几遍，gradle缓存来回清空了几次，捣鼓了一整天才把最小Hilt Demo搭建起来。真TM不应该依赖AI，早点查阅官方文档： 使用Hilt实现依赖项注入 依赖引入"
+    },
+    {
+      "title": "NestJS 的请求到底经过了什么：装饰器、守卫、拦截器、管道与中间件如何配合",
+      "url": "https://juejin.cn/post/7668977124873044018",
+      "source": "juejin",
+      "score": 229,
+      "raw_score": 14,
       "comments": 0,
       "author": "石榴",
       "created_at": "",
-      "summary": "一句话结论 我最终搭出的不是一个会自动收藏资料的“第二大脑”，而是两条彼此独立又能衔接的本地链路：Codex 把杂乱来源持续编译成可信 Wiki，本地 RAG 再从这份 Wiki 中检索证据、约束回答"
+      "summary": "刚开始写 NestJS 时，我也把 Guard、Interceptor、Middleware 当成几种差不多的“前置钩子”：反正都能拿到 Request，代码放在哪里似乎都能跑。项目变大之后，这种做法"
     },
     {
-      "title": "LangExtract：让LLM从杂乱文本中\"抠\"出结构化数据的开源工具",
-      "url": "https://juejin.cn/post/7668700706511470611",
+      "title": "鸿蒙应用开发之全局状态管理：AppStorageV2轻松实现登录到个人中心数据共享",
+      "url": "https://juejin.cn/post/7668905064376451124",
       "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
-      "author": "卷无止境",
+      "author": "程序员黑豆",
       "created_at": "",
-      "summary": "在医疗记录、法律合同、客户反馈这些堆满文字的场景里，最头疼的问题往往不是缺数据，而是数据太乱，没法直接用。Google在2025年7月底推出的LangExtract，正是冲着这个痛点去的。它是一个基于"
+      "summary": "一、简介 AppStorageV2 是 HarmonyOS 提供的应用级全局状态管理方案。它通过键值对方式在应用的所有组件（跨 Ability、跨页面、跨组件层级）之间共享数据，且支持响应式更新——当"
     },
     {
-      "title": "07｜记忆：从 JSONL 持久化到 Dream 后台学习",
-      "url": "https://juejin.cn/post/7668704642685124648",
-      "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
-      "comments": 0,
-      "author": "浪遏",
-      "created_at": "",
-      "summary": "0. 先想清楚：记忆有两种，存法完全不同 聊「记忆」之前，得先把两个被混在一起的东西拆开。 第一种是对话历史——你和 Agent 这一来一回的原始记录，逐字逐句、带工具调用、带 token 用量。它是"
-    },
-    {
-      "title": "04｜手脚①：工具的注册、调度与文件安全边界",
-      "url": "https://juejin.cn/post/7668692837795610659",
-      "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
-      "comments": 0,
-      "author": "浪遏",
-      "created_at": "",
-      "summary": "从那行 runTool 说起 回忆一下最小 harness 的内核。模型返回一个 tool_use，我们大概率会写成一个 switch： 跑 demo 没问题。但你只要往真实产品走一步，这个 swit"
-    },
-    {
-      "title": "Android IPC 深度解析：Binder 机制与 AIDL 实战",
-      "url": "https://juejin.cn/post/7668704642684518440",
+      "title": "Android 网络协议全解析：从 TCP 三次握手到 HTTPS 加密，一篇就够了",
+      "url": "https://juejin.cn/post/7668907936213008399",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
       "author": "HeiSenBerg",
       "created_at": "",
-      "summary": "Android IPC 深度解析：Binder 机制与 AIDL 实战 引言 几乎每个 Android 开发者都听说过 Binder，但真正能把\"为什么用 Binder、Binder 怎么工作、AID"
+      "summary": "Android 网络协议全解析：从 TCP 三次握手到 HTTPS 加密，一篇就够了 引言 网络知识是分层嵌套的：不理解 TCP 三次握手，就不知道为什么 HTTP/2 的多路复用还有队头阻塞；不理解"
     },
     {
-      "title": "大模型 Skills 技术深度分析",
-      "url": "https://juejin.cn/post/7668909646717009966",
+      "title": "跳过编写告警规则：NGINX OTel 集成中内置 6 个现成的 ES|QL 模板",
+      "url": "https://juejin.cn/post/7668933720747409458",
       "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
+      "score": 190,
+      "raw_score": 9,
       "comments": 0,
-      "author": "凌峯Vince",
+      "author": "Elasticsearch",
       "created_at": "",
-      "summary": "第一章：Skills 技术全景认知 1.1 从 Prompt 工程到 Skills 工程的演进 1.2 Skills 的正式定义 一句话理解：Skills 是写给 AI 的\"岗位 SOP\"——不是给人"
+      "summary": "作者：来自 Elastic Jeffrey Rengifo Elastic 集成提供告警规则模板，每个模板都是一个已经设置阈值的 ES|QL 查询。你可以在几分钟内创建 Elasticsearch 告"
     },
     {
-      "title": "DOM、BOM、DOM操作详解 + 结合Vue响应式关联梳理",
-      "url": "https://juejin.cn/post/7668719001004326938",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "勾勾圈圈蛋蛋",
-      "created_at": "",
-      "summary": "DOM、BOM、DOM操作详解 + 结合Vue响应式关联梳理 一、基础概念区分 1. BOM（Browser Object Model 浏览器对象模型） 定义：浏览器提供的、用来操作浏览器窗口本身的A"
-    },
-    {
-      "title": "布隆过滤器太难删除？深入理解布谷鸟过滤器：原理、源码、性能对比与工程选型",
-      "url": "https://juejin.cn/post/7668861673492070406",
+      "title": "Rust图像处理第24节- 噪声模型 + 中心极限定理：椒盐噪声 + CLT 可视化",
+      "url": "https://juejin.cn/post/7669387448518705202",
       "source": "juejin",
       "score": 180,
       "raw_score": 8,
       "comments": 0,
-      "author": "坏心思",
+      "author": "花褪残红青杏小",
       "created_at": "",
-      "summary": "布隆过滤器太难删除？深入理解布谷鸟过滤器：原理、源码、性能对比与工程选型 1. 先说结论 对比维度 布隆过滤器 布谷鸟过滤器 基本单元 位数组中的 bit 桶中的 fingerprint 查询 多次 "
+      "summary": "📌 写在前面 任务 23 讲了怎么采高斯和泊松噪声——这一篇讲第三种噪声（椒盐） + 一个为什么高斯无处不在的原理（中心极限定理）。 内容 物理场景 算法 椒盐噪声 老电视雪花、损坏照片 概率置 0/"
     },
     {
-      "title": "DicomViewer15(act验证ci)",
-      "url": "https://juejin.cn/post/7668906037449736198",
+      "title": "代码库知识库系列（04）：三种 Chunking 策略对比——AST 精确分割反而输了？",
+      "url": "https://juejin.cn/post/7669035150308442166",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "冬奇Lab",
+      "created_at": "",
+      "summary": "对 266 行 Python 代码跑三种 Chunking 策略：固定行（Recall@5=1.000）、文件级（1.000）、AST 函数级（0.958）。反直觉结论：AST 精确分割得分最低。"
+    },
+    {
+      "title": "Node.js 测试报告格式一览和自定义 json 格式 `--test-reporter=spec | tap | dot | junit | lcov`",
+      "url": "https://juejin.cn/post/7669068704308002856",
       "source": "juejin",
       "score": 169,
       "raw_score": 7,
       "comments": 0,
-      "author": "xcyxiner",
+      "author": "JavaScript与编程艺术",
       "created_at": "",
-      "summary": "背景 这一篇是处理GitHub上的ci的报错的 wsl下安装act wsl 安装docker wsl 安装act 打包镜像 新建Dockerfile 执行构建命令 发布镜像 本地镜像抄过10G,没法直"
+      "summary": "最近做了一个 SSE 接口 mock 工具 sse-stuntman 的时候用到 Node.js 内置的单元测试 runner 和覆盖率。故有此文。 下面是 Node.js 官方关于可支持报告格式的说"
     },
     {
-      "title": "无人机系列-篇二-ZLMediaKit多路流管理与分发",
-      "url": "https://juejin.cn/post/7668692837795381283",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "SkyStream",
-      "created_at": "",
-      "summary": "ZLMediaKit 多路无人机流管理与分发架构 一、ZLMediaKit 在无人机平台中的定位 ZLMediaKit 的职责边界： 职责 说明 流接入 接收多路无人机 RTMP/RTSP 推流 转码"
-    },
-    {
-      "title": "STM32学习笔记｜LED 闪烁、流水灯与蜂鸣器驱动",
-      "url": "https://juejin.cn/post/7668700706510946323",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "拾叶",
-      "created_at": "",
-      "summary": "本节承接工程搭建、GPIO 基础原理的前置内容，通过三个最经典的外设案例 ——LED 单灯闪烁、多灯流水灯、有源蜂鸣器驱动，完整掌握 STM32通用IO口配置为推挽输出模式的全流程。"
-    },
-    {
-      "title": "无人机系列-篇三-AI视频识别接入架构与优化",
-      "url": "https://juejin.cn/post/7668704642684796968",
+      "title": "开源项目第173期：AI For Beginners — 微软出品的 12 周 24 课 AI 完整课程",
+      "url": "https://juejin.cn/post/7669036838767673363",
       "source": "juejin",
       "score": 139,
       "raw_score": 5,
       "comments": 0,
-      "author": "SkyStream",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "AI 视频识别接入架构与优化：无人机视频流的智能分析 一、AI 为什么不能直接「看」视频流 AI 模型（如 YOLO、ResNet）的输入是图像矩阵——RGB 或 YUV 格式的像素数据。而视频流是压"
-    },
-    {
-      "title": "缩小 AI 差距：下一代知识访问如何为政府解锁任务成果",
-      "url": "https://juejin.cn/post/7668909646752792627",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "Elasticsearch",
-      "created_at": "",
-      "summary": "作者：来自 Elastic Oksana Abramovych 一份基于对 685 名公共部门受访者调查的最新 IDC Spotlight 报告发现，72% 的受访者认为，将 AI 从试点扩展到生产环"
-    },
-    {
-      "title": "RocketMQ 延迟消息实战：延迟双删策略解决 Redis 缓存一致性",
-      "url": "https://juejin.cn/post/7669028793588383795",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "晚安code",
-      "created_at": "",
-      "summary": "RocketMQ 延迟消息怎么用？本文从本地搭建开始，用订单超时案例讲透延迟消息与延迟双删，解决 Redis 缓存一致性难题。"
+      "summary": "引言 这是「每日一个开源项目」系列的第 173 篇。今天的项目是 AI For Beginners —— 微软开源的系统性 AI 入门课程，12 周、24 课，覆盖从经典符号 AI 到现代深度学习"
     }
   ]
 }
