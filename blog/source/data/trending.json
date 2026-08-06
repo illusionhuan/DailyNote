@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-08-05T13:43:32.402578+00:00",
+  "updated_at": "2026-08-06T01:42:32.697191+00:00",
   "articles": [
     {
-      "title": "走进 AI Agent",
-      "url": "https://juejin.cn/post/7670003108343513122",
+      "title": "连接池参数治理-HikariCP怎么配才稳",
+      "url": "https://juejin.cn/post/7670453050885472266",
       "source": "juejin",
-      "score": 773,
-      "raw_score": 7409,
-      "comments": 1,
-      "author": "老王以为",
-      "created_at": "",
-      "summary": "如果你刚接触 AI Agent，可能会觉得这个概念既熟悉又陌生——熟悉是因为到处都在谈论，陌生是因为很难说清楚它到底是什么。今天这篇文章的目标，就是帮你从\"听过\"走到\"看懂\"，再走到\"能讲给别人听\"。"
-    },
-    {
-      "title": "hvv员工家属爆料：老公22年入职的，普通员工，老是被误以为高薪多奖金，实际上还没配股，暂时钱没存多少，我倒是很心疼他工作辛苦。",
-      "url": "https://juejin.cn/post/7669710672626089994",
-      "source": "juejin",
-      "score": 680,
-      "raw_score": 2517,
-      "comments": 3,
-      "author": "CodeSheep",
-      "created_at": "",
-      "summary": "最近搬砖之余在社区摸鱼时刷到一个帖子，hvv员工家属爆料吐槽帖，内容差不多是这样： 第一眼看到这个帖子，我的反应是： 聊聊hvv的待遇？ 这题我熟啊。 帖子下面参与讨论的同学有挺多，有吐槽的，有比惨的"
-    },
-    {
-      "title": "公司不给你配 AI，你会自己掏钱吗？",
-      "url": "https://juejin.cn/post/7670011027535921202",
-      "source": "juejin",
-      "score": 645,
-      "raw_score": 1696,
-      "comments": 10,
-      "author": "狂师",
-      "created_at": "",
-      "summary": "前几天逛技术社区时，看到一条挺有意思的帖子。 一个做技术的老哥，说自己每个月光AI订阅费就得至少花费一千以上。 Claude Pro 20刀，Cursor 20刀，ChatGPT Plus 20刀，再"
-    },
-    {
-      "title": "别再只会 `find` 了：Map 在前端业务里的真实用法",
-      "url": "https://juejin.cn/post/7670033080981061682",
-      "source": "juejin",
-      "score": 441,
-      "raw_score": 161,
+      "score": 514,
+      "raw_score": 374,
       "comments": 0,
-      "author": "Mh",
+      "author": "倔强的石头_",
       "created_at": "",
-      "summary": "前言 很多前端同学知道 Map，但真正写业务时却很少用。 原因也很简单：接口返回的数据通常是数组，表单提交的数据通常是对象或数组，最后给后端的也是 JSON。大多数时候，数组和普通对象已经够用了。"
+      "summary": "应用能连上数据库，只是第一步。真正到了并发访问的情况下，连接池才是应用和数据库之间最关键的缓冲层，连接池配得太小，接口会排队；配得太大，数据库会被大量连接拖住；超时时间不合理，会造成请求堆积；"
     },
     {
-      "title": "LangGraph 状态机实战",
-      "url": "https://juejin.cn/post/7669977485648773172",
+      "title": "从零开发一个 Coding Agent（五）：使用 TypeBox 校验工具参数",
+      "url": "https://juejin.cn/post/7669994336817741875",
       "source": "juejin",
       "score": 395,
       "raw_score": 95,
       "comments": 0,
-      "author": "Shockang",
+      "author": "东方小月",
       "created_at": "",
-      "summary": "本文介绍了LangChain和LangGraph在构建大模型应用中的关键作用，逐步从简单API调用升级为可编排的有状态Agent系统。"
+      "summary": "本篇文章是《从零开发一个 Coding Agent》系列第五篇。在上一篇中，我们使用状态机校验了大模型事件流，确保 tool_call_start、tool_call_delta 和 tool_cal"
     },
     {
-      "title": "代码库知识库系列（06）：把调用图编码进 Embedding——结构增强有效，但不够",
-      "url": "https://juejin.cn/post/7669999915607490614",
+      "title": "FFmpeg 9.0正式发布：代号“Lei”，以纪念中国开发者雷霄骅",
+      "url": "https://juejin.cn/post/7670447828808007718",
       "source": "juejin",
-      "score": 348,
-      "raw_score": 55,
+      "score": 376,
+      "raw_score": 76,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "CodeSheep",
       "created_at": "",
-      "summary": "验证第05篇的假设：把 called_by/calls 信息编码进 embedding 内容，能否修好 Q8（calculate_order_total 漏检）？"
+      "summary": "提到 FFmpeg 这个软件工具，相信技术开发者们应该再熟悉不过了。 作为一款开源且跨平台的多媒体处理工具集，FFmpeg 堪称音视频领域的瑞士军刀，在业内使用得相当广泛，可以说是当今数字媒体生态中不"
     },
     {
-      "title": "从 PHP 到 AI + Golang，程序员自救转型手记（五十）：增加管理员角色组管理",
-      "url": "https://juejin.cn/post/7670017243779235866",
+      "title": "前端开发转 Go 全栈（三）：从函数到 error，Go 连“失败”都要明确返回",
+      "url": "https://juejin.cn/post/7670420251288666155",
       "source": "juejin",
-      "score": 324,
-      "raw_score": 42,
-      "comments": 0,
-      "author": "妙码生花",
+      "score": 272,
+      "raw_score": 23,
+      "comments": 1,
+      "author": "他们叫我秃子",
       "created_at": "",
-      "summary": "这是一个系列 Blog，作者将以一个 PHP 全栈工程师的身份，利用 AI 工具（TRAE、claude code、codex等）：从零开始学习 golang 语言，并最终完成实战项目。"
+      "summary": "本文从函数定义、多返回值讲到 error，并通过年龄校验和创建用户等示例，学习 errors.New、fmt.Errorf、错误包装与向上传递，理解 Go“错误即值”的处理思路。"
     },
     {
-      "title": "鸿蒙应用开发：AttributeModifier 使用教程",
-      "url": "https://juejin.cn/post/7669995196408774698",
+      "title": "阿里ASR语音转文字,用JS模拟微信",
+      "url": "https://juejin.cn/post/7670475896516247603",
       "source": "juejin",
-      "score": 322,
-      "raw_score": 41,
+      "score": 222,
+      "raw_score": 13,
       "comments": 0,
-      "author": "程序员黑豆",
+      "author": "半刻纬度",
       "created_at": "",
-      "summary": "一、引言 在鸿蒙（HarmonyOS）应用开发中，UI 组件的样式管理是构建高质量界面的核心。传统的 @Styles 和 @Extend 装饰器虽然能实现样式复用，但在跨文件复用、状态驱动刷新以及多态"
+      "summary": "主角是 SenseVoice。阿里达摩院的多语言 ASR 模型。234MB INT8 量化版。中英日粤通吃，还能识别笑声、咳嗽、BGM。配上 PUNC 标点模型，输出带标点的中文。 1. 微信一样的d"
     },
     {
-      "title": "【LINUX】Linux从闹钟到高精度定时器的实现",
-      "url": "https://juejin.cn/post/7670162213920276480",
+      "title": "React Router v7 实战：用路由配置、懒加载与嵌套路由搭建一个完整的 SPA",
+      "url": "https://juejin.cn/post/7670434602607312911",
       "source": "juejin",
-      "score": 322,
-      "raw_score": 41,
+      "score": 200,
+      "raw_score": 10,
       "comments": 0,
-      "author": "柒号华仔",
+      "author": "东风破_",
       "created_at": "",
-      "summary": "在Linux服务器开发中，定时器无处不在——心跳检测、超时重传、定时任务调度，本文从应用层到内核层对定时器的使用进行了介绍。"
+      "summary": "基于React Router v7项目逐行拆解HashRouter、懒加载、动态参数、嵌套路由、编程导航、重定向、404兜底等核心API。"
     },
     {
-      "title": "盘点 2 个看起来贼炫酷酷酷的 GitHub 项目，炒的还挺火的。",
-      "url": "https://juejin.cn/post/7670367236265787427",
-      "source": "juejin",
-      "score": 318,
-      "raw_score": 39,
-      "comments": 0,
-      "author": "逛逛GitHub",
-      "created_at": "",
-      "summary": "最近 GitHub 上有个项目，看 Demo 的时候真的很容易停下来。 滚轮轻轻往下滑，镜头从一座微缩建筑外面钻进去，穿过精心设计的内部空间，再飞向下一个场景。 整个网页像一支可以用鼠标控制进度的品牌"
-    },
-    {
-      "title": "给 Java 程序员的 CSRF 攻击详解：从原理到防御实战",
-      "url": "https://juejin.cn/post/7670366276666392628",
-      "source": "juejin",
-      "score": 264,
-      "raw_score": 21,
-      "comments": 0,
-      "author": "都叫我大帅哥",
-      "created_at": "",
-      "summary": "给 Java 程序员的 CSRF 攻击详解：从原理到防御实战 想象一个场景：你正在公司内部系统里审批报销单，突然收到一封邮件，标题是“点击查看年会照片”。你顺手点开，照片没看到，但第二天却发现自己的账"
-    },
-    {
-      "title": "Redis缓存回滚踩坑实录：一个配置失误，让我在凌晨3点丢了3000条数据",
-      "url": "https://juejin.cn/post/7670366267686436904",
-      "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
-      "comments": 0,
-      "author": "用户05954017446",
-      "created_at": "",
-      "summary": "凌晨三点，手机像发了疯一样震动。告警信息只有一句话：“MySQL连接池耗尽，API成功率跌至12%”。哆嗦着打开监控，数据库QPS从800直接冲上2万，所有请求都在穿透打到MySQL。问题出在Redi"
-    },
-    {
-      "title": "别再这样写条件渲染了——你的React组件里藏着这5种定时炸弹",
-      "url": "https://juejin.cn/post/7670379874164441107",
-      "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
-      "comments": 0,
-      "author": "kyriewen",
-      "created_at": "",
-      "summary": "React条件渲染的5种定时炸弹：&&短路渲染\"0\"、三元嵌套、条件切换状态丢失、useEffect派生条件、key串台。每种附代码对比和修复方案，生产环境踩坑实录。"
-    },
-    {
-      "title": "RAG 系统进化论（八）：Agentic RAG（智能体式 RAG），从回答问题到完成任务",
-      "url": "https://juejin.cn/post/7670366213105418274",
-      "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
-      "comments": 0,
-      "author": "董员外",
-      "created_at": "",
-      "summary": "Agentic RAG（智能体式 RAG）把系统从执行固定问答流程，推进到自主规划和完成多步骤任务。本文将介绍任务规划、工具选择、多步检索、状态与检查点、并行执行、人工介入、预算和停止条件"
-    },
-    {
-      "title": "CT（DCM）外轮廓实时识别 → 逐层拼3D → 导出STL到Blender",
-      "url": "https://juejin.cn/post/7670167079044890639",
+      "title": "从多页应用到单页应用：前端路由的演进与 Hash 路由原理",
+      "url": "https://juejin.cn/post/7670368099620814882",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "xingren",
+      "author": "东风破_",
       "created_at": "",
-      "summary": "本文介绍了从 CT切片 逐层提取外轮廓 ，并实时构建三维模型的过程。最有意思的其实是前半段，看清楚那些外周点如何从混乱变有序，比只看成品更上头。"
+      "summary": "从多页面刷新痛点出发，拆解URL结构，引出hash不触发请求的特性，手写HashRouter讲透路由表、监听、渲染出口三要素。"
+    },
+    {
+      "title": "从页面白屏到丝滑切换：手撕一个Hash路由，彻底搞懂前端路由原理",
+      "url": "https://juejin.cn/post/7670383736383520814",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "小林ixn",
+      "created_at": "",
+      "summary": "前言：一个让前端开发质变的“小东西” 还记得早年用jQuery开发多页面应用的日子吗？每次点击链接，整个页面刷新，白屏闪烁，用户干等着。移动端时代，这种体验直接劝退。 直到单页应用（SPA）  的出现"
+    },
+    {
+      "title": "从多页到 SPA：用 50 行代码理解前端路由的本质",
+      "url": "https://juejin.cn/post/7670366213105991714",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "爱吃混沌",
+      "created_at": "",
+      "summary": "从多页到 SPA：用 50 行代码理解前端路由的本质 前言 学 React Router、Vue Router 的时候，我们很容易记住一堆 API： useNavigate <Link> router"
+    },
+    {
+      "title": "从前端路由演进看 SPA 本质：手写 HashRouter 彻底搞懂 hash 路由",
+      "url": "https://juejin.cn/post/7670447258459308078",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "Darling噜啦啦",
+      "created_at": "",
+      "summary": "从前端路由演进看 SPA 本质：手写 HashRouter 彻底搞懂 hash 路由 一、万物互联靠链接：浏览器 URL 的前世今生 1.1 浏览器是如何访问一个网页的？ 当你输入一个 URL 并按下"
+    },
+    {
+      "title": "Vite + React 19 + Router v7，一文搞懂 HashRouter、嵌套路由、懒加载和 404 兜底",
+      "url": "https://juejin.cn/post/7670447258459226158",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "橘子星",
+      "created_at": "",
+      "summary": "Vite + React 19 + Router v7，一文搞懂 HashRouter、嵌套路由、懒加载和 404 兜底 前言 如果你正在学习 React 路由，大概率会碰到这些问题： HashRou"
+    },
+    {
+      "title": "竹知了很火？于是我用Cocos做了一个",
+      "url": "https://juejin.cn/post/7670488556980469786",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "亿元程序员",
+      "created_at": "",
+      "summary": "引言 哈喽大家好，我是亿元程序员，一位有着8年游戏行业经验的主程。 不知道小伙伴们最近有没有留意到，有个叫竹知了的玩具火了起来，小伙伴们小时候有没有玩过？ 笔者回想起来，小时候路边摊几块钱就能买到的小"
+    },
+    {
+      "title": "从前端路由的起源到 React Router 实战",
+      "url": "https://juejin.cn/post/7670366276666654772",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "无糖可可果",
+      "created_at": "",
+      "summary": "从前端路由的起源到 React Router 实战 一、传统的多页面时代 在互联网的早期，万物互联靠的是链接。 点击一个链接，浏览器的工作流程是这样的： URL 作为浏览器访问代理"
+    },
+    {
+      "title": "MPA 到 SPA：前端路由的演进与实现",
+      "url": "https://juejin.cn/post/7670420251288469547",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "Jasper_L",
+      "created_at": "",
+      "summary": "一、传统多页面应用（MPA）是怎么工作的 1.1 一个完整的 HTTP 请求周期 打开浏览器，输入 URL，按下回车——背后发生了什么？ 每一次点击链接、每一次页面跳转，这套流程都会完整地跑一遍。 1"
+    },
+    {
+      "title": "React 路由是怎么“瞒”过浏览器实现无刷新跳转的？",
+      "url": "https://juejin.cn/post/7670383736383143982",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "阿黎梨梨",
+      "created_at": "",
+      "summary": "作为一名前端开发者，我们经常会遇到这样的场景：用户点击了页面上的一个链接，整个浏览器顶部会有一个进度条在缓慢爬行，随后页面“唰”地一下变白，接着再“唰”地一下加载出全新的内容。这种体验，在追求极致流畅"
     }
   ]
 }
