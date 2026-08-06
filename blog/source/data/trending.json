@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-08-06T01:42:32.697191+00:00",
+  "updated_at": "2026-08-06T13:41:56.288675+00:00",
   "articles": [
     {
-      "title": "连接池参数治理-HikariCP怎么配才稳",
-      "url": "https://juejin.cn/post/7670453050885472266",
+      "title": "走进 AI Agent",
+      "url": "https://juejin.cn/post/7670003108343513122",
       "source": "juejin",
-      "score": 514,
-      "raw_score": 374,
-      "comments": 0,
-      "author": "倔强的石头_",
+      "score": 788,
+      "raw_score": 8735,
+      "comments": 2,
+      "author": "老王以为",
       "created_at": "",
-      "summary": "应用能连上数据库，只是第一步。真正到了并发访问的情况下，连接池才是应用和数据库之间最关键的缓冲层，连接池配得太小，接口会排队；配得太大，数据库会被大量连接拖住；超时时间不合理，会造成请求堆积；"
+      "summary": "如果你刚接触 AI Agent，可能会觉得这个概念既熟悉又陌生——熟悉是因为到处都在谈论，陌生是因为很难说清楚它到底是什么。今天这篇文章的目标，就是帮你从\"听过\"走到\"看懂\"，再走到\"能讲给别人听\"。"
     },
     {
-      "title": "从零开发一个 Coding Agent（五）：使用 TypeBox 校验工具参数",
-      "url": "https://juejin.cn/post/7669994336817741875",
+      "title": "公司不给你配 AI，你会自己掏钱吗？",
+      "url": "https://juejin.cn/post/7670011027535921202",
       "source": "juejin",
-      "score": 395,
-      "raw_score": 95,
-      "comments": 0,
-      "author": "东方小月",
+      "score": 703,
+      "raw_score": 3311,
+      "comments": 18,
+      "author": "狂师",
       "created_at": "",
-      "summary": "本篇文章是《从零开发一个 Coding Agent》系列第五篇。在上一篇中，我们使用状态机校验了大模型事件流，确保 tool_call_start、tool_call_delta 和 tool_cal"
+      "summary": "前几天逛技术社区时，看到一条挺有意思的帖子。 一个做技术的老哥，说自己每个月光AI订阅费就得至少花费一千以上。 Claude Pro 20刀，Cursor 20刀，ChatGPT Plus 20刀，再"
     },
     {
       "title": "FFmpeg 9.0正式发布：代号“Lei”，以纪念中国开发者雷霄骅",
       "url": "https://juejin.cn/post/7670447828808007718",
       "source": "juejin",
-      "score": 376,
-      "raw_score": 76,
-      "comments": 0,
+      "score": 625,
+      "raw_score": 1342,
+      "comments": 3,
       "author": "CodeSheep",
       "created_at": "",
       "summary": "提到 FFmpeg 这个软件工具，相信技术开发者们应该再熟悉不过了。 作为一款开源且跨平台的多媒体处理工具集，FFmpeg 堪称音视频领域的瑞士军刀，在业内使用得相当广泛，可以说是当今数字媒体生态中不"
     },
     {
-      "title": "前端开发转 Go 全栈（三）：从函数到 error，Go 连“失败”都要明确返回",
-      "url": "https://juejin.cn/post/7670420251288666155",
+      "title": "Flutter  hit，一个可以灵活控制溢出点击的第三方包",
+      "url": "https://juejin.cn/post/7670078525111861254",
+      "source": "juejin",
+      "score": 540,
+      "raw_score": 503,
+      "comments": 7,
+      "author": "恋猫de小郭",
+      "created_at": "",
+      "summary": "definev/hit 是一个支持点击效果可以灵活溢出控件大小的第三方包，离谱点甚至可以做到控件在原地，点击满天飞的效果，简单来说就是它的作用就是解决 \"控件视觉尺寸需要小，但点击热区需要大\" 的需求"
+    },
+    {
+      "title": "堆了 20 套主题、10+ 组件，用户还是用不出来？我给设计 Skill 加了「自动驾驶」",
+      "url": "https://juejin.cn/post/7670092136000716843",
+      "source": "juejin",
+      "score": 489,
+      "raw_score": 281,
+      "comments": 0,
+      "author": "雨夜寻晴天",
+      "created_at": "",
+      "summary": "最近我一直在折腾 Han Design。 它原本是一个给 AI Agent 用的中国风网页设计 Skill，里面有主题、颜色、字体、组件、纹样、排版规则，也有 han.css 和 han-scoped"
+    },
+    {
+      "title": "为什么在 Flowable 时代还要写一个轻量工作流引擎",
+      "url": "https://juejin.cn/post/7670053235008258099",
+      "source": "juejin",
+      "score": 480,
+      "raw_score": 252,
+      "comments": 2,
+      "author": "mldong",
+      "created_at": "",
+      "summary": "Flowable 好用但代价不低：数 MB 依赖、70+ 张表、BPMN 学习曲线。什么场景该用成熟引擎，什么场景 98KB 的轻量自研更理性？一张对比矩阵讲清工作流引擎选型账。"
+    },
+    {
+      "title": "DeepSeek 这波涨价，我反而有点理解，你怎么看这次涨幅较大？",
+      "url": "https://juejin.cn/post/7670739142733381672",
+      "source": "juejin",
+      "score": 376,
+      "raw_score": 76,
+      "comments": 2,
+      "author": "前端梦工厂",
+      "created_at": "",
+      "summary": "刚刚收到邮箱推送，看到 DeepSeek 给我发来的调价通知，\"计划近期整体上调 API 服务定价，预计涨幅较大，请合理安排您的使用，如果不合适还可以退费。\" 具体涨多少没说，但是强调“涨幅较大”"
+    },
+    {
+      "title": "速度太快了！本地可以跑 DeepSeek-V4-Flash 了",
+      "url": "https://juejin.cn/post/7670558003235717135",
+      "source": "juejin",
+      "score": 366,
+      "raw_score": 68,
+      "comments": 0,
+      "author": "cxuanAI",
+      "created_at": "",
+      "summary": "DeepSeek-V4-Flash 的一经发布属实非常炸裂了，发布完了之后 1 - 4 个小时，我明显 DeepSeek 的响应速度变得很慢了，我估计大家都在接入 API 测试，不过也难怪，DeepS"
+    },
+    {
+      "title": "鸿蒙应用开发：网络请求三种方式详解（http / rcp / axios）",
+      "url": "https://juejin.cn/post/7670731458306719750",
+      "source": "juejin",
+      "score": 286,
+      "raw_score": 27,
+      "comments": 0,
+      "author": "程序员黑豆",
+      "created_at": "",
+      "summary": "一、引言 在鸿蒙应用开发中，网络请求是应用与后端服务交互的核心能力。官方提供了 @kit.NetworkKit（http 模块）和 @kit.RemoteCommunicationKit（rcp 模块"
+    },
+    {
+      "title": "芝士就是力量！开源私有化部署与 GitHub 双向同步的个人知识笔记 App",
+      "url": "https://juejin.cn/post/7670558003235553295",
       "source": "juejin",
       "score": 272,
       "raw_score": 23,
-      "comments": 1,
-      "author": "他们叫我秃子",
-      "created_at": "",
-      "summary": "本文从函数定义、多返回值讲到 error，并通过年龄校验和创建用户等示例，学习 errors.New、fmt.Errorf、错误包装与向上传递，理解 Go“错误即值”的处理思路。"
-    },
-    {
-      "title": "阿里ASR语音转文字,用JS模拟微信",
-      "url": "https://juejin.cn/post/7670475896516247603",
-      "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
       "comments": 0,
-      "author": "半刻纬度",
+      "author": "阿祖zu",
       "created_at": "",
-      "summary": "主角是 SenseVoice。阿里达摩院的多语言 ASR 模型。234MB INT8 量化版。中英日粤通吃，还能识别笑声、咳嗽、BGM。配上 PUNC 标点模型，输出带标点的中文。 1. 微信一样的d"
+      "summary": "手机端的 Obsidian 非常丝滑。为了不花每年 350 元的订阅费，我决定自己手搓一个。它必须满足两个核心要求： 1. 数据永久存储在 GitHub 上。 2. 要快。"
     },
     {
-      "title": "React Router v7 实战：用路由配置、懒加载与嵌套路由搭建一个完整的 SPA",
-      "url": "https://juejin.cn/post/7670434602607312911",
+      "title": "Agent 已经能跑起来了，我却不知道怎样判断它好不好",
+      "url": "https://juejin.cn/post/7670798157669335086",
       "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
+      "score": 268,
+      "raw_score": 22,
       "comments": 0,
-      "author": "东风破_",
+      "author": "开发江鸟",
       "created_at": "",
-      "summary": "基于React Router v7项目逐行拆解HashRouter、懒加载、动态参数、嵌套路由、编程导航、重定向、404兜底等核心API。"
+      "summary": "昨天我写了一篇文章：《从 MCP 原理到真实 Server：我把 Tool、Resource、Prompt 和错误边界跑通了》。 那次实践让我真正跑通了 MCP Server 的能力发现、Tool 调"
     },
     {
-      "title": "从多页应用到单页应用：前端路由的演进与 Hash 路由原理",
-      "url": "https://juejin.cn/post/7670368099620814882",
+      "title": "《React Router 受保护路由的 3 个坑，第 2 个 90% 的人都踩过》",
+      "url": "https://juejin.cn/post/7670798157669629998",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "东风破_",
+      "author": "烬羽",
       "created_at": "",
-      "summary": "从多页面刷新痛点出发，拆解URL结构，引出hash不触发请求的特性，手写HashRouter讲透路由表、监听、渲染出口三要素。"
+      "summary": "React Router 路由守卫：为什么用户登录后总回不了原页面？ 开篇：一个让用户懵掉的场景 你做了一个需要登录才能看的页面 /pay。用户兴冲冲点进去，啪——被弹到登录页。他输完账号密码登录成功"
     },
     {
-      "title": "从页面白屏到丝滑切换：手撕一个Hash路由，彻底搞懂前端路由原理",
-      "url": "https://juejin.cn/post/7670383736383520814",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "小林ixn",
-      "created_at": "",
-      "summary": "前言：一个让前端开发质变的“小东西” 还记得早年用jQuery开发多页面应用的日子吗？每次点击链接，整个页面刷新，白屏闪烁，用户干等着。移动端时代，这种体验直接劝退。 直到单页应用（SPA）  的出现"
-    },
-    {
-      "title": "从多页到 SPA：用 50 行代码理解前端路由的本质",
-      "url": "https://juejin.cn/post/7670366213105991714",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "爱吃混沌",
-      "created_at": "",
-      "summary": "从多页到 SPA：用 50 行代码理解前端路由的本质 前言 学 React Router、Vue Router 的时候，我们很容易记住一堆 API： useNavigate <Link> router"
-    },
-    {
-      "title": "从前端路由演进看 SPA 本质：手写 HashRouter 彻底搞懂 hash 路由",
-      "url": "https://juejin.cn/post/7670447258459308078",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "Darling噜啦啦",
-      "created_at": "",
-      "summary": "从前端路由演进看 SPA 本质：手写 HashRouter 彻底搞懂 hash 路由 一、万物互联靠链接：浏览器 URL 的前世今生 1.1 浏览器是如何访问一个网页的？ 当你输入一个 URL 并按下"
-    },
-    {
-      "title": "Vite + React 19 + Router v7，一文搞懂 HashRouter、嵌套路由、懒加载和 404 兜底",
-      "url": "https://juejin.cn/post/7670447258459226158",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "橘子星",
-      "created_at": "",
-      "summary": "Vite + React 19 + Router v7，一文搞懂 HashRouter、嵌套路由、懒加载和 404 兜底 前言 如果你正在学习 React 路由，大概率会碰到这些问题： HashRou"
-    },
-    {
-      "title": "竹知了很火？于是我用Cocos做了一个",
-      "url": "https://juejin.cn/post/7670488556980469786",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "亿元程序员",
-      "created_at": "",
-      "summary": "引言 哈喽大家好，我是亿元程序员，一位有着8年游戏行业经验的主程。 不知道小伙伴们最近有没有留意到，有个叫竹知了的玩具火了起来，小伙伴们小时候有没有玩过？ 笔者回想起来，小时候路边摊几块钱就能买到的小"
-    },
-    {
-      "title": "从前端路由的起源到 React Router 实战",
-      "url": "https://juejin.cn/post/7670366276666654772",
+      "title": "VelesDB 深度解读 —— 融合向量、图与列存的端侧 AI 记忆引擎",
+      "url": "https://juejin.cn/post/7670794600286568475",
       "source": "juejin",
       "score": 120,
       "raw_score": 4,
       "comments": 0,
-      "author": "无糖可可果",
+      "author": "罗西的思考",
       "created_at": "",
-      "summary": "从前端路由的起源到 React Router 实战 一、传统的多页面时代 在互联网的早期，万物互联靠的是链接。 点击一个链接，浏览器的工作流程是这样的： URL 作为浏览器访问代理"
+      "summary": "VelesDB 深度解读 —— 融合向量、图与列存的端侧 AI 记忆引擎 0x00 概要：VelesDB 是什么 0x01 总论 1.1 面对的难点与核心冲突 1.2 如何解决这些难点 1.3 本项目"
     },
     {
-      "title": "MPA 到 SPA：前端路由的演进与实现",
-      "url": "https://juejin.cn/post/7670420251288469547",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "Jasper_L",
-      "created_at": "",
-      "summary": "一、传统多页面应用（MPA）是怎么工作的 1.1 一个完整的 HTTP 请求周期 打开浏览器，输入 URL，按下回车——背后发生了什么？ 每一次点击链接、每一次页面跳转，这套流程都会完整地跑一遍。 1"
-    },
-    {
-      "title": "React 路由是怎么“瞒”过浏览器实现无刷新跳转的？",
-      "url": "https://juejin.cn/post/7670383736383143982",
+      "title": "代码库知识库系列（08）：生产级架构设计——向量、图、符号索引如何组合",
+      "url": "https://juejin.cn/post/7670755990330081314",
       "source": "juejin",
       "score": 95,
       "raw_score": 3,
       "comments": 0,
-      "author": "阿黎梨梨",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "作为一名前端开发者，我们经常会遇到这样的场景：用户点击了页面上的一个链接，整个浏览器顶部会有一个进度条在缓慢爬行，随后页面“唰”地一下变白，接着再“唰”地一下加载出全新的内容。这种体验，在追求极致流畅"
+      "summary": "本文从系统架构视角出发，设计多路召回+查询路由+增量更新的生产级代码库知识库：查询路由按意图激活对应检索路；图检索作为一等公民与向量并行，不再是后处理补丁；Git diff 驱动增量更新替代全量重建。"
+    },
+    {
+      "title": "开源项目第177期：Apache Airflow — 用 Python 写出来的工作流调度器，数据工程师的标配工具",
+      "url": "https://juejin.cn/post/7670755990330015778",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "冬奇Lab",
+      "created_at": "",
+      "summary": "引言 这是「每日一个开源项目」系列的第 177 篇。今天的项目是 Apache Airflow —— 用 Python 编写和调度工作流的平台，数据工程领域最广泛使用的开源工具之一。"
     }
   ]
 }
