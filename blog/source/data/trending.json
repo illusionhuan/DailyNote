@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-08-07T02:08:05.645305+00:00",
+  "updated_at": "2026-08-07T12:40:33.965284+00:00",
   "articles": [
     {
-      "title": "从“白菜价”到大幅涨价，DeepSeek正在经历什么？",
-      "url": "https://juejin.cn/post/7670757585832820776",
+      "title": "有jy知道uniapp开发时候用微信开发工具真机模拟，图片不显示是为什么的么？ | 沸点周刊 8.6",
+      "url": "https://juejin.cn/post/7670620583845019699",
+      "source": "juejin",
+      "score": 538,
+      "raw_score": 495,
+      "comments": 0,
+      "author": "掘金一周",
+      "created_at": "",
+      "summary": "奔波职场许久，很多人都幻想过重新择业的机会...如果可以回到挑选行业的起点，你还会选择敲代码、深耕互联网吗？"
+    },
+    {
+      "title": "一线大厂的Git规范",
+      "url": "https://juejin.cn/post/7671106436446011443",
+      "source": "juejin",
+      "score": 513,
+      "raw_score": 369,
+      "comments": 0,
+      "author": "苏三说技术",
+      "created_at": "",
+      "summary": "前言 最近有球友问：三哥，有没有好一点的Git规范，可以发我参考一下？ 今天这篇文章，我就把一线大厂都在用的Git规范从头到尾给你拆解一遍。 希望对你会有所帮助。 更多项目实战在Java突击队网：su"
+    },
+    {
+      "title": "接手新项目不用硬啃源码，我的 TRAE Work 快速上手实战工作流",
+      "url": "https://juejin.cn/post/7671107889683087366",
+      "source": "juejin",
+      "score": 457,
+      "raw_score": 194,
+      "comments": 1,
+      "author": "fairyly",
+      "created_at": "",
+      "summary": "接手陌生前端项目不再硬啃源码｜我的 TRAE Work 快速上手实战工作流 前言 接手一个陌生前端项目，框架看得懂，但是路由怎么配、状态怎么管理、组件怎么拆分、请求怎么封装、样式用的哪套方案，全是盲区"
+    },
+    {
+      "title": "Context Engineering：让 Agent 在当前步骤看到正确的事实",
+      "url": "https://juejin.cn/post/7670720234003185715",
+      "source": "juejin",
+      "score": 328,
+      "raw_score": 44,
+      "comments": 0,
+      "author": "码云之上",
+      "created_at": "",
+      "summary": "本文以 Cherry Studio 的运行时为例，讲解对话历史、附件、知识库、记忆与 Agent Session 如何共同构成模型上下文，并给出关键算法的伪代码与工程取舍。"
+    },
+    {
+      "title": "鸿蒙应用开发：一次开发多端适配与自适应布局实战",
+      "url": "https://juejin.cn/post/7670746416008396842",
+      "source": "juejin",
+      "score": 326,
+      "raw_score": 43,
+      "comments": 0,
+      "author": "程序员黑豆",
+      "created_at": "",
+      "summary": "一、引言 在鸿蒙生态中，应用需要运行在手机、平板、折叠屏、智能手表、车机等多种设备上。这些设备的屏幕尺寸、分辨率、形态差异巨大。为了实现“一次开发，多端部署”的目标，HarmonyOS 提供了强大的自"
+    },
+    {
+      "title": "Webpack开发环境：观察模式/webpack-dev-server/HMR热更新",
+      "url": "https://juejin.cn/post/7670781817674907694",
+      "source": "juejin",
+      "score": 318,
+      "raw_score": 39,
+      "comments": 0,
+      "author": "漂流瓶jz",
+      "created_at": "",
+      "summary": "Webpack提供了一系列模式和工具，可以帮我们改善开发体验，实现代码变更后自动更新，实时打包，甚至仅更新改动的模块。通过这些技术，可以让我们在修改代码的同时立即体验到改动效果。"
+    },
+    {
+      "title": "langchain1.x 时代的记忆系统 （二）",
+      "url": "https://juejin.cn/post/7670720234002808883",
+      "source": "juejin",
+      "score": 315,
+      "raw_score": 38,
+      "comments": 0,
+      "author": "扯蛋蛋",
+      "created_at": "",
+      "summary": "短期记忆 - thread-based checkpointer 一句话定义 LangChain.js 1.x 的\"短期记忆\"就是：给 createAgent 配一个 checkpointer ，每次"
+    },
+    {
+      "title": "对标 npx 的 CPX PHP 的 Composer 包执行器",
+      "url": "https://juejin.cn/post/7670447258459734062",
       "source": "juejin",
       "score": 301,
       "raw_score": 32,
       "comments": 0,
-      "author": "勇宝趣学前端",
+      "author": "BingoGo",
       "created_at": "",
-      "summary": "截至2026年8月7日，DeepSeek官方已经在API价格页面写明：近期将整体上调API服务价格，预计涨幅较大，但具体方案仍要以正式通知为准。也就是说，“要涨价”这件事基本已经坐实，但到底涨多少、什"
+      "summary": "对标 npx 的 CPX PHP 的 Composer 包执行器 cpx CLI 可以从任意 Composer 包中运行命令，而无需将该包安装到项目中——cpx 之于 Composer，正如 npx "
     },
     {
-      "title": "Vue3+Cesium实现阴天乌云+下雨天气特效",
-      "url": "https://juejin.cn/post/7670747041917337600",
+      "title": "鸿蒙应用开发之生命周期方法完全指南",
+      "url": "https://juejin.cn/post/7670601785967083539",
       "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
+      "score": 286,
+      "raw_score": 27,
       "comments": 0,
-      "author": "Tony费",
+      "author": "程序员黑豆",
       "created_at": "",
-      "summary": "给 Cesium 地球加上乌云下雨天气！利用 FBM 噪声实现动态云层流动，雨丝动画可调节，支持乌云下雨同时开启。"
+      "summary": "一、引言 在鸿蒙（HarmonyOS）应用开发中，生命周期管理是构建稳定、高效应用的核心基础。它主要分为四个层次：UIAbility（应用/Ability）生命周期、页面生命周期、组件生命周期 和 应"
     },
     {
-      "title": "高颜值飞书封面、审美网站推荐、配色网站安利",
-      "url": "https://juejin.cn/post/7670840362894426121",
+      "title": "我排查了一个React内存泄漏——罪魁祸首是这3个被忽略的清理函数",
+      "url": "https://juejin.cn/post/7671081747917062187",
       "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
+      "score": 279,
+      "raw_score": 25,
       "comments": 0,
-      "author": "周一同学Zelina",
+      "author": "kyriewen",
       "created_at": "",
-      "summary": "2025/06/30 审美网站推荐 主题一分享： 关于「审美&美学」相关方面的一些网站安利👇🏻 做产品或者是做文档排版的时候可以多看看站酷、花瓣、Pinterest这些网站，去这些网站找一些灵感。 第"
+      "summary": "用Chrome DevTools Memory面板排查React内存泄漏，找到3个常见罪魁祸首：window事件监听未移除、WebSocket/订阅连接未关闭、第三方库实例未调用destroy。"
     },
     {
-      "title": "Harness Engineering 到底在做什么",
-      "url": "https://juejin.cn/post/7670801717630861363",
-      "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
-      "comments": 0,
-      "author": "Canace",
-      "created_at": "",
-      "summary": "前段时间，Harness Engineering 这个词在技术圈里刷了屏。 我看到它时，第一反应是，又来一个新词？ Prompt Engineering 还没完全弄明白，Context Enginee"
-    },
-    {
-      "title": "线程池进阶：如何科学设置线程数（结合实际业务场景复盘）",
-      "url": "https://juejin.cn/post/7670825286155337763",
-      "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
-      "comments": 0,
-      "author": "Zane1994",
-      "created_at": "",
-      "summary": "写在前面 Day10 讲完了线程池的基本原理，这篇解决两个更实际的问题：为什么大家都说不要用 Executors 的工厂方法，以及线程数到底该怎么设置——公式背了很多，但真正落到一个具体业务场景里该怎"
-    },
-    {
-      "title": "用 TRAE Work 搞定客户项目介绍，开发再也不用头疼写汇报 PPT",
-      "url": "https://juejin.cn/post/7670840362895097865",
+      "title": "我和 Claude Code 一起写了一本介绍 Claude Code 原理的书",
+      "url": "https://juejin.cn/post/7670923314496438318",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "大知闲闲i",
+      "author": "犀利豆",
       "created_at": "",
-      "summary": "前言✨ 作为一名开发，写代码是本职工作，但经常会遇到领导临时安排的难题：给客户输出项目介绍、方案汇报 PPT 材料。 代码逻辑烂熟于心，但是要转换成面向客户、通俗易懂的对外介绍文档，梳理项目架构、功能"
+      "summary": "前言 · 从“帮我修个 bug”到生产级 Agent 打开 Claude Code，输入一句： 接下来发生的事情，看起来很自然：Claude 搜索代码、读取文件、修改实现、运行测试；遇到失败会调整方案"
     },
     {
-      "title": "Agent评测漫谈 —— 由浅入深讲解Agent评测",
-      "url": "https://juejin.cn/post/7671099711403638820",
+      "title": "一篇文章搞懂 useRef：聚焦 DOM、模拟 forceRender、管理 Worker 都靠它",
+      "url": "https://juejin.cn/post/7671106436445061171",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "美团技术团队",
+      "author": "橘子星",
       "created_at": "",
-      "summary": "本篇博客是一篇科普文章，由浅入深的介绍Agent评测。其中前两章系统介绍了评测是什么，以及如何建立评测体系，第二章是美团图灵Agent评测团队深入美团各业务团队BP总结出的实践经验。"
+      "summary": "一篇文章搞懂 useRef：聚焦 DOM、模拟 forceRender、管理 Worker 都靠它 前言 很多 React 新手对 useRef 的印象停留在\"拿来聚焦输入框\"，然后就没了。其实 us"
     },
     {
-      "title": "LangChain4j 入门指南",
-      "url": "https://juejin.cn/post/7670593377076133939",
+      "title": "Python 的 defaultdict 把我坑惨了，原来缺失键会自动创建，但 `__missing__` 的副作用让我调试到崩溃",
+      "url": "https://juejin.cn/post/7670866369617625122",
       "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
+      "score": 180,
+      "raw_score": 8,
       "comments": 0,
-      "author": "苏三说技术",
+      "author": "站大爷IP",
       "created_at": "",
-      "summary": "前言 最近经常有小伙伴问我——“老的Java项目做AI应用开发，到底该用什么框架？” 我的回答是：LangChain4j。 今天这篇文章，我就从零开始，把LangChain4j的核心概念、底层原理、实"
+      "summary": "1. 一个本该优雅的数据统计，统计出了满屏\"幽灵\" 上个月，我在做一个用户行为分析的需求。日志里有海量的用户点击数据，我要按\"日期+用户ID\"做聚合统计。 需求不复杂，但有一个痛点：键可能不存在。如果"
     },
     {
-      "title": "一个 useRef，三种人生：从 DOM 引用到 Web Worker",
-      "url": "https://juejin.cn/post/7670920981116305427",
+      "title": "Windows + WSL2 完整复现 Avernet WAIC 6 Bot 协作演示",
+      "url": "https://juejin.cn/post/7671081747917258795",
       "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
+      "score": 169,
+      "raw_score": 7,
       "comments": 0,
-      "author": "爱吃混沌",
+      "author": "舒一笑不秃头",
       "created_at": "",
-      "summary": "一个 useRef，三种人生：从 DOM 引用到 Web Worker 很多人刚学 React 时，对 useRef 的印象只有一句话：拿 DOM 节点的。 面试被问到 useRef 和 useSta"
+      "summary": "目录 1. 最终实现效果 2. 运行架构 3. 开始前准备 4. 安装和检查 WSL2 5. 可选：配置 WSL 资源和镜像网络 6. 初始化 Ubuntu 7. 在 WSL 中安装基础依赖 8. 克"
     },
     {
-      "title": "🧭 从 URL 到组件：深度剖析 React Router 原理与 SPA 路由架构艺术",
-      "url": "https://juejin.cn/post/7670727899905998889",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "渣波",
-      "created_at": "",
-      "summary": "在现代前端工程化与单页面应用（SPA）席卷全球的今天，“前端路由”早已成为每一位前端开发者必须烂熟于心的基本功。当我们熟练地敲下 <Link to=\"/about\"> 或者调用 navigate('/"
-    },
-    {
-      "title": "轻量级 Nginx 日志分析和可视化平台 NginxPulse安装",
-      "url": "https://juejin.cn/post/7670903905525514266",
-      "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
-      "comments": 0,
-      "author": "风雨_83",
-      "created_at": "",
-      "summary": "NginxPulse 整体介绍 NginxPulse​ 是一个开源（MIT 协议，GitHub: likaia/nginxpulse）的轻量级 Nginx 访问日志分析与可视化面板，定位是\"GoAcc"
-    },
-    {
-      "title": "🚀 Remote Deploy Helper｜VSCode 部署助手",
-      "url": "https://juejin.cn/post/7671011908330061851",
+      "title": "tumrs简要流程分析（二）—Session 会话的结构、存储与生命周期",
+      "url": "https://juejin.cn/post/7670841477413339155",
       "source": "juejin",
       "score": 139,
       "raw_score": 5,
       "comments": 0,
-      "author": "大知闲闲i",
+      "author": "9527出列",
       "created_at": "",
-      "summary": "一款开箱即用的 VSCode 插件，前端静态目录一键上传、后端 Jar 包自动化部署，告别繁琐的 Xshell、手动拖拽上传，在 VSCode 内完成全流程服务器发布。 📖 插件简介 日常开发部署时，"
-    },
-    {
-      "title": "从页面跳转到前端路由：手写一个简单的 HashRouter",
-      "url": "https://juejin.cn/post/7670727899905720361",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "半个落月",
-      "created_at": "",
-      "summary": "传统页面跳转出发，解析 URL、hash 与 DOM 的关系，并用原生 JavaScript 手写 HashRouter，讲清路由注册、匹配、渲染及 this 绑定。"
-    },
-    {
-      "title": "用 Prompt 做 NLP 任务开发：几分钟构建一个推理系统",
-      "url": "https://juejin.cn/post/7670798157670105134",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "今日无bug",
-      "created_at": "",
-      "summary": "仅用几分钟，我们就可以构建多个用于对文本进行**推理**的系统，而以前这需要熟练的机器学习人员数天到数周的时间。这就是 Prompt 工程带来的效率革命。"
-    },
-    {
-      "title": "云服务器 + Tailscale 把本地 LLM 服务变成公网服务",
-      "url": "https://juejin.cn/post/7656055019972395051",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "冲向超级个体",
-      "created_at": "",
-      "summary": "因为之前鼓捣了一套「全天候办公系统」，让我的一堆电脑组成了一个办公集群。最近又加入了一台 AI 服务器。于是想把这个服务暴露到外网上。"
+      "summary": "模块二：Session 会话的结构、存储与生命周期 1. 总览：两层存储 + 三段生命周期 turms 的 session 采用两层存储： 内存层（本节点）：持有带活跃连接的 UserSession "
     }
   ]
 }
