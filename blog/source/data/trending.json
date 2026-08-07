@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-08-06T13:41:56.288675+00:00",
+  "updated_at": "2026-08-07T02:08:05.645305+00:00",
   "articles": [
     {
-      "title": "走进 AI Agent",
-      "url": "https://juejin.cn/post/7670003108343513122",
+      "title": "从“白菜价”到大幅涨价，DeepSeek正在经历什么？",
+      "url": "https://juejin.cn/post/7670757585832820776",
       "source": "juejin",
-      "score": 788,
-      "raw_score": 8735,
-      "comments": 2,
-      "author": "老王以为",
-      "created_at": "",
-      "summary": "如果你刚接触 AI Agent，可能会觉得这个概念既熟悉又陌生——熟悉是因为到处都在谈论，陌生是因为很难说清楚它到底是什么。今天这篇文章的目标，就是帮你从\"听过\"走到\"看懂\"，再走到\"能讲给别人听\"。"
-    },
-    {
-      "title": "公司不给你配 AI，你会自己掏钱吗？",
-      "url": "https://juejin.cn/post/7670011027535921202",
-      "source": "juejin",
-      "score": 703,
-      "raw_score": 3311,
-      "comments": 18,
-      "author": "狂师",
-      "created_at": "",
-      "summary": "前几天逛技术社区时，看到一条挺有意思的帖子。 一个做技术的老哥，说自己每个月光AI订阅费就得至少花费一千以上。 Claude Pro 20刀，Cursor 20刀，ChatGPT Plus 20刀，再"
-    },
-    {
-      "title": "FFmpeg 9.0正式发布：代号“Lei”，以纪念中国开发者雷霄骅",
-      "url": "https://juejin.cn/post/7670447828808007718",
-      "source": "juejin",
-      "score": 625,
-      "raw_score": 1342,
-      "comments": 3,
-      "author": "CodeSheep",
-      "created_at": "",
-      "summary": "提到 FFmpeg 这个软件工具，相信技术开发者们应该再熟悉不过了。 作为一款开源且跨平台的多媒体处理工具集，FFmpeg 堪称音视频领域的瑞士军刀，在业内使用得相当广泛，可以说是当今数字媒体生态中不"
-    },
-    {
-      "title": "Flutter  hit，一个可以灵活控制溢出点击的第三方包",
-      "url": "https://juejin.cn/post/7670078525111861254",
-      "source": "juejin",
-      "score": 540,
-      "raw_score": 503,
-      "comments": 7,
-      "author": "恋猫de小郭",
-      "created_at": "",
-      "summary": "definev/hit 是一个支持点击效果可以灵活溢出控件大小的第三方包，离谱点甚至可以做到控件在原地，点击满天飞的效果，简单来说就是它的作用就是解决 \"控件视觉尺寸需要小，但点击热区需要大\" 的需求"
-    },
-    {
-      "title": "堆了 20 套主题、10+ 组件，用户还是用不出来？我给设计 Skill 加了「自动驾驶」",
-      "url": "https://juejin.cn/post/7670092136000716843",
-      "source": "juejin",
-      "score": 489,
-      "raw_score": 281,
+      "score": 301,
+      "raw_score": 32,
       "comments": 0,
-      "author": "雨夜寻晴天",
+      "author": "勇宝趣学前端",
       "created_at": "",
-      "summary": "最近我一直在折腾 Han Design。 它原本是一个给 AI Agent 用的中国风网页设计 Skill，里面有主题、颜色、字体、组件、纹样、排版规则，也有 han.css 和 han-scoped"
+      "summary": "截至2026年8月7日，DeepSeek官方已经在API价格页面写明：近期将整体上调API服务价格，预计涨幅较大，但具体方案仍要以正式通知为准。也就是说，“要涨价”这件事基本已经坐实，但到底涨多少、什"
     },
     {
-      "title": "为什么在 Flowable 时代还要写一个轻量工作流引擎",
-      "url": "https://juejin.cn/post/7670053235008258099",
+      "title": "Vue3+Cesium实现阴天乌云+下雨天气特效",
+      "url": "https://juejin.cn/post/7670747041917337600",
       "source": "juejin",
-      "score": 480,
-      "raw_score": 252,
-      "comments": 2,
-      "author": "mldong",
-      "created_at": "",
-      "summary": "Flowable 好用但代价不低：数 MB 依赖、70+ 张表、BPMN 学习曲线。什么场景该用成熟引擎，什么场景 98KB 的轻量自研更理性？一张对比矩阵讲清工作流引擎选型账。"
-    },
-    {
-      "title": "DeepSeek 这波涨价，我反而有点理解，你怎么看这次涨幅较大？",
-      "url": "https://juejin.cn/post/7670739142733381672",
-      "source": "juejin",
-      "score": 376,
-      "raw_score": 76,
-      "comments": 2,
-      "author": "前端梦工厂",
-      "created_at": "",
-      "summary": "刚刚收到邮箱推送，看到 DeepSeek 给我发来的调价通知，\"计划近期整体上调 API 服务定价，预计涨幅较大，请合理安排您的使用，如果不合适还可以退费。\" 具体涨多少没说，但是强调“涨幅较大”"
-    },
-    {
-      "title": "速度太快了！本地可以跑 DeepSeek-V4-Flash 了",
-      "url": "https://juejin.cn/post/7670558003235717135",
-      "source": "juejin",
-      "score": 366,
-      "raw_score": 68,
+      "score": 276,
+      "raw_score": 24,
       "comments": 0,
-      "author": "cxuanAI",
+      "author": "Tony费",
       "created_at": "",
-      "summary": "DeepSeek-V4-Flash 的一经发布属实非常炸裂了，发布完了之后 1 - 4 个小时，我明显 DeepSeek 的响应速度变得很慢了，我估计大家都在接入 API 测试，不过也难怪，DeepS"
+      "summary": "给 Cesium 地球加上乌云下雨天气！利用 FBM 噪声实现动态云层流动，雨丝动画可调节，支持乌云下雨同时开启。"
     },
     {
-      "title": "鸿蒙应用开发：网络请求三种方式详解（http / rcp / axios）",
-      "url": "https://juejin.cn/post/7670731458306719750",
+      "title": "高颜值飞书封面、审美网站推荐、配色网站安利",
+      "url": "https://juejin.cn/post/7670840362894426121",
       "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
+      "score": 255,
+      "raw_score": 19,
       "comments": 0,
-      "author": "程序员黑豆",
+      "author": "周一同学Zelina",
       "created_at": "",
-      "summary": "一、引言 在鸿蒙应用开发中，网络请求是应用与后端服务交互的核心能力。官方提供了 @kit.NetworkKit（http 模块）和 @kit.RemoteCommunicationKit（rcp 模块"
+      "summary": "2025/06/30 审美网站推荐 主题一分享： 关于「审美&美学」相关方面的一些网站安利👇🏻 做产品或者是做文档排版的时候可以多看看站酷、花瓣、Pinterest这些网站，去这些网站找一些灵感。 第"
     },
     {
-      "title": "芝士就是力量！开源私有化部署与 GitHub 双向同步的个人知识笔记 App",
-      "url": "https://juejin.cn/post/7670558003235553295",
+      "title": "Harness Engineering 到底在做什么",
+      "url": "https://juejin.cn/post/7670801717630861363",
       "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
+      "score": 246,
+      "raw_score": 17,
       "comments": 0,
-      "author": "阿祖zu",
+      "author": "Canace",
       "created_at": "",
-      "summary": "手机端的 Obsidian 非常丝滑。为了不花每年 350 元的订阅费，我决定自己手搓一个。它必须满足两个核心要求： 1. 数据永久存储在 GitHub 上。 2. 要快。"
+      "summary": "前段时间，Harness Engineering 这个词在技术圈里刷了屏。 我看到它时，第一反应是，又来一个新词？ Prompt Engineering 还没完全弄明白，Context Enginee"
     },
     {
-      "title": "Agent 已经能跑起来了，我却不知道怎样判断它好不好",
-      "url": "https://juejin.cn/post/7670798157669335086",
+      "title": "线程池进阶：如何科学设置线程数（结合实际业务场景复盘）",
+      "url": "https://juejin.cn/post/7670825286155337763",
       "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "开发江鸟",
+      "author": "Zane1994",
       "created_at": "",
-      "summary": "昨天我写了一篇文章：《从 MCP 原理到真实 Server：我把 Tool、Resource、Prompt 和错误边界跑通了》。 那次实践让我真正跑通了 MCP Server 的能力发现、Tool 调"
+      "summary": "写在前面 Day10 讲完了线程池的基本原理，这篇解决两个更实际的问题：为什么大家都说不要用 Executors 的工厂方法，以及线程数到底该怎么设置——公式背了很多，但真正落到一个具体业务场景里该怎"
     },
     {
-      "title": "《React Router 受保护路由的 3 个坑，第 2 个 90% 的人都踩过》",
-      "url": "https://juejin.cn/post/7670798157669629998",
+      "title": "用 TRAE Work 搞定客户项目介绍，开发再也不用头疼写汇报 PPT",
+      "url": "https://juejin.cn/post/7670840362895097865",
+      "source": "juejin",
+      "score": 229,
+      "raw_score": 14,
+      "comments": 0,
+      "author": "大知闲闲i",
+      "created_at": "",
+      "summary": "前言✨ 作为一名开发，写代码是本职工作，但经常会遇到领导临时安排的难题：给客户输出项目介绍、方案汇报 PPT 材料。 代码逻辑烂熟于心，但是要转换成面向客户、通俗易懂的对外介绍文档，梳理项目架构、功能"
+    },
+    {
+      "title": "Agent评测漫谈 —— 由浅入深讲解Agent评测",
+      "url": "https://juejin.cn/post/7671099711403638820",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "美团技术团队",
+      "created_at": "",
+      "summary": "本篇博客是一篇科普文章，由浅入深的介绍Agent评测。其中前两章系统介绍了评测是什么，以及如何建立评测体系，第二章是美团图灵Agent评测团队深入美团各业务团队BP总结出的实践经验。"
+    },
+    {
+      "title": "LangChain4j 入门指南",
+      "url": "https://juejin.cn/post/7670593377076133939",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "苏三说技术",
+      "created_at": "",
+      "summary": "前言 最近经常有小伙伴问我——“老的Java项目做AI应用开发，到底该用什么框架？” 我的回答是：LangChain4j。 今天这篇文章，我就从零开始，把LangChain4j的核心概念、底层原理、实"
+    },
+    {
+      "title": "一个 useRef，三种人生：从 DOM 引用到 Web Worker",
+      "url": "https://juejin.cn/post/7670920981116305427",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "爱吃混沌",
+      "created_at": "",
+      "summary": "一个 useRef，三种人生：从 DOM 引用到 Web Worker 很多人刚学 React 时，对 useRef 的印象只有一句话：拿 DOM 节点的。 面试被问到 useRef 和 useSta"
+    },
+    {
+      "title": "🧭 从 URL 到组件：深度剖析 React Router 原理与 SPA 路由架构艺术",
+      "url": "https://juejin.cn/post/7670727899905998889",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "渣波",
+      "created_at": "",
+      "summary": "在现代前端工程化与单页面应用（SPA）席卷全球的今天，“前端路由”早已成为每一位前端开发者必须烂熟于心的基本功。当我们熟练地敲下 <Link to=\"/about\"> 或者调用 navigate('/"
+    },
+    {
+      "title": "轻量级 Nginx 日志分析和可视化平台 NginxPulse安装",
+      "url": "https://juejin.cn/post/7670903905525514266",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "烬羽",
+      "author": "风雨_83",
       "created_at": "",
-      "summary": "React Router 路由守卫：为什么用户登录后总回不了原页面？ 开篇：一个让用户懵掉的场景 你做了一个需要登录才能看的页面 /pay。用户兴冲冲点进去，啪——被弹到登录页。他输完账号密码登录成功"
+      "summary": "NginxPulse 整体介绍 NginxPulse​ 是一个开源（MIT 协议，GitHub: likaia/nginxpulse）的轻量级 Nginx 访问日志分析与可视化面板，定位是\"GoAcc"
     },
     {
-      "title": "VelesDB 深度解读 —— 融合向量、图与列存的端侧 AI 记忆引擎",
-      "url": "https://juejin.cn/post/7670794600286568475",
+      "title": "🚀 Remote Deploy Helper｜VSCode 部署助手",
+      "url": "https://juejin.cn/post/7671011908330061851",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "大知闲闲i",
+      "created_at": "",
+      "summary": "一款开箱即用的 VSCode 插件，前端静态目录一键上传、后端 Jar 包自动化部署，告别繁琐的 Xshell、手动拖拽上传，在 VSCode 内完成全流程服务器发布。 📖 插件简介 日常开发部署时，"
+    },
+    {
+      "title": "从页面跳转到前端路由：手写一个简单的 HashRouter",
+      "url": "https://juejin.cn/post/7670727899905720361",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "半个落月",
+      "created_at": "",
+      "summary": "传统页面跳转出发，解析 URL、hash 与 DOM 的关系，并用原生 JavaScript 手写 HashRouter，讲清路由注册、匹配、渲染及 this 绑定。"
+    },
+    {
+      "title": "用 Prompt 做 NLP 任务开发：几分钟构建一个推理系统",
+      "url": "https://juejin.cn/post/7670798157670105134",
       "source": "juejin",
       "score": 120,
       "raw_score": 4,
       "comments": 0,
-      "author": "罗西的思考",
+      "author": "今日无bug",
       "created_at": "",
-      "summary": "VelesDB 深度解读 —— 融合向量、图与列存的端侧 AI 记忆引擎 0x00 概要：VelesDB 是什么 0x01 总论 1.1 面对的难点与核心冲突 1.2 如何解决这些难点 1.3 本项目"
+      "summary": "仅用几分钟，我们就可以构建多个用于对文本进行**推理**的系统，而以前这需要熟练的机器学习人员数天到数周的时间。这就是 Prompt 工程带来的效率革命。"
     },
     {
-      "title": "代码库知识库系列（08）：生产级架构设计——向量、图、符号索引如何组合",
-      "url": "https://juejin.cn/post/7670755990330081314",
+      "title": "云服务器 + Tailscale 把本地 LLM 服务变成公网服务",
+      "url": "https://juejin.cn/post/7656055019972395051",
       "source": "juejin",
       "score": 95,
       "raw_score": 3,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "冲向超级个体",
       "created_at": "",
-      "summary": "本文从系统架构视角出发，设计多路召回+查询路由+增量更新的生产级代码库知识库：查询路由按意图激活对应检索路；图检索作为一等公民与向量并行，不再是后处理补丁；Git diff 驱动增量更新替代全量重建。"
-    },
-    {
-      "title": "开源项目第177期：Apache Airflow — 用 Python 写出来的工作流调度器，数据工程师的标配工具",
-      "url": "https://juejin.cn/post/7670755990330015778",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "冬奇Lab",
-      "created_at": "",
-      "summary": "引言 这是「每日一个开源项目」系列的第 177 篇。今天的项目是 Apache Airflow —— 用 Python 编写和调度工作流的平台，数据工程领域最广泛使用的开源工具之一。"
+      "summary": "因为之前鼓捣了一套「全天候办公系统」，让我的一堆电脑组成了一个办公集群。最近又加入了一台 AI 服务器。于是想把这个服务暴露到外网上。"
     }
   ]
 }
