@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-08-09T12:28:55.227500+00:00",
+  "updated_at": "2026-08-10T00:59:38.654541+00:00",
   "articles": [
     {
-      "title": "Qwen 3.8 max干了20分钟没干完，免费模型3分17秒搞定，问题出在哪？",
-      "url": "https://juejin.cn/post/7671185982583341108",
+      "title": "AI 工具越好用越要严格把控安全边界",
+      "url": "https://juejin.cn/post/7671994177554513966",
       "source": "juejin",
-      "score": 449,
-      "raw_score": 177,
+      "score": 301,
+      "raw_score": 32,
       "comments": 0,
-      "author": "程序员老刘",
+      "author": "MobotStone",
       "created_at": "",
-      "summary": "跑分对标顶级模型的Qwen 3.8 max，在老刘的Flutter项目里干了20分钟没干完，免费模型3分17秒就搞定了。问题到底出在哪？"
+      "summary": "前端时间，有个小伙伴问我：“公众号文章、标书这些东西，是不是都可以直接丢给 AI，让它帮忙处理？” 刚听到这个问题，我觉得挺常见。现在大家写文章、改材料、做总结，第一反应就是找 AI，确实能省不少时间"
     },
     {
-      "title": "一行代码没写，我用AI做了一个可以收费产品",
-      "url": "https://juejin.cn/post/7671566723838115878",
+      "title": "我做了一个多 Agent 智能协作软件：让 AI 不再单打独斗",
+      "url": "https://juejin.cn/post/7671865305111691302",
       "source": "juejin",
-      "score": 409,
-      "raw_score": 111,
+      "score": 260,
+      "raw_score": 20,
       "comments": 0,
-      "author": "大侠Luffy",
+      "author": "前端小付",
       "created_at": "",
-      "summary": "这篇文章记录 PennyScribe 从 Qwen ASR、Vast.ai GPU 调度到正式上线的开发过程，以及我对 AI Agent 时代产品设计的新思考。"
+      "summary": "好久没有发文章了，我最近在开发一个多 Agent 智能协同软件——TeamAgentX。 目前整个项目已经基本成型，所以想用这篇文章跟大家分享一下"
     },
     {
-      "title": "GitHub #1 拆解｜它说自己在进化，但 worker 跑的是你本机权限，不是沙箱",
-      "url": "https://juejin.cn/post/7671120692243300358",
+      "title": "FastAPI 缓存方案全解析：从内存到分布式的工程实践",
+      "url": "https://juejin.cn/post/7671855098490126362",
       "source": "juejin",
-      "score": 393,
-      "raw_score": 93,
-      "comments": 1,
-      "author": "苏灿烤鱼",
-      "created_at": "",
-      "summary": "Prime Agent 首日登顶 GitHub Trending。本文拆解 RLM 与 Continual Harness：上下文如何当变量、技能如何小步 refine，以及它并非安全沙箱的真实风险。"
-    },
-    {
-      "title": "介绍下本人开发的OpenCode开源多模态插件——analyze-image",
-      "url": "https://juejin.cn/post/7671627278518419465",
-      "source": "juejin",
-      "score": 338,
-      "raw_score": 49,
+      "score": 246,
+      "raw_score": 17,
       "comments": 0,
-      "author": "晴天小庭",
+      "author": "卷无止境",
       "created_at": "",
-      "summary": "开源OpenCode多模态插件，让DeepSeek、glm这些纯文本模型也能识别到图片，极大解决了纯文本AI的开发痛点"
+      "summary": "做过几个 FastAPI 项目上线的人大概都有这样的体会——接口刚上线时响应飞快，用户一多，数据库连接池就开始报警，CPU 曲线像坐了火箭。这时候第一反应往往是加缓存，但真正动手时才发现，缓存这事儿远"
     },
     {
-      "title": "Meta Muse Code 发布：低价杀入编程",
-      "url": "https://juejin.cn/post/7671645197379911718",
+      "title": "一次MongoDB迁移之后，我开始重新理解融合数据库",
+      "url": "https://juejin.cn/post/7671709161769517062",
       "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
+      "score": 222,
+      "raw_score": 13,
       "comments": 0,
-      "author": "唐悦玮",
+      "author": "倔强的石头_",
       "created_at": "",
-      "summary": "8 月 5 日，Meta 发布首款编码智能体 Muse Code，配套推出专为它训练的 Muse Spark 1.2 模型。"
+      "summary": "我头一回认认真真去搞 MongoDB 迁移的时候啊，其实心里最担心的，不是这数据到底能不能导过去。我担心的是什么呢？是迁移弄完之后，业务会不会在某个没测到的角落，突然就变慢了"
     },
     {
-      "title": "《受控 vs 非受控：你以为用对了 useState，直到你写了那个表单》",
-      "url": "https://juejin.cn/post/7671591776067289134",
-      "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
-      "comments": 0,
-      "author": "烬羽",
-      "created_at": "",
-      "summary": "同一个表单，两个 setState 写得不一样——React 受控组件的本质 开篇 看一个登录表单。你能看出下面两个状态更新有什么不同吗？ 看起来都没问题？两个都能跑？ 问题藏在这里： 如果你快速输入"
-    },
-    {
-      "title": "《memo 明明加了，为什么子组件还是渲染了？》",
-      "url": "https://juejin.cn/post/7671482975763497011",
-      "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
-      "comments": 0,
-      "author": "烬羽",
-      "created_at": "",
-      "summary": "useCallback 不是因为「缓存函数」，而是因为 JavaScript 的这个行为 开篇 先看一段代码。你能说出它想优化什么吗？ 控制台输出： 每次点「点击计数」： 看起来 memo 很完美。 "
-    },
-    {
-      "title": "React 表单管理进阶：从单字段到带校验的完整登录表单",
-      "url": "https://juejin.cn/post/7671525652932542504",
-      "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
-      "comments": 0,
-      "author": "嘟嘟0717",
-      "created_at": "",
-      "summary": "本文从一个字段的受控写法出发，逐步叠加多字段共用 handler、数据与校验分离、函数式更新、派生值和条件渲染，最终组合成一个带实时校验和按钮联动的完整登录表单。"
-    },
-    {
-      "title": "LangChain 概述与生态",
-      "url": "https://juejin.cn/post/7671566399078236200",
-      "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
-      "comments": 0,
-      "author": "技术小馆",
-      "created_at": "",
-      "summary": "第1课：LangChain 概述与生态 本课目标 学完本课后，你应该能够： 说清楚为什么只会调用大模型 API 还不够。 用一句话解释 LangChain 是什么。 区分 LangChain、Lang"
-    },
-    {
-      "title": "什么是浅拷贝（Shallow Copy）和深拷贝（Deep Copy）？如何手动实现一个深拷贝函数",
-      "url": "https://juejin.cn/post/7671867883984027690",
-      "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
-      "comments": 0,
-      "author": "做前端的娜娜子",
-      "created_at": "",
-      "summary": "浅拷贝只复制对象的第一层属性——基本类型复制值，引用类型复制地址（新旧对象共享嵌套对象）；深拷贝则递归复制所有层级，创建完全独立的副本"
-    },
-    {
-      "title": "代码重构中的蚕食方式是什么",
-      "url": "https://juejin.cn/post/7671607298587525139",
+      "title": "栗子前端技术周刊第 141 期 - Next.js 16.3、npm 安全事件、2026 CSS 现状调查报告结果...",
+      "url": "https://juejin.cn/post/7671677991131496490",
       "source": "juejin",
       "score": 215,
       "raw_score": 12,
       "comments": 0,
-      "author": "Wilson王艺谋",
+      "author": "晓得迷路了",
       "created_at": "",
-      "summary": "“代码重构中的蚕食方式”是一个非常经典且实用的概念。它不是一个特定的技术模式，而是一种渐进式、低风险的重构策略。本质上是一种将大规模、高风险的重构任务，分解为一系列小规模、低风险、可验证的步骤。"
+      "summary": "🌰栗子前端技术周刊第 141 期 (2026.08.03 - 2026.08.09)：浏览前端一周最新消息，学习国内外优秀文章，让我们保持对前端的好奇心。 📰 技术资讯 Next.js 16.3：Ne"
     },
     {
-      "title": "你知道 git check 的故事吗",
-      "url": "https://juejin.cn/post/7671797294127251507",
+      "title": "【节点】[Preview节点]原理解析与实际应用",
+      "url": "https://juejin.cn/post/7671994177554595886",
       "source": "juejin",
       "score": 215,
       "raw_score": 12,
       "comments": 0,
-      "author": "Wilson王艺谋",
+      "author": "SmalBox",
       "created_at": "",
-      "summary": "你有没有想过这样一个问题：为什么 git 使用 checkout 表达分支的切换和创建？check out 代表什么含义？其实这是 git 命令的命名历史遗留问题"
+      "summary": "在Unity URP Shader Graph的创作过程中，Preview节点是一个看似简单却极具实用价值的工具节点。它作为Shader Graph可视化编程环境中的调试和可视化辅助工具，为着色器开发"
     },
     {
-      "title": "把AI对话记忆测试从手动比对到Pytest+Redis自动化，验证效率提升了10倍，还顺带揪出3个隐蔽bug",
-      "url": "https://juejin.cn/post/7671692631495540771",
+      "title": "把《天龙八部》装进向量数据库：EPUB加载、文本分块与RAG问答全链路实战",
+      "url": "https://juejin.cn/post/7671937135785050150",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "浮生望",
+      "created_at": "",
+      "summary": "以《天龙八部》EPUB拆解RAG全链路：EPubLoader章节加载、RecursiveCharacterTextSplitter分块、Milvus流式入库，实现语义问答。"
+    },
+    {
+      "title": "Python 依赖管理这件事，到底该看哪个文件",
+      "url": "https://juejin.cn/post/7671662832451764262",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "卷无止境",
+      "created_at": "",
+      "summary": "写过几个 Python 项目的人多半都遇到过这种尴尬场面：同一份代码，在自己电脑上跑得好好的，扔到同事那儿或者部署到服务器上就报错，一查发现是某个包的版本对不上。这背后的核心问题就是依赖管理没做好。而"
+    },
+    {
+      "title": "CentOS 停服与生态重组：Rocky、Alma、openEuler、龙蜥",
+      "url": "https://juejin.cn/post/7671607298588196883",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "ltl",
+      "created_at": "",
+      "summary": "CentOS 8 提前 EOL 到 RHEL 源码关闭：Rocky/Alma 与 openEuler、龙蜥的路线选择与迁移框架。"
+    },
+    {
+      "title": "红芯浏览器与「国产内核」往事：披皮事件的工程复盘",
+      "url": "https://juejin.cn/post/7671677991131299882",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "用户05954017446",
+      "author": "ltl",
       "created_at": "",
-      "summary": "上周五下午，我正喝着咖啡准备收工，QA 在群里丢了一句话：“用户反馈 AI 记不住之前说过的话，你们查一下是不是 memory 又丢了。” 我心里咯噔一下，打开日志一看，Redis 里的对话历史还在，"
+      "summary": "Hongxin browser was not a BSD violation: Chromium license boundary, file fingerprints, and complianc"
     },
     {
-      "title": "网关扩容了，流量却还是打不过去？企业级 Spring Cloud Gateway 生产动态化部署实战",
-      "url": "https://juejin.cn/post/7671674608181542963",
+      "title": "GitHub #2 拆解｜仅 +59，代码知识图谱为什么仍值得关注？",
+      "url": "https://juejin.cn/post/7671627278519746569",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "小小程序员贝塔",
+      "author": "苏灿烤鱼",
       "created_at": "",
-      "summary": "突发流量下网关 502，加机器还得手动改 Nginx？本文用三个问题串联一条完整链路：为什么网关必须无状态、扩容后流量如何自动路由到新实例（K8s/云厂商/自建 ECS 三种机制）、冷启动窗口如何应对"
+      "summary": "Code-Graph-RAG 是一个面向多语言代码库的代码理解与编辑系统。它先用 Tree-sitter 读取源文件，抽取函数、类、方法、模块和它们之间的关系，再把这些结构写入 Memgraph。"
     },
     {
-      "title": "为什么我的Java Stream流操作会吃掉内存？",
-      "url": "https://juejin.cn/post/7671499066172096546",
+      "title": "Windows 内核与 Linux 的关键差异",
+      "url": "https://juejin.cn/post/7671867883984781354",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "ltl",
+      "created_at": "",
+      "summary": "IOCP vs epoll/io_uring、Object Manager、IRP 与 WSL2：给 Linux 背景工程师的 NT 内核对照。"
+    },
+    {
+      "title": "Go 类型转换详解",
+      "url": "https://juejin.cn/post/7671662832451682342",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "程序员爱钓鱼",
+      "created_at": "",
+      "summary": "上一篇《Go 布尔类型 bool 详解》中，我们学习了 Go 中的逻辑判断基础。 在实际开发中，不同类型的数据经常需要进行转换。 例如： 用户输入通常是字符串； 数据库 ID 通常是整数； JSON "
+    },
+    {
+      "title": "混沌工程：主动验证系统的韧性",
+      "url": "https://juejin.cn/post/7671677991131250730",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "ltl",
+      "created_at": "",
+      "summary": "混沌工程不是随机破坏。从 Netflix Chaos Monkey 到 Chaos Mesh/ChaosBlade，讲清原则、故障注入与 GameDay 落地。"
+    },
+    {
+      "title": "Rust 可变借用详解：&mut T 与安全修改数据",
+      "url": "https://juejin.cn/post/7671937135784820774",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "阿橙的百宝箱",
+      "author": "程序员爱钓鱼",
       "created_at": "",
-      "summary": "为什么我的Java Stream流操作会吃掉内存？** -- 引言 Java 8引入的Stream API极大地简化了集合操作，提供了声明式、函数式的编程风格。然而，许多开发者在实际使用中发现，某些S"
+      "summary": "在上一篇文章中，我们学习了Rust的借用Borrow，了解了如何使用不可变引用： 在不转移所有权的情况下读取数据。例如： 这里函数只是读取name，并没有取得它的所有权。 但实际开发中，我们不仅需要读"
     }
   ]
 }
