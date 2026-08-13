@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-08-12T12:44:35.168919+00:00",
+  "updated_at": "2026-08-13T01:07:23.310222+00:00",
   "articles": [
-    {
-      "title": "Pi + DeepSeek-v4-Flash，这用着也太爽了。",
-      "url": "https://juejin.cn/post/7671964740780785670",
-      "source": "juejin",
-      "score": 722,
-      "raw_score": 4074,
-      "comments": 9,
-      "author": "cxuanAI",
-      "created_at": "",
-      "summary": "各位小伙伴们大家好，我是 cxuan。 今天我们来聊一下 Pi ，Pi 这个 Agent 我也是想写很久了。 如果你刚接触 Pi，就暂且可以先把它理解成一个运行在 CLI 里的 Coding Agen"
-    },
     {
       "title": "👉 尤雨溪再次成立新公司，同时官宣 Pinia 4 正式发布！",
       "url": "https://juejin.cn/post/7672736557761937434",
       "source": "juejin",
-      "score": 612,
-      "raw_score": 1155,
+      "score": 637,
+      "raw_score": 1546,
       "comments": 5,
       "author": "Web情报局",
       "created_at": "",
       "summary": "尤雨溪出席了 Vue 大会，透露自己成立了新公司 Vue 源码有限公司，用来赞助 Vue 的全职开源成员。此外，它还分享了 Pinia 4 主版本升级，现在只支持 ESM 模块，安装体积大幅缩减。"
     },
     {
-      "title": "Flutter 的另外一种形态？社区 DartNative 要来了。",
-      "url": "https://juejin.cn/post/7672292709405999147",
+      "title": "Flutter 3.47 发布，快来看看有什么更新吧",
+      "url": "https://juejin.cn/post/7673029031966474292",
       "source": "juejin",
-      "score": 577,
-      "raw_score": 772,
-      "comments": 3,
+      "score": 394,
+      "raw_score": 94,
+      "comments": 1,
       "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "最近有个 dartnative.com 的项目在 Flutter 社区 还挺热闹的，但是它和 Flutter 完全没关系，怎么说呢，有点一言难尽。 它在保留 Dart 和 Flutter 开发习惯的同"
+      "summary": "随着 Google I/O China 的召开，Flutter 3.47 如约而至，这次更新的主要有 Material / Cupertino 正式从 Flutter SDK 解耦、Impeller "
     },
     {
-      "title": "🔥 Network 里那坨 \"data:\" 我真看吐了，自制开源 Chrome 插件，AI 流式调试直接开挂",
-      "url": "https://juejin.cn/post/7672224177785995298",
+      "title": "uni-app 三方库与插件管理体系全解析：从原生开发者视角彻底讲透",
+      "url": "https://juejin.cn/post/7673009882847232019",
       "source": "juejin",
-      "score": 526,
-      "raw_score": 431,
-      "comments": 7,
-      "author": "秋天的一阵风",
-      "created_at": "",
-      "summary": "前言：谁懂调试流式接口的崩溃？ Hello~大家好，我是秋天的一阵风 做 AI 对话、实时推送、进度上报的前端/全栈兄弟，一定有过这种窒息时刻： 需求要对接流式接口，打开 Chrome Network"
-    },
-    {
-      "title": "天天用 Claude Code/Codex，你知道它实际发给模型什么吗？被这开源工具扒光了...",
-      "url": "https://juejin.cn/post/7672315735167238198",
-      "source": "juejin",
-      "score": 473,
-      "raw_score": 232,
+      "score": 276,
+      "raw_score": 24,
       "comments": 0,
-      "author": "狂师",
+      "author": "90后晨仔",
       "created_at": "",
-      "summary": "claude-tap 是一款开源AI编程助手流量分析工具, 支持16种主流CLI（Claude Code、Codex、Cursor、Kimi、Gemini等）的API请求。"
+      "summary": " > **作者视角：** 本文面向从 iOS/Android/鸿蒙原生开发转型 uni-app 跨端开发的工程师。你习惯了 CocoaPods、Gradle、OHPM 那套成熟的包管理体系，来到 un"
     },
     {
-      "title": "网页端, 6.5MB人脸识别模型, 谷歌框架, 又快又准",
-      "url": "https://juejin.cn/post/7672915108386570267",
+      "title": "流程定义设计：一份 LogicFlow JSON 全解",
+      "url": "https://juejin.cn/post/7673092180174045224",
       "source": "juejin",
-      "score": 472,
-      "raw_score": 230,
+      "score": 264,
+      "raw_score": 21,
       "comments": 0,
-      "author": "半刻维度",
+      "author": "mldong",
       "created_at": "",
-      "summary": "高端的小区往往只需要简单的门禁系统, 简单到什么程度呢?  哈哈, 浏览器加载个小模型就够了。 5行核心代码 图片选完，浏览器内出 128 维向量。不上服务器，隐私保住。 流程图 痛点 公司让做门禁。"
+      "summary": "一份 LogicFlow JSON 如何把画图变成跑流程？从节点、边、条件表达式逐层解剖，结合 pro 站 9 个真实业务场景，看 4 种 JSON 模式如何组合出全部审批链路。"
     },
     {
-      "title": "JavaScript 中的竞态是什么，为啥会有竟态？",
-      "url": "https://juejin.cn/post/7672697935734816814",
+      "title": "LLM 应用的健康检查工程实践：Readiness、Liveness 与 AI 特有健康维度的生产设计",
+      "url": "https://juejin.cn/post/7673223160648941614",
       "source": "juejin",
-      "score": 413,
-      "raw_score": 117,
-      "comments": 1,
-      "author": "陆枫Larry",
-      "created_at": "",
-      "summary": "前段时间，我写过一篇文章，聊了并发、并行和竞态之间的区别。其中有一个结论很重要： 但理解到这里，其实还不够。因为真正写业务代码的时候，我们经常会碰到一个疑问： 这篇文章，我们不讲太多抽象概念，就从一个"
-    },
-    {
-      "title": "React useMount Hook：只在挂载时执行一次的正确姿势 (2026)",
-      "url": "https://juejin.cn/post/7672266475973918746",
-      "source": "juejin",
-      "score": 363,
-      "raw_score": 66,
+      "score": 260,
+      "raw_score": 20,
       "comments": 0,
-      "author": "ReactUse",
+      "author": "AINative软件工程",
       "created_at": "",
-      "summary": "\"组件出现时，把这段代码跑一次。\"这是 React 里最常见的 effect 需求——聚焦输入框、上报埋点、建立连接、读取浏览器 API。所有人的第一反应都是空依赖数组的 useEffect： 能用，"
+      "summary": "传统健康检查对 LLM 服务严重不足：进程活着不代表推理正常。本文从三个真实故障案例出发，梳理 LLM 应用的三层健康检查体系（Liveness/Readiness/Quality），给出 Python + Kubernetes 的可落地实现。"
     },
     {
-      "title": "万物皆工具",
-      "url": "https://juejin.cn/post/7672229475086893096",
+      "title": "Java 内存存储机制：基本数据类型 vs 引用数据类型",
+      "url": "https://juejin.cn/post/7673068632564121609",
       "source": "juejin",
-      "score": 328,
-      "raw_score": 44,
-      "comments": 1,
-      "author": "百工蜂Agent",
-      "created_at": "",
-      "summary": "在 Claude Code 眼里，工具不只是动手干活的—连做计划、记待办、开分支都是工具，和找文件、跑命令挤在同一份清单里。模型分不出「动作」和「管理」：对它来说，一切都是tool_use"
-    },
-    {
-      "title": "GoWind Shop 架构剖析:一个 REST 请求穿越三服务 BFF 的七环链路",
-      "url": "https://juejin.cn/post/7672290941203939338",
-      "source": "juejin",
-      "score": 298,
-      "raw_score": 31,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "喵个咪",
+      "author": "程序员黑豆",
       "created_at": "",
-      "summary": "GoWind Shop 架构剖析:一个 REST 请求穿越三服务 BFF 的七环链路 这篇在讲什么 大多数微服务架构的文章停在\"我们用了 BFF 模式\"这种结论性描述,不讲 BFF 具体怎么装配、一个"
+      "summary": "理解 Java 中基本数据类型与引用数据类型的内存存储机制，是掌握 Java 内存模型和性能优化的基础。本文将通过清晰的对比和图示，帮你彻底搞懂这两者的核心差异。 一、基本数据类型（Primitive"
     },
     {
-      "title": "Claude Code后天起默认Auto模式了——我第一时间改了这6个设置",
-      "url": "https://juejin.cn/post/7672968698513424419",
-      "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
-      "comments": 0,
-      "author": "kyriewen",
-      "created_at": "",
-      "summary": "Anthropic宣布8月14日起Claude Code默认启用Auto模式——AI将自主执行代码修改和命令，不再逐条确认。数据显示Auto模式拦截89%危险命令（人工只拦13.6%），但仍有..."
-    },
-    {
-      "title": "一个人已经有 Agent 了，我们为什么还要建设统 Agent 平台",
-      "url": "https://juejin.cn/post/7672956220740468762",
-      "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
-      "comments": 0,
-      "author": "花椒技术",
-      "created_at": "",
-      "summary": "当 Agent 开始访问企业数据和业务系统，它代表谁？能看什么？可以替谁执行动作？一次操作出了问题，该去哪里查？一个人摸索出来的方法，又该怎样交给同事继续使用？"
-    },
-    {
-      "title": "Agent 能跑通以后，我才发现代码不是交付物",
-      "url": "https://juejin.cn/post/7672951420880109604",
+      "title": "预防远大于治理：Android 架构指南",
+      "url": "https://juejin.cn/post/7672996833275936778",
       "source": "juejin",
       "score": 222,
       "raw_score": 13,
       "comments": 0,
-      "author": "开发江鸟",
+      "author": "潜龙勿用之化骨龙",
       "created_at": "",
-      "summary": "上一篇文章《我能解释 RAG、MCP 和 Eval，却画不出一条完整的 Agent 链路》的最后，我给自己留了一个任务： 当时我觉得这件事应该不难。 Demo 已经能运行，10 条测试全部通过，REA"
+      "summary": " ## 一、为什么“治理型架构”越来越吃力 很多团队谈架构时，最终都会走向“治理”： * 技术"
     },
     {
-      "title": "LangChain Memory 测试踩坑实录：用 pytest 自动化回归对话记忆，我折腾了整整一个周末",
-      "url": "https://juejin.cn/post/7672981090315583540",
+      "title": "第8章 从0到1全流程产品设计",
+      "url": "https://juejin.cn/post/7673073161810575387",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "怕浪猫",
+      "created_at": "",
+      "summary": "学了很多方法论，但真要你从0到1做一个产品，还是不知道从哪下手？问题不是你学得不够，而是没有人带你走一遍完整流程。 我是怕浪猫，这一章用一个完整的案例，带你走一遍\"从点子到产品\"的全流程。不是每个环节"
+    },
+    {
+      "title": "想做测试工具却不会写代码？怎么办？",
+      "url": "https://juejin.cn/post/7673056662344777766",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "狂师",
+      "created_at": "",
+      "summary": "本文探讨AI如何赋能测试工程师零代码开发实用工具，指出核心不是编程能力，而是清晰表达需求。通过Claude Code等原生Agent工具，测试人员只需描述场景（如生成合规测试数据），AI即可自动建项目"
+    },
+    {
+      "title": "Rust 生命周期案例详解：从编译错误到真实业务场景",
+      "url": "https://juejin.cn/post/7673034930629492763",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "程序员爱钓鱼",
+      "created_at": "",
+      "summary": "> 《Rust编程实战》系列第39篇 > 前两篇文章中，我们分别学习了Rust生命周期基础和生命周期详细语法，已经知道`'a`并不是让数据活得更久，而是用于描述引用之间的有效范围关系。 > 但生命周期"
+    },
+    {
+      "title": "用两行 JSON 替换你的 ILM 策略：数据流生命周期新增冻结层支持",
+      "url": "https://juejin.cn/post/7673223160648859694",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "Elasticsearch",
+      "created_at": "",
+      "summary": "作者：来自 Elastic Jon Avezbaki 在 Elasticsearch 9.5 中，数据流生命周期中的 frozen_after 会自动将索引迁移到 对象存储 上的可搜索快照中，同时保持"
+    },
+    {
+      "title": "告别文档「图片灾难排版」！3大黄金法则，让你的文档从杂乱无章到杂志风🧩",
+      "url": "https://juejin.cn/post/7673061397312536586",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "周一同学Zelina",
+      "created_at": "",
+      "summary": "本周为大家带来知识管理美学周刊的第007期 今日分享主题： 如何在飞书文档等一众文档工具中， 用好图片组件？ （1）告别「胡乱堆砌」 让图文「和谐共舞」 在制作文档时，我们常常需要插入图片来辅助说明，"
+    },
+    {
+      "title": "Fiber 与 PHP 8.6  Polling API 异步初探",
+      "url": "https://juejin.cn/post/7673034930629459995",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "BingoGo",
+      "created_at": "",
+      "summary": "Fiber 与 PHP 8.6 Polling API 异步初探 几周前的一篇文章曾介绍 Polling API RFC，并将其定位为被低估的提案，原因主要在于：报道往往漏掉了真正的动机——那是内部 "
+    },
+    {
+      "title": "请求超时不等于失败：把写操作恢复设计成事实回读",
+      "url": "https://juejin.cn/post/7673223160649089070",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "用户05954017446",
+      "author": "大鹏AI教育",
       "created_at": "",
-      "summary": "上周五临下班，产品经理幽幽地飘过来：“咱们那个 AI 客服，怎么老记不住用户上一轮说了啥？上个月明明修好了，刚才又翻车。”我打开日志一看，果然是对话记忆在某个分支场景下被意外清空了——这已经是本月第三"
+      "summary": "请求超时不等于失败：把写操作恢复设计成事实回读 工程里有一个很常见的冲突：稳定性组件希望“失败就重试”，业务系统却担心“重试会重复扣款、重复发消息、重复发布”。两边都没错，真正的问题是我们把超时错误地"
     },
     {
-      "title": "[Python] 借助 turtle 逐字展示唐诗《金缕衣》",
-      "url": "https://juejin.cn/post/7673020906249633830",
+      "title": "Go 运算符详解",
+      "url": "https://juejin.cn/post/7673017903512141834",
       "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
+      "score": 155,
+      "raw_score": 6,
       "comments": 0,
-      "author": "金銀銅鐵",
+      "author": "程序员爱钓鱼",
       "created_at": "",
-      "summary": "在上一篇文章中，我们探索了如借助 Turtle 逐字展示《醉翁亭记》《兰亭集序》 等经典古文，本文会展示如何用 Turtle 来逐字展示《金缕衣》"
+      "summary": "上一篇《Go 输入输出详解》中，我们学习了如何从键盘读取数据，以及如何把程序结果输出到终端。本篇继续学习 Go 基础语法中的另一个重要知识点：运算符。 运算符用于对变量和值进行计算、比较和逻辑判断。例"
     }
   ]
 }
