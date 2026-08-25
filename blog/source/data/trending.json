@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-08-25T00:40:57.647309+00:00",
+  "updated_at": "2026-08-25T12:27:59.890482+00:00",
   "articles": [
     {
-      "title": "为什么越来越多人用 Pi ？ - 苏三说技术",
-      "url": "https://juejin.cn/post/7673855455463800847",
+      "title": "走进 AI Agent 第二篇：决定 AI Agent 能力上限的关键技术",
+      "url": "https://juejin.cn/post/7677562804154531890",
       "source": "juejin",
-      "score": 835,
-      "raw_score": 15109,
-      "comments": 20,
-      "author": "苏三说技术",
-      "created_at": "",
-      "summary": "前言 最近这段时间，我的技术群几乎被同一个名字刷屏了——Pi。 第一次听说Pi的时候，我以为又是什么新的AI编程工具。 毕竟这个赛道已经挤满了Claude Code、Codex、Cursor……再多一"
-    },
-    {
-      "title": "备份完不算完，先还原到临时库验一遍",
-      "url": "https://juejin.cn/post/7676421042796412968",
-      "source": "juejin",
-      "score": 693,
-      "raw_score": 2934,
-      "comments": 1,
-      "author": "一只牛博",
-      "created_at": "",
-      "summary": "备份脚本挂了定时，监控面板天天绿着，备份目录里每天躺一个新文件，看着挺让人安心。可真要用它的那天——误删了一张表、或者机器坏了得换一台恢复——不少人才头一次发现：这备份还原不回来。"
-    },
-    {
-      "title": "在浏览器里对比 DWG/DXF 图纸 ——  @mlightcad/cad-diff-viewer",
-      "url": "https://juejin.cn/post/7677109639176749090",
-      "source": "juejin",
-      "score": 623,
-      "raw_score": 1318,
+      "score": 662,
+      "raw_score": 2051,
       "comments": 0,
-      "author": "mlightcad",
+      "author": "老王以为",
       "created_at": "",
-      "summary": "在浏览器内对比 DWG/DXF：无需 AutoCAD 与上传服务器。@mlightcad/cad-diff-viewer 支持左右分屏与叠加，灰/红/绿标注删改增，全程本地解析。"
+      "summary": "决定 Agent 实际表现的，不只是模型，更是上下文如何组织。从 KV Cache 缓存失效机制、Skills 渐进式披露，到 Agent 状态栏与上下文感知压缩、子 Agent 隔离。"
     },
     {
-      "title": "向量数据库不该成为新孤岛：KingbaseES 多模融合架构如何减少数据搬运",
-      "url": "https://juejin.cn/post/7677418026090528794",
+      "title": "关于HBuilderX+ 微信小程序开发工具启动的问题",
+      "url": "https://juejin.cn/post/7677771411977322531",
       "source": "juejin",
-      "score": 548,
-      "raw_score": 555,
+      "score": 431,
+      "raw_score": 144,
       "comments": 0,
-      "author": "一只牛博",
+      "author": "小满zs",
       "created_at": "",
-      "summary": "向量数据库不该成为新孤岛：KingbaseES 多模融合架构如何减少数据搬运 向量数据库项目最容易在演示环境里显得简单：把一批文档切成段，调用模型生成向量，写入向量库，再用相似度检索返回几条结果。"
+      "summary": "近期在安徽师大完成一段授课工作，我梳理了同学们在学习实践当中普遍遇到的共性问题，结合课堂观察沉淀了一份教学心得，希望可以给后续学习者提供参考。 1.插件永远在运行中 在HBuilderX，点击上方的运"
     },
     {
-      "title": "用蓝耘元生代做 GitHub 热榜解读：Dify Chatflow 接入和真实项目分析",
-      "url": "https://juejin.cn/post/7677428850284675082",
+      "title": "豆包工作发布：飞书，才是它真正的底牌",
+      "url": "https://juejin.cn/post/7677787443072761910",
       "source": "juejin",
-      "score": 548,
-      "raw_score": 551,
+      "score": 395,
+      "raw_score": 95,
+      "comments": 1,
+      "author": "一点一木",
+      "created_at": "",
+      "summary": "8月25日，豆包工作正式发布。它不仅能写文档、做表格和PPT，还能操作电脑、调用工具、组织多个AI协作，并读取用户权限范围内的飞书工作上下文。AI办公正在从「回答问题」迈向「完成工作」。"
+    },
+    {
+      "title": "面试官让我现场用 AI 改一个真实 bug——他打断我的 3 个理由",
+      "url": "https://juejin.cn/post/7677803387144650761",
+      "source": "juejin",
+      "score": 349,
+      "raw_score": 56,
       "comments": 0,
-      "author": "一只牛博",
+      "author": "kyriewen",
       "created_at": "",
-      "summary": "GitHub Trending 我经常看，真正费时间的是看完之后。榜单上冒出一个项目，我得先点进去，再翻 README、找启动命令、看目录，最后还要自己判断它是短期热度，还是确实值得继续研究。"
+      "summary": "越来越多前端面试允许候选人现场用 AI 修 bug，ShowMeBug 甚至出了官方 AI Coding 面试指引。本文拆解面试官在 3 个瞬间打断你的真实逻辑——问题定位、批判验证、拆解表达..."
     },
     {
-      "title": "一行 CSS 新特性干掉 20 行 JavaScript ?",
-      "url": "https://juejin.cn/post/7677254638324350986",
+      "title": "「速通Shell」常用命令（中）——进程、网络与系统信息",
+      "url": "https://juejin.cn/post/7677883485022388267",
       "source": "juejin",
-      "score": 546,
-      "raw_score": 539,
-      "comments": 3,
-      "author": "ErpanOmer",
-      "created_at": "",
-      "summary": "2026年主流浏览器已全面支持但常被低估的纯CSS特性，包括:has()选择器、容器查询、滚动驱动动画、@starting-style、field-sizing和锚点定位。"
-    },
-    {
-      "title": "eli5，我觉得这个全网在吹的技能，使用体验真的很一般啊。",
-      "url": "https://juejin.cn/post/7677456380110077987",
-      "source": "juejin",
-      "score": 429,
-      "raw_score": 140,
-      "comments": 1,
-      "author": "why技术",
-      "created_at": "",
-      "summary": "你好呀，我是歪歪。 周末的时候在 X 上看到这样一个推文，阅读量高达 166w： 推文的内容非常简单，就是提到了一个叫做 eli5 的技能。 然后解释了这个技能的作用： 这个推文很快就传播开了。 为啥"
-    },
-    {
-      "title": "3分钟从想法到Agent上线：我们开源了一款AI可视化工作流“IDE”",
-      "url": "https://juejin.cn/post/7677481658452967474",
-      "source": "juejin",
-      "score": 359,
-      "raw_score": 63,
-      "comments": 1,
-      "author": "徐小夕",
-      "created_at": "",
-      "summary": "今天很高兴又来和大家分享我们的开源AI可视化工作流项目。 过去一个月，我们利用业余时间，一直在做一件事：让调用大模型这件事，变得像写代码一样可靠、可控、可调试。 所以这个项目的名字叫 Smart Fl"
-    },
-    {
-      "title": "前端的 AI 学习之路 01 之 Agent API 调用 - 和 Agent 的基础对话",
-      "url": "https://juejin.cn/post/7677441124443848713",
-      "source": "juejin",
-      "score": 351,
-      "raw_score": 57,
-      "comments": 1,
-      "author": "Setsuna_F_Seiei",
-      "created_at": "",
-      "summary": "AI 学习之路 LLM 核心基础：Token 计费与预算、消息角色与 Prompt 模板、System Prompt 写法、上下文窗口压缩与缓存，以及 invoke、stream、batch、重试超时"
-    },
-    {
-      "title": "AI 想放弃了，人没有  -- 肘子的 Swift 周报 #150",
-      "url": "https://juejin.cn/post/7677432175924559912",
-      "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
+      "score": 322,
+      "raw_score": 41,
       "comments": 0,
-      "author": "东坡肘子",
+      "author": "柒号华仔",
       "created_at": "",
-      "summary": "本期周报探讨 AI 可委托性与人机分工，精选 Swift 包注册表、蓝牙并发取消、CloudKit 原理解析及 OCR 空间重构；分享独立应用推广策略，推荐跨平台持久化框架 Amethyst Vein"
+      "summary": "本篇覆盖了三组常用shell命令：进程管理、网络工具、系统信息。进程、网络、系统信息这三类命令看似不相关，其实有一个共同特点：它们都在\"观察和控制运行中的系统\"。"
     },
     {
-      "title": "Neo4j：给 RAG 补上关系检索",
-      "url": "https://juejin.cn/post/7677434290662047798",
+      "title": "我让 Codex CLI 替我生图，还得防着它拿旧图糊弄我",
+      "url": "https://juejin.cn/post/7677811222666690560",
+      "source": "juejin",
+      "score": 313,
+      "raw_score": 37,
+      "comments": 0,
+      "author": "王若风",
+      "created_at": "",
+      "summary": "不用 OPENAI_API_KEY，用 Codex 订阅驱动它内置的 image_gen 生图。真正有意思的不是怎么驱动，而是怎么用文件系统物证防住 agent 走捷径交差。"
+    },
+    {
+      "title": "【Flutter 性能踩坑小记】相册选个图卡了",
+      "url": "https://juejin.cn/post/7677803387144388617",
+      "source": "juejin",
+      "score": 251,
+      "raw_score": 18,
+      "comments": 0,
+      "author": "大龄秃头程序员",
+      "created_at": "",
+      "summary": "前言：真的不是系统 Picker 慢 事情是这样的。Demo 上线前我在模拟器上跑「发图给 AI」的流程，顺手选了一张照片，结果： 📱 点相册 → 系统弹框出现：正常 🖼️ 选图 → 点「完成」："
+    },
+    {
+      "title": "大模型本地部署神器的瘦身进阶原理，就这两招？",
+      "url": "https://juejin.cn/post/7677883485022634027",
       "source": "juejin",
       "score": 215,
       "raw_score": 12,
       "comments": 0,
-      "author": "copyer_xyf",
+      "author": "蛋先生DX",
       "created_at": "",
-      "summary": "在前面一篇 Agentic RAG 实战：PostgreSQL + LangGraph 一条链路 里，检索已经实现了： pgvector 按意思找内容，适合口语、模糊描述； Elasticsearch"
+      "summary": "想本地跑大模型却显存告急？llama.cpp 的量化优化算法藏着一门精妙的平衡艺术：混合精度加双重量化，又瘦又精。凭啥又轻又能打？咱们来一探究竟！"
     },
     {
-      "title": "九个编码 Agent 共用免费额度，本地代理是路由还是绕开？",
-      "url": "https://juejin.cn/post/7677432175924510760",
+      "title": "开源项目第197期：skill-up — 阿里巴巴出品的 Agent Skills 评测与进化工具，评测闭环 + 自动修复",
+      "url": "https://juejin.cn/post/7677811222667116544",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "冬奇Lab",
+      "created_at": "",
+      "summary": "引言 这是「每日一个开源项目」系列的第 197 篇。今天的项目是 skill-up —— 阿里巴巴开源的 Agent Skills 评测与进化工具"
+    },
+    {
+      "title": "Code Agent 解剖（10）：agent 崩了怎么恢复，对话历史存在哪？",
+      "url": "https://juejin.cn/post/7677795671027679272",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "苏灿烤鱼",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "把多家模型供应商接到现有编码 Agent ， 它要当的不是又一个免费模型列表，而是让现有编码 Agent 换模型目录的本地入口。"
+      "summary": "深入 MyCodeAgent 的持久化与恢复机制：TranscriptStore append-only JSONL 事件流、五种事件类型、ResumeLoader 从事件重建运行时状态"
     },
     {
-      "title": "搜索倍增器：推动收入、生产力和 AI 实现规模化",
-      "url": "https://juejin.cn/post/7677461694122704905",
+      "title": "Java三元表达式注意",
+      "url": "https://juejin.cn/post/7677811768106090550",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "考虑考虑",
+      "created_at": "",
+      "summary": "前言 遇到一个三元表达式问题，抛出空指针异常，原因在于三元表达式拆箱 三元表达式拆箱 问题复现 程序执行到这一步 这个时候，抛了空指针异常 该枚举类为 问题分析 三元表达式遇到前面是基本类型时，会拆箱"
+    },
+    {
+      "title": "Go语言runtime全景图：从编译到GC，带你彻底吃透Go的底层血脉",
+      "url": "https://juejin.cn/post/7677795671027548200",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "Elasticsearch",
+      "author": "stark张宇",
       "created_at": "",
-      "summary": "作者：来自 Elastic Nicole Volk 组织通过 AI 驱动的搜索每年获得 1340 万美元的收益，实现 517% 的投资回报率。 金融服务、医疗保健、零售和政府领域的 11 家企业级 E"
+      "summary": "为什么Go程序启动那么快？为什么GC会让程序卡顿？为什么Goroutine能开几百万个？这一切的背后，都藏在一个名为 runtime 的“隐形管家”里。"
     },
     {
-      "title": "OpenTelemetry Java 扩展：无需分叉 agent 即可自定义追踪",
-      "url": "https://juejin.cn/post/7677441124444045321",
+      "title": "Redis的DEL命令居然没删干净数据？这个坑我爬了半天",
+      "url": "https://juejin.cn/post/7677786141593141263",
       "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
+      "score": 190,
+      "raw_score": 9,
       "comments": 0,
-      "author": "Elasticsearch",
+      "author": "阿橙的百宝箱",
       "created_at": "",
-      "summary": "作者：来自 Elastic Sylvain Juge 一个 JAR 文件，在 OpenTelemetry Java agent 启动时加载，就可以过滤健康检查、重命名 span、添加资源属性以及控制采"
+      "summary": "Redis的DEL命令居然没删干净数据？这个坑我爬了半天** -- 引言 Redis作为高性能的内存数据库，被广泛应用于缓存、消息队列、会话存储等场景。其简洁的命令集和高效的性能让开发者爱不释手，"
     },
     {
-      "title": "【Vertex着色器】Unity实现-从黑洞中生成对象",
-      "url": "https://juejin.cn/post/7677505167910092827",
+      "title": "K8S 在大数据里的真正价值：适用场景、收益边界与不适合的地方",
+      "url": "https://juejin.cn/post/7677837705736372275",
       "source": "juejin",
-      "score": 60,
-      "raw_score": 2,
+      "score": 180,
+      "raw_score": 8,
       "comments": 0,
-      "author": "SmalBox",
+      "author": "大大大大晴天",
       "created_at": "",
-      "summary": "Unity Shader Graph - 从黑洞中生成对象 Vertex 着色器从黑洞中生成对象效果的核心原理与数学基础 黑洞生成对象的视觉本质与空间映射 Vertex 着色器从黑洞中生成对象效果本质"
+      "summary": "Kubernetes在大数据平台中的核心价值，不是“替代 Hadoop/YARN/Flink/Spark 的全部运行时能力”，而是把计算任务、平台服务、交付流程和资源治理放到一套统一的云原生控制面下。"
+    },
+    {
+      "title": "Flutter 实战：使用 local_auth 实现生物识别（指纹/Face ID）",
+      "url": "https://juejin.cn/post/7677837705736945715",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "GitLqr",
+      "created_at": "",
+      "summary": "一、概述 在开发金融类或者涉及隐私的应用时，指纹识别或 Face ID 的身份验证是必不可少的。在 Flutter 中，我们通常会直接使用官方维护的 local_auth 库来解决这个问题。 不过，这"
     }
   ]
 }
