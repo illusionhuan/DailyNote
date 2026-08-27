@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-08-26T12:30:50.590545+00:00",
+  "updated_at": "2026-08-27T05:48:04.338259+00:00",
   "articles": [
     {
       "title": "走进 AI Agent 第二篇：决定 AI Agent 能力上限的关键技术",
       "url": "https://juejin.cn/post/7677562804154531890",
       "source": "juejin",
-      "score": 794,
-      "raw_score": 9351,
-      "comments": 6,
+      "score": 800,
+      "raw_score": 10083,
+      "comments": 7,
       "author": "老王以为",
       "created_at": "",
       "summary": "决定 Agent 实际表现的，不只是模型，更是上下文如何组织。从 KV Cache 缓存失效机制、Skills 渐进式披露，到 Agent 状态栏与上下文感知压缩、子 Agent 隔离。"
     },
     {
-      "title": "为什么越来越多人用AgentScope ？",
-      "url": "https://juejin.cn/post/7678161312637730862",
+      "title": "用 TRAE Work 做行业调研和批量办公，一个软件博主的真实工作流改造记录",
+      "url": "https://juejin.cn/post/7673151005189505074",
       "source": "juejin",
-      "score": 461,
-      "raw_score": 202,
-      "comments": 0,
-      "author": "苏三说技术",
+      "score": 435,
+      "raw_score": 151,
+      "comments": 1,
+      "author": "IT技术分享社区",
       "created_at": "",
-      "summary": "前言 最近这段时间，AI Agent（智能体）这个概念火得一塌糊涂。从OpenClaw到Claude Code，从Manus到各种Agent框架，仿佛一夜之间，“让AI自己干活”成了技术圈最热门的话题"
+      "summary": "本文记录了我用 TRAE Work 的 Work 模式完成两项日常工作的全过程：一次 SSD 市场调研，一次品牌合作方案梳理。重点不是吹工具，而是把能复用的指令和踩坑经验交出来。"
     },
     {
-      "title": "「速通Shell」常用命令（下）—— 归档、权限与进阶工具",
-      "url": "https://juejin.cn/post/7678166172437004294",
+      "title": "又一个神级画图Skill开源，再见draw.io！",
+      "url": "https://juejin.cn/post/7678220719533752383",
       "source": "juejin",
-      "score": 429,
-      "raw_score": 141,
+      "score": 435,
+      "raw_score": 150,
       "comments": 0,
-      "author": "柒号华仔",
+      "author": "MacroZheng",
       "created_at": "",
-      "summary": "前两篇讲了文件与文本、进程与网络，把 shell 编程日常打交道的高频命令过了一大半。这一篇是这个系列的最后一部分，讲剩下的三块内容：归档压缩、权限用户、还有一些进阶工具。 这三块命令的特点是\"用得不"
+      "summary": "之前用draw.io的MCP画架构图，能用，但样式总感觉差点意思——配色偏老气，布局也不够精致。 最近发现一款开源Skill，跟Claude描述一下系统结构，几秒钟就出一张高大上的架构图！"
     },
     {
-      "title": "领导周三丢需求周五要汇报，我用 TRAE Work 把两天的活压到了 45 分钟",
-      "url": "https://juejin.cn/post/7670379874164211731",
+      "title": "浏览器AI肯定离不开onnxruntime, 微软开源",
+      "url": "https://juejin.cn/post/7678231767486349364",
       "source": "juejin",
-      "score": 422,
-      "raw_score": 130,
+      "score": 352,
+      "raw_score": 58,
       "comments": 0,
-      "author": "Eren7Y琳",
+      "author": "半刻维度",
       "created_at": "",
-      "summary": "领导周三丢需求、周五就要PPT——一份竞品调研报告从搜集 8 家厂商信息到写出报告再转成 PPT，原来要 1.5 个工作日。我把流程拆成「搜集→框架→正文→PPT」四步交给 TRAE Work，最终"
+      "summary": "浏览器/nodejs/bun可运行， 加载 ONNX 模型，推理，获取结果。零后端，零 Python。 onnxruntime-web，微软官方，GitHub 2.3 万星。 快速开始 一个 YOLO"
     },
     {
-      "title": "表格、文档、甘特、大屏、表单一站打通：pxcharts超级表格4.0正式上线！",
-      "url": "https://juejin.cn/post/7678237761537916979",
+      "title": "GLM5.3Flash 我“忍”你很久，今天“曝光”你！",
+      "url": "https://juejin.cn/post/7678324732161851442",
       "source": "juejin",
-      "score": 292,
-      "raw_score": 29,
+      "score": 346,
+      "raw_score": 54,
       "comments": 0,
-      "author": "徐小夕",
+      "author": "甲维斯",
       "created_at": "",
-      "summary": "25 种字段 × 8 大视图：我们做了款Mini版飞书式多维表格。今天很高兴又和大家分享我们的AI创业项目。 花2年时间，我们做了一件「听起来有点疯狂」的事：把多维表格协作平台完整做出来"
+      "summary": "这几天忍着不发，可憋死我了！ 今天终于可以“曝光”它了！Ox 模型到底是谁，想必大家已经知道了。 没错，主角就是 GLM5.3Flash，搞了一个星期的前戏，今天终于迎来高潮了！ 我有一段时间天天“怼"
     },
     {
-      "title": "我踩了3次同一个坑才明白：JavaScript里比0.1+0.2更隐蔽的5个数字陷阱",
-      "url": "https://juejin.cn/post/7678200303993405491",
+      "title": "不想写代码，但想要集成一个登录页面？Sa-Token-Quick-Login 帮你实现！",
+      "url": "https://juejin.cn/post/7678464532096696362",
       "source": "juejin",
-      "score": 264,
-      "raw_score": 21,
+      "score": 322,
+      "raw_score": 41,
       "comments": 0,
-      "author": "kyriewen",
+      "author": "小风筝",
       "created_at": "",
-      "summary": "0.1+0.2 只是入门版。本文整理 5 个不报错却悄悄改结果的 JavaScript 数字陷阱：toFixed 舍入不稳、19 位长 ID 精度丢失、NaN 静默传播、parseInt 隐式转字符串"
+      "summary": "只想快速挂一个可用登录页，不想自己写前端？本文介绍 Sa-Token-Quick-Login：引入依赖后即可获得开箱即用的登录界面与基础鉴权能力，适合演示项目、后台管理与快速原型，把时间留给真正的业务"
     },
     {
-      "title": "Flutter 实战：如何轻松实现图片与视频保存到手机相册",
-      "url": "https://juejin.cn/post/7678239521200324617",
+      "title": "一周总结：AI 能帮你节省时间的 10 类任务",
+      "url": "https://juejin.cn/post/7678324462626717706",
       "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
+      "score": 301,
+      "raw_score": 32,
       "comments": 0,
-      "author": "GitLqr",
+      "author": "全栈弄潮儿",
       "created_at": "",
-      "summary": "一、为什么这件事没那么简单 在做 Flutter 开发时，下载一个图片或者视频其实并不难。最让人头疼的往往是：下载完之后，怎么让这些文件乖乖出现在用户的手机相册（Gallery）里。 乍一看这事儿挺简"
+      "summary": "到这里，我们已经学习了不少 AI 编程方法： 如何描述需求。 如何拆分任务。 如何先让 AI 出方案。 如何生成单元测试。 如何优化代码。 如何编写 README 和接口文档。 这一篇不再介绍新的概念"
     },
     {
-      "title": "给Claude Code装了70行规矩，生成的代码终于不用大改了",
-      "url": "https://juejin.cn/post/7678167908111220746",
+      "title": "飞书与豆包合并后首款Agent产品\"豆包工作\"发布",
+      "url": "https://juejin.cn/post/7678464532097040426",
       "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
+      "score": 282,
+      "raw_score": 26,
       "comments": 0,
-      "author": "Flynt",
+      "author": "计算机魔术师",
       "created_at": "",
-      "summary": "用了一周Karpathy的CLAUDE.md，从\"AI写1000行我删到100行\"变成\"生成即可用\"。聊聊这四条规则怎么约束AI编程行为，以及我实测前后的diff对比。"
+      "summary": "字节正式发布办公Agent产品\"豆包工作\"，这是7月30日飞书与豆包产品团队整合后的首个重要产品，也是继WorkBuddy、千问办公之后办公Agent领域的第三个巨头玩家。该产品由豆包原\"工作任务\"独"
     },
     {
-      "title": "GPU自动处理专题7-深度测试",
-      "url": "https://juejin.cn/post/7678237761537589299",
+      "title": "2026 年 Apache Doris 和 StarRocks 怎么选？一篇更接近真实选型的对比",
+      "url": "https://juejin.cn/post/7678324732162129970",
       "source": "juejin",
       "score": 215,
       "raw_score": 12,
       "comments": 0,
-      "author": "山河木马",
+      "author": "SelectDB",
       "created_at": "",
-      "summary": "深度测试 前面的专题里，我们已经讲过： 裁剪 透视除法 NDC 视口变换 光栅化 裁切测试 模板测试 这一篇终于来到 3D 渲染里一个真正绕不开的主题： 如果你刚接触 WebGL，几乎一定遇到过这些问"
+      "summary": "这几年聊实时数仓和 OLAP，Apache Doris 和 StarRocks 几乎是绕不开的一组对比。 我自己看过不少关于这两款数据库的选型文章，最大的感受是：很多文章其实是在用几年前的认知讨论今天"
     },
     {
-      "title": "从产品名称和 Logo 开始：为 DeepSeek Harness 定制品牌",
-      "url": "https://juejin.cn/post/7678153516549570623",
+      "title": "外链到底还有没有用",
+      "url": "https://juejin.cn/post/7678305700494327850",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "NingBo",
+      "author": "Harries",
       "created_at": "",
-      "summary": "dsh-client-ui-brand 是一个非常简单的 DeepSeek Harness 插件，从这个插件入手 dsh plugin 开发非常合适。"
+      "summary": "外链当然还有用。 但这里的“有用”，不是指去买一批链接、互换一堆友情链接、在论坛签名里堆关键词。 真正有用的外链，本质上是别人愿意在相关语境里提到你、引用你、推荐你。它既可能帮助搜索引擎发现页面，也可"
     },
     {
-      "title": "Redis内存警告竟是因为这个不起眼的配置项",
-      "url": "https://juejin.cn/post/7678132532525776896",
-      "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
-      "comments": 0,
-      "author": "阿橙的百宝箱",
-      "created_at": "",
-      "summary": "Redis内存警告竟是因为这个不起眼的配置项** -- 引言 Redis作为高性能的内存数据库，在现代架构中扮演着重要角色。然而，很多开发者在生产环境中都曾遇到过这样的场景：明明数据量看起来不大，Re"
-    },
-    {
-      "title": "大数据K8S基础：从 Pod 到 Service，看懂数据负载如何在云原生上运行",
-      "url": "https://juejin.cn/post/7678153516549406783",
+      "title": "HTTP(动静分离)",
+      "url": "https://juejin.cn/post/7678278188758122531",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "大大大大晴天",
+      "author": "coderCN",
       "created_at": "",
-      "summary": "大数据工程师学习 K8s，最重要的不是一次性掌握所有对象，而是先建立“数据负载如何被 K8s 承载”的基础认知:Pod 生命周期、CPU/内存请求与限制、调度机制、卷模型、Service 与网络路径。"
+      "summary": "什么是动静分离？ 动静分离是一种在Web服务器架构中常用的优化技术，旨在提高网站的性能和可伸缩性。它基于一个简单的原则：将动态生成的内容（如动态网页、API请求）与静态资源（如HTML、CSS、Jav"
     },
     {
-      "title": "一张表底下几千个分片:金仓时序数据库的超表怎么工作",
-      "url": "https://juejin.cn/post/7677987827219562511",
+      "title": "从三个月到两周：DataWorks Data Agent 重构信飞科技多国数仓交付链路",
+      "url": "https://juejin.cn/post/7678239088522330164",
       "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
+      "score": 180,
+      "raw_score": 8,
       "comments": 0,
-      "author": "笃行_其道",
+      "author": "阿里云大数据AI技术",
       "created_at": "",
-      "summary": "运维手册里最容易出事的,常常是那种写得特别清楚的条目。 比如这一条:「每月 25 日前,执行 create_partition.sh,创建下月分区。」 它清楚、简单、写在文档第七页,然后在某个月的月初"
+      "summary": "引入DataWorks Data Agent后，信飞科技将数据接入、任务开发、质量配置、血缘分析和发布验证收敛到平台内部，通过Skill和企业语义层处理批量任务与业务差异，新国家数仓上线周期缩短到2周"
     },
     {
-      "title": "达梦 VS 金仓:数据库替换项目里,迁移工具的差距体现在哪一层",
-      "url": "https://juejin.cn/post/7678132532525760512",
+      "title": "WPF + MVVM 实战系列04-我摔了 5 次，你看着绕",
+      "url": "https://juejin.cn/post/7678231767487004724",
       "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
+      "score": 155,
+      "raw_score": 6,
       "comments": 0,
-      "author": "笃行_其道",
+      "author": "雪隐_上班了",
       "created_at": "",
-      "summary": "数据库替换项目的时间,很少花在大家以为的地方。 选型评审两周,压测两周,数据搬迁通常一个周末就够了。真正吃掉几个月的是中间那一段——把几千个存储过程、几万条应用 SQL 逐个看过去,判断哪些能直接跑、"
+      "summary": "WPF 必踩的 5 个坑（实战翻车实录） 一句话省流版 WPF 的“心智模型”跟 WinForms 完全不在一个星球，官方文档的措辞经常让你理解成反方向。这 5 个坑我全都亲自拿脸着地过，每个都有“我"
     },
     {
-      "title": "向量数据库之后,一份合同为什么在五个库里对不上",
-      "url": "https://juejin.cn/post/7678157950376427535",
+      "title": "从神经网络到文件加密：一次关于 SIREN、ARX 与密码安全性的实验探索",
+      "url": "https://juejin.cn/post/7678271004720119860",
       "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
+      "score": 155,
+      "raw_score": 6,
       "comments": 0,
-      "author": "笃行_其道",
+      "author": "Sinclair",
       "created_at": "",
-      "summary": "一份合同签回来,在系统里通常是这么散开的。 PDF 原件传进对象存储,拿到一个文件路径;客户名称、金额、生效日期这些字段落进业务表,拿到一个自增主键;正文切成几十个文本块,过一遍 embedding "
+      "summary": "密码学是一个很容易让人产生错觉的领域。 一个算法输出看起来“足够随机”，经过几轮复杂的非线性运算，做出来的密文也很难直接看出规律，于是我们很容易产生一个直觉：它应该已经足够安全了。"
+    },
+    {
+      "title": "后端开发绕不开的 SQL：从建表、查询到索引优化，一篇讲透",
+      "url": "https://juejin.cn/post/7678464532096942122",
+      "source": "juejin",
+      "score": 0,
+      "raw_score": 1,
+      "comments": 0,
+      "author": "先吃饱再说",
+      "created_at": "",
+      "summary": "NestJS 代码最终都会被翻译成 SQL 发往数据库。本文从 SQL 的核心分类出发，拆解建表规范、字段类型选型、约束设计、查询执行顺序，深入 B+树索引原理与最左前缀原则，并结合博客系统的多表设计"
     }
   ]
 }
