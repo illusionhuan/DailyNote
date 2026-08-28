@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-08-27T21:26:48.800303+00:00",
+  "updated_at": "2026-08-28T07:58:53.386001+00:00",
   "articles": [
     {
-      "title": "为什么越来越多人用 Pi ？ - 苏三说技术",
-      "url": "https://juejin.cn/post/7673855455463800847",
+      "title": "爆火的《牛来》模型正式发布！DeepSeek 的排名又下降了。。",
+      "url": "https://juejin.cn/post/7678618274796961843",
       "source": "juejin",
-      "score": 853,
-      "raw_score": 18471,
-      "comments": 25,
-      "author": "苏三说技术",
+      "score": 514,
+      "raw_score": 372,
+      "comments": 4,
+      "author": "程序员鱼皮",
       "created_at": "",
-      "summary": "前言 最近这段时间，我的技术群几乎被同一个名字刷屏了——Pi。 第一次听说Pi的时候，我以为又是什么新的AI编程工具。 毕竟这个赛道已经挤满了Claude Code、Codex、Cursor……再多一"
+      "summary": "刚刚智谱全新模型 GLM-5.3-Flash 发布，能力对标 Claude Opus，价格只有 1/40？3 大项目实战测评，对比 DeepSeek V4 和 Kimi K3，看看开眼的 GLM 如何"
     },
     {
-      "title": "走进 AI Agent 第二篇：决定 AI Agent 能力上限的关键技术",
-      "url": "https://juejin.cn/post/7677562804154531890",
+      "title": "我的开源项目登顶 GitHub 趋势榜 No1 了！",
+      "url": "https://juejin.cn/post/7678618678956163078",
       "source": "juejin",
-      "score": 806,
-      "raw_score": 10757,
-      "comments": 9,
-      "author": "老王以为",
+      "score": 380,
+      "raw_score": 80,
+      "comments": 0,
+      "author": "苍何",
       "created_at": "",
-      "summary": "决定 Agent 实际表现的，不只是模型，更是上下文如何组织。从 KV Cache 缓存失效机制、Skills 渐进式披露，到 Agent 状态栏与上下文感知压缩、子 Agent 隔离。"
+      "summary": "这是苍何的第 585 篇原创！ 大家好，我是苍何。 兄弟们，今天是一个非常值得纪念的时刻。 我的 GitHub 开源项目冲上全球趋势榜 No 1 了。"
     },
     {
-      "title": "备份完不算完，先还原到临时库验一遍",
-      "url": "https://juejin.cn/post/7676421042796412968",
+      "title": "🤔 v-mortal 是什么？！我只知道 v-model 啊！",
+      "url": "https://juejin.cn/post/7678703379591708724",
       "source": "juejin",
-      "score": 758,
-      "raw_score": 6166,
+      "score": 375,
+      "raw_score": 75,
       "comments": 2,
-      "author": "一只牛博",
+      "author": "xiaohe0601",
       "created_at": "",
-      "summary": "备份脚本挂了定时，监控面板天天绿着，备份目录里每天躺一个新文件，看着挺让人安心。可真要用它的那天——误删了一张表、或者机器坏了得换一台恢复——不少人才头一次发现：这备份还原不回来。"
+      "summary": "昨天，我正在 review 代码，突然看到几个 v-mortal 出现在 Diff 中。 嗯？很陌生啊，完全没见过，搜索引擎没有结果，AI 也说不知道，问我是不是拼写错误，可能是 v-model ？ "
     },
     {
-      "title": "🔥 AI 时代，Token 就是你的数字燃料！晒账单，赢好礼！",
-      "url": "https://juejin.cn/post/7678580101931679753",
+      "title": "原来 Agent 量大管饱，真不是吹的",
+      "url": "https://juejin.cn/post/7678653841828397075",
       "source": "juejin",
-      "score": 521,
-      "raw_score": 406,
-      "comments": 6,
-      "author": "掘金酱",
-      "created_at": "",
-      "summary": "写代码、产文档、做方案、调项目…… 每一次 AI 调用，都在燃烧你的 Token 库存。 你的账单背后，藏着怎样的 AI 使用故事？ 别人的 Token 都烧在哪？哪个场景最“吃”Token？"
-    },
-    {
-      "title": "GLM5.3Flash 我“忍”你很久，今天“曝光”你！",
-      "url": "https://juejin.cn/post/7678324732161851442",
-      "source": "juejin",
-      "score": 516,
-      "raw_score": 383,
-      "comments": 1,
-      "author": "甲维斯",
-      "created_at": "",
-      "summary": "这几天忍着不发，可憋死我了！ 今天终于可以“曝光”它了！Ox 模型到底是谁，想必大家已经知道了。 没错，主角就是 GLM5.3Flash，搞了一个星期的前戏，今天终于迎来高潮了！ 我有一段时间天天“怼"
-    },
-    {
-      "title": "我拿 4 个真实前端任务试了 GLM-5.3 Flash：代码一遍跑通，账单 4 分钱",
-      "url": "https://juejin.cn/post/7678531174247874586",
-      "source": "juejin",
-      "score": 448,
-      "raw_score": 174,
-      "comments": 2,
-      "author": "kyriewen",
-      "created_at": "",
-      "summary": "GLM-5.3 Flash 开源次日，我拿 4 个真实前端任务实测：竞态 bug 一次定位、生成的并发控制器 node 一遍跑通、代码评审全命中还多抓俩、截图诊断 4 中 3。总计 2.2 万..."
-    },
-    {
-      "title": "手把手书写你的第一个 AI Agent：当 Skill 有了记忆、角色和主动性",
-      "url": "https://juejin.cn/post/7678535429227200563",
-      "source": "juejin",
-      "score": 412,
-      "raw_score": 116,
+      "score": 328,
+      "raw_score": 44,
       "comments": 0,
-      "author": "莪_幻尘",
+      "author": "苍何",
       "created_at": "",
-      "summary": "手把手书写你的第一个 AI Agent：当 Skill 有了记忆、角色和主动性 一、先搞清楚：Agent 和 Skill 到底什么区别 上一篇发布后，评论区问得最多的就是：\"Skill 和 Agent"
+      "summary": "现在每天起床第一件事，像一只小仓鼠一样先要偷偷看看自己的 Agent 还剩余多少额度，多少积分。 有时候，随便跑个简单的任务，积分和额度咔咔掉"
     },
     {
-      "title": "从输入 juejin.cn 到看到页面：DNS、Nginx、服务器集群与 CDN 到底在做什么？",
-      "url": "https://juejin.cn/post/7678618274795601971",
+      "title": "别再背 Chain、Agent、Memory 了：用一条“智能流水线”学会 LangChain",
+      "url": "https://juejin.cn/post/7678889149036757002",
       "source": "juejin",
-      "score": 311,
-      "raw_score": 36,
+      "score": 303,
+      "raw_score": 33,
       "comments": 0,
-      "author": "东风破_",
+      "author": "Dragon_xjy",
       "created_at": "",
-      "summary": "前面两篇，我们一直站在数据库的视角设计一个博客系统： 但数据库设计完，并不代表用户就能使用这个网站。 一个真正上线的 Web 系统，还需要解决另一个问题： 这个问题会牵涉： 这些名词第一次一起出现时非"
+      "summary": "一上来就被术语砸懵了？很正常 😵 刚接触 LangChain 时，我脑子里大概是这样的： “Chain 是链，Agent 是智能体，Memory 是记忆……每个英文单词我都认识，为什么放在一起就看不懂"
     },
     {
-      "title": "开源项目第199期：OpenWiki — LangChain 出品的代码库自维护文档 CLI，为 Agent 而生",
-      "url": "https://juejin.cn/post/7678370147867836479",
-      "source": "juejin",
-      "score": 295,
-      "raw_score": 30,
-      "comments": 0,
-      "author": "冬奇Lab",
-      "created_at": "",
-      "summary": "LangChain AI 开源的代码库文档自动生成与维护 CLI。Agent 读取源码写出 Markdown wiki，追踪关键事实到精确代码行（Grounded Claims），随代码变更自动更新"
-    },
-    {
-      "title": "从 0 设计一个博客数据库：用户、头像与文章表应该怎么建？",
-      "url": "https://juejin.cn/post/7678618274795520051",
-      "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
-      "comments": 0,
-      "author": "东风破_",
-      "created_at": "",
-      "summary": "学习 SQL 时，真正困难的往往不是记住 CREATE TABLE 怎么写，而是： 这篇文章不从 SQL 语法表开始背，而是假设我们正在开发一个类似掘金的博客系统，从业务一步一步推导数据库结构。 一、"
-    },
-    {
-      "title": "TS方式构建Vue3 toast组件（一）",
-      "url": "https://juejin.cn/post/7678318381180485683",
-      "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
-      "comments": 0,
-      "author": "南雨北斗",
-      "created_at": "",
-      "summary": "组件文件夹：Toast，Toast内部文件：Toast.vue，index.ts 一、Toast.vue 二、index.ts 三、调用 在想使用的页面中导入组件的函数 知识点 h, render虚拟"
-    },
-    {
-      "title": "NestJS 架构解密：从工厂模式到装饰器模式的企业级Node.js框架设计",
-      "url": "https://juejin.cn/post/7678542984239857704",
+      "title": "从零撸了一个 HTML 实体编解码工具，顺便聊聊我和 AI 结对编程的日常",
+      "url": "https://juejin.cn/post/7678721280103940131",
       "source": "juejin",
       "score": 260,
       "raw_score": 20,
       "comments": 0,
-      "author": "浮生望",
+      "author": "郭邯",
       "created_at": "",
-      "summary": "从工厂模式与装饰器模式出发，解析NestJS模块化架构和Controller/Provider分层，理解依赖注入及TypeScript装饰器语法，打通设计模式到框架应用的全链路认知。"
+      "summary": "最近在做一个内部项目，需要频繁地把用户输入的内容转成 HTML 实体，再塞进模板里渲染。一开始我都是打开浏览器控制台，手写几行 replace 搞定，但用着用着发现几个痛点： 特殊字符一多，正则写得跟"
     },
     {
-      "title": "NestJS MVC 实战：模块化架构、CRUD 全流程与标准化错误处理",
-      "url": "https://juejin.cn/post/7678577086287511586",
+      "title": "近 90 天用了 14 亿 Token，我拿 AI 干了些什么",
+      "url": "https://juejin.cn/post/7678867694070038566",
       "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
+      "score": 260,
+      "raw_score": 20,
       "comments": 0,
-      "author": "浮生望",
+      "author": "螺旋桨启动",
       "created_at": "",
-      "summary": "拆解NestJS模块化MVC架构，以Todos CRUD演示@Get/@Post/@Patch/@Delete路由、依赖注入、参数提取及NotFoundException标准化错误处理。"
+      "summary": "前言 之前在掘金写过用 Trae 做 Three.js 魔方，也折腾过 Cursor 接 Blender MCP。那几篇主要是边做边放效果，这次换个角度，看看这些 AI 工具到底用了多少。 刚好掘金最"
     },
     {
-      "title": "Microsoft Foundry 的 AI agent 可观测性：两个环境变量，无需采集器",
-      "url": "https://juejin.cn/post/7678580101932482569",
+      "title": "手把手从零复刻「英文网页 AI 翻译」Chrome 插件（新手向）",
+      "url": "https://juejin.cn/post/7678867694069858342",
+      "source": "juejin",
+      "score": 246,
+      "raw_score": 17,
+      "comments": 0,
+      "author": "mONESY",
+      "created_at": "",
+      "summary": "0. 开始前，准备四样东西 准备项 要求 怎么准备 ① Node.js 20.19 及以上（推荐 22 LTS） 去 nodejs.org 下载 LTS 版，双击安装，一路「下一步」 ② 编辑器 推荐"
+    },
+    {
+      "title": "你以为的性能瓶颈，未必是真的瓶颈：用 cProfile 找到真凶",
+      "url": "https://juejin.cn/post/7678744233528131624",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "Elasticsearch",
+      "author": "Zane1994",
       "created_at": "",
-      "summary": "作者：来自 Elastic Greg Crist 只需设置一次 LLM 追踪，你的 Foundry agent 的每次模型调用、工具执行和交接都会作为一条可查询的追踪记录到达 Kibana，每个跨度都"
+      "summary": "写在前面 写代码的人对\"哪里慢\"通常都有一种直觉，习惯性地怀疑那些看起来循环次数多、计算量大的代码。但今天用一个实测例子说明：这种直觉经常是错的，真正的瓶颈可能藏在一行毫不起眼的代码里。找瓶颈不该靠猜"
     },
     {
-      "title": "面向 AI 工作负载，单核性能提升 30%：DigitalOcean v5 Droplets 云服务器正式上线",
-      "url": "https://juejin.cn/post/7678340882244059170",
+      "title": "DeepSeeker-Code源码导读12-Hooks四引擎",
+      "url": "https://juejin.cn/post/7678768794299809830",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "樊小肆",
+      "created_at": "",
+      "summary": "读懂 Hooks：agent 全生命周期的可编程切面，四种引擎怎么接 这篇讲什么 前面几篇讲的都是\"agent 主动做什么\"——工具、压缩、子 agent。这篇反过来讲\"外部代码能在 agent 的哪"
+    },
+    {
+      "title": "Node 后端项目 Docker 自动部署教程（GitHub + 宝塔 + Self-hosted Runner）",
+      "url": "https://juejin.cn/post/7678744233527951400",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "DigitalOcean",
+      "author": "你看见我的span了吗",
       "created_at": "",
-      "summary": "DigitalOcean 云平台正式推出 v5 Droplets 云服务器。这是新一代计算实例，基于第 5 代 AMD EPYC™ 处理器打造。v5 Droplets 云服务器专为高性能工作负载设计，"
+      "summary": "这篇教程适合已经有一台 Linux 服务器，并且使用宝塔面板管理网站和 Docker 的情况。 最终要实现的效果很简单： 以后发布后端项目时，不需要再进入宝塔手动构建镜像、删除容器、重新创建容器。 整"
+    },
+    {
+      "title": "LangChain4j AiService 实战：会话记忆与结构化输出",
+      "url": "https://juejin.cn/post/7678636243509706806",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "晚安code",
+      "created_at": "",
+      "summary": "LangChain4j AiService 实战：只写接口，框架自动生成实现。讲清会话记忆与三种结构化输出。"
+    },
+    {
+      "title": "从\"遍地 try-catch\"到分层治理：用 pragmatic-ddd 的异常体系治好代码洁癖",
+      "url": "https://juejin.cn/post/7678906976253116467",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "PragmaticWorks",
+      "created_at": "",
+      "summary": "基于 pragmatic-ddd 四层模型，讲清异常该在哪层被接住：领域层用结构化异常表达业务规则，基础设施层本地异常上抛、外部调用局部降级，用户接口层用切面统一捕获。避免重复 catch、掩盖错误。"
+    },
+    {
+      "title": "一套 Spark SQL，打通多种 Catalog：EMR Serverless Spark 统一数据处理实践",
+      "url": "https://juejin.cn/post/7678897788894232576",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "阿里云大数据AI技术",
+      "created_at": "",
+      "summary": "本文从一个真实的跨 Catalog 加工场景出发，介绍 Serverless Spark 的 Catalog 支持范围，以及它如何简化数据链路和开发体验。"
+    },
+    {
+      "title": "Android-显示流程",
+      "url": "https://juejin.cn/post/7678879264650166291",
+      "source": "juejin",
+      "score": 60,
+      "raw_score": 2,
+      "comments": 0,
+      "author": "古法安卓",
+      "created_at": "",
+      "summary": "从 onResume 到像素上屏：用日志逐行走读 Android 显示全流程 一、前置知识 不讲清这些概念，后面的日志一行都读不懂。每一节都尽量用一句话 + 一张图说透。 1.1 参与显示的五个角色 "
     }
   ]
 }
