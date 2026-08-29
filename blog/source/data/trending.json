@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-08-28T21:35:40.024828+00:00",
+  "updated_at": "2026-08-29T04:49:10.172305+00:00",
   "articles": [
     {
-      "title": "走进 AI Agent 第二篇：决定 AI Agent 能力上限的关键技术",
-      "url": "https://juejin.cn/post/7677562804154531890",
+      "title": "我做了一个开源项目，让 AI 记住我们解决过的问题：Usora",
+      "url": "https://juejin.cn/post/7679020474672660526",
       "source": "juejin",
-      "score": 812,
-      "raw_score": 11598,
-      "comments": 13,
-      "author": "老王以为",
-      "created_at": "",
-      "summary": "决定 Agent 实际表现的，不只是模型，更是上下文如何组织。从 KV Cache 缓存失效机制、Skills 渐进式披露，到 Agent 状态栏与上下文感知压缩、子 Agent 隔离。"
-    },
-    {
-      "title": "ValidX错误消息国际化完全指南：8种语言9个语言包与三级回退机制",
-      "url": "https://juejin.cn/post/7678747733979201536",
-      "source": "juejin",
-      "score": 629,
-      "raw_score": 1412,
+      "score": 367,
+      "raw_score": 69,
       "comments": 0,
-      "author": "vipxieliang",
+      "author": "彼日花",
       "created_at": "",
-      "summary": "ValidX错误消息国际化完全指南：8种语言9个语言包与三级回退机制 引言 假设你的系统准备出海： 日本用户提交了非法手机号，收到的提示是中文\"手机号码格式不正确\"； 德国用户填写生日填错格式，报错信"
+      "summary": "一个面向 AI 时代的个人能力沉淀与复用平台，让不同 AI 从真实实践中持续提炼、验证并共享可复用的 Skills。"
     },
     {
-      "title": "🔥 AI 时代，Token 就是你的数字燃料！晒账单，赢好礼！",
-      "url": "https://juejin.cn/post/7678580101931679753",
+      "title": "因为找不到好用的前端占位图，于是我自己写了个谁都能用的占位图功能",
+      "url": "https://juejin.cn/post/7678920712071168046",
       "source": "juejin",
-      "score": 611,
-      "raw_score": 1147,
-      "comments": 14,
-      "author": "掘金酱",
-      "created_at": "",
-      "summary": "写代码、产文档、做方案、调项目…… 每一次 AI 调用，都在燃烧你的 Token 库存。 你的账单背后，藏着怎样的 AI 使用故事？ 别人的 Token 都烧在哪？哪个场景最“吃”Token？"
-    },
-    {
-      "title": "爆火的《牛来》模型正式发布！DeepSeek 的排名又下降了。。",
-      "url": "https://juejin.cn/post/7678618274796961843",
-      "source": "juejin",
-      "score": 579,
-      "raw_score": 794,
-      "comments": 4,
-      "author": "程序员鱼皮",
-      "created_at": "",
-      "summary": "刚刚智谱全新模型 GLM-5.3-Flash 发布，能力对标 Claude Opus，价格只有 1/40？3 大项目实战测评，对比 DeepSeek V4 和 Kimi K3，看看开眼的 GLM 如何"
-    },
-    {
-      "title": "我的开源项目登顶 GitHub 趋势榜 No1 了！",
-      "url": "https://juejin.cn/post/7678618678956163078",
-      "source": "juejin",
-      "score": 517,
-      "raw_score": 387,
-      "comments": 1,
-      "author": "苍何",
-      "created_at": "",
-      "summary": "这是苍何的第 585 篇原创！ 大家好，我是苍何。 兄弟们，今天是一个非常值得纪念的时刻。 我的 GitHub 开源项目冲上全球趋势榜 No 1 了。"
-    },
-    {
-      "title": "pm2 替代品，nodejs&bun 线上部署必备工具",
-      "url": "https://juejin.cn/post/7679000152963399689",
-      "source": "juejin",
-      "score": 322,
-      "raw_score": 41,
+      "score": 298,
+      "raw_score": 31,
       "comments": 0,
-      "author": "前端之虎陈随易",
+      "author": "菜鸟小前端在线卖艺",
       "created_at": "",
-      "summary": "bm2 bm2 是一个用 MoonBit 编写的轻量级 Linux 进程管理器，用于管理 Bun 与 Node.js 应用。 bm2 由命令行工具和后台守护进程组成，命令行通过 Unix socket"
+      "summary": "picsum 慢、DiceBear 不认中文、JSONPlaceholder 全是英文。我把开发要用的占位素材做进了一个国内域名:占位图、中文头像、真实照片、骨架屏、Mock。不注册,不要 Key。"
     },
     {
-      "title": "用 AI 辅助代码审查：提交前检查什么",
-      "url": "https://juejin.cn/post/7678983000215470126",
+      "title": "听说你的文档比同事好看十倍",
+      "url": "https://juejin.cn/post/7678899026394628150",
       "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
+      "score": 282,
+      "raw_score": 26,
       "comments": 0,
-      "author": "全栈弄潮儿",
+      "author": "周一同学Zelina",
       "created_at": "",
-      "summary": "提交代码之前，你通常会做几件事： 看一遍修改的代码。 运行项目和测试。 检查有没有遗漏的功能。 等待同事进行 Code Review。 现在，我们还可以增加一个步骤： AI 可以帮助我们发现一些容易忽"
+      "summary": "本周为大家带来《信息美学家》的第018期 今日分享主题：飞书文档巧用“分栏”功能：打造你的专属“画廊”式阅读体验！ （1）背景：为什么需要分栏小组件？ 你是否曾有遇到过这样的情况：一份文档内容丰富，但"
     },
     {
-      "title": "从案例分析 Vue3 Tokenizer 源码一",
-      "url": "https://juejin.cn/post/7678974488121737268",
+      "title": "生产级 RAG 知识库全流程实践",
+      "url": "https://juejin.cn/post/7678200303993389107",
       "source": "juejin",
-      "score": 264,
-      "raw_score": 21,
+      "score": 255,
+      "raw_score": 19,
       "comments": 0,
-      "author": "单线程_01",
+      "author": "wangfpp",
       "created_at": "",
-      "summary": "Vue3.4+ 模板 AST 生成原理 新旧流程对比 Vue3.4 之前 模板字符串 → Scanner 生成完整 Token 数组 → Parser 循环消费 Token → 构建 AST。缺点：需"
+      "summary": "—— 构建 · 检索 · 评测 · 运营，业务全覆盖 直通生产 上传文档、切块、向量化、检索——这只是 RAG 的\"能跑通\"版本。真实场景里你会遇到：扫描版 PDF 读不出、切块把句子拦腰截断、检索答"
     },
     {
-      "title": "【WebRtc】DTLS-SRTP 加密完整流程详解",
-      "url": "https://juejin.cn/post/7678975158595715081",
+      "title": "别再背 Chain、Agent、Memory 了：用一条“智能流水线”学会 LangChain",
+      "url": "https://juejin.cn/post/7678975158596894729",
       "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
+      "score": 246,
+      "raw_score": 17,
       "comments": 0,
-      "author": "BigTopOne",
+      "author": "Dragon_xjy",
       "created_at": "",
-      "summary": "一、为什么 WebRTC 必须加密？ RFC 8827 明确规定：所有 WebRTC 媒体流必须使用 SRTP 加密，且密钥必须通过 DTLS 协商（不允许静态预共享密钥）。 这意味着： 没有 DTL"
+      "summary": "一上来就被术语砸懵了？很正常 😵 刚接触 LangChain 时，我脑子里大概是这样的： “Chain 是链，Agent 是智能体，Memory 是记忆……每个英文单词我都认识，为什么放在一起就看不懂"
     },
     {
-      "title": "ZGI 工作区权限：用户为何看不到资源",
-      "url": "https://juejin.cn/post/7678923751791542314",
-      "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
-      "comments": 0,
-      "author": "ZGIAI",
-      "created_at": "",
-      "summary": "成员已经加入组织，却看不到 Agent、知识库或数据库，常见原因集中在工作区归属、成员状态、角色权限和资源范围。按访问链逐层检查，通常比反复退出登录更快定位问题。"
-    },
-    {
-      "title": "Parquet 文件格式：row group、编码与谓词下推索引",
-      "url": "https://juejin.cn/post/7678975158595682313",
+      "title": "别只收三个数字：前端 RUM 如何建立可解释的体验数据链",
+      "url": "https://juejin.cn/post/7678964791654481935",
       "source": "juejin",
       "score": 235,
       "raw_score": 15,
-      "comments": 0,
-      "author": "ltl",
+      "comments": 1,
+      "author": "XanderDING",
       "created_at": "",
-      "summary": "Parquet 从 file 到 page 的层级决定扫描能否裁盘。本文拆 footer、字典/DELTA 编码、Dremel level，以及 column index 与 bloom filter"
+      "summary": "从真实用户监控的样本边界出发，系统设计 LCP、INP、CLS 的采集、归因、上报、聚合与告警闭环。文章重点不是把 Web Vitals 接入页面，而是让每个异常都能回答：影响了谁、发生在哪个版本、对"
     },
     {
-      "title": "PostgreSQL Join 路径：优化器如何选中 Nested Loop",
-      "url": "https://juejin.cn/post/7678975158595649545",
+      "title": "一天一个开源项目（第201篇）：ntfy - 用一行 curl 把消息推到手机",
+      "url": "https://juejin.cn/post/7678975158596780041",
+      "source": "juejin",
+      "score": 229,
+      "raw_score": 14,
+      "comments": 1,
+      "author": "冬奇Lab",
+      "created_at": "",
+      "summary": "ntfy 是一个极简的 HTTP 发布-订阅推送通知服务，不需要注册账号、不需要 SDK，一条 curl 命令就能把消息推到 Android、iOS 或桌面。"
+    },
+    {
+      "title": "企业知识库系列（04）：HyperGraphRAG 实测——超图结构的多跳推理",
+      "url": "https://juejin.cn/post/7679054762876796979",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "ltl",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "make_one_rel 从基表扫描走到 NestLoop、HashJoin、MergeJoin 的代价比较。本文拆路径生成、geqo_threshold 切换与并行路径，并用 EXPLAIN ANA"
+      "summary": "同一套 89 道题，测 HyperGraphRAG 1.0.6。超图的理论优势在于超边可以一次性连接多个实体，而不只是二元关系。实测结果是：多跳 0.171，和 LightRAG 接近"
     },
     {
-      "title": "438. 找到字符串中所有字母异位词",
-      "url": "https://juejin.cn/post/7678921484187205667",
-      "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
-      "comments": 0,
-      "author": "Asize",
-      "created_at": "",
-      "summary": "438. 找到字符串中所有字母异位词 题目 给定字符串 s 和 p，返回 s 中所有是 p 的异位词的起始索引。异位词即字符相同、排列不同的子串。 思路（从暴力到最优） 暴力：枚举 s 中每个长度为 "
-    },
-    {
-      "title": "网络延迟优化：Nagle、TCP_NODELAY 与中断亲和",
-      "url": "https://juejin.cn/post/7679026674768298035",
+      "title": "给 Agent 一份 package-lock：别让 Skill、MCP 和权限各自漂移",
+      "url": "https://juejin.cn/post/7678871866053459987",
       "source": "juejin",
       "score": 215,
       "raw_score": 12,
       "comments": 0,
-      "author": "ltl",
+      "author": "用户527467561421",
       "created_at": "",
-      "summary": "Nagle 与 Delayed ACK 叠加会把小包延迟放大几十毫秒。本文讲 TCP_NODELAY/TCP_CORK 用法、RPS/RFS 与 Busy Polling，以及延迟分解该从哪一层开始定"
+      "summary": "Agent 的能力由 Skill、MCP、App、权限和模型路由共同决定。本文用 Manifest、Lockfile、能力指纹、回归与灰度，构建可复现的配置发布流程。"
     },
     {
-      "title": "小文件问题：文件数量如何放大元数据与 I/O 成本",
-      "url": "https://juejin.cn/post/7678975158595665929",
+      "title": "当下 Agent 缺少的，也许是读懂产物的能力",
+      "url": "https://juejin.cn/post/7678961254074679337",
       "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
-      "author": "ltl",
+      "author": "飞哥数智谈",
       "created_at": "",
-      "summary": "小文件的代价往往不在字节数，而在 inode、寻道与 syscall。本文量化 slack space 与元数据开销，并给出应用层聚合与对象存储归档两条工程路径。"
+      "summary": "对话越长，Agent 真的就越懂你吗？最近我发现，真正决定 Agent 能不能持续把事情做对的，也许不是上下文窗口有多长，而是它能不能读懂当前产物。"
+    },
+    {
+      "title": "💡 当 LLM 开始骗自己：用几行正则给 AI 生成的文章上一道可信度闸门",
+      "url": "https://juejin.cn/post/7679054762876633139",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 1,
+      "author": "Erishen",
+      "created_at": "",
+      "summary": "让 LLM 审核 LLM 等于让嫌疑人评判自己的证词——用正则提取 + 文件系统 grep 做确定性验证，把幻觉挡在交付之前。"
+    },
+    {
+      "title": "血泪复盘：一次由 HttpContext.Current 引发的 CPU 100% 惨案",
+      "url": "https://juejin.cn/post/7678974488122327092",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "人丰",
+      "created_at": "",
+      "summary": "一、 案发现场：CPU 突然“起飞” MES业务系统的某个核心应用节点突然告警：CPU 使用率逼近 100%。 第一反应是重启，先恢复生产，重启后 CPU 确实回落了。但没过半小时，曲线再次陡峭上升，"
+    },
+    {
+      "title": "RPC 与 REST 的本质区别看这一篇就够了：别再只看 URL 里有没有动词",
+      "url": "https://juejin.cn/post/7679054762876731443",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "Wilson王艺谋",
+      "created_at": "",
+      "summary": "RPC把远端系统描述成可调用的方法，REST把它描述成可操作的资源。本文用同一个导出任务讲清两种抽象如何影响HTTP语义、幂等重试、状态恢复与接口演进，并给出一套可直接用于API评审的选择方法。"
+    },
+    {
+      "title": "阿里开源 Pixelle-Video：一段文案 5 分钟出片，我把短视频生产线跑通了",
+      "url": "https://juejin.cn/post/7678888769764982827",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "小虎AI生活",
+      "created_at": "",
+      "summary": "导语 这篇文章记录作者把阿里巴巴 AIDC 团队开源的短视频自动化引擎 Pixelle-Video（Apache 协议，GitHub 27.4k star）在自己电脑上跑通的全过程：它是什么、为什么重"
+    },
+    {
+      "title": "GitHub Actions 从入门到实战：一文搞懂 CI/CD 自动化",
+      "url": "https://juejin.cn/post/7678988101557174278",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "前端小小栈",
+      "created_at": "",
+      "summary": "GitHub Actions 是内置 CI/CD 工具，通过 YAML 配置实现代码自动构建、测试、部署，支持多环境与定时任务，开发全流程自动化。"
     }
   ]
 }
