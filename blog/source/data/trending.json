@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-08-29T04:49:10.172305+00:00",
+  "updated_at": "2026-08-29T15:56:20.743784+00:00",
   "articles": [
     {
-      "title": "我做了一个开源项目，让 AI 记住我们解决过的问题：Usora",
-      "url": "https://juejin.cn/post/7679020474672660526",
+      "title": "「速通Shell」Shell 编程性能优化",
+      "url": "https://juejin.cn/post/7678975240300773428",
       "source": "juejin",
-      "score": 367,
-      "raw_score": 69,
+      "score": 565,
+      "raw_score": 669,
       "comments": 0,
-      "author": "彼日花",
+      "author": "柒号华仔",
       "created_at": "",
-      "summary": "一个面向 AI 时代的个人能力沉淀与复用平台，让不同 AI 从真实实践中持续提炼、验证并共享可复用的 Skills。"
+      "summary": "前面几篇讲了 shell 的语言特性、错误处理、模块化、测试、信号处理，又用三篇讲了常用命令。脚本能跑、能维护、能上线，到这一步很多人就觉得够用了，但真正把脚本从能跑推到专业还有最后一关——性能。"
     },
     {
-      "title": "因为找不到好用的前端占位图，于是我自己写了个谁都能用的占位图功能",
-      "url": "https://juejin.cn/post/7678920712071168046",
+      "title": "视野修炼-技术周刊第131期 | Bun 与 pnpm Rust 化",
+      "url": "https://juejin.cn/post/7679201776695836723",
       "source": "juejin",
-      "score": 298,
-      "raw_score": 31,
+      "score": 279,
+      "raw_score": 25,
       "comments": 0,
-      "author": "菜鸟小前端在线卖艺",
+      "author": "粥里有勺糖",
       "created_at": "",
-      "summary": "picsum 慢、DiceBear 不认中文、JSONPlaceholder 全是英文。我把开发要用的占位素材做进了一个国内域名:占位图、中文头像、真实照片、骨架屏、Mock。不注册,不要 Key。"
+      "summary": "① MobileView - 同屏网站在不同设备上的效果 ② orb - 液态玻璃球效果 ③ Bun 1.4 - Rust 重构版上线 ④ Node.js 26.8.0 - 原生支持读写ZIP"
     },
     {
-      "title": "听说你的文档比同事好看十倍",
-      "url": "https://juejin.cn/post/7678899026394628150",
+      "title": "没有机密文件，也没有付费数据，在浏览器里造一颗\"间谍卫星\"",
+      "url": "https://juejin.cn/post/7679223034339672074",
       "source": "juejin",
-      "score": 282,
-      "raw_score": 26,
+      "score": 268,
+      "raw_score": 22,
       "comments": 0,
-      "author": "周一同学Zelina",
+      "author": "苏灿烤鱼",
       "created_at": "",
-      "summary": "本周为大家带来《信息美学家》的第018期 今日分享主题：飞书文档巧用“分栏”功能：打造你的专属“画廊”式阅读体验！ （1）背景：为什么需要分栏小组件？ 你是否曾有遇到过这样的情况：一份文档内容丰富，但"
+      "summary": "\"开源\"从来不只是放开代码。一个项目如何对待别人的许可证和别人的隐私，是更诚实的开源态度。这一课，GEV 上得比很多老牌项目都标准。"
     },
     {
-      "title": "生产级 RAG 知识库全流程实践",
-      "url": "https://juejin.cn/post/7678200303993389107",
+      "title": "手搓JSVM第 5 篇：写第一个编译器：从 AST 生成 IR",
+      "url": "https://juejin.cn/post/7679088949327953930",
       "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "wangfpp",
+      "author": "泯泷",
       "created_at": "",
-      "summary": "—— 构建 · 检索 · 评测 · 运营，业务全覆盖 直通生产 上传文档、切块、向量化、检索——这只是 RAG 的\"能跑通\"版本。真实场景里你会遇到：扫描版 PDF 读不出、切块把句子拦腰截断、检索答"
+      "summary": "第 5 篇：写第一个编译器：从 AST 生成 IR 1. 本文目标 前四篇里，我们一直在手写 VM 指令或 bytecode。这一篇，我们希望给定这样一段源码： 它能自动变成类似下面的中间指令"
     },
     {
-      "title": "别再背 Chain、Agent、Memory 了：用一条“智能流水线”学会 LangChain",
-      "url": "https://juejin.cn/post/7678975158596894729",
-      "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
-      "comments": 0,
-      "author": "Dragon_xjy",
-      "created_at": "",
-      "summary": "一上来就被术语砸懵了？很正常 😵 刚接触 LangChain 时，我脑子里大概是这样的： “Chain 是链，Agent 是智能体，Memory 是记忆……每个英文单词我都认识，为什么放在一起就看不懂"
-    },
-    {
-      "title": "别只收三个数字：前端 RUM 如何建立可解释的体验数据链",
-      "url": "https://juejin.cn/post/7678964791654481935",
-      "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
-      "comments": 1,
-      "author": "XanderDING",
-      "created_at": "",
-      "summary": "从真实用户监控的样本边界出发，系统设计 LCP、INP、CLS 的采集、归因、上报、聚合与告警闭环。文章重点不是把 Web Vitals 接入页面，而是让每个异常都能回答：影响了谁、发生在哪个版本、对"
-    },
-    {
-      "title": "一天一个开源项目（第201篇）：ntfy - 用一行 curl 把消息推到手机",
-      "url": "https://juejin.cn/post/7678975158596780041",
-      "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
-      "comments": 1,
-      "author": "冬奇Lab",
-      "created_at": "",
-      "summary": "ntfy 是一个极简的 HTTP 发布-订阅推送通知服务，不需要注册账号、不需要 SDK，一条 curl 命令就能把消息推到 Android、iOS 或桌面。"
-    },
-    {
-      "title": "企业知识库系列（04）：HyperGraphRAG 实测——超图结构的多跳推理",
-      "url": "https://juejin.cn/post/7679054762876796979",
+      "title": "我用 Trae Work 查了一下星宇股份的车灯都装在哪些车上，结果.....",
+      "url": "https://juejin.cn/post/7679088949327773706",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "JustHappy",
       "created_at": "",
-      "summary": "同一套 89 道题，测 HyperGraphRAG 1.0.6。超图的理论优势在于超边可以一次性连接多个实体，而不只是二元关系。实测结果是：多跳 0.171，和 LightRAG 接近"
+      "summary": "最近老是刷到星宇股份的事情，出于好奇，都是什么车搭载了星宇股份的产品呢？哈哈，我让 Trae Work 查询了一下星宇官方披露的搭载车型。哈哈，星宇股份不愧是行业龙头啊，结果如下"
     },
     {
-      "title": "给 Agent 一份 package-lock：别让 Skill、MCP 和权限各自漂移",
-      "url": "https://juejin.cn/post/7678871866053459987",
+      "title": "AI 编程中的隐私与安全：哪些信息不要提交",
+      "url": "https://juejin.cn/post/7679222800792944691",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "全栈弄潮儿",
+      "created_at": "",
+      "summary": "AI 可以帮助我们分析报错、阅读代码和排查问题。 但在把内容发给 AI 之前，一定要先问自己一个问题： 很多数据泄露并不是因为攻击，而是因为开发者为了让 AI 更好地分析，把完整日志、配置文件或业务代"
+    },
+    {
+      "title": "手搓JSVM第 6 篇：把 IR 编成字节码：emit 与 label fixup",
+      "url": "https://juejin.cn/post/7679223034339508234",
       "source": "juejin",
       "score": 215,
       "raw_score": 12,
       "comments": 0,
-      "author": "用户527467561421",
+      "author": "泯泷",
       "created_at": "",
-      "summary": "Agent 的能力由 Skill、MCP、App、权限和模型路由共同决定。本文用 Manifest、Lockfile、能力指纹、回归与灰度，构建可复现的配置发布流程。"
+      "summary": "第 6 篇：把 IR 编成字节码：emit 与 label fixup 1. 本文目标 第 5 篇我们已经能把简化 AST 降级成 IR： 本篇继续向前走一步： 最终我们要得到： 这里的数字只是一种示"
     },
     {
-      "title": "当下 Agent 缺少的，也许是读懂产物的能力",
-      "url": "https://juejin.cn/post/7678961254074679337",
+      "title": "手搓JSVM第 3 篇：从栈式 VM 到寄存器式 VM：为什么我们选择寄存器",
+      "url": "https://juejin.cn/post/7679088949327921162",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "飞哥数智谈",
+      "author": "泯泷",
       "created_at": "",
-      "summary": "对话越长，Agent 真的就越懂你吗？最近我发现，真正决定 Agent 能不能持续把事情做对的，也许不是上下文窗口有多长，而是它能不能读懂当前产物。"
+      "summary": "本文目标 前两篇我们已经让 VM 能执行： 不过它还是栈式 VM，临时值都放在 stack 里。本篇要把它升级成寄存器式 VM"
     },
     {
-      "title": "💡 当 LLM 开始骗自己：用几行正则给 AI 生成的文章上一道可信度闸门",
-      "url": "https://juejin.cn/post/7679054762876633139",
+      "title": "ZGI Agent 发布：配置改了，线上为何还是旧版本",
+      "url": "https://juejin.cn/post/7678969657585795078",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
-      "comments": 1,
-      "author": "Erishen",
+      "comments": 0,
+      "author": "ZGIAI",
       "created_at": "",
-      "summary": "让 LLM 审核 LLM 等于让嫌疑人评判自己的证词——用正则提取 + 文件系统 grep 做确定性验证，把幻觉挡在交付之前。"
+      "summary": "开发页面里的 Agent 已经更新，线上入口仍按旧规则运行，通常与草稿和已发布版本分离、入口绑定范围或会话延续有关。逐项核对版本、入口和运行记录，比反复修改提示词更容易找到差异。"
     },
     {
-      "title": "血泪复盘：一次由 HttpContext.Current 引发的 CPU 100% 惨案",
-      "url": "https://juejin.cn/post/7678974488122327092",
+      "title": "54. 螺旋矩阵",
+      "url": "https://juejin.cn/post/7678993382057410594",
       "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
-      "author": "人丰",
+      "author": "Asize",
       "created_at": "",
-      "summary": "一、 案发现场：CPU 突然“起飞” MES业务系统的某个核心应用节点突然告警：CPU 使用率逼近 100%。 第一反应是重启，先恢复生产，重启后 CPU 确实回落了。但没过半小时，曲线再次陡峭上升，"
+      "summary": "54. 螺旋矩阵 题目 给一个 m×n 矩阵，按顺时针螺旋顺序返回所有元素（从左上角出发，右→下→左→上 循环）。 思路（从暴力到最优） 最直接的想法：模拟人走螺旋的过程。 维护一个\"当前方向\"，用方"
     },
     {
-      "title": "RPC 与 REST 的本质区别看这一篇就够了：别再只看 URL 里有没有动词",
-      "url": "https://juejin.cn/post/7679054762876731443",
+      "title": "手搓JSVM第 4 篇：让 VM 支持变量：Slot、Environment 与 TDZ",
+      "url": "https://juejin.cn/post/7679222800792846387",
       "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
+      "score": 200,
+      "raw_score": 10,
       "comments": 0,
-      "author": "Wilson王艺谋",
+      "author": "泯泷",
       "created_at": "",
-      "summary": "RPC把远端系统描述成可调用的方法，REST把它描述成可操作的资源。本文用同一个导出任务讲清两种抽象如何影响HTTP语义、幂等重试、状态恢复与接口演进，并给出一套可直接用于API评审的选择方法。"
+      "summary": "本文目标 前三篇我们已经让 VM 能执行表达式： 到第 3 篇为止，我们手里是一台寄存器式的表达式计算机。它能把临时值放进 r0、r1、r2： 但 JavaScript 不只有表达式"
     },
     {
-      "title": "阿里开源 Pixelle-Video：一段文案 5 分钟出片，我把短视频生产线跑通了",
-      "url": "https://juejin.cn/post/7678888769764982827",
+      "title": "从 582 毫秒的延迟峰值追踪到负责该服务的团队：使用 Kibana Discover",
+      "url": "https://juejin.cn/post/7679222800792584243",
       "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
+      "score": 200,
+      "raw_score": 10,
       "comments": 0,
-      "author": "小虎AI生活",
+      "author": "Elasticsearch",
       "created_at": "",
-      "summary": "导语 这篇文章记录作者把阿里巴巴 AIDC 团队开源的短视频自动化引擎 Pixelle-Video（Apache 协议，GitHub 27.4k star）在自己电脑上跑通的全过程：它是什么、为什么重"
+      "summary": "作者：来自 Elastic Jeffrey Rengifo 一个结账服务的 p95 延迟为 582 毫秒，而 SLO 目标为 350 毫秒。在 Kibana 的 Discover 中使用一个 KQL "
     },
     {
-      "title": "GitHub Actions 从入门到实战：一文搞懂 CI/CD 自动化",
-      "url": "https://juejin.cn/post/7678988101557174278",
+      "title": "手搓JSVM第 7 篇：控制流：if、while 与 jump",
+      "url": "https://juejin.cn/post/7679222800792879155",
       "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
+      "score": 169,
+      "raw_score": 7,
       "comments": 0,
-      "author": "前端小小栈",
+      "author": "泯泷",
       "created_at": "",
-      "summary": "GitHub Actions 是内置 CI/CD 工具，通过 YAML 配置实现代码自动构建、测试、部署，支持多环境与定时任务，开发全流程自动化。"
+      "summary": "1. 本文目标 前面我们已经能编译和执行直线代码： 但真实程序会有分支和循环： 本篇目标是让 VM 支持控制流： label jump jump_if_false if while 2. 为什么控制流"
+    },
+    {
+      "title": "73. 矩阵置零",
+      "url": "https://juejin.cn/post/7679078816658096180",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "Asize",
+      "created_at": "",
+      "summary": "73. 矩阵置零 题目 给定一个矩阵，如果某个元素为 0，就将它所在的行和列全部设为 0，并且要求原地修改。 思路（从暴力到最优） 直接在第一次遍历时清零会产生新的 0，后续扫描可能把新 0 当成原始"
+    },
+    {
+      "title": "TypeScript 高级工具类型实战：Pick、Omit、Partial 到 Record 的完整解析",
+      "url": "https://juejin.cn/post/7679068398576304164",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "浮生望",
+      "created_at": "",
+      "summary": "详解 TS 五大工具类型：Pick 挑选、Omit 排除、Partial 可选、Record 字典、ReturnType 返回值，并拆解 Omit 内部原理。"
     }
   ]
 }
