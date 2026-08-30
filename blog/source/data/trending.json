@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-08-29T15:56:20.743784+00:00",
+  "updated_at": "2026-08-30T02:28:33.465336+00:00",
   "articles": [
     {
-      "title": "「速通Shell」Shell 编程性能优化",
-      "url": "https://juejin.cn/post/7678975240300773428",
+      "title": "从 getStore() 到 execute() —— 单连接 IMAP 管理器的五次迭代记录",
+      "url": "https://juejin.cn/post/7679201776696115251",
       "source": "juejin",
-      "score": 565,
-      "raw_score": 669,
+      "score": 260,
+      "raw_score": 20,
       "comments": 0,
-      "author": "柒号华仔",
+      "author": "Jesse_EC",
       "created_at": "",
-      "summary": "前面几篇讲了 shell 的语言特性、错误处理、模块化、测试、信号处理，又用三篇讲了常用命令。脚本能跑、能维护、能上线，到这一步很多人就觉得够用了，但真正把脚本从能跑推到专业还有最后一关——性能。"
+      "summary": "它只有 220 行，却是整个项目里我改得最多、想得最久的一个类。 全文所有代码都来自真实的 git 提交记录，包括那些我后来才发现是错的写法。"
     },
     {
-      "title": "视野修炼-技术周刊第131期 | Bun 与 pnpm Rust 化",
-      "url": "https://juejin.cn/post/7679201776695836723",
-      "source": "juejin",
-      "score": 279,
-      "raw_score": 25,
-      "comments": 0,
-      "author": "粥里有勺糖",
-      "created_at": "",
-      "summary": "① MobileView - 同屏网站在不同设备上的效果 ② orb - 液态玻璃球效果 ③ Bun 1.4 - Rust 重构版上线 ④ Node.js 26.8.0 - 原生支持读写ZIP"
-    },
-    {
-      "title": "没有机密文件，也没有付费数据，在浏览器里造一颗\"间谍卫星\"",
-      "url": "https://juejin.cn/post/7679223034339672074",
-      "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
-      "comments": 0,
-      "author": "苏灿烤鱼",
-      "created_at": "",
-      "summary": "\"开源\"从来不只是放开代码。一个项目如何对待别人的许可证和别人的隐私，是更诚实的开源态度。这一课，GEV 上得比很多老牌项目都标准。"
-    },
-    {
-      "title": "手搓JSVM第 5 篇：写第一个编译器：从 AST 生成 IR",
-      "url": "https://juejin.cn/post/7679088949327953930",
+      "title": "Spring 事务传播机制完全指南：自调用失效 + 7 种传播行为 + 9 张图，一次讲透",
+      "url": "https://juejin.cn/post/7679002790803324968",
       "source": "juejin",
       "score": 240,
       "raw_score": 16,
       "comments": 0,
-      "author": "泯泷",
+      "author": "岁月如歌7786",
       "created_at": "",
-      "summary": "第 5 篇：写第一个编译器：从 AST 生成 IR 1. 本文目标 前四篇里，我们一直在手写 VM 指令或 bytecode。这一篇，我们希望给定这样一段源码： 它能自动变成类似下面的中间指令"
+      "summary": "本文从源码到实战完整拆解 Spring 事务传播机制：自调用失效原理、7 种 Propagation 全解、REQUIRES_NEW 与 NESTED 区别，配 8 张原创图 + 实战代码示例，助你面试不再翻车。"
     },
     {
-      "title": "我用 Trae Work 查了一下星宇股份的车灯都装在哪些车上，结果.....",
-      "url": "https://juejin.cn/post/7679088949327773706",
-      "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
-      "comments": 0,
-      "author": "JustHappy",
-      "created_at": "",
-      "summary": "最近老是刷到星宇股份的事情，出于好奇，都是什么车搭载了星宇股份的产品呢？哈哈，我让 Trae Work 查询了一下星宇官方披露的搭载车型。哈哈，星宇股份不愧是行业龙头啊，结果如下"
-    },
-    {
-      "title": "AI 编程中的隐私与安全：哪些信息不要提交",
-      "url": "https://juejin.cn/post/7679222800792944691",
-      "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
-      "comments": 0,
-      "author": "全栈弄潮儿",
-      "created_at": "",
-      "summary": "AI 可以帮助我们分析报错、阅读代码和排查问题。 但在把内容发给 AI 之前，一定要先问自己一个问题： 很多数据泄露并不是因为攻击，而是因为开发者为了让 AI 更好地分析，把完整日志、配置文件或业务代"
-    },
-    {
-      "title": "手搓JSVM第 6 篇：把 IR 编成字节码：emit 与 label fixup",
-      "url": "https://juejin.cn/post/7679223034339508234",
+      "title": "AI多Agent协作系统实战（五十三）：同一套系统，Linux沉默，Windows刷屏",
+      "url": "https://juejin.cn/post/7679078816657866804",
       "source": "juejin",
       "score": 215,
       "raw_score": 12,
       "comments": 0,
-      "author": "泯泷",
+      "author": "AI数字员工队伍",
       "created_at": "",
-      "summary": "第 6 篇：把 IR 编成字节码：emit 与 label fixup 1. 本文目标 第 5 篇我们已经能把简化 AST 降级成 IR： 本篇继续向前走一步： 最终我们要得到： 这里的数字只是一种示"
+      "summary": "背景 \"你把61启动，然后两边对比一下，不要各自为政。\" 用户一句话，把两台服务器拉到了同一张手术台上。61号（Linux，生产服务器）和62号（Windows，测试服务器）跑着同一个产品——AI数字"
     },
     {
-      "title": "手搓JSVM第 3 篇：从栈式 VM 到寄存器式 VM：为什么我们选择寄存器",
-      "url": "https://juejin.cn/post/7679088949327921162",
+      "title": "读李开复《AI 未来已来》，我三月份写的那些判断，被补全了",
+      "url": "https://juejin.cn/post/7679012813105922088",
       "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
+      "score": 190,
+      "raw_score": 9,
       "comments": 0,
-      "author": "泯泷",
+      "author": "深小乐",
       "created_at": "",
-      "summary": "本文目标 前两篇我们已经让 VM 能执行： 不过它还是栈式 VM，临时值都放在 stack 里。本篇要把它升级成寄存器式 VM"
+      "summary": "最近把李开复的《AI 未来已来》读完了。这本书的出版时间是2026年7月中。正好，今年3月初，我写过一篇关于 AI，作为一名互联网人，聊聊我当下最真实的想法。发现不少想法与我一样，但推论的过程更具体。"
     },
     {
-      "title": "ZGI Agent 发布：配置改了，线上为何还是旧版本",
-      "url": "https://juejin.cn/post/7678969657585795078",
+      "title": "经济学讲通货膨胀，为什么你写的文档也会「标题泛滥、重点贬值」",
+      "url": "https://juejin.cn/post/7679542577527603254",
       "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
+      "score": 180,
+      "raw_score": 8,
       "comments": 0,
-      "author": "ZGIAI",
+      "author": "周一同学Zelina",
       "created_at": "",
-      "summary": "开发页面里的 Agent 已经更新，线上入口仍按旧规则运行，通常与草稿和已发布版本分离、入口绑定范围或会话延续有关。逐项核对版本、入口和运行记录，比反复修改提示词更容易找到差异。"
+      "summary": "01 前言 今天聊一个长文档很容易犯的问题：标题层级的通胀。 跟经济学里的通货膨胀很像：钱印多了，每一张的购买力就下降了。标题也是一样，层级用多了，每一层的「导航力」就被稀释了。 读者的注意力是有限的"
     },
     {
-      "title": "54. 螺旋矩阵",
-      "url": "https://juejin.cn/post/7678993382057410594",
+      "title": "给 Agent 装上手脚：手写 mini-Cursor，从建项目到跑起来",
+      "url": "https://juejin.cn/post/7679053043288014854",
       "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
+      "score": 180,
+      "raw_score": 8,
       "comments": 0,
-      "author": "Asize",
+      "author": "两只羊ovo",
       "created_at": "",
-      "summary": "54. 螺旋矩阵 题目 给一个 m×n 矩阵，按顺时针螺旋顺序返回所有元素（从左上角出发，右→下→左→上 循环）。 思路（从暴力到最优） 最直接的想法：模拟人走螺旋的过程。 维护一个\"当前方向\"，用方"
+      "summary": "写在前面 上回书说到，咱们把 Agent 的 while 循环转起来了——但那个 Agent 只有一个 read_file 工具，相当于一个只能看、不能动手的实习生。你让它建项目，它能给你讲一节课，就"
     },
     {
-      "title": "手搓JSVM第 4 篇：让 VM 支持变量：Slot、Environment 与 TDZ",
-      "url": "https://juejin.cn/post/7679222800792846387",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "泯泷",
-      "created_at": "",
-      "summary": "本文目标 前三篇我们已经让 VM 能执行表达式： 到第 3 篇为止，我们手里是一台寄存器式的表达式计算机。它能把临时值放进 r0、r1、r2： 但 JavaScript 不只有表达式"
-    },
-    {
-      "title": "从 582 毫秒的延迟峰值追踪到负责该服务的团队：使用 Kibana Discover",
-      "url": "https://juejin.cn/post/7679222800792584243",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "Elasticsearch",
-      "created_at": "",
-      "summary": "作者：来自 Elastic Jeffrey Rengifo 一个结账服务的 p95 延迟为 582 毫秒，而 SLO 目标为 350 毫秒。在 Kibana 的 Discover 中使用一个 KQL "
-    },
-    {
-      "title": "手搓JSVM第 7 篇：控制流：if、while 与 jump",
-      "url": "https://juejin.cn/post/7679222800792879155",
+      "title": "第 9 章 记忆系统",
+      "url": "https://juejin.cn/post/7679623224660901931",
       "source": "juejin",
       "score": 169,
       "raw_score": 7,
       "comments": 0,
-      "author": "泯泷",
+      "author": "前端阿凡",
       "created_at": "",
-      "summary": "1. 本文目标 前面我们已经能编译和执行直线代码： 但真实程序会有分支和循环： 本篇目标是让 VM 支持控制流： label jump jump_if_false if while 2. 为什么控制流"
+      "summary": "第 9 章 记忆系统 本章要解决的问题 章节大纲 9.1 记忆分类：短期（上下文）/ 长期（向量库）/ 工作记忆 9.2 记忆写入、检索与遗忘策略 9.3 记忆与 RAG 的分工与配合 🛠 解决方案："
     },
     {
-      "title": "73. 矩阵置零",
-      "url": "https://juejin.cn/post/7679078816658096180",
+      "title": "ubuntu 安装 docker",
+      "url": "https://juejin.cn/post/7679222800792535091",
       "source": "juejin",
       "score": 169,
       "raw_score": 7,
       "comments": 0,
-      "author": "Asize",
+      "author": "飞询",
       "created_at": "",
-      "summary": "73. 矩阵置零 题目 给定一个矩阵，如果某个元素为 0，就将它所在的行和列全部设为 0，并且要求原地修改。 思路（从暴力到最优） 直接在第一次遍历时清零会产生新的 0，后续扫描可能把新 0 当成原始"
+      "summary": "环境 版本：Ubuntu 24.04.4 LTS 服务器：腾讯云轻量服务器 4核4G 操作系统要求 Ubuntu Resolute 26.04 (LTS) Ubuntu Noble 24.04 (LT"
     },
     {
-      "title": "TypeScript 高级工具类型实战：Pick、Omit、Partial 到 Record 的完整解析",
-      "url": "https://juejin.cn/post/7679068398576304164",
+      "title": "ACP 协议 + devops 可视化：Agent 与编辑器的两条桥（第99篇-E85）",
+      "url": "https://juejin.cn/post/7679059713532969003",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "leeyi",
+      "created_at": "",
+      "summary": "上一篇 讲了 Eino ADK 的 Agent 生命周期。收尾前还剩两块\"周边件\"：ACP 协议桥（让 Eino Agent 接入外部编辑器，双向通信）和 devops 可视化（把编译后的 Graph"
+    },
+    {
+      "title": "一个 Agent 平台要起 12 个容器，做演示能砍到几个？",
+      "url": "https://juejin.cn/post/7679053043288391686",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "judezh",
+      "created_at": "",
+      "summary": "quickstart 一条命令要起 12 个服务。本文实跑裁到 4 个常驻容器，逐条说清每砍一个会失去什么；三条纸面推论被实跑推翻了两条，都是会让你卡住的那种。"
+    },
+    {
+      "title": "SparkStreaming 之 DStream 底层结构剖析",
+      "url": "https://juejin.cn/post/7679133086101454894",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "starzy",
+      "created_at": "",
+      "summary": "一、DStream 到底是个什么东西 先给一个判断，省得绕：DStream 是\"RDD 的时间序列\"，它自己一个字节的数据都不存。 回想上一篇文章里 batchInterval 的概念——Spark "
+    },
+    {
+      "title": "同一资源、不同 ID:多源拓扑的 Identity Resolution",
+      "url": "https://juejin.cn/post/7679088949328805898",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "Thneonl",
+      "created_at": "",
+      "summary": "K8s 和代码仓对同一个镜像用不同 ID,图上出现幽灵双胞胎。correlation-key 合并 + 决定性仲裁;更值钱的判断:这功能我推迟了两个 Phase。"
+    },
+    {
+      "title": "android12 WindowManagerService窗口的添加过程",
+      "url": "https://juejin.cn/post/7679012813105578024",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "码农coding",
+      "created_at": "",
+      "summary": "窗口的添加是一个从应用进程到系统服务进程（SystemServer）的跨进程通信（IPC）过程。核心逻辑在 WindowManagerService (WMS) 的 addWindow 方法中。"
+    },
+    {
+      "title": "Proxy / Reflect 与响应式原理：完整手写一个 mini Vue3 响应式系统",
+      "url": "https://juejin.cn/post/7678976901450317865",
       "source": "juejin",
       "score": 95,
       "raw_score": 3,
       "comments": 0,
-      "author": "浮生望",
+      "author": "前端阿凡",
       "created_at": "",
-      "summary": "详解 TS 五大工具类型：Pick 挑选、Omit 排除、Partial 可选、Record 字典、ReturnType 返回值，并拆解 Omit 内部原理。"
+      "summary": "问题场景 Vue3 的响应式、状态管理库（zustand/valtio）、数据劫持、字段脱敏——现代前端做\"数据一变，界面/逻辑自动跟着变\"，底层全靠 Proxy + Reflect。 很多人在用 V"
+    },
+    {
+      "title": "Effective Python 条款 6：善用拆包告别恼人的下标索引",
+      "url": "https://juejin.cn/post/7679133086102306862",
+      "source": "juejin",
+      "score": 60,
+      "raw_score": 2,
+      "comments": 0,
+      "author": "软件科学_郝学胜",
+      "created_at": "",
+      "summary": "很多刚上手 Python 的同学，访问元组、列表里的数据时，第一反应就是疯狂写下标[0]、[1]、[i‑1]。下标写多了，代码里到处都是数字魔法值，可读性直线下降，改代码的时候还很容易把[0]写成[1"
     }
   ]
 }
