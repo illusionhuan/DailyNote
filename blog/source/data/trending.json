@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-08-31T02:23:07.333021+00:00",
+  "updated_at": "2026-08-31T18:26:31.917708+00:00",
   "articles": [
     {
-      "title": "豆包工作Agent正式发布，直接给到夯。",
-      "url": "https://juejin.cn/post/7679623224678613034",
+      "title": "公司没给活干，却因为员工看手机把人开了：法院判赔11万元",
+      "url": "https://juejin.cn/post/7679402031226110004",
       "source": "juejin",
-      "score": 454,
-      "raw_score": 188,
+      "score": 579,
+      "raw_score": 788,
+      "comments": 2,
+      "author": "勇宝趣学前端",
+      "created_at": "",
+      "summary": "看到这个新闻，很多打工人第一反应可能不是惊讶，而是后背发凉。 因为谁上班没看过手机？ 查看钉钉工作消息、回复客户信息、搜工作相关的资料，甚至只是上个厕所、接杯水，都可能被摄像头记录下来。可一旦公司想找"
+    },
+    {
+      "title": "Show me your works & token -稀土掘金上线作品广场和用量统计",
+      "url": "https://juejin.cn/post/7675992325912887315",
+      "source": "juejin",
+      "score": 519,
+      "raw_score": 396,
+      "comments": 2,
+      "author": "XCaptain",
+      "created_at": "",
+      "summary": "过去很多年，程序员之间有一句很酷的话： Show me your code. 代码是作品，也是名片。 你写过什么、解决过什么问题，往往比简历上的几句话更有说服力。 但这两年，AI 把很多事情重新改写了"
+    },
+    {
+      "title": "Redis已正式接入AI",
+      "url": "https://juejin.cn/post/7680014875347255334",
+      "source": "juejin",
+      "score": 518,
+      "raw_score": 390,
       "comments": 1,
-      "author": "沉默王二",
+      "author": "苏三说技术",
       "created_at": "",
-      "summary": "豆包工作 Agent 深度测评，字节在 Agent 时代推出的办公 AI 产品，多端同步、云电脑、Skill 调用、Seedance 创作实测"
+      "summary": "前言 Redis正在从一个“缓存中间件”进化成AI应用的“实时数据基础设施”。 2026年，Redis在AI方向上的布局已经全面铺开——向量搜索、Vector Sets、语义缓存、AI Agent上下"
     },
     {
-      "title": "栗子前端技术周刊第 144 期 - Rspack 2.2、pnpm 12、Solid 2.0 RC...",
-      "url": "https://juejin.cn/post/7679542577553506358",
+      "title": "老板要周报？我说不用，代码提交就是进度",
+      "url": "https://juejin.cn/post/7679985418771218470",
       "source": "juejin",
-      "score": 394,
-      "raw_score": 94,
-      "comments": 0,
-      "author": "晓得迷路了",
+      "score": 504,
+      "raw_score": 334,
+      "comments": 5,
+      "author": "阳火锅",
       "created_at": "",
-      "summary": "🌰栗子前端技术周刊第 144 期 (2026.08.24 - 2026.08.30)：浏览前端一周最新消息，学习国内外优秀文章，让我们保持对前端的好奇心。 📰 技术资讯 Rspack 2.2：Rspa"
+      "summary": "一、研发进度管理，为什么总是这么难？ 作为一个全栈开发者，我长期被一个问题困扰：代码写了不少，但进度条总是不准。 常见场景： 周一会议上项目经理问\"登录模块做到哪了\"，我说\"差不多了\"，其实才 60%"
     },
     {
-      "title": "AI 时代，一个优化 Flutter 的重复代码工具 Deslop",
-      "url": "https://juejin.cn/post/7679542577553571894",
+      "title": "Agent 技术调研自动化",
+      "url": "https://juejin.cn/post/7680066396042215470",
       "source": "juejin",
-      "score": 381,
-      "raw_score": 81,
+      "score": 322,
+      "raw_score": 41,
       "comments": 0,
-      "author": "恋猫de小郭",
+      "author": "plainGeek",
       "created_at": "",
-      "summary": "现在基本都在用 AI 写代码，但是实际上 AI 经常缺少全局意识，甚至你就算写了规则，它也不一定遵守，比如一个昨天就看到一个网友发的这个，感觉就挺典型了： 这次情况下，你如果没有仔细 Review ，"
+      "summary": "实战一：技术调研自动化 前面讲的 auto-article 是\"搜资料→写文章\"。这篇做一个不同的东西：技术调研报告。 区别在哪？写文章可以自由发挥，调研报告要求每个观点有来源、关键说法要交叉验证"
     },
     {
-      "title": "个人RAG上线翻车实录-记一次 API 延迟排查",
-      "url": "https://juejin.cn/post/7679458659610394674",
-      "source": "juejin",
-      "score": 318,
-      "raw_score": 39,
-      "comments": 0,
-      "author": "张炯炯",
-      "created_at": "",
-      "summary": "一次 API 延迟排查：从 2 分钟到 314ms，我做了这 5 步 1. 症状：8 秒变 2 分钟 Vue 版前端上线后，一次问答 2-5 分钟。旧 Jinja2 版同样慢。页面完全卡死，终端 Ct"
-    },
-    {
-      "title": "从代理提醒到真实响铃：懒熊闹钟的鸿蒙开发实践",
-      "url": "https://juejin.cn/post/7679975960847761458",
+      "title": "前端转型 Agent 开发 03 之 Agent Tools（给 Agent 装上手脚）",
+      "url": "https://juejin.cn/post/7680079424890601524",
       "source": "juejin",
       "score": 298,
       "raw_score": 31,
       "comments": 0,
-      "author": "李蚊子",
+      "author": "Setsuna_F_Seiei",
       "created_at": "",
-      "summary": "HarmonyOS 目前没有类似 iOS AlarmKit 的完整闹钟能力，第三方应用主要依赖后台代理提醒实现定时触达。本文结合懒熊闹钟的开发实践，分享如何围绕代理提醒补齐通知入口、声音接力、分钟级追"
+      "summary": "介绍 Tool Calling 的定义、注册、执行与 Agent Loop 机制，并覆盖并行调用、失败处理、动态加载、中间件和调用链路生命周期。"
     },
     {
-      "title": "原来每天在听的网易云是这样的……",
-      "url": "https://juejin.cn/post/7679513894666305578",
+      "title": "danci 项目（一）：从需求到架构，一个单词学习系统为什么会这样设计",
+      "url": "https://juejin.cn/post/7680105190972620850",
       "source": "juejin",
-      "score": 289,
-      "raw_score": 28,
+      "score": 260,
+      "raw_score": 20,
       "comments": 0,
-      "author": "周一同学Zelina",
+      "author": "东风破_",
       "created_at": "",
-      "summary": "本周为大家带来《信息美学家》的第020期 如何为音频这个信息，加上可视化载体？ 01 前言 今天想聊一个比较特殊的信息载体——音频。 写这一期的灵感来源是，依瑾给我发了她在大学时候写的公众号，翻了她的"
+      "summary": "danci 项目（一）：从需求到架构，一个单词学习系统为什么会这样设计 一、先从业务开始，而不是从技术栈开始 开发一个项目时，很容易先列出一串技术： 但真正合理的顺序应该是： 技术不是项目的起点，需求"
     },
     {
-      "title": "three.js地图视口瓦片（一）：屏幕角点射线",
-      "url": "https://juejin.cn/post/7679448534010642466",
+      "title": "从案例分析 Vue3 Tokenizer+Parser 源码三",
+      "url": "https://juejin.cn/post/7680066396043067438",
+      "source": "juejin",
+      "score": 260,
+      "raw_score": 20,
+      "comments": 0,
+      "author": "单线程_01",
+      "created_at": "",
+      "summary": "情形三：文本及标签(source=\"<div>hello</div>\") 本小节拆解 Vue3 编译器中普通 HTML 标签与内部文本节点的完整解析流程。以单元测试用例 __tests__/parse"
+    },
+    {
+      "title": "Event-Driven AI 架构解析：从 Confluent Intelligence 三大支柱到阿里云实践",
+      "url": "https://juejin.cn/post/7680002481973166080",
+      "source": "juejin",
+      "score": 260,
+      "raw_score": 20,
+      "comments": 0,
+      "author": "阿里云云原生",
+      "created_at": "",
+      "summary": "AI 应用从 Demo 走向生产的过程中，一个越来越普遍的判断正在形成：模型选型不再是主要瓶颈，另一个同样关键的变量，是那条把业务事件送进模型的数据链路。"
+    },
+    {
+      "title": "AI Slop 治理实战",
+      "url": "https://juejin.cn/post/7680067373006290944",
+      "source": "juejin",
+      "score": 255,
+      "raw_score": 19,
+      "comments": 0,
+      "author": "Shockang",
+      "created_at": "",
+      "summary": "AI生成UI同质化严重，源于上下文缺失而非模型缺陷。Vibe Coding将上下文载体转向spec，需以spec契约固化业务、设计、工程、约束四层上下文。"
+    },
+    {
+      "title": "SDD 文档驱动开发实战：从 proposal 到 tasks 再到 AI 编码的完整工作流",
+      "url": "https://juejin.cn/post/7680043958140125238",
+      "source": "juejin",
+      "score": 235,
+      "raw_score": 15,
+      "comments": 0,
+      "author": "浮生望",
+      "created_at": "",
+      "summary": "以Chrome英文翻译插件为案例，详解SDD文档驱动开发：proposal定需求、design定架构、tasks拆任务、AI严格按任务编码，文档先行让AI辅助开发有据可依、可追溯、可回退。"
+    },
+    {
+      "title": "danci 项目（三）：从 JSON 数据到 AI Coding，真实项目里的数据清洗、Prompt 和工程规范",
+      "url": "https://juejin.cn/post/7680066396043280430",
+      "source": "juejin",
+      "score": 229,
+      "raw_score": 14,
+      "comments": 0,
+      "author": "东风破_",
+      "created_at": "",
+      "summary": "一、几千个单词不可能手工录入 一个单词学习系统可能需要： 这些数据加起来可能有几千甚至上万个单词。 如果后台管理员一个个录入，显然不现实。 因此更合理的方法是寻找已有的开放数据源。 例如： 这时候任务"
+    },
+    {
+      "title": "danci 2：创建的单词书到底存在哪里？从 Supabase 一路理解 ORM、Drizzle 和 RLS",
+      "url": "https://juejin.cn/post/7680074643860455450",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "东风破_",
+      "created_at": "",
+      "summary": "从“创建的单词书存在哪里”出发，串起 PostgreSQL、Supabase、ORM、Drizzle、schema、migration、表关系、级联删除与 RLS，理解整个数据层的核心逻辑。"
+    },
+    {
+      "title": "FDE 最大的浪费不是写出有 bug 的代码，而是漂亮地解决了一个错误的问题",
+      "url": "https://juejin.cn/post/7680094035273023498",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "xiaominlaopodaren",
+      "author": "怕浪猫",
       "created_at": "",
-      "summary": "屏幕角点射线：从二维像素回到三维世界 视口 cover 的第一个问题不是“中心点在哪个瓦片”，而是“整块屏幕看见了哪片地面”。屏幕是二维矩形，地图地面是三维场景中的平面；连接二者的工具是一组从相机出发"
+      "summary": "第 2 章 解决正确的问题 2.1 进场第一周怎么过 第一周的目标只有一个：建立对客户业务的\"地面真相\"认知，而不是接受转述版本。 客户给你的背景材料、招标文件、高层访谈，都是二手的；二手信息经过了过"
     },
     {
-      "title": "PDF 转纯文本（TXT）免费攻略：轻松提取文字内容",
-      "url": "https://juejin.cn/post/7679973154160951306",
+      "title": "React JWT 登录鉴权实战：Zustand 状态管理 + Axios 拦截器 + 路由守卫完整链路",
+      "url": "https://juejin.cn/post/7680023541135425577",
       "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
+      "score": 190,
+      "raw_score": 9,
       "comments": 0,
-      "author": "缺点内向",
+      "author": "浮生望",
       "created_at": "",
-      "summary": "本文将全面介绍从 PDF 中提取文本的几种常见方法，让您轻松完成编辑、搜索、数据分析和与其他工具的集成。"
-    },
-    {
-      "title": "第 3 周：UIButton 点了没反应，因为它默认就没有按压态",
-      "url": "https://juejin.cn/post/7679331643698429971",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "随遇丿而安",
-      "created_at": "",
-      "summary": "写安卓的时候，按钮是\"最不用想\"的控件。android:background=\"@drawable/bg_btn\" 配个 ripple，setOnClickListener 挂上去"
-    },
-    {
-      "title": "从\"复制粘贴到抓狂\"到\"30分钟上线一个工具\"：我用 AI 做了个大小写转换器",
-      "url": "https://juejin.cn/post/7679402031225618484",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "郭邯",
-      "created_at": "",
-      "summary": "前两周写文档的时候遇到一个很烦的问题：从 API 返回的数据里拿了一堆 user_name、created_at 这样的字段，要转成前端用的 userName、createdAt 驼峰命名。手动改吧，"
-    },
-    {
-      "title": "Docker Compose 是什么？用 Milvus 看懂多容器编排",
-      "url": "https://juejin.cn/post/7679448534010478626",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "不好听613",
-      "created_at": "",
-      "summary": "零、一个问题：Milvus 为什么不是一个容器就够了？ 第一次接触 Milvus 时，我以为只要运行一个 Milvus 镜像，向量数据库就能工作。真正打开官方 Compose 配置后，才发现它通常由三"
-    },
-    {
-      "title": "一个看不见的字符——CRLF 如何让我的 Docker 初始化脚本\"静默失踪\"",
-      "url": "https://juejin.cn/post/7679262919202996266",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "Jesse_EC",
-      "created_at": "",
-      "summary": "docker compose up -d 一切正常，所有容器 healthy，没有任何报错。 但是服务启动后连不上 Gmail，因为数据库里的 API Key 表是空的，具体原因是什么呢？"
-    },
-    {
-      "title": "finally 里的 return，会把 try 里的异常都吞掉",
-      "url": "https://juejin.cn/post/7679448534011265058",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "Zane1994",
-      "created_at": "",
-      "summary": "写在前面 try-catch-finally看起来是最基础的语法，但只要return和finally混在一起用，行为就开始变得反直觉。这篇把几个具体场景过一遍，讲清楚finally到底是在什么时机、以"
-    },
-    {
-      "title": "向量数据库选型：Milvus和Qdrant我都上了生产，说点实话",
-      "url": "https://juejin.cn/post/7679542577554079798",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "卷毛的技术笔记",
-      "created_at": "",
-      "summary": "今年我们公司在搞知识库问答系统，向量数据库是绕不开的一环。网上关于Milvus和Qdrant的对比文章很多，但大多是\"部署个demo跑一下\"就下结论，真上过生产、扛过真实流量的不多。 这两个我都部署过"
-    },
-    {
-      "title": "Vue3 组合式 API 最佳实践：我这一年踩过的坑",
-      "url": "https://juejin.cn/post/7679975960847695922",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "巴勒个啦",
-      "created_at": "",
-      "summary": "Vue3组合式API最佳实践：我这一年踩过的坑去年我把一个维护了两年的Vue2储能监控平台迁到Vue3，本以为只是把data换成ref、methods换成普通函数，结果项目组集体翻车：watch莫名其"
+      "summary": "从JWT原理出发，用React+Zustand构建完整登录鉴权：Mock服务端签发token、Axios拦截器注入Authorization、路由守卫保护敏感页面，拆解前后端鉴权全链路。"
     }
   ]
 }
