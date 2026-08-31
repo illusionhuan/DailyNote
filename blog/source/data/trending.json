@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-08-30T15:43:27.623828+00:00",
+  "updated_at": "2026-08-31T02:23:07.333021+00:00",
   "articles": [
     {
-      "title": "走进 AI Agent 第二篇：决定 AI Agent 能力上限的关键技术",
-      "url": "https://juejin.cn/post/7677562804154531890",
+      "title": "豆包工作Agent正式发布，直接给到夯。",
+      "url": "https://juejin.cn/post/7679623224678613034",
       "source": "juejin",
-      "score": 817,
-      "raw_score": 12245,
-      "comments": 13,
-      "author": "老王以为",
+      "score": 454,
+      "raw_score": 188,
+      "comments": 1,
+      "author": "沉默王二",
       "created_at": "",
-      "summary": "决定 Agent 实际表现的，不只是模型，更是上下文如何组织。从 KV Cache 缓存失效机制、Skills 渐进式披露，到 Agent 状态栏与上下文感知压缩、子 Agent 隔离。"
+      "summary": "豆包工作 Agent 深度测评，字节在 Agent 时代推出的办公 AI 产品，多端同步、云电脑、Skill 调用、Seedance 创作实测"
     },
     {
-      "title": "「速通Shell」Shell 编程性能优化",
-      "url": "https://juejin.cn/post/7678975240300773428",
+      "title": "栗子前端技术周刊第 144 期 - Rspack 2.2、pnpm 12、Solid 2.0 RC...",
+      "url": "https://juejin.cn/post/7679542577553506358",
       "source": "juejin",
-      "score": 702,
-      "raw_score": 3243,
+      "score": 394,
+      "raw_score": 94,
       "comments": 0,
-      "author": "柒号华仔",
+      "author": "晓得迷路了",
       "created_at": "",
-      "summary": "前面几篇讲了 shell 的语言特性、错误处理、模块化、测试、信号处理，又用三篇讲了常用命令。脚本能跑、能维护、能上线，到这一步很多人就觉得够用了，但真正把脚本从能跑推到专业还有最后一关——性能。"
+      "summary": "🌰栗子前端技术周刊第 144 期 (2026.08.24 - 2026.08.30)：浏览前端一周最新消息，学习国内外优秀文章，让我们保持对前端的好奇心。 📰 技术资讯 Rspack 2.2：Rspa"
     },
     {
-      "title": "看懂大模型架构术语，帮助你理解目前常见的大模型开源架构",
-      "url": "https://juejin.cn/post/7679247792172433423",
+      "title": "AI 时代，一个优化 Flutter 的重复代码工具 Deslop",
+      "url": "https://juejin.cn/post/7679542577553571894",
       "source": "juejin",
-      "score": 369,
-      "raw_score": 70,
+      "score": 381,
+      "raw_score": 81,
       "comments": 0,
       "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "最近 GLM 5.3 Flash、Qwen 3.8 Flash、Hy4 Preview 都扎堆发布，一些术语介绍看的很多人都说什么玩意，那就干脆简单聊聊这些东西是什么，主要是能至少理解这些是什么东西，"
+      "summary": "现在基本都在用 AI 写代码，但是实际上 AI 经常缺少全局意识，甚至你就算写了规则，它也不一定遵守，比如一个昨天就看到一个网友发的这个，感觉就挺典型了： 这次情况下，你如果没有仔细 Review ，"
     },
     {
-      "title": "Agent高级编排模式",
-      "url": "https://juejin.cn/post/7679618338582364170",
+      "title": "个人RAG上线翻车实录-记一次 API 延迟排查",
+      "url": "https://juejin.cn/post/7679458659610394674",
       "source": "juejin",
-      "score": 301,
-      "raw_score": 32,
+      "score": 318,
+      "raw_score": 39,
       "comments": 0,
-      "author": "plainGeek",
+      "author": "张炯炯",
       "created_at": "",
-      "summary": "四个高级编排模式 基础的 agent 串联、parallel、pipeline 会了之后，实际工作中反复出现的就那么几种套路。这篇讲四个用得最多的模式，每个给核心代码和设计思路"
+      "summary": "一次 API 延迟排查：从 2 分钟到 314ms，我做了这 5 步 1. 症状：8 秒变 2 分钟 Vue 版前端上线后，一次问答 2-5 分钟。旧 Jinja2 版同样慢。页面完全卡死，终端 Ct"
     },
     {
-      "title": "Vue的嵌套组件竟然吃掉了我的事件？",
-      "url": "https://juejin.cn/post/7679264879621275688",
+      "title": "从代理提醒到真实响铃：懒熊闹钟的鸿蒙开发实践",
+      "url": "https://juejin.cn/post/7679975960847761458",
       "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
+      "score": 298,
+      "raw_score": 31,
       "comments": 0,
-      "author": "阿橙的百宝箱",
+      "author": "李蚊子",
       "created_at": "",
-      "summary": "Vue的嵌套组件竟然吃掉了我的事件？** -- 引言 在Vue.js开发中，组件化架构为我们带来了极大的便利性，但同时也引入了一些令人困惑的\"陷阱\"。其中，事件在嵌套组件中的传递问题尤其令人头疼——当"
+      "summary": "HarmonyOS 目前没有类似 iOS AlarmKit 的完整闹钟能力，第三方应用主要依赖后台代理提醒实现定时触达。本文结合懒熊闹钟的开发实践，分享如何围绕代理提醒补齐通知入口、声音接力、分钟级追"
     },
     {
-      "title": "深入解构Claude Code - 第 7 篇 · 连接外面的世界",
-      "url": "https://juejin.cn/post/7679451313240670254",
+      "title": "原来每天在听的网易云是这样的……",
+      "url": "https://juejin.cn/post/7679513894666305578",
       "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
+      "score": 289,
+      "raw_score": 28,
       "comments": 0,
-      "author": "小磊哥er",
+      "author": "周一同学Zelina",
       "created_at": "",
-      "summary": "7.1 换个大脑：为什么换成别家公司的模型它也能用 第 1 篇说过，真正思考的模型在远端服务器上。问题是：市面上有多家公司提供模型，它们的\"说话方式\"（请求格式、返回格式）各不相同。为什么这个助手换一"
+      "summary": "本周为大家带来《信息美学家》的第020期 如何为音频这个信息，加上可视化载体？ 01 前言 今天想聊一个比较特殊的信息载体——音频。 写这一期的灵感来源是，依瑾给我发了她在大学时候写的公众号，翻了她的"
     },
     {
-      "title": "一天一个开源项目（第202篇）：Needle 2 - 14MB 的端侧工具调用模型",
-      "url": "https://juejin.cn/post/7679542577528815670",
-      "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
-      "comments": 1,
-      "author": "冬奇Lab",
-      "created_at": "",
-      "summary": "Needle 2 是 Cactus Compute 开源的 45M 参数工具调用模型，整体打包为 14MB 单一二进制，运行仅需 28MB 内存，在三星 A 系列手机上也能跑到 300+ tok/s。"
-    },
-    {
-      "title": "让架构边界变成可执行的测试",
-      "url": "https://juejin.cn/post/7679331643697856531",
-      "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
-      "comments": 0,
-      "author": "稀有猿诉",
-      "created_at": "",
-      "summary": "本文讲解 Kotlin 架构测试：当代码能编译、单测能通过、linter 无报错时，项目仍可能悄悄变得难以维护。它教你用可执行的测试把依赖方向、模块边界、公开 API 等结构性决策固化成规则，让人工与"
-    },
-    {
-      "title": "大模型学习笔记：模型怎么练出来、数据怎么存起来",
-      "url": "https://juejin.cn/post/7679322561684324367",
-      "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
-      "comments": 0,
-      "author": "黑夜给了我黑色的眼睛",
-      "created_at": "",
-      "summary": "一句话总结 离线系统就是 AI 的后方兵工厂：模型在这里训练、数据在这里加工、索引在这里搭建。线上服务能有多好，全看离线系统的底子有多厚——它是构建 AI 系统的\"第一颗扣子\"。 核心内容分两大块 第"
-    },
-    {
-      "title": "nuxt 3 升级 nuxt 4 报错之 hasInjectionContext",
-      "url": "https://juejin.cn/post/7679331643698642963",
-      "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
-      "comments": 0,
-      "author": "excel",
-      "created_at": "",
-      "summary": "代码报错 是因为nuxt4 在打包时会将 @vue node_modules 里的文件部分做为快捷方式引用，所有导制报错"
-    },
-    {
-      "title": "AI 画架构图总差点意思，archify 给它加了一条验收流水线",
-      "url": "https://juejin.cn/post/7679618338582888458",
-      "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
-      "comments": 0,
-      "author": "王若风",
-      "created_at": "",
-      "summary": "archify 连续四天霸榜 Trending，拆开源码看它怎么用类型化 JSON IR、九项检查和原子交付，把 Agent 画图从抽奖变成可验收的工程。"
-    },
-    {
-      "title": "Phosphor Icons 官网源码拆解：URL 即存储、水波动画与 7362 Star 图标库的架构实践",
-      "url": "https://juejin.cn/post/7679451313240899630",
-      "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
-      "comments": 0,
-      "author": "王若风",
-      "created_at": "",
-      "summary": "拆解 Phosphor Icons 图标库官网：Zustand 状态存 URL，fuse.js 搜索与水波动画实现。"
-    },
-    {
-      "title": "大模型学习笔记：AI 学什么数据，决定了它能有多聪明",
-      "url": "https://juejin.cn/post/7679322561684307983",
-      "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
-      "comments": 0,
-      "author": "黑夜给了我黑色的眼睛",
-      "created_at": "",
-      "summary": "一句话总结 数据算法就是：给 AI 挑对输入数据，并按数据特点选对处理方法。 数据分三类——用户（主体）、物品（客体）、场景（环境），每类的玩法不一样。 先搞懂：数据为什么要分类？ AI 自己不会判断"
-    },
-    {
-      "title": "从驱动来分析服务的添加过程",
-      "url": "https://juejin.cn/post/7679322561684275215",
+      "title": "three.js地图视口瓦片（一）：屏幕角点射线",
+      "url": "https://juejin.cn/post/7679448534010642466",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "_祝你今天愉快",
+      "author": "xiaominlaopodaren",
       "created_at": "",
-      "summary": "1. 注册成为驱动的管理者 获取判断 binder 驱动版本号是否一致： struct binder_proc *proc = filp->private_data 这里的 proc 表示：当前打开 "
+      "summary": "屏幕角点射线：从二维像素回到三维世界 视口 cover 的第一个问题不是“中心点在哪个瓦片”，而是“整块屏幕看见了哪片地面”。屏幕是二维矩形，地图地面是三维场景中的平面；连接二者的工具是一组从相机出发"
     },
     {
-      "title": "WebRTC Native / Android 开发学习资源整理",
-      "url": "https://juejin.cn/post/7679618338582937610",
+      "title": "PDF 转纯文本（TXT）免费攻略：轻松提取文字内容",
+      "url": "https://juejin.cn/post/7679973154160951306",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "缺点内向",
+      "created_at": "",
+      "summary": "本文将全面介绍从 PDF 中提取文本的几种常见方法，让您轻松完成编辑、搜索、数据分析和与其他工具的集成。"
+    },
+    {
+      "title": "第 3 周：UIButton 点了没反应，因为它默认就没有按压态",
+      "url": "https://juejin.cn/post/7679331643698429971",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "BigTopOne",
+      "author": "随遇丿而安",
       "created_at": "",
-      "summary": "一、协议原理与入门书籍 入门(浏览器/JS视角,建议先扫一遍建立整体框架) 《Getting Started with WebRTC》 (Rob Manson 著) 只要求 HTML/JS 基础,从最"
+      "summary": "写安卓的时候，按钮是\"最不用想\"的控件。android:background=\"@drawable/bg_btn\" 配个 ripple，setOnClickListener 挂上去"
+    },
+    {
+      "title": "从\"复制粘贴到抓狂\"到\"30分钟上线一个工具\"：我用 AI 做了个大小写转换器",
+      "url": "https://juejin.cn/post/7679402031225618484",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "郭邯",
+      "created_at": "",
+      "summary": "前两周写文档的时候遇到一个很烦的问题：从 API 返回的数据里拿了一堆 user_name、created_at 这样的字段，要转成前端用的 userName、createdAt 驼峰命名。手动改吧，"
+    },
+    {
+      "title": "Docker Compose 是什么？用 Milvus 看懂多容器编排",
+      "url": "https://juejin.cn/post/7679448534010478626",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "不好听613",
+      "created_at": "",
+      "summary": "零、一个问题：Milvus 为什么不是一个容器就够了？ 第一次接触 Milvus 时，我以为只要运行一个 Milvus 镜像，向量数据库就能工作。真正打开官方 Compose 配置后，才发现它通常由三"
+    },
+    {
+      "title": "一个看不见的字符——CRLF 如何让我的 Docker 初始化脚本\"静默失踪\"",
+      "url": "https://juejin.cn/post/7679262919202996266",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "Jesse_EC",
+      "created_at": "",
+      "summary": "docker compose up -d 一切正常，所有容器 healthy，没有任何报错。 但是服务启动后连不上 Gmail，因为数据库里的 API Key 表是空的，具体原因是什么呢？"
+    },
+    {
+      "title": "finally 里的 return，会把 try 里的异常都吞掉",
+      "url": "https://juejin.cn/post/7679448534011265058",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "Zane1994",
+      "created_at": "",
+      "summary": "写在前面 try-catch-finally看起来是最基础的语法，但只要return和finally混在一起用，行为就开始变得反直觉。这篇把几个具体场景过一遍，讲清楚finally到底是在什么时机、以"
+    },
+    {
+      "title": "向量数据库选型：Milvus和Qdrant我都上了生产，说点实话",
+      "url": "https://juejin.cn/post/7679542577554079798",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "卷毛的技术笔记",
+      "created_at": "",
+      "summary": "今年我们公司在搞知识库问答系统，向量数据库是绕不开的一环。网上关于Milvus和Qdrant的对比文章很多，但大多是\"部署个demo跑一下\"就下结论，真上过生产、扛过真实流量的不多。 这两个我都部署过"
+    },
+    {
+      "title": "Vue3 组合式 API 最佳实践：我这一年踩过的坑",
+      "url": "https://juejin.cn/post/7679975960847695922",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "巴勒个啦",
+      "created_at": "",
+      "summary": "Vue3组合式API最佳实践：我这一年踩过的坑去年我把一个维护了两年的Vue2储能监控平台迁到Vue3，本以为只是把data换成ref、methods换成普通函数，结果项目组集体翻车：watch莫名其"
     }
   ]
 }
