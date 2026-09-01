@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-08-31T18:26:31.917708+00:00",
+  "updated_at": "2026-09-01T02:39:47.883578+00:00",
   "articles": [
     {
-      "title": "公司没给活干，却因为员工看手机把人开了：法院判赔11万元",
-      "url": "https://juejin.cn/post/7679402031226110004",
+      "title": "OpenJDK 全面禁止 AI 生成代码！",
+      "url": "https://juejin.cn/post/7680074643861291034",
       "source": "juejin",
-      "score": 579,
-      "raw_score": 788,
-      "comments": 2,
-      "author": "勇宝趣学前端",
-      "created_at": "",
-      "summary": "看到这个新闻，很多打工人第一反应可能不是惊讶，而是后背发凉。 因为谁上班没看过手机？ 查看钉钉工作消息、回复客户信息、搜工作相关的资料，甚至只是上个厕所、接杯水，都可能被摄像头记录下来。可一旦公司想找"
-    },
-    {
-      "title": "Show me your works & token -稀土掘金上线作品广场和用量统计",
-      "url": "https://juejin.cn/post/7675992325912887315",
-      "source": "juejin",
-      "score": 519,
-      "raw_score": 396,
-      "comments": 2,
-      "author": "XCaptain",
-      "created_at": "",
-      "summary": "过去很多年，程序员之间有一句很酷的话： Show me your code. 代码是作品，也是名片。 你写过什么、解决过什么问题，往往比简历上的几句话更有说服力。 但这两年，AI 把很多事情重新改写了"
-    },
-    {
-      "title": "Redis已正式接入AI",
-      "url": "https://juejin.cn/post/7680014875347255334",
-      "source": "juejin",
-      "score": 518,
-      "raw_score": 390,
-      "comments": 1,
-      "author": "苏三说技术",
-      "created_at": "",
-      "summary": "前言 Redis正在从一个“缓存中间件”进化成AI应用的“实时数据基础设施”。 2026年，Redis在AI方向上的布局已经全面铺开——向量搜索、Vector Sets、语义缓存、AI Agent上下"
-    },
-    {
-      "title": "老板要周报？我说不用，代码提交就是进度",
-      "url": "https://juejin.cn/post/7679985418771218470",
-      "source": "juejin",
-      "score": 504,
-      "raw_score": 334,
-      "comments": 5,
-      "author": "阳火锅",
-      "created_at": "",
-      "summary": "一、研发进度管理，为什么总是这么难？ 作为一个全栈开发者，我长期被一个问题困扰：代码写了不少，但进度条总是不准。 常见场景： 周一会议上项目经理问\"登录模块做到哪了\"，我说\"差不多了\"，其实才 60%"
-    },
-    {
-      "title": "Agent 技术调研自动化",
-      "url": "https://juejin.cn/post/7680066396042215470",
-      "source": "juejin",
-      "score": 322,
-      "raw_score": 41,
+      "score": 441,
+      "raw_score": 161,
       "comments": 0,
-      "author": "plainGeek",
+      "author": "CodeSheep",
       "created_at": "",
-      "summary": "实战一：技术调研自动化 前面讲的 auto-article 是\"搜资料→写文章\"。这篇做一个不同的东西：技术调研报告。 区别在哪？写文章可以自由发挥，调研报告要求每个观点有来源、关键说法要交叉验证"
+      "summary": "文章的开头，咱们先来一个小问卷调查吧。 不知道咱们这里有多少小伙伴还在做 Java 开发的？ 最近 Java 圈子里出了一件事情被大家讨论得蛮多的，相信不少同学也都看到了。 那就是 Oracle 针对"
     },
     {
-      "title": "前端转型 Agent 开发 03 之 Agent Tools（给 Agent 装上手脚）",
-      "url": "https://juejin.cn/post/7680079424890601524",
+      "title": "企业级 AI Coding 的 Harness 工程实战：8 个 Skill 串起全链路",
+      "url": "https://juejin.cn/post/7680079424891011124",
       "source": "juejin",
-      "score": 298,
-      "raw_score": 31,
+      "score": 401,
+      "raw_score": 102,
       "comments": 0,
-      "author": "Setsuna_F_Seiei",
+      "author": "乘风gg",
       "created_at": "",
-      "summary": "介绍 Tool Calling 的定义、注册、执行与 Agent Loop 机制，并覆盖并行调用、失败处理、动态加载、中间件和调用链路生命周期。"
+      "summary": "企业级 AI Coding 的 Harness 工程实战：8 个 Skill 串起全链路 上一篇文章我讲了为什么个人提效不等于团队提效，以及一套六步工程框架怎么把 AI 关进流程的笼子里。但那篇留了一"
     },
     {
-      "title": "danci 项目（一）：从需求到架构，一个单词学习系统为什么会这样设计",
-      "url": "https://juejin.cn/post/7680105190972620850",
+      "title": "Codex 额度三天见底后，我重新做了一周预算",
+      "url": "https://juejin.cn/post/7680094035273629706",
       "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
+      "score": 292,
+      "raw_score": 29,
       "comments": 0,
-      "author": "东风破_",
+      "author": "泉凭感觉",
       "created_at": "",
-      "summary": "danci 项目（一）：从需求到架构，一个单词学习系统为什么会这样设计 一、先从业务开始，而不是从技术栈开始 开发一个项目时，很容易先列出一串技术： 但真正合理的顺序应该是： 技术不是项目的起点，需求"
+      "summary": "复盘一周Codex使用：先按工作日和周末做预算，再按任务选择Sol、Terra、Luna和推理强度，减少多余子Agent与无关输出。实测一周后，任务量没有减少，日均调用增加，单次调用Token下降了。"
     },
     {
-      "title": "从案例分析 Vue3 Tokenizer+Parser 源码三",
-      "url": "https://juejin.cn/post/7680066396043067438",
+      "title": "pi agent",
+      "url": "https://juejin.cn/post/7680043958141157430",
       "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "单线程_01",
+      "author": "小小小小宇",
       "created_at": "",
-      "summary": "情形三：文本及标签(source=\"<div>hello</div>\") 本小节拆解 Vue3 编译器中普通 HTML 标签与内部文本节点的完整解析流程。以单元测试用例 __tests__/parse"
+      "summary": "一句话结论 想要开箱即用、少配置：Claude Code 主要使用 OpenAI/Codex 模型，追求官方模型体验：Codex 想接入多种模型、深度定制工具和工作流：Pi Agent 想把 Codi"
     },
     {
-      "title": "Event-Driven AI 架构解析：从 Confluent Intelligence 三大支柱到阿里云实践",
-      "url": "https://juejin.cn/post/7680002481973166080",
+      "title": "模型不是 Agent：从零实现一个最小 Agent Loop",
+      "url": "https://juejin.cn/post/7680099381967863843",
       "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "阿里云云原生",
+      "author": "然我",
       "created_at": "",
-      "summary": "AI 应用从 Demo 走向生产的过程中，一个越来越普遍的判断正在形成：模型选型不再是主要瓶颈，另一个同样关键的变量，是那条把业务事件送进模型的数据链路。"
+      "summary": "调用一次大模型 API，可以得到一段文本，也可能得到一个工具调用请求。但这还不是一个完整的 Agent。 原因并不复杂：模型只能生成“下一步应该做什么”，不能替宿主执行函数，也不知道函数执行后发生了什"
     },
     {
-      "title": "AI Slop 治理实战",
-      "url": "https://juejin.cn/post/7680067373006290944",
-      "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
-      "comments": 0,
-      "author": "Shockang",
-      "created_at": "",
-      "summary": "AI生成UI同质化严重，源于上下文缺失而非模型缺陷。Vibe Coding将上下文载体转向spec，需以spec契约固化业务、设计、工程、约束四层上下文。"
-    },
-    {
-      "title": "SDD 文档驱动开发实战：从 proposal 到 tasks 再到 AI 编码的完整工作流",
-      "url": "https://juejin.cn/post/7680043958140125238",
+      "title": "原来知识库，还能这么玩？",
+      "url": "https://juejin.cn/post/7680043958140764214",
       "source": "juejin",
       "score": 235,
       "raw_score": 15,
       "comments": 0,
-      "author": "浮生望",
+      "author": "周一同学Zelina",
       "created_at": "",
-      "summary": "以Chrome英文翻译插件为案例，详解SDD文档驱动开发：proposal定需求、design定架构、tasks拆任务、AI严格按任务编码，文档先行让AI辅助开发有据可依、可追溯、可回退。"
+      "summary": "本周为大家带来《信息美学家》的第21期 每天都在用的知识库，原来还能这么玩？ 01 前言 也许大家在做自己的知识库时，会遇到这样的问题：文档越攒越多，但它们始终是散的。 整个知识库看起来像一盘散沙，而"
     },
     {
-      "title": "danci 项目（三）：从 JSON 数据到 AI Coding，真实项目里的数据清洗、Prompt 和工程规范",
-      "url": "https://juejin.cn/post/7680066396043280430",
+      "title": "Agent代码审查与批量修复流水线",
+      "url": "https://juejin.cn/post/7680083692007571456",
       "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
+      "score": 235,
+      "raw_score": 15,
       "comments": 0,
-      "author": "东风破_",
+      "author": "plainGeek",
       "created_at": "",
-      "summary": "一、几千个单词不可能手工录入 一个单词学习系统可能需要： 这些数据加起来可能有几千甚至上万个单词。 如果后台管理员一个个录入，显然不现实。 因此更合理的方法是寻找已有的开放数据源。 例如： 这时候任务"
+      "summary": "代码审查与批量修复流水线 第 5 篇讲了审查验证模式：多维度查→去重→逐个验证。这篇把它工程化：确认的问题自动分类，简单的直接修、跑测试验证，修坏了回退；复杂的只报告。"
     },
     {
-      "title": "danci 2：创建的单词书到底存在哪里？从 Supabase 一路理解 ORM、Drizzle 和 RLS",
-      "url": "https://juejin.cn/post/7680074643860455450",
+      "title": "升级Spring Boot 4后，从 Jackson 2 到 3，到底有哪些变化",
+      "url": "https://juejin.cn/post/7680117701171265562",
       "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
+      "score": 222,
+      "raw_score": 13,
       "comments": 0,
-      "author": "东风破_",
+      "author": "SimonKing",
       "created_at": "",
-      "summary": "从“创建的单词书存在哪里”出发，串起 PostgreSQL、Supabase、ORM、Drizzle、schema、migration、表关系、级联删除与 RLS，理解整个数据层的核心逻辑。"
+      "summary": "Spring Boot 4.0（2025年11月 GA）将默认 JSON 处理库从 Jackson 2 升级为 Jackson 3，这是本次大版本升级中影响面最广的破坏性变更之一。"
     },
     {
-      "title": "FDE 最大的浪费不是写出有 bug 的代码，而是漂亮地解决了一个错误的问题",
-      "url": "https://juejin.cn/post/7680094035273023498",
+      "title": "前端到上线全流程：从买服务器到 Nginx 反向代理，搞懂全栈部署",
+      "url": "https://juejin.cn/post/7680074643860160538",
       "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
-      "author": "怕浪猫",
+      "author": "Darling噜啦啦",
       "created_at": "",
-      "summary": "第 2 章 解决正确的问题 2.1 进场第一周怎么过 第一周的目标只有一个：建立对客户业务的\"地面真相\"认知，而不是接受转述版本。 客户给你的背景材料、招标文件、高层访谈，都是二手的；二手信息经过了过"
+      "summary": "前端到上线全流程：从买服务器到 Nginx 反向代理，搞懂全栈部署 一、部署的两个选择：Vercel vs 自建服务器 1.1 Vercel 云端部署 1.2 自建服务器部署 1.3 对比 维度 Ve"
     },
     {
-      "title": "React JWT 登录鉴权实战：Zustand 状态管理 + Axios 拦截器 + 路由守卫完整链路",
-      "url": "https://juejin.cn/post/7680023541135425577",
+      "title": "HID 设备对接技术解析：基于本地中间服务的 WebSocket 通信模式",
+      "url": "https://juejin.cn/post/7680023541135704105",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "浮生望",
+      "author": "小小善后师",
       "created_at": "",
-      "summary": "从JWT原理出发，用React+Zustand构建完整登录鉴权：Mock服务端签发token、Axios拦截器注入Authorization、路由守卫保护敏感页面，拆解前后端鉴权全链路。"
+      "summary": "1. 概述 在医疗临床试验 SaaS 系统中，前端需要与各类体征测量设备（血压计、体温计、身高体重秤等）进行实时数据通信。由于浏览器安全策略限制，JavaScript 无法直接通过 HID 协议操作 "
+    },
+    {
+      "title": "Python 基础语法（二）：字符串与常用操作",
+      "url": "https://juejin.cn/post/7680023541135933481",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "IvanCodes",
+      "created_at": "",
+      "summary": "字符串是 Python 中最常用的数据类型之一。这一节会讲清楚字符串的创建、转义字符、索引与切片、常用方法、格式化以及编码转换，方便后面处理用户输入、文本内容和文件数据。"
+    },
+    {
+      "title": "LangChain 生态：从链到代理，开发者需要掌握的三大核心",
+      "url": "https://juejin.cn/post/7680079424890650676",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "醒来明月",
+      "created_at": "",
+      "summary": "LangChain 现在是一个覆盖了模型接入、流程编排、多智能体协作的完整 LLM 应用开发生态。本文介绍了 LangChain 生态中从链到代理，开发者需要掌握的三大核心。"
+    },
+    {
+      "title": "InputReader与InputDispatcher",
+      "url": "https://juejin.cn/post/7680070101043052590",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "金花顺",
+      "created_at": "",
+      "summary": "InputReader与InputDispatcher 在system_server中，有两个非常重要的线程 InputReader：负责把从EventHub拿走的原始的驱动数据，把它“翻译”成 An"
+    },
+    {
+      "title": "我把\"时间胶囊\"部署上腾讯云宝塔，跨域从根源消失了",
+      "url": "https://juejin.cn/post/7680010851166666786",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "烬羽",
+      "created_at": "",
+      "summary": "我把\"时间胶囊\"部署上腾讯云宝塔，跨域从根源消失了 我做了个叫 FUTURE_CAPSULE（时间胶囊） 的全栈小应用：可以给未来的自己留一段话、设一个解锁时间，倒计时结束前它被锁着显示 [ LOCK"
+    },
+    {
+      "title": "ConcurrentHashMap 怎么保证线程安全？从分段锁到 CAS+synchronized",
+      "url": "https://juejin.cn/post/7680118320520364058",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "搬砖的掘坤人",
+      "created_at": "",
+      "summary": "ConcurrentHashMap 怎么保证线程安全？从分段锁到 CAS+synchronized 一、为什么需要 ConcurrentHashMap？ HashMap 在多线程下会出问题（数据覆盖、"
     }
   ]
 }
