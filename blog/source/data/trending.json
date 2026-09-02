@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-01T15:45:51.236071+00:00",
+  "updated_at": "2026-09-02T02:00:46.022504+00:00",
   "articles": [
     {
-      "title": "Redis已正式接入AI",
-      "url": "https://juejin.cn/post/7680014875347255334",
+      "title": "别让 Codex 一口气写完整个前端：5 组 Skills，把页面、逻辑、测试和构建拆清楚",
+      "url": "https://juejin.cn/post/7680500716225871910",
       "source": "juejin",
-      "score": 615,
-      "raw_score": 1195,
-      "comments": 1,
-      "author": "苏三说技术",
-      "created_at": "",
-      "summary": "前言 Redis正在从一个“缓存中间件”进化成AI应用的“实时数据基础设施”。 2026年，Redis在AI方向上的布局已经全面铺开——向量搜索、Vector Sets、语义缓存、AI Agent上下"
-    },
-    {
-      "title": "OpenJDK 全面禁止 AI 生成代码！",
-      "url": "https://juejin.cn/post/7680074643861291034",
-      "source": "juejin",
-      "score": 615,
-      "raw_score": 1201,
-      "comments": 5,
-      "author": "CodeSheep",
-      "created_at": "",
-      "summary": "文章的开头，咱们先来一个小问卷调查吧。 不知道咱们这里有多少小伙伴还在做 Java 开发的？ 最近 Java 圈子里出了一件事情被大家讨论得蛮多的，相信不少同学也都看到了。 那就是 Oracle 针对"
-    },
-    {
-      "title": "从零搭建你的 AI 编程工作流",
-      "url": "https://juejin.cn/post/7680065840814260224",
-      "source": "juejin",
-      "score": 487,
-      "raw_score": 274,
-      "comments": 1,
-      "author": "全栈弄潮儿",
-      "created_at": "",
-      "summary": "前面的文章分别介绍了需求拆分、代码生成、测试、优化和代码审查。 但在真实开发中，我们很少只做其中一件事。一个功能通常要经历： 如果每一步都临时提问，AI 给出的内容可能互相矛盾，自己也容易忘记验证哪些"
-    },
-    {
-      "title": "六语言引擎实现对比：同构背后的妥协与差异",
-      "url": "https://juejin.cn/post/7679458659610722354",
-      "source": "juejin",
-      "score": 336,
-      "raw_score": 48,
+      "score": 334,
+      "raw_score": 47,
       "comments": 0,
-      "author": "mldong",
+      "author": "Dragon_xjy",
       "created_at": "",
-      "summary": "一条契约变更，六语言同日发版。这篇把 jeeflow 六个实现并排对比：同一副骨架、一个 SPI 的六种写法、语言妥协、实测测试矩阵、差异台账。同构是骨架，妥协是血肉，差异进台账。"
+      "summary": "用 Codex 做前端（前提你得花钱买额度😁😁😁😁😁😁），最容易踩的坑，是一句话同时要求它看 Figma、接接口、修交互、跑测试、打包甚至上线。任务跨度越大，中间越难检查，最后往往只剩一句“已经完成”"
     },
     {
-      "title": "AI 视频迎来了奇点时刻",
-      "url": "https://juejin.cn/post/7680387129118277686",
+      "title": "Flutter A2UI 深度解析，它是怎么提供动态生产力的，然后为什么 A2UI 不只是 Flutter",
+      "url": "https://juejin.cn/post/7680465299678314538",
       "source": "juejin",
-      "score": 313,
-      "raw_score": 37,
+      "score": 235,
+      "raw_score": 15,
       "comments": 0,
-      "author": "stormzhangV",
+      "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "MiniMax H3 Max 生成视频快过播放，5 秒 768P 不到 3 秒出片。fal 把整套无限直播方案开源，弹幕直接改写画面，互动直播时代可能要来了。"
+      "summary": "在之前的 《Flutter A2UI 的正确用法，怎么把 AI 和动态 UI 结合有效生产》 我们已经聊过了 A2UI 一些有意思的生成场景，然后现在 Flutter 官方又通过一个 A2UI Cli"
     },
     {
-      "title": "程序重启后，AI 为什么把你忘了？从 InMemory 到持久化 Memory",
-      "url": "https://juejin.cn/post/7680467550773821490",
+      "title": "从零到上线：全栈项目部署全流程实战",
+      "url": "https://juejin.cn/post/7680457986106736667",
       "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
+      "score": 235,
+      "raw_score": 15,
       "comments": 0,
-      "author": "东风破_",
+      "author": "mONESY",
       "created_at": "",
-      "summary": "Memory 能让模型在多轮对话中记住上下文，但如果历史只存在内存里，程序一重启就会全部丢失。本文从 InMemory 出发，通过文件持久化完整走一遍“保存历史、关闭程序、重新恢复并继续对话”的过程。"
+      "summary": "先想清楚：部署到底在部署什么？ 一个前后端分离的项目，上线后其实跑着三样东西： 组成部分 内容 例子 前端 npm run build 产出的 dist/ 静态资源 HTML / CSS / JS /"
     },
     {
-      "title": "vite-plugin-uni-manifest 更新了什么",
-      "url": "https://juejin.cn/post/7680422632366309411",
-      "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
-      "comments": 0,
-      "author": "狗鸽",
-      "created_at": "",
-      "summary": "vite-plugin-uni-manifest 十来天里接连发布 v0.5 和 v0.6：转向 ESM-only、新增多个插件选项、补齐 uni-app x 相关类型。本文介绍改动和升级方式。"
-    },
-    {
-      "title": "Code Agent 解剖（16）：AgentTeams——为什么一个 agent 不够用？",
-      "url": "https://juejin.cn/post/7680482479992799258",
+      "title": "Kotlin 协程上下文（CoroutineContext）深度解析",
+      "url": "https://juejin.cn/post/7680467550774231090",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "hai_android",
       "created_at": "",
-      "summary": "当单个 agent 遇到任务太长、太复杂、需要并行处理的情况，自然会想到「多开几个」。但多个 agent 协作，远不是「启动多个模型」那么简单。"
+      "summary": "`CoroutineContext` 表现为不可变映射集合，可通过 Key 获取对应 Element（如 `coroutineContext[Job]`）。"
     },
     {
-      "title": "OpenJDK禁AI代码半年了，现在执行得怎么样？答案是：全靠自觉",
-      "url": "https://juejin.cn/post/7680405261429817380",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "Flynt",
-      "created_at": "",
-      "summary": "OpenJDK的AI禁令发了快5个月，Skara PR系统加上了确认框，Debian刚投完票社区直接炸了。同样是开源社区，对AI贡献的态度能从\"完全禁止\"走到\"允许但负责\"。半年过去了，谁也没找到完美"
-    },
-    {
-      "title": "架构图 SKILL 封装好了，顺便做了虾的适配",
-      "url": "https://juejin.cn/post/7680381449195765823",
+      "title": "任务领域边界问题的定义",
+      "url": "https://juejin.cn/post/7680381449195323455",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "飞哥数智谈",
+      "author": "云游者",
       "created_at": "",
-      "summary": "前两天教人用 TRAE SOLO 画架构图，大家却只惦记图本身。于是我干脆把它封成一个 SKILL，三步迁到虾里：生成、安装、调优。效果如何？两级清单稳，三级还得再打磨。"
+      "summary": "需求背景 网约车平台在需求高峰期司机不足时，会针对司机会下发各种任务奖励活动，来吸引司机上线平台进行接单。 当城市独立运营，网约车平台基于城市划分多个法人主体时，给司机发放的金钱奖励，会由公司总部和城"
     },
     {
-      "title": "一只虾到多只虾：先聊聊我为什么要“拆虾”",
-      "url": "https://juejin.cn/post/7680376772703617030",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "飞哥数智谈",
-      "created_at": "",
-      "summary": "为什么一个 AI 助手用久了会\"精神分裂\"？作者把一只虾拆成多只，三个理由直击要害：反复对齐太累、skill 全量加载太贵、单一模型不够用。多 Agent 协作，从拆开始。文末有彩蛋预告。"
-    },
-    {
-      "title": "勿删",
-      "url": "https://juejin.cn/post/7680389947227127860",
+      "title": "three.js地图视口瓦片（二）：如何形成完整视口多边形",
+      "url": "https://juejin.cn/post/7680422632366424099",
       "source": "juejin",
       "score": 169,
       "raw_score": 7,
       "comments": 0,
-      "author": "码事漫谈",
+      "author": "xiaominlaopodaren",
       "created_at": "",
-      "summary": "出事那天是周四，凌晨两点。 告警响的时候我刚睡着，手机在枕头边上震。我摸过来一看，是订单服务的超时。不是全挂，是慢，慢到一批请求卡在七秒以上，然后被网关掐掉。 我起来开电脑。媳妇翻了个身，没醒。 日志"
+      "summary": "地面 footprint：四条射线如何形成完整视口多边形 屏幕角点射线给出 $r(t)=o+t,d$。对于普通二维瓦片源，本书按零高程教学平面 Y=0 求交，把四个命中点转换为 normalized "
     },
     {
-      "title": "大模型为什么能记住上一轮？从 InMemoryChatMessageHistory 看对话 Memory",
-      "url": "https://juejin.cn/post/7680467550774001714",
+      "title": "从一句话，到一套系统",
+      "url": "https://juejin.cn/post/7680404806315622427",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "小海豚儿",
+      "created_at": "",
+      "summary": "过去几年，我们优化 AI 的方式一路往外扩：先琢磨一句提示词，后来开始拆流程、管上下文、搭运行环境、设计反馈循环，再到目前讨论较多的状态与图式编排。"
+    },
+    {
+      "title": "Agent 干活的底层地基：path 路径 + fs 文件系统，一次讲透",
+      "url": "https://juejin.cn/post/7680381449195241535",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "BreezeJiang",
+      "author": "两只羊ovo",
       "created_at": "",
-      "summary": "大模型为什么能记住上一轮？从 InMemoryChatMessageHistory 看对话 Memory 很多“多轮对话”看起来像模型记住了上下文，实际却是应用在做一件非常明确的事：保存消息，再把消息"
+      "summary": "写在前面 上次手写 mini-Cursor，write_file 工具里有一行 path.dirname(filePath) 配 fs.mkdir——当时一笔带过。 但 Agent 读写文件的每一步，"
     },
     {
-      "title": "开源项目第204期：LoopX — 长周期 Agent 控制平面，跑在 Codex/Claude Code 之上的状态管理层",
-      "url": "https://juejin.cn/post/7680456045866041353",
+      "title": "为 Agent 管好一张“上下文预算”：从数条数到数 token",
+      "url": "https://juejin.cn/post/7680450213882200064",
       "source": "juejin",
       "score": 139,
       "raw_score": 5,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "烬羽",
       "created_at": "",
-      "summary": "开源、提供商中立的长周期 Agent 控制平面。不是 Agent 框架，而是运行在任意 Agent harness（Codex/Claude Code/OpenCode 等）之上的持久化状态内核"
+      "summary": "为 Agent 管好一张“上下文预算”：从数条数到数 token 写 Agent 的人迟早会遇到这么一件事： 模型开始“忘事”了——明明第一轮告诉过它的事，第五轮它就当没发生。于是你往 message"
     },
     {
-      "title": "聊天记录越来越长怎么办？从消息数量截断到 Token 截断",
-      "url": "https://juejin.cn/post/7680376772703502342",
+      "title": "1. 从零搭建企业级 Monorepo 工程化模板：初始化、应用创建与共享 TypeScript 配置",
+      "url": "https://juejin.cn/post/7680405261429604388",
       "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
+      "score": 139,
+      "raw_score": 5,
       "comments": 0,
-      "author": "东风破_",
+      "author": "咖啡无伴侣",
       "created_at": "",
-      "summary": "Memory 能保存多轮聊天，但历史消息不可能无限塞进模型上下文。本文从最简单的 `slice(-N)` 开始，逐步升级到 Token 截断，并从二分查找的角度理解：如何在有限 Token 预算下，找"
+      "summary": "导语 本文记录我在搭建企业级 HRMS 人事管理系统 Monorepo 模板时的学习笔记，涵盖第一步初始化基础结构、第二步创建第一个应用、第三步配置共享 TypeScript 配置。内容包含核心概念、"
+    },
+    {
+      "title": "OpenClaw Hook系统：Agent框架的非侵入式扩展机制",
+      "url": "https://juejin.cn/post/7680387129118408758",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "程序员麻辣烫",
+      "created_at": "",
+      "summary": "开发复杂AI Agent系统时，经常遇到一个痛点：想在模型调用前增加日志、消息处理前后插入业务规则，就要侵入主流程代码。修改一处逻辑，就要改动核心链路，很容易出现牵一发而动全身的耦合问题。"
+    },
+    {
+      "title": "ndroid 音频系统：AudioTrack 源码深度解析（从 Java 构造到 Native 启动）",
+      "url": "https://juejin.cn/post/7680404806315507739",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "金花顺",
+      "created_at": "",
+      "summary": "framework/base/media/java/android/media/AudioTrack.java"
+    },
+    {
+      "title": "OpenFeign 兜底回调（fallback / fallbackFactory）实战指南",
+      "url": "https://juejin.cn/post/7680436771054305295",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "小刘的编码历程",
+      "created_at": "",
+      "summary": "OpenFeign 是 Spring Cloud 的声明式 HTTP 客户端：定义一个接口并加上注解，就能像调用本地方法一样发起远程 HTTP 请求。"
+    },
+    {
+      "title": "PageHelper 分页封装：TableDataInfo 与 startPage() 的工作原理",
+      "url": "https://juejin.cn/post/7680363612432629803",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "咖啡八杯",
+      "created_at": "",
+      "summary": "PageHelper 分页封装：TableDataInfo 与 startPage() 的工作原理 任何一个管理后台都离不开列表页，而列表页绕不开分页：前端既要展示当前页数据，还得知道总条数好渲染分页"
+    },
+    {
+      "title": "把 Agent 的记忆写进文件：内存 vs 文件，两把钥匙搞定多会话",
+      "url": "https://juejin.cn/post/7680456045866074121",
+      "source": "juejin",
+      "score": 60,
+      "raw_score": 2,
+      "comments": 0,
+      "author": "烬羽",
+      "created_at": "",
+      "summary": "把 Agent 的记忆写进文件：内存 vs 文件，两把钥匙搞定多会话 上一篇我讲了 Agent 的 Memory 怎么在上下文预算里做截断。这一篇换一个方向，讲 Agent 的\"记事本\"到底存在哪。 "
     }
   ]
 }
