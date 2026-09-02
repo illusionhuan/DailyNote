@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-02T02:00:46.022504+00:00",
+  "updated_at": "2026-09-02T15:37:43.915984+00:00",
   "articles": [
     {
-      "title": "别让 Codex 一口气写完整个前端：5 组 Skills，把页面、逻辑、测试和构建拆清楚",
-      "url": "https://juejin.cn/post/7680500716225871910",
+      "title": "sys_dump 备了库，角色和权限别漏在外面",
+      "url": "https://juejin.cn/post/7680551559094517802",
       "source": "juejin",
-      "score": 334,
-      "raw_score": 47,
+      "score": 461,
+      "raw_score": 203,
       "comments": 0,
-      "author": "Dragon_xjy",
+      "author": "一只牛博",
       "created_at": "",
-      "summary": "用 Codex 做前端（前提你得花钱买额度😁😁😁😁😁😁），最容易踩的坑，是一句话同时要求它看 Figma、接接口、修交互、跑测试、打包甚至上线。任务跨度越大，中间越难检查，最后往往只剩一句“已经完成”"
+      "summary": "sys_dump 只导一个库里面的东西，角色、表空间这些全局对象不在里头。这句话听着抽象，真出事是这样的——单库备份文件好好的，校验也过了，换台机器一还原，ksql 当场撂挑子： 备份没坏，数据也没丢"
     },
     {
-      "title": "Flutter A2UI 深度解析，它是怎么提供动态生产力的，然后为什么 A2UI 不只是 Flutter",
-      "url": "https://juejin.cn/post/7680465299678314538",
+      "title": "Fable 5.1 实测：15.84 美元，Pro 用户该买吗？",
+      "url": "https://juejin.cn/post/7680761768890253322",
       "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
+      "score": 308,
+      "raw_score": 35,
       "comments": 0,
-      "author": "恋猫de小郭",
+      "author": "孟健AI编程",
       "created_at": "",
-      "summary": "在之前的 《Flutter A2UI 的正确用法，怎么把 AI 和动态 UI 结合有效生产》 我们已经聊过了 A2UI 一些有意思的生成场景，然后现在 Flutter 官方又通过一个 A2UI Cli"
+      "summary": "大家好，我是孟健。 一次 30 分 43 秒的任务，按 Claude Code cost telemetry 口径花了 15.84 美元，接近 Claude Code Pro 一个月 20 美元月费的"
     },
     {
-      "title": "从零到上线：全栈项目部署全流程实战",
-      "url": "https://juejin.cn/post/7680457986106736667",
+      "title": "SpringBoot Event事件机制，轻松实现业务解耦",
+      "url": "https://juejin.cn/post/7680757400488607780",
       "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
+      "score": 303,
+      "raw_score": 33,
       "comments": 0,
-      "author": "mONESY",
+      "author": "独泪了无痕",
       "created_at": "",
-      "summary": "先想清楚：部署到底在部署什么？ 一个前后端分离的项目，上线后其实跑着三样东西： 组成部分 内容 例子 前端 npm run build 产出的 dist/ 静态资源 HTML / CSS / JS /"
+      "summary": "前言   相信很多人对它的认知，只停留在“监听 SpringBoot 启动”的浅层用法，甚至觉得“日常开发用不上”。但实际上，它是 Spring 全家桶中最强大的解耦神器，更是 SpringBoot "
     },
     {
-      "title": "Kotlin 协程上下文（CoroutineContext）深度解析",
-      "url": "https://juejin.cn/post/7680467550774231090",
+      "title": "Agent少问你，不代表控制更少",
+      "url": "https://juejin.cn/post/7680793159375880227",
+      "source": "juejin",
+      "score": 279,
+      "raw_score": 25,
+      "comments": 0,
+      "author": "芋圆ai",
+      "created_at": "",
+      "summary": "故事是这样的。 上个月，我用 Claude Code 改一个东西，它每跑一个命令都要问我一次。允许，允许，允许。点到第十几次的时候，我发现自己已经完全不看它要干嘛了，手比脑子快，直接按。 我当时就愣住"
+    },
+    {
+      "title": "AI 越来越强，普通人到底该怎么写 Prompt？",
+      "url": "https://juejin.cn/post/7680842667015782451",
+      "source": "juejin",
+      "score": 229,
+      "raw_score": 14,
+      "comments": 0,
+      "author": "深海恶霸Grace",
+      "created_at": "",
+      "summary": "还记得去年年初刚开始学 AI 的时候，我收藏过不少 Prompt 模板。 有的模板很长。先让模型扮演某某专家，再交代背景、目标和步骤，最后还要补一句“请一步一步思考”。少写一段，似乎就担心模型听不懂。"
+    },
+    {
+      "title": "ai agent --- 实现 openclaw 定时间效果",
+      "url": "https://juejin.cn/post/7680767463900774406",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "snow来了",
+      "created_at": "",
+      "summary": "一. Openclaw 的定时需求 给大模型说：你帮我定个闹钟，定到9:00，我要起床去上班。 第二天，你手机的闹钟就响了。 分析openclaw的代码，我们发现它走的是以下流程： 最主要的就是这个t"
+    },
+    {
+      "title": "自定义 UI-UX-Pro-Max 的 CSV 知识库，把 AI 生成的后台拉回行业该有的样子",
+      "url": "https://juejin.cn/post/7680842667015274547",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "独立开发阿平",
+      "created_at": "",
+      "summary": "UI-UX-Pro-Max 内置 192 套行业设计推理规则，垂直行业覆盖永远差最后一块拼图。我拆了它的 data/*.csv，学会把团队设计规范喂给本地 AI Skill。"
+    },
+    {
+      "title": "【SAA实战】第 3 篇 · 工具调用全攻略：把业务能力交给 Agent 自己调度",
+      "url": "https://juejin.cn/post/7680778738557780004",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "第一行代码HW",
+      "created_at": "",
+      "summary": "做过后端的都懂这种场景：售后客服一天到晚被问三件事—— - \"我订单 SO12345 到哪了？\" - \"从杭州寄 3 公斤到北京多少钱？\""
+    },
+    {
+      "title": "【OpenClaw具身硬件】ZeroClaw 源码阅读笔记（3）--- RAG",
+      "url": "https://juejin.cn/post/7680761768890433546",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "罗西的思考",
+      "created_at": "",
+      "summary": "【OpenClaw具身硬件】ZeroClaw 源码阅读笔记（3）--- RAG 0x00 概要 0x01 两套RAG 1.1 关键差异 1.2 工程取舍 0x02 HardwarRag 基础 2.1 "
+    },
+    {
+      "title": "换模型之后，Chatbot 为什么要自己做 compact？",
+      "url": "https://juejin.cn/post/7680761868907757602",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "hai_android",
+      "author": "码云之上",
       "created_at": "",
-      "summary": "`CoroutineContext` 表现为不可变映射集合，可通过 Key 获取对应 Element（如 `coroutineContext[Job]`）。"
+      "summary": "官方 compact 的加密块过不了厂商边界。自研的Chatbot用旧段摘要加近窗原文，把压缩结果做成可跨模型的普通消息。从而实现了自定义的长对话 compact。"
     },
     {
-      "title": "任务领域边界问题的定义",
-      "url": "https://juejin.cn/post/7680381449195323455",
+      "title": "🎃 前端学了 Next.js，后端该学啥？NestJS 就是 Node 版的蜜雪冰城",
+      "url": "https://juejin.cn/post/7680766055174651947",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "云游者",
+      "author": "默_笙",
       "created_at": "",
-      "summary": "需求背景 网约车平台在需求高峰期司机不足时，会针对司机会下发各种任务奖励活动，来吸引司机上线平台进行接单。 当城市独立运营，网约车平台基于城市划分多个法人主体时，给司机发放的金钱奖励，会由公司总部和城"
+      "summary": "一、NestJS 是什么：Next.js 的\"后端表哥\" 一句话区分： 框架 定位 擅长 Next.js 全栈框架 前端 SSR/SSG + API 路由 NestJS 纯后端框架 企业级 API、微"
     },
     {
-      "title": "three.js地图视口瓦片（二）：如何形成完整视口多边形",
-      "url": "https://juejin.cn/post/7680422632366424099",
+      "title": "AI Agent 的安全围栏：DeepSeek Harness 沙箱隔离策略全解析",
+      "url": "https://juejin.cn/post/7680842064036921353",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "怕浪猫",
+      "created_at": "",
+      "summary": "第13章：沙箱与执行安全——进程隔离策略与平台实现 agent 能跑命令、能写文件——但这意味着它也能删库、能泄密、能执行恶意代码。一个没有安全边界的 coding agent 是定时炸弹。 dsh "
+    },
+    {
+      "title": "browser-use团队新作：让编程Agent帮你剪视频，核心设计思路有点意思",
+      "url": "https://juejin.cn/post/7680767463900692486",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "Flynt",
+      "created_at": "",
+      "summary": "browser-use团队开源了video-use，GitHub 23k★。核心不是\"AI自动剪辑\"这个噱头，而是它处理视频的方式——给大模型文本而不是帧。这个设计思路和browser-use处理网页"
+    },
+    {
+      "title": "Godot 4 入门（01）：安装、汉化并运行第一个 2D 游戏场景",
+      "url": "https://juejin.cn/post/7680772297336619027",
       "source": "juejin",
       "score": 169,
       "raw_score": 7,
       "comments": 0,
-      "author": "xiaominlaopodaren",
+      "author": "烛阴",
       "created_at": "",
-      "summary": "地面 footprint：四条射线如何形成完整视口多边形 屏幕角点射线给出 $r(t)=o+t,d$。对于普通二维瓦片源，本书按零高程教学平面 Y=0 求交，把四个命中点转换为 normalized "
+      "summary": "一、开始之前，需要准备什么？ 你只需要准备： 一台 Windows、macOS 或 Linux 电脑 大约 200 MB 的可用磁盘空间 一个方便存放练习项目的目录 愿意亲手操作十几分钟 Godot "
     },
     {
-      "title": "从一句话，到一套系统",
-      "url": "https://juejin.cn/post/7680404806315622427",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "小海豚儿",
-      "created_at": "",
-      "summary": "过去几年，我们优化 AI 的方式一路往外扩：先琢磨一句提示词，后来开始拆流程、管上下文、搭运行环境、设计反馈循环，再到目前讨论较多的状态与图式编排。"
-    },
-    {
-      "title": "Agent 干活的底层地基：path 路径 + fs 文件系统，一次讲透",
-      "url": "https://juejin.cn/post/7680381449195241535",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "两只羊ovo",
-      "created_at": "",
-      "summary": "写在前面 上次手写 mini-Cursor，write_file 工具里有一行 path.dirname(filePath) 配 fs.mkdir——当时一笔带过。 但 Agent 读写文件的每一步，"
-    },
-    {
-      "title": "为 Agent 管好一张“上下文预算”：从数条数到数 token",
-      "url": "https://juejin.cn/post/7680450213882200064",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "烬羽",
-      "created_at": "",
-      "summary": "为 Agent 管好一张“上下文预算”：从数条数到数 token 写 Agent 的人迟早会遇到这么一件事： 模型开始“忘事”了——明明第一轮告诉过它的事，第五轮它就当没发生。于是你往 message"
-    },
-    {
-      "title": "1. 从零搭建企业级 Monorepo 工程化模板：初始化、应用创建与共享 TypeScript 配置",
-      "url": "https://juejin.cn/post/7680405261429604388",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "咖啡无伴侣",
-      "created_at": "",
-      "summary": "导语 本文记录我在搭建企业级 HRMS 人事管理系统 Monorepo 模板时的学习笔记，涵盖第一步初始化基础结构、第二步创建第一个应用、第三步配置共享 TypeScript 配置。内容包含核心概念、"
-    },
-    {
-      "title": "OpenClaw Hook系统：Agent框架的非侵入式扩展机制",
-      "url": "https://juejin.cn/post/7680387129118408758",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "程序员麻辣烫",
-      "created_at": "",
-      "summary": "开发复杂AI Agent系统时，经常遇到一个痛点：想在模型调用前增加日志、消息处理前后插入业务规则，就要侵入主流程代码。修改一处逻辑，就要改动核心链路，很容易出现牵一发而动全身的耦合问题。"
-    },
-    {
-      "title": "ndroid 音频系统：AudioTrack 源码深度解析（从 Java 构造到 Native 启动）",
-      "url": "https://juejin.cn/post/7680404806315507739",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "金花顺",
-      "created_at": "",
-      "summary": "framework/base/media/java/android/media/AudioTrack.java"
-    },
-    {
-      "title": "OpenFeign 兜底回调（fallback / fallbackFactory）实战指南",
-      "url": "https://juejin.cn/post/7680436771054305295",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "小刘的编码历程",
-      "created_at": "",
-      "summary": "OpenFeign 是 Spring Cloud 的声明式 HTTP 客户端：定义一个接口并加上注解，就能像调用本地方法一样发起远程 HTTP 请求。"
-    },
-    {
-      "title": "PageHelper 分页封装：TableDataInfo 与 startPage() 的工作原理",
-      "url": "https://juejin.cn/post/7680363612432629803",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "咖啡八杯",
-      "created_at": "",
-      "summary": "PageHelper 分页封装：TableDataInfo 与 startPage() 的工作原理 任何一个管理后台都离不开列表页，而列表页绕不开分页：前端既要展示当前页数据，还得知道总条数好渲染分页"
-    },
-    {
-      "title": "把 Agent 的记忆写进文件：内存 vs 文件，两把钥匙搞定多会话",
-      "url": "https://juejin.cn/post/7680456045866074121",
+      "title": "如何统计当前目录下所有 java 文件的总行数？",
+      "url": "https://juejin.cn/post/7680770838016131123",
       "source": "juejin",
       "score": 60,
       "raw_score": 2,
       "comments": 0,
-      "author": "烬羽",
+      "author": "金銀銅鐵",
       "created_at": "",
-      "summary": "把 Agent 的记忆写进文件：内存 vs 文件，两把钥匙搞定多会话 上一篇我讲了 Agent 的 Memory 怎么在上下文预算里做截断。这一篇换一个方向，讲 Agent 的\"记事本\"到底存在哪。 "
+      "summary": "有时候我想知道某个项目的 java 文件一共有多少行（只需要知道大致的情况，不必特意剔除空行、注释等），于是就想了想应该怎么做"
     }
   ]
 }
