@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-03T02:05:30.471633+00:00",
+  "updated_at": "2026-09-03T15:29:08.077457+00:00",
   "articles": [
     {
-      "title": "我为什么喜欢 Compose ？",
-      "url": "https://juejin.cn/post/7680757400489541668",
+      "title": "Java切面编程（AOP）详解：从核心概念到实战应用",
+      "url": "https://juejin.cn/post/7680496681512042548",
       "source": "juejin",
-      "score": 341,
-      "raw_score": 51,
-      "comments": 2,
-      "author": "RockByte",
+      "score": 781,
+      "raw_score": 8065,
+      "comments": 0,
+      "author": "vipxieliang",
       "created_at": "",
-      "summary": "自 2021 年 7 月发布第一个稳定版本 Compose 1.0 到现在，Compose 已经走过了五个年头，最新版是 8 月份的 1.12 版本。"
+      "summary": "Java切面编程（AOP）详解：从核心概念到实战应用 📋 目录 什么是 AOP 为什么需要 AOP：横切关注点 六大核心概念 1. 切面 Aspect 2. 连接点 JoinPoint 3. 切入点 "
     },
     {
-      "title": "AI 时代，也许你的 Flutter 需要一套 Dartastic OpenTelemetry 监控",
-      "url": "https://juejin.cn/post/7680757400489738276",
+      "title": "sys_dump 备了库，角色和权限别漏在外面",
+      "url": "https://juejin.cn/post/7680551559094517802",
       "source": "juejin",
-      "score": 336,
-      "raw_score": 48,
-      "comments": 1,
+      "score": 619,
+      "raw_score": 1256,
+      "comments": 0,
+      "author": "一只牛博",
+      "created_at": "",
+      "summary": "sys_dump 只导一个库里面的东西，角色、表空间这些全局对象不在里头。这句话听着抽象，真出事是这样的——单库备份文件好好的，校验也过了，换台机器一还原，ksql 当场撂挑子： 备份没坏，数据也没丢"
+    },
+    {
+      "title": "Flutter A2UI 深度解析，它是怎么提供动态生产力的，然后为什么 A2UI 不只是 Flutter",
+      "url": "https://juejin.cn/post/7680465299678314538",
+      "source": "juejin",
+      "score": 476,
+      "raw_score": 242,
+      "comments": 0,
       "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "先简单说说 OpenTelemetry，大家应该不陌生，它是一个供应商无关的开源可观测性框架，可以用于检测、生成、收集和导出遥测数据，比如 traces、metrics和 logs 等，因为 OTel"
+      "summary": "在之前的 《Flutter A2UI 的正确用法，怎么把 AI 和动态 UI 结合有效生产》 我们已经聊过了 A2UI 一些有意思的生成场景，然后现在 Flutter 官方又通过一个 A2UI Cli"
     },
     {
-      "title": "AI 测试提效 ｜ 别搞万能 Skill，推荐5 个 Agent Skill 串起 UI 自动化执行到报告生成全流程",
-      "url": "https://juejin.cn/post/7680841873821122602",
+      "title": "一、《从零手撸 Agent》 我用 10 行代码跑通了第一次大模型调用（顺便踩了 4 个坑）",
+      "url": "https://juejin.cn/post/7680471403955191814",
+      "source": "juejin",
+      "score": 426,
+      "raw_score": 136,
+      "comments": 2,
+      "author": "编程干货铺",
+      "created_at": "",
+      "summary": "起因 前阵子公司想搞个内部 AI 工具，活儿落我头上。说实话我当时对大模型的认知停留在\"网页上跟它聊天\"，代码怎么调、钱怎么算、Key 从哪来，一概不知。折腾了一晚上跑通第一次调用之后我发现，这件事本"
+    },
+    {
+      "title": "二、《从零手撸 Agent》 — 聊聊 LLM 的失忆真相",
+      "url": "https://juejin.cn/post/7680445889979301907",
+      "source": "juejin",
+      "score": 397,
+      "raw_score": 97,
+      "comments": 0,
+      "author": "编程干货铺",
+      "created_at": "",
+      "summary": "先看一个翻车现场 上一篇末尾我埋了个伏笔，现在揭晓。连续问它两个问题： 上一句刚说完，它翻脸不认人。 我第一次碰到这个的时候，第一反应是\"这模型有 bug 吧\"。后来想明白了：没有 bug，这就是 A"
+    },
+    {
+      "title": "SpringBoot Event事件机制，轻松实现业务解耦",
+      "url": "https://juejin.cn/post/7680757400488607780",
+      "source": "juejin",
+      "score": 376,
+      "raw_score": 76,
+      "comments": 0,
+      "author": "独泪了无痕",
+      "created_at": "",
+      "summary": "前言   相信很多人对它的认知，只停留在“监听 SpringBoot 启动”的浅层用法，甚至觉得“日常开发用不上”。但实际上，它是 Spring 全家桶中最强大的解耦神器，更是 SpringBoot "
+    },
+    {
+      "title": "每天认识一个组件：元数据湖 Apache Gravitino",
+      "url": "https://juejin.cn/post/7680804938548887579",
       "source": "juejin",
       "score": 282,
       "raw_score": 26,
       "comments": 0,
-      "author": "狂师",
+      "author": "大大大大晴天",
       "created_at": "",
-      "summary": "本文系统提出UI自动化测试执行阶段的AI赋能方案，针对“跑测试难、失败诊断难、修复效率低、报告手工拼”等五大痛点，设计5个专业Agent Skill（标签管理、智能执行、失败诊断、报告生成、流程编排）"
+      "summary": "随着大数据平台从“单一Hive Metastore”走向“湖仓一体、多引擎、多云、多类型资产”，元数据治理正变成平台工程的核心问题，Gravitino解决的是大数据平台进入复杂阶段后的元数据统一问题。"
     },
     {
-      "title": "CodeSchema 开源首发：一个给 AI 编码助手「喂」精准代码上下文的索引服务",
-      "url": "https://juejin.cn/post/7680757400489000996",
+      "title": "32GB 显存，凭什么跑 56GB 大模型？从 Shared Memory 到 AI 异构内存架构",
+      "url": "https://juejin.cn/post/7681142626944942134",
+      "source": "juejin",
+      "score": 264,
+      "raw_score": 21,
+      "comments": 0,
+      "author": "吴佳浩Alben",
+      "created_at": "",
+      "summary": "32GB 显存，凭什么跑 56GB 大模型？从 Shared Memory 到 AI 异构内存架构 作者：吴佳浩（Alben） 撰稿时间：2026.7.28 更新时间：2026.8.1 前几天，一位读"
+    },
+    {
+      "title": "深入浅出RAG——第9章：高级检索策略",
+      "url": "https://juejin.cn/post/7681126457180864538",
+      "source": "juejin",
+      "score": 255,
+      "raw_score": 19,
+      "comments": 0,
+      "author": "深海鱼在掘金",
+      "created_at": "",
+      "summary": "深入解析稠密检索的局限与稀疏检索的互补价值，系统讲解混合检索、Multi-Query、MMR 多样性保证和 Metadata Filter 四种进阶检索策略，并提供 TypeScript 完整实现代码"
+    },
+    {
+      "title": "深入解构Claude Code - 第 12 篇 · 整体串起来",
+      "url": "https://juejin.cn/post/7681161304783110182",
+      "source": "juejin",
+      "score": 240,
+      "raw_score": 16,
+      "comments": 0,
+      "author": "小磊哥AI全栈",
+      "created_at": "",
+      "summary": "12.1 完整走一遍：从你说\"帮我修这个 bug\"到它修好的全过程 现在把前 11 篇的零件组装起来，跟着一个真实场景走一遍。 场景：你在项目目录下启动助手，说：\"登录接口偶尔返回 500，帮我查查。"
+    },
+    {
+      "title": "避免和纠正热点：Elasticsearch Serverless 如何平衡分片",
+      "url": "https://juejin.cn/post/7680500716226461734",
+      "source": "juejin",
+      "score": 240,
+      "raw_score": 16,
+      "comments": 0,
+      "author": "Elasticsearch",
+      "created_at": "",
+      "summary": "作者：来自 Elastic Dianna Hohensee Elasticsearch Serverless 用资源使用情况感知的再平衡机制取代了基于 Elasticsearch 节点权重的分片再平衡"
+    },
+    {
+      "title": "深入解构Claude Code - 第 11 篇 · 工程上的讲究",
+      "url": "https://juejin.cn/post/7681206030928052234",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "idcu",
+      "author": "小磊哥AI全栈",
       "created_at": "",
-      "summary": "CodeSchema 是给 AI 编码助手按需供给精准代码上下文的开源索引服务（Go / MCP / HTTP）。尚不完善，先发出来用真实场景打磨——欢迎试用、开 Issue 提建议，驱动下一步迭代。"
+      "summary": "11.1 一份代码怎么变出不同版本：内部新功能怎么藏起来 项目里有很多功能处于不同成熟度：有的稳定面向所有用户，有的还在试验、只给内部用，有的按市场区域分批开放。如果靠\"发不同版本的代码\"来管理，会变"
     },
     {
-      "title": "WorkBuddy 入门4：让 AI 替我每天领 100 积分",
-      "url": "https://juejin.cn/post/7680770838016262195",
+      "title": "把湖仓一体放进 K8s：Iceberg、Hudi、Paimon 如何重塑云原生大数据架构",
+      "url": "https://juejin.cn/post/7681177765546885158",
       "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
+      "score": 190,
+      "raw_score": 9,
       "comments": 0,
-      "author": "林小卫很行",
+      "author": "大大大大晴天",
       "created_at": "",
-      "summary": "WorkBuddy 每天给登录用户发签到积分，一天 100，连签还有额外奖励。 白给的东西，忘领总觉得亏。而且，有便宜不占，那不就是王八蛋吗？ 可「天天记得点一下」这种事，靠人真不靠谱。所以我让 AI"
+      "summary": "Iceberg/Hudi/Paimon的出现，大数据架构正从“文件湖”走向“事务表”，从“离线数仓”走向“流批一体湖仓”；K8s 的普及让大数据计算从固定集群走向弹性、声明式、可观测、可治理的运行方式"
     },
     {
-      "title": "关于项目审核、权限与操作日志：intf 如何对接 bpmn 与公共封装",
-      "url": "https://juejin.cn/post/7680778738557698084",
+      "title": "连接数失控排查：从数据库会话、应用线程池到连接池泄漏",
+      "url": "https://juejin.cn/post/7681097995388370950",
       "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
+      "score": 169,
+      "raw_score": 7,
       "comments": 0,
-      "author": "小刘的编码历程",
+      "author": "倔强的石头_",
       "created_at": "",
-      "summary": "从 intf 出发梳理 `ixxx-bpmn` 的 Feign 封装、权限码前缀，以及 `ixxx-common` 用 RocketMQ 记操作日志 / 行级变更、bpmn 用另一路 MQ 回传审核结"
+      "summary": "应用接入数据库后，最常见的生产问题之一就是连接数失控。现象可能是接口突然变慢，应用日志出现获取连接超时，数据库提示连接数接近上限，甚至新请求完全进不来。"
     },
     {
-      "title": "GPU kernel 已返回，显存为什么还不能释放？用 Rust 管理 CPU/GPU 完整生命周期",
-      "url": "https://juejin.cn/post/7680766055174078507",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "zLLM_Lab",
-      "created_at": "",
-      "summary": "在 GPU 推理代码里，最难维护的往往不是矩阵乘法，而是一个更朴素的问题：这块 内存到底属于谁，它什么时候可以释放？ Rust 的借用、Arc、Mutex 和 Drop 能把这个问题变得非常直接，但前"
-    },
-    {
-      "title": "🧠 React useContext 深度解析：告别 Props 层层传递的噩梦",
-      "url": "https://juejin.cn/post/7680804938549854235",
+      "title": "直播半小时，我聊了聊 Agent 最常见的 3 个疑问",
+      "url": "https://juejin.cn/post/7681160462331691049",
       "source": "juejin",
       "score": 120,
       "raw_score": 4,
       "comments": 0,
-      "author": "YHL",
+      "author": "飞哥数智谈",
       "created_at": "",
-      "summary": "本文带你吃透 React useContext，完整演示 createContext、Provider、自定义 Hook 的整套写法，通过主题切换、鼠标监听实战，梳理最佳实践与渲染陷阱，优雅解决组件多"
-    },
-    {
-      "title": "Spring Boot 单元测试完全指南",
-      "url": "https://juejin.cn/post/7680770838016196659",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "步行cgn",
-      "created_at": "",
-      "summary": "Spring Boot 单元测试完全指南 Spring Boot 提供了完整的测试支持，核心是 spring-boot-starter-test，它整合了 JUnit、Mockito、AssertJ、"
-    },
-    {
-      "title": "MyBatis-Plus 项目为什么越写越复杂：从一行 Wrapper 说起",
-      "url": "https://juejin.cn/post/7680812218214236194",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "落木萧萧825",
-      "created_at": "",
-      "summary": "MyBatis-Plus 项目为什么越写越复杂：从一行 Wrapper 说起 每个 MyBatis-Plus 项目的第一行查询代码，大概都是这样开始的： 三行。没有 XML，没有 SQL，字段引用还是"
-    },
-    {
-      "title": "android_media_AudioTrack",
-      "url": "https://juejin.cn/post/7680821476647731251",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "金花顺",
-      "created_at": "",
-      "summary": "总结：为什么要搞得这么麻烦？ 如果你在 C++ 里每次调用 Java 方法都临时去找一次 ID（FindClass -> GetMethodID），性能会非常差。 这个函数通过“预处理”完成了以下工作"
-    },
-    {
-      "title": "@SpringBootTest 详解：Spring Boot 测试的核心注解",
-      "url": "https://juejin.cn/post/7680842667015864371",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "步行cgn",
-      "created_at": "",
-      "summary": "@SpringBootTest 详解：Spring Boot 测试的核心注解 @SpringBootTest 是 Spring Boot 测试框架中最核心的注解，它的本质是启动完整的 Spring 应"
-    },
-    {
-      "title": "windows系统盘瘦身脚本子",
-      "url": "https://juejin.cn/post/7680899684958355466",
-      "source": "juejin",
-      "score": 60,
-      "raw_score": 2,
-      "comments": 0,
-      "author": "潍坊中登_北北物联",
-      "created_at": "",
-      "summary": "用途：清点 `C:\\Users` 各目录磁盘占用，并把占用大的目录「搬」到其它盘， 同时在原位置留下软链接（junction），让系统和软件仍按原路径正常访问，从而**释放 C 盘空间**"
-    },
-    {
-      "title": "react navite封装一个RN 通用按钮组件",
-      "url": "https://juejin.cn/post/7680752816622141475",
-      "source": "juejin",
-      "score": 60,
-      "raw_score": 2,
-      "comments": 0,
-      "author": "光影少年",
-      "created_at": "",
-      "summary": "可以。面试里如果让你封装一个 RN 通用 Button 组件，建议不要只写一个 TouchableOpacity，而是把 类型、loading、disabled、尺寸、主题、icon、样式扩展 都考虑"
-    },
-    {
-      "title": "张口就记：手把手教你用 AIUI + Craft 打造一句话语音记账智能体",
-      "url": "https://juejin.cn/post/7680793159375634467",
-      "source": "juejin",
-      "score": 60,
-      "raw_score": 2,
-      "comments": 0,
-      "author": "程序猿追",
-      "created_at": "",
-      "summary": "一、项目简介——为什么要做「随口记」 相信很多人都有过这样的经历：想记账，但每花一笔钱都要掏出手机、解锁、找到记账 App、选分类、填金额……流程还没走完，耐心先没了，于是记账计划坚持不到三天就放弃。"
+      "summary": "Agent专场：它提升的是'目标→结果'效率，价值在释放注意力与扩大能力范围。哪些工作适合交出去？不看难易，看能否稳定完成、结果能否验证、出错能否控制，还得算清一笔'委托账'。"
     }
   ]
 }
