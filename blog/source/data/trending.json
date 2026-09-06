@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-06T01:57:50.807555+00:00",
+  "updated_at": "2026-09-06T14:37:59.722629+00:00",
   "articles": [
     {
-      "title": "sys_dump 备了库，角色和权限别漏在外面",
-      "url": "https://juejin.cn/post/7680551559094517802",
+      "title": "GPT6真的是“AGI”！首测完成瘫坐沙发！",
+      "url": "https://juejin.cn/post/7681617333282963494",
       "source": "juejin",
-      "score": 713,
-      "raw_score": 3673,
-      "comments": 0,
-      "author": "一只牛博",
+      "score": 530,
+      "raw_score": 448,
+      "comments": 10,
+      "author": "甲维斯",
       "created_at": "",
-      "summary": "sys_dump 只导一个库里面的东西，角色、表空间这些全局对象不在里头。这句话听着抽象，真出事是这样的——单库备份文件好好的，校验也过了，换台机器一还原，ksql 当场撂挑子： 备份没坏，数据也没丢"
+      "summary": "一起床🛏，就看到奥特曼的消息，说 Pro 能用 GPT-6 了！ 我说：“关我 Plus 鸟事儿！”，奥特曼做了👌的手势！ 我的电脑立马就收到了这个弹窗！ GPT-6 已经就位了！ 我看了一下他的模型"
     },
     {
-      "title": "写了几十个Skill之后，我总结出这套工程方法：从「触发不了」到「生产可用」",
-      "url": "https://juejin.cn/post/7681142626945318966",
+      "title": "Flutter 进阶 | 组件封装：用 CustomPainter 实现光环动画组件AnimatedHalo",
+      "url": "https://juejin.cn/post/7681560399858794546",
       "source": "juejin",
-      "score": 339,
-      "raw_score": 50,
+      "score": 362,
+      "raw_score": 65,
       "comments": 0,
-      "author": "人才瘾大",
+      "author": "SoaringHeart",
       "created_at": "",
-      "summary": "本文为解决Skill“触发不了”和“执行不靠谱”这两大痛点，将Skill拆分为三层架构：L1元数据负责路由发现、L2指令控制执行行为、L3资源与代码提供确定性，并逐层给出优化策略。"
+      "summary": "一、需求来源 「开发呼吸灯/雷达样式组件时遇到一个痛点：设计稿给的是 Aninix/Lottie 动画（72×72、60fps、89 帧），直接引 Lottie 资源包体大、还依赖第三方运行时。」 常"
     },
     {
-      "title": "从Agent Loop到PlanMode：一套能跑生产的AI Agent工程骨架",
-      "url": "https://juejin.cn/post/7680417640096120832",
+      "title": "四、《从零手撸 Agent》 — 流式输出：接住 AI “一个字一个字” 想出来的过程",
+      "url": "https://juejin.cn/post/7681521114217791528",
       "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
-      "comments": 0,
-      "author": "人才瘾大",
+      "score": 355,
+      "raw_score": 60,
+      "comments": 1,
+      "author": "编程干货铺",
       "created_at": "",
-      "summary": "用操作系统来类比AI Agent，包括：Agent Loop、工具调用、记忆（AGENTS.md/Skills/PlanMode）等"
+      "summary": "04 · 流式输出：接住 AI “一个字一个字” 想出来的过程 前三篇的调用都是”等半天，答案一次性蹦出来”。但你用 ChatGPT 时，字是一个一个出来的——这就是流式输出（streaming）。这"
     },
     {
-      "title": "Apache Tika 4.0 正式发布：RAG 时代文件解析的终极答案",
-      "url": "https://juejin.cn/post/7681675659219583002",
+      "title": "全量微调、LoRA、QLoRA 怎么选？用简单例子讲清六种微调方法",
+      "url": "https://juejin.cn/post/7681931232724189226",
       "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
+      "score": 332,
+      "raw_score": 46,
       "comments": 0,
-      "author": "都叫我大帅哥",
+      "author": "杨杨杨大侠",
       "created_at": "",
-      "summary": "Apache Tika 4.0 正式发布：RAG 时代文件解析的终极答案 如果你正在做「上传 → 解析 → 切片 → 向量化 → 检索」这条 RAG 流水线，文件解析是绕不过去的第一道关。用户甩过来的"
+      "summary": "刚了解大模型训练时，我以为“微调”就是拿一些资料，让模型继续学。 这个理解没错。但再往下看，又出现了一串名字：全量微调、冻结层、LoRA、QLoRA、Adapter、Prompt Tuning…… 它"
     },
     {
-      "title": "Open Knowledge Framework 一套让智能体越用越好用的成长框架",
-      "url": "https://juejin.cn/post/7681897078311075855",
+      "title": "「Flutter 文件保存太难了？」一个插件打通 7 大平台，我把方案开源了 🎉",
+      "url": "https://juejin.cn/post/7681952931486957583",
       "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
+      "score": 308,
+      "raw_score": 35,
       "comments": 0,
-      "author": "乱码三千",
+      "author": "淡写成灰",
       "created_at": "",
-      "summary": "前言 一个真实的问题 我用 Coze 平台搭了一堆智能体帮我干活——写代码、混音乐、写网文、做视频、运营社媒……一开始很顺畅，但很快发现了一个致命问题： 智能体会失忆。 今天踩的坑，明天换个会话又踩一"
+      "summary": "一个插件搞定 Android / iOS / macOS / Web / Windows / Linux / 鸿蒙的文件保存，支持直接保存、系统对话框、本地文件和 URL 下载四种姿势。"
     },
     {
-      "title": "SSE 到了浏览器会怎样：解析、重连与中止（第105篇）",
-      "url": "https://juejin.cn/post/7681939121792122906",
+      "title": "一天一个开源项目（第209篇）：holaOS - Agent 原生的本地工作台",
+      "url": "https://juejin.cn/post/7681985571749298203",
+      "source": "juejin",
+      "score": 276,
+      "raw_score": 24,
+      "comments": 0,
+      "author": "冬奇Lab",
+      "created_at": "",
+      "summary": "holaOS 是一个开源的 Agent 原生工作台，让应用界面和 Agent 并排存在于同一屏幕。它连接 100+ 集成、内置 MCP 支持、支持 Claude Code 和 Codex 等"
+    },
+    {
+      "title": "LangChain / LangGraph 生产环境错误处理",
+      "url": "https://juejin.cn/post/7681988000008175668",
+      "source": "juejin",
+      "score": 264,
+      "raw_score": 21,
+      "comments": 0,
+      "author": "锋行天下",
+      "created_at": "",
+      "summary": "一、先区分 4 大类错误，对应不同策略 表格 错误类型 例子 处理策略 瞬时可重试错误 网络抖动、超时、429 限流、5xx 服务端报错 自动重试（指数退避 + 抖动），不要无限重试 不可重试业务错误"
+    },
+    {
+      "title": "讲不清楚，是因为你还没想清楚",
+      "url": "https://juejin.cn/post/7681988000008142900",
+      "source": "juejin",
+      "score": 255,
+      "raw_score": 19,
+      "comments": 0,
+      "author": "小巫debug日记",
+      "created_at": "",
+      "summary": "讲不清楚，是因为你还没想清楚 麦肯锡曾经丢过一个很重要的客户。 丢的方式，很窝囊。 项目做完了，交付也完成了。负责人在电梯里碰到对方董事长。 董事长问了一句：你能不能说一下，现在的结果是什么？ 负责人"
+    },
+    {
+      "title": "Code Agent 解剖（21）：从零扩展——接入新的 LLM Provider",
+      "url": "https://juejin.cn/post/7681985571749249051",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "冬奇Lab",
+      "created_at": "",
+      "summary": "OpenAI、DeepSeek、Kimi、Qwen……每隔一段时间就有新的 LLM 服务出现，而 MyCodeAgent 已经支持了 10 家。接入一个新 provider，不是改调用链，这篇带你实现"
+    },
+    {
+      "title": "理解大语言模型：Agent 的“大脑”",
+      "url": "https://juejin.cn/post/7681942539038392339",
       "source": "juejin",
       "score": 215,
       "raw_score": 12,
       "comments": 0,
-      "author": "leeyi",
+      "author": "糖墨夕",
       "created_at": "",
-      "summary": "先交代真实状态。我在本机跑了两样东西：一是这套 SDK 自己的单元测试（4 个文件 11 个用例，189 毫秒全绿）；二是一个断线重连的实景 demo——把真 SDK 打包后连上一个模拟服务器，让服务"
+      "summary": "理解大语言模型：Agent 的“大脑” 模型基础 本章学习地图 学完你能做到 用自己的话解释 token 与上下文窗口 理解采样参数如何影响输出 按质量、延迟、成本和能力选择模型 本章可交付成果 一张"
     },
     {
-      "title": "稳定性治理与疑难问题深度分析实践",
-      "url": "https://juejin.cn/post/7681626144462880804",
+      "title": "30 天 AI 编程入门总结：接下来应该学什么",
+      "url": "https://juejin.cn/post/7682221754647822382",
       "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
+      "score": 190,
+      "raw_score": 9,
       "comments": 0,
-      "author": "风骏时光牛马",
+      "author": "全栈弄潮儿",
       "created_at": "",
-      "summary": "稳定性治理与疑难问题深度分析实践 一、文档概述 本文针对分布式后端服务线上稳定性风险，围绕偶发超时、资源抖动、线程堆积、隐性并发异常等疑难问题，阐述稳定性治理思路、问题排查方法论，同时给出可复用代码示"
+      "summary": "这是《AI 编程提效实战》的第 30 篇，也是入门阶段的总结篇。 过去 30 天，我们没有从“让 AI 一次生成完整项目”开始，而是从最基础的问题出发，逐步学习了： 如果你已经读过前面的文章，接下来最"
     },
     {
-      "title": "agent记忆系统",
-      "url": "https://juejin.cn/post/7681797570134376511",
+      "title": "一文搞懂 LLM 流式输出与 SSE",
+      "url": "https://juejin.cn/post/7682069529204375595",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "黄敬峰",
+      "created_at": "",
+      "summary": "你会收获什么 理解 SSE（Server-Sent Events）协议的完整机制 用 Node.js 原生代码手写一个 SSE 服务 搞懂 LLM 流式输出的底层传输原理 对比同步请求与流式请求的本质"
+    },
+    {
+      "title": "类型即世界：一个 C++ 程序员的本体论入门",
+      "url": "https://juejin.cn/post/7682221754647740462",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "码事漫谈",
+      "created_at": "",
+      "summary": "你其实是立法者 来看一行你写过一万遍的代码： 就在敲下这行字的那一秒，你做了一件哲学家吵了两千四百年都没做成的事：你立法规定了一个世界里存在什么东西。 你规定了\"墙\"存在；规定了它有厚度、有材质、归属"
+    },
+    {
+      "title": "Godot 4 入门（02）：用一个玩家场景理解节点、场景与实例",
+      "url": "https://juejin.cn/post/7682069529204260907",
       "source": "juejin",
       "score": 180,
       "raw_score": 8,
       "comments": 0,
-      "author": "人才瘾大",
+      "author": "烛阴",
       "created_at": "",
-      "summary": "拆解了Agent记忆系统的五大核心环节：引入时机、写入策略、保鲜机制、共享边界与健康监测。作者指出，多数“Agent失忆”问题其实源于工具契约或配置错误，而非记忆系统缺陷。"
+      "summary": "一、 节点是有单一职责的积木 Sprite2D 负责显示图片，Camera2D 负责观察画面，之后还会用 CollisionShape2D 描述碰撞。节点不必包办一切；多个节点按照父子关系组合，才形成"
     },
     {
-      "title": "Java字符串判等踩坑记：==和equals真的不能乱用",
-      "url": "https://juejin.cn/post/7681674195911294976",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "阿橙的百宝箱",
-      "created_at": "",
-      "summary": "Java字符串判等踩坑记：==和equals真的不能乱用** -- 引言 在Java开发中，字符串判等是最基础却又最容易踩坑的操作之一。许多开发者（尤其是初学者）常常对和的区别一知半解，导致程序出"
-    },
-    {
-      "title": "类型驱动开发（Type-Driven Development）：让类型约束先行为导向",
-      "url": "https://juejin.cn/post/7681858280943960115",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "前端阿凡",
-      "created_at": "",
-      "summary": "1. 技术难点：为什么类型会被\"当摆设\" 很多项目虽然用了 TypeScript，但实际是\"给已有的 JS 加标注\"——先写逻辑，再补类型，甚至用 any 糊过去。这样类型系统形同虚设： any 泛滥"
-    },
-    {
-      "title": "第 17 章 评估与自检 Evaluation",
-      "url": "https://juejin.cn/post/7681861285419794478",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "前端阿凡",
-      "created_at": "",
-      "summary": "第 17 章 评估与自检 Evaluation 本章要解决的问题 章节大纲 17.1 输出校验机制 17.2 Guardrail 设计 17.3 结构化验证与重试 17.4 主流框架对照与变体 🛠 解"
-    },
-    {
-      "title": "一行代码让Agent账单翻10倍：KV Cache友好的Agent设计",
-      "url": "https://juejin.cn/post/7680804938549788699",
+      "title": "苹果续费成功，几天后付费协议突然失效，导致线上苹果支付全部失败",
+      "url": "https://juejin.cn/post/7681985571749986331",
       "source": "juejin",
       "score": 120,
       "raw_score": 4,
       "comments": 0,
-      "author": "人才瘾大",
+      "author": "CocoaKier",
       "created_at": "",
-      "summary": "Agent跑得又慢又贵？问题往往出在KV Cache被打穿。本文从KV Cache原理讲起，给出三条铁律：系统提示词与工具定义字节级固定、动态信息一律追加到末尾、使用标准API格式勿自行拼接。"
-    },
-    {
-      "title": "分布式事务最全图解（6种方案）：从强一致的2PC到最终对账，彻底搞懂数据一致性",
-      "url": "https://juejin.cn/post/7681674195911409664",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "stark张宇",
-      "created_at": "",
-      "summary": "本文将结合转账、微博关注等经典业务场景，详解如何利用何利用本地消息表 + 幂等判重、RocketMQ事务消息回调、TCC幂等重试以及异步对账来替代传统的XA事务，保证资金和数据万无一失。"
-    },
-    {
-      "title": "《AI工程》：模型选择，微调与数据集（深度篇）",
-      "url": "https://juejin.cn/post/7681897078311305231",
-      "source": "juejin",
-      "score": 60,
-      "raw_score": 2,
-      "comments": 0,
-      "author": "灵感__idea",
-      "created_at": "",
-      "summary": "前两篇文章，我们讨论了产品决策，浅聊了开发技术，如果不来点更深入的硬菜，对开发人员不太过瘾，随着越来越多的公司入局AI，市面上的模型已经非常多，而且保持着较高的更新频率，那么着手开发时该怎样选择？"
-    },
-    {
-      "title": "AI 代理把德国维基当留言板，OpenAI 闷声几周才承认",
-      "url": "https://juejin.cn/post/7681830868799537171",
-      "source": "juejin",
-      "score": 60,
-      "raw_score": 2,
-      "comments": 0,
-      "author": "计算机魔术师",
-      "created_at": "",
-      "summary": "今年5至6月，一批 OpenAI 智能体将德国技术维基 DseWiki 变成跨任务的共享留言板，累计写入约1.8万条内容。独立研究者8月底偶然发现并曝光，但 OpenAI 数周前已知晓。公司在确认事件"
+      "summary": "今天这个知识很冷门，但关键时刻能救命。看到就是赚到，能救一个是一个。 如果你的苹果开发者账号是过期后完成的续费，虽然账户续费成功了，但付费协议不会自动续签，需要你去苹果后台手动点一下同意。如果当天协议"
     }
   ]
 }
