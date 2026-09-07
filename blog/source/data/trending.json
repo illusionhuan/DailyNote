@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-06T14:37:59.722629+00:00",
+  "updated_at": "2026-09-07T01:55:11.858384+00:00",
   "articles": [
     {
-      "title": "GPT6真的是“AGI”！首测完成瘫坐沙发！",
-      "url": "https://juejin.cn/post/7681617333282963494",
+      "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
+      "url": "https://juejin.cn/post/7681931232724860970",
       "source": "juejin",
-      "score": 530,
-      "raw_score": 448,
-      "comments": 10,
-      "author": "甲维斯",
-      "created_at": "",
-      "summary": "一起床🛏，就看到奥特曼的消息，说 Pro 能用 GPT-6 了！ 我说：“关我 Plus 鸟事儿！”，奥特曼做了👌的手势！ 我的电脑立马就收到了这个弹窗！ GPT-6 已经就位了！ 我看了一下他的模型"
-    },
-    {
-      "title": "Flutter 进阶 | 组件封装：用 CustomPainter 实现光环动画组件AnimatedHalo",
-      "url": "https://juejin.cn/post/7681560399858794546",
-      "source": "juejin",
-      "score": 362,
-      "raw_score": 65,
-      "comments": 0,
-      "author": "SoaringHeart",
-      "created_at": "",
-      "summary": "一、需求来源 「开发呼吸灯/雷达样式组件时遇到一个痛点：设计稿给的是 Aninix/Lottie 动画（72×72、60fps、89 帧），直接引 Lottie 资源包体大、还依赖第三方运行时。」 常"
-    },
-    {
-      "title": "四、《从零手撸 Agent》 — 流式输出：接住 AI “一个字一个字” 想出来的过程",
-      "url": "https://juejin.cn/post/7681521114217791528",
-      "source": "juejin",
-      "score": 355,
-      "raw_score": 60,
+      "score": 449,
+      "raw_score": 177,
       "comments": 1,
-      "author": "编程干货铺",
+      "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "04 · 流式输出：接住 AI “一个字一个字” 想出来的过程 前三篇的调用都是”等半天，答案一次性蹦出来”。但你用 ChatGPT 时，字是一个一个出来的——这就是流式输出（streaming）。这"
+      "summary": "这个问题 GPT 5.6 sol 的时候大家就都在说，Anthropic 在 Fable 5 的时候我记得应该也说过，比如 Superpower 在现在的强模型下就变成负优化，除了浪费 Token 毫"
     },
     {
-      "title": "全量微调、LoRA、QLoRA 怎么选？用简单例子讲清六种微调方法",
-      "url": "https://juejin.cn/post/7681931232724189226",
+      "title": "Openai 官方出品 Codex 多智能体编排实战",
+      "url": "https://juejin.cn/post/7682217734721568806",
       "source": "juejin",
-      "score": 332,
-      "raw_score": 46,
+      "score": 380,
+      "raw_score": 80,
       "comments": 0,
-      "author": "杨杨杨大侠",
+      "author": "BingoGo",
       "created_at": "",
-      "summary": "刚了解大模型训练时，我以为“微调”就是拿一些资料，让模型继续学。 这个理解没错。但再往下看，又出现了一串名字：全量微调、冻结层、LoRA、QLoRA、Adapter、Prompt Tuning…… 它"
+      "summary": "Openai 官方出品 Codex 多智能体编排实战 当 GPT-5.6 Sol 拥有一支智能体团队协同工作时，其能力会得到更充分的发挥。Codex 新推出的 Multi-Agent V2 工具为 S"
     },
     {
-      "title": "「Flutter 文件保存太难了？」一个插件打通 7 大平台，我把方案开源了 🎉",
-      "url": "https://juejin.cn/post/7681952931486957583",
+      "title": "栗子前端技术周刊第 145 期 - Remix 3 RC、htmx 4.0、Rslib 1.0...",
+      "url": "https://juejin.cn/post/7681959629414400042",
+      "source": "juejin",
+      "score": 366,
+      "raw_score": 68,
+      "comments": 1,
+      "author": "晓得迷路了",
+      "created_at": "",
+      "summary": "🌰栗子前端技术周刊第 145 期 (2026.08.31 - 2026.09.06)：浏览前端一周最新消息，学习国内外优秀文章，让我们保持对前端的好奇心。 📰 技术资讯 Remix 3 RC：Remi"
+    },
+    {
+      "title": "🤔首屏Banner压到40KB，LCP还是4秒？原来一直搞错了最大渲染元素",
+      "url": "https://juejin.cn/post/7682046779555315763",
+      "source": "juejin",
+      "score": 338,
+      "raw_score": 49,
+      "comments": 0,
+      "author": "秋天的一阵风",
+      "created_at": "",
+      "summary": "前言：一个90%开发者都会踩的LCP面试坑 Hello~大家好，我是秋天的一阵风 面试前端性能优化时，很多人都遇到过这个经典拷问，堪称LCP优化的“翻车名场面”： 到这里，绝大多数开发者都会哑口无言。"
+    },
+    {
+      "title": "阿里开源了一个神级Agent项目",
+      "url": "https://juejin.cn/post/7681931232724910122",
+      "source": "juejin",
+      "score": 336,
+      "raw_score": 48,
+      "comments": 0,
+      "author": "苏三说技术",
+      "created_at": "",
+      "summary": "前言 不知道你有没有遇到改过这样的场景：在处理一个老项目的PR时，改动涉及十几个文件，Reviewer没空细看，自己review自己的代码又越看越顺眼。 能不能有一个工具，能像有经验的同事一样逐行看代"
+    },
+    {
+      "title": "OpenAI内部实习生已顶配3.1倍人力，你的团队还在等人工排期？",
+      "url": "https://juejin.cn/post/7681959629414613034",
+      "source": "juejin",
+      "score": 330,
+      "raw_score": 45,
+      "comments": 0,
+      "author": "计算机魔术师",
+      "created_at": "",
+      "summary": "OpenAI内部测试显示，其自动化研究agent运行时效率达人力3.1倍，2026年9月首批自动化实习生即将上岗，2028年3月目标实现全流程自主研究。这一进展背后，是Kepler数据Agent服务3"
+    },
+    {
+      "title": "💬面试官：Markdown 流式解析如何避免标签截断？「直接重新让 marked 全部渲染」行不行？",
+      "url": "https://juejin.cn/post/7682217734722027558",
       "source": "juejin",
       "score": 308,
       "raw_score": 35,
-      "comments": 0,
-      "author": "淡写成灰",
+      "comments": 2,
+      "author": "秋天的一阵风",
       "created_at": "",
-      "summary": "一个插件搞定 Android / iOS / macOS / Web / Windows / Linux / 鸿蒙的文件保存，支持直接保存、系统对话框、本地文件和 URL 下载四种姿势。"
+      "summary": "前言 Hello~大家好，我是秋天的一阵风 做 AI 对话页，模型边吐字边渲染 Markdown，几乎是标配。面试里这类问题也很常见，对话往往是这样开始的： 前半句答案能交差：流式界面本来就经常全量重"
     },
     {
-      "title": "一天一个开源项目（第209篇）：holaOS - Agent 原生的本地工作台",
-      "url": "https://juejin.cn/post/7681985571749298203",
+      "title": "学习大模型推理的两个阶段：Prefill 与 Decode",
+      "url": "https://juejin.cn/post/7682190370524971018",
       "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
+      "score": 298,
+      "raw_score": 31,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "日习一技",
       "created_at": "",
-      "summary": "holaOS 是一个开源的 Agent 原生工作台，让应用界面和 Agent 并排存在于同一屏幕。它连接 100+ 集成、内置 MCP 支持、支持 Claude Code 和 Codex 等"
+      "summary": "在上一篇中，我们学习了 KV Cache：推理时把历史 token 的 Key 和 Value 缓存下来，每一步生成都不用重算整段上下文，正是它让逐 token 的自回归生成在工程上变得可行。当时我们"
     },
     {
-      "title": "LangChain / LangGraph 生产环境错误处理",
-      "url": "https://juejin.cn/post/7681988000008175668",
+      "title": "声明文件（.d.ts）：让 TypeScript 认识你的 JS 库",
+      "url": "https://juejin.cn/post/7682314741114830875",
+      "source": "juejin",
+      "score": 268,
+      "raw_score": 22,
+      "comments": 0,
+      "author": "前端阿凡",
+      "created_at": "",
+      "summary": "1. 技术难点：为什么 TS 不认识第三方 JS 库 你在 TypeScript 项目里 import 一个用 JS 写的第三方库（如某个老 npm 包），TS 会报错： 原因：TS 需要\".d.ts"
+    },
+    {
+      "title": "Redis莫名连接失败，查了三天居然是配置的锅",
+      "url": "https://juejin.cn/post/7681952931487858703",
       "source": "juejin",
       "score": 264,
       "raw_score": 21,
       "comments": 0,
-      "author": "锋行天下",
+      "author": "阿橙的百宝箱",
       "created_at": "",
-      "summary": "一、先区分 4 大类错误，对应不同策略 表格 错误类型 例子 处理策略 瞬时可重试错误 网络抖动、超时、429 限流、5xx 服务端报错 自动重试（指数退避 + 抖动），不要无限重试 不可重试业务错误"
+      "summary": "Redis莫名连接失败，查了三天居然是配置的锅** -- 引言 Redis作为高性能的键值存储系统，在现代架构中扮演着核心角色，尤其在缓存、会话管理和消息队列等场景中广泛应用。然而，即便是一个成熟"
     },
     {
-      "title": "讲不清楚，是因为你还没想清楚",
-      "url": "https://juejin.cn/post/7681988000008142900",
+      "title": "第 18 章 学习与适应 Learning",
+      "url": "https://juejin.cn/post/7682046779555282995",
       "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "小巫debug日记",
+      "author": "前端阿凡",
       "created_at": "",
-      "summary": "讲不清楚，是因为你还没想清楚 麦肯锡曾经丢过一个很重要的客户。 丢的方式，很窝囊。 项目做完了，交付也完成了。负责人在电梯里碰到对方董事长。 董事长问了一句：你能不能说一下，现在的结果是什么？ 负责人"
+      "summary": "第 18 章 学习与适应 Learning 本章要解决的问题 章节大纲 18.1 从用户反馈中学习 18.2 行为调优与策略迭代 18.3 持续改进的闭环设计 18.4 主流框架对照与变体 🛠 解决方"
     },
     {
-      "title": "Code Agent 解剖（21）：从零扩展——接入新的 LLM Provider",
-      "url": "https://juejin.cn/post/7681985571749249051",
+      "title": "豆包工作+飞书，打开“松弛工作”的100种方式",
+      "url": "https://juejin.cn/post/7682000738835595298",
       "source": "juejin",
       "score": 222,
       "raw_score": 13,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "周一同学Zelina",
       "created_at": "",
-      "summary": "OpenAI、DeepSeek、Kimi、Qwen……每隔一段时间就有新的 LLM 服务出现，而 MyCodeAgent 已经支持了 10 家。接入一个新 provider，不是改调用链，这篇带你实现"
+      "summary": "🧭 前言 我们可能都遇到过这种情况：跟 AI 聊了半小时，方案写得头头是道，结果你还是得自己打开飞书，一个字一个字地把内容贴进去，手动建表格、手动发消息、手动约会议。 AI 说了很多，但什么都没替你做"
     },
     {
-      "title": "理解大语言模型：Agent 的“大脑”",
-      "url": "https://juejin.cn/post/7681942539038392339",
+      "title": "Oracle 慢 SQL 优化：Cost 最高的那行不是瓶颈，真凶藏在 SELECT 列表里",
+      "url": "https://juejin.cn/post/7681913265295999002",
       "source": "juejin",
       "score": 215,
       "raw_score": 12,
       "comments": 0,
-      "author": "糖墨夕",
+      "author": "袁因",
       "created_at": "",
-      "summary": "理解大语言模型：Agent 的“大脑” 模型基础 本章学习地图 学完你能做到 用自己的话解释 token 与上下文窗口 理解采样参数如何影响输出 按质量、延迟、成本和能力选择模型 本章可交付成果 一张"
+      "summary": "一份 Oracle 执行计划里，Cost 最高的那一行往往不是真正拖慢查询的地方。三条真实慢 SQL、三个不同的表，最后查出同一个病根：计划里完全不显示的行级函数调用。"
     },
     {
-      "title": "30 天 AI 编程入门总结：接下来应该学什么",
-      "url": "https://juejin.cn/post/7682221754647822382",
+      "title": "告别代码重启部署：JQuick-Java动态规则加载机制原理与实战",
+      "url": "https://juejin.cn/post/7681913265296195610",
       "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
-      "author": "全栈弄潮儿",
+      "author": "泡海椒",
       "created_at": "",
-      "summary": "这是《AI 编程提效实战》的第 30 篇，也是入门阶段的总结篇。 过去 30 天，我们没有从“让 AI 一次生成完整项目”开始，而是从最基础的问题出发，逐步学习了： 如果你已经读过前面的文章，接下来最"
+      "summary": "告别代码重启部署：JQuick-Java动态规则加载机制原理与实战 前言 在传统 Java 项目中，「改一条规则 = 发一次版」是每个后端工程师的噩梦：规则变更要经过需求评审、代码修改、回归测试、发布"
     },
     {
-      "title": "一文搞懂 LLM 流式输出与 SSE",
-      "url": "https://juejin.cn/post/7682069529204375595",
+      "title": "邮箱登录与 Google 登录的账号模型设计与实现",
+      "url": "https://juejin.cn/post/7681836978497536015",
       "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
+      "score": 200,
+      "raw_score": 10,
       "comments": 0,
-      "author": "黄敬峰",
+      "author": "HLeiDev",
       "created_at": "",
-      "summary": "你会收获什么 理解 SSE（Server-Sent Events）协议的完整机制 用 Node.js 原生代码手写一个 SSE 服务 搞懂 LLM 流式输出的底层传输原理 对比同步请求与流式请求的本质"
-    },
-    {
-      "title": "类型即世界：一个 C++ 程序员的本体论入门",
-      "url": "https://juejin.cn/post/7682221754647740462",
-      "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
-      "comments": 0,
-      "author": "码事漫谈",
-      "created_at": "",
-      "summary": "你其实是立法者 来看一行你写过一万遍的代码： 就在敲下这行字的那一秒，你做了一件哲学家吵了两千四百年都没做成的事：你立法规定了一个世界里存在什么东西。 你规定了\"墙\"存在；规定了它有厚度、有材质、归属"
-    },
-    {
-      "title": "Godot 4 入门（02）：用一个玩家场景理解节点、场景与实例",
-      "url": "https://juejin.cn/post/7682069529204260907",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "烛阴",
-      "created_at": "",
-      "summary": "一、 节点是有单一职责的积木 Sprite2D 负责显示图片，Camera2D 负责观察画面，之后还会用 CollisionShape2D 描述碰撞。节点不必包办一切；多个节点按照父子关系组合，才形成"
-    },
-    {
-      "title": "苹果续费成功，几天后付费协议突然失效，导致线上苹果支付全部失败",
-      "url": "https://juejin.cn/post/7681985571749986331",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "CocoaKier",
-      "created_at": "",
-      "summary": "今天这个知识很冷门，但关键时刻能救命。看到就是赚到，能救一个是一个。 如果你的苹果开发者账号是过期后完成的续费，虽然账户续费成功了，但付费协议不会自动续签，需要你去苹果后台手动点一下同意。如果当天协议"
+      "summary": "上周我给自己的博客系统 BitLog 换掉了原来的用户名登录，改为邮箱登录，并接入了 Google 第三方登录。 这篇文章不会怎么在 Google Cloud Console 里申请 OAuth 客户"
     }
   ]
 }
