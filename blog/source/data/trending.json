@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-07T16:51:52.165872+00:00",
+  "updated_at": "2026-09-08T02:06:14.366600+00:00",
   "articles": [
     {
       "title": "走进AI Agent第三篇：让 Agent 记住你",
       "url": "https://juejin.cn/post/7682394398210932763",
       "source": "juejin",
-      "score": 767,
-      "raw_score": 6901,
+      "score": 770,
+      "raw_score": 7124,
       "comments": 2,
       "author": "老王以为",
       "created_at": "",
       "summary": "单次会话内的上下文管理有一套成熟的技术：系统提示词怎么写、KV Cache 怎么保、状态栏怎么追加、对话历史怎么压缩。但这些技术有一个共同的前提：会话结束，一切归零。下一次对话开始时，Agent 不记"
     },
     {
-      "title": "GPT6真的是“AGI”！首测完成瘫坐沙发！",
-      "url": "https://juejin.cn/post/7681617333282963494",
-      "source": "juejin",
-      "score": 673,
-      "raw_score": 2330,
-      "comments": 14,
-      "author": "甲维斯",
-      "created_at": "",
-      "summary": "一起床🛏，就看到奥特曼的消息，说 Pro 能用 GPT-6 了！ 我说：“关我 Plus 鸟事儿！”，奥特曼做了👌的手势！ 我的电脑立马就收到了这个弹窗！ GPT-6 已经就位了！ 我看了一下他的模型"
-    },
-    {
-      "title": "三年了，AI为何还没有抢走程序员饭碗？",
-      "url": "https://juejin.cn/post/7682262550978936884",
-      "source": "juejin",
-      "score": 647,
-      "raw_score": 1718,
-      "comments": 16,
-      "author": "写代码像蔡徐抻",
-      "created_at": "",
-      "summary": "AI取代程序员，喊了应该是第三个年头了。 但显然，即使是AI已经迭代到 Claude 5、GPT-6 的当下，很多人想象中的大裁员潮也并没有到来。"
-    },
-    {
       "title": "【社区公告】致每一位掘友：关于这次调整， 想再说几句",
       "url": "https://juejin.cn/post/7682603130694484014",
       "source": "juejin",
-      "score": 579,
-      "raw_score": 788,
-      "comments": 38,
+      "score": 675,
+      "raw_score": 2396,
+      "comments": 119,
       "author": "掘金酱",
       "created_at": "",
       "summary": "各位JJYYMM： 前几天我们发布了《签到与矿石奖励解耦说明》。公告发出后，评论区的反馈比我们预想的更密集，也更直接。 有掘友说连续签到快六年，终于可以不用每天打卡了；有掘友说打卡了一千四百多天，截图"
     },
     {
-      "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
-      "url": "https://juejin.cn/post/7681931232724860970",
+      "title": "Flutter 状态管理基准测评，一个很有趣的观点",
+      "url": "https://juejin.cn/post/7682593227544788998",
       "source": "juejin",
-      "score": 576,
-      "raw_score": 764,
-      "comments": 4,
+      "score": 379,
+      "raw_score": 79,
+      "comments": 0,
       "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "这个问题 GPT 5.6 sol 的时候大家就都在说，Anthropic 在 Fable 5 的时候我记得应该也说过，比如 Superpower 在现在的强模型下就变成负优化，除了浪费 Token 毫"
+      "summary": "最近刚好看到，Filip Hráček 发了一篇 Flutter 状态管理 Benchmark，实际上对比 Provider、Riverpod、GetX、Signals 到底差了几微秒性能 差异的意义"
     },
     {
-      "title": "GPT - 6 Astra 的使用焚诀",
-      "url": "https://juejin.cn/post/7682634449856217115",
+      "title": "适配小米“中”折屏，非得买一台吗",
+      "url": "https://juejin.cn/post/7682593227544805382",
       "source": "juejin",
-      "score": 535,
-      "raw_score": 476,
-      "comments": 7,
-      "author": "cxuanAI",
-      "created_at": "",
-      "summary": "昨天吐槽了一下为什么 GPT - 6 Astra 没给我推送，我今天早上排查了一下，发现之前有用的一个工具会侵入式的把模型列表给改了，所以 Codex 不管怎么更新用的还是三方的模型列表。。。。 这里"
-    },
-    {
-      "title": "AndroidKMP之瀑布流实现",
-      "url": "https://juejin.cn/post/7682663370555195446",
-      "source": "juejin",
-      "score": 301,
-      "raw_score": 32,
+      "score": 358,
+      "raw_score": 62,
       "comments": 0,
-      "author": "Android小渣渣",
+      "author": "RockByte",
       "created_at": "",
-      "summary": "AndroidKMP之瀑布流实现 1.前言： 之前写了入门的kmpdemo,最近用compose写了一个瀑布流，然后使用KMP在Android、桌面和web端都运行了一下，发现非常强大，iOS由于没有"
+      "summary": "各位 Android 爱好者们，大家好。 Android 正在全面推进自适应布局。应用不再只面对一种手机尺寸，开发者也应该让同一套功能在更多设备形态上都能正常使用。"
     },
     {
-      "title": "从零训练一个 321 万参数的小模型：用 MLX 看懂 Transformer 的训练过程",
-      "url": "https://juejin.cn/post/7682593227544297478",
+      "title": "Anthropic一次性锁死十年算力，5170亿美元买什么",
+      "url": "https://juejin.cn/post/7682593227544936454",
       "source": "juejin",
-      "score": 282,
-      "raw_score": 26,
-      "comments": 2,
-      "author": "杨杨杨大侠",
-      "created_at": "",
-      "summary": "前面学习大模型时，我一直有几个疑问： token 到底怎么进入模型？ 4 层、256 维、4 个注意力头，分别体现在哪里？ 训练时，究竟是哪行代码改了权重？ 训练完保存的东西，又怎么拿来回答问题？ 光"
-    },
-    {
-      "title": "Astro 是什么",
-      "url": "https://juejin.cn/post/7682624894434426915",
-      "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
-      "comments": 2,
-      "author": "陆枫Larry",
-      "created_at": "",
-      "summary": "Astro 是一个面向「内容型网站」的 Web 框架,定位和 Next.js / Nuxt 类似,但设计目标相反:它假设你的页面大部分是静态内容,只有少数地方需要交互。博客、文档站、营销官网、个人主页"
-    },
-    {
-      "title": "从多模态数据湖到 Agent 湖：Lance 的格式设计与实践｜Lance Meetup 火热报名中",
-      "url": "https://juejin.cn/post/7682625649379459112",
-      "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
+      "score": 344,
+      "raw_score": 53,
       "comments": 0,
-      "author": "火山引擎Agent社区",
+      "author": "计算机魔术师",
       "created_at": "",
-      "summary": "Lance 是面向 AI 的数据湖格式，将随机访问、向量 / 全文索引下沉至格式层，训练、检索与 Agent 记忆共用一份数据；火山引擎已在智驾、内容平台落地验证。"
+      "summary": "Anthropic在11个月内签下至少14.8 GW算力协议，潜在总支出高达5170亿美元，绝大部分支出横跨未来十年。这一举动看似激进，实则源于Claude Code和Cowork需求爆发带来的真实压"
     },
     {
-      "title": "[bash] 借助花括号扩展来批量生成内容",
-      "url": "https://juejin.cn/post/7682668965593776138",
+      "title": "别只会用 Postman 了，这 15 款接口测试工具你可能还不知道",
+      "url": "https://juejin.cn/post/7682711436210241563",
       "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
+      "score": 326,
+      "raw_score": 43,
       "comments": 0,
-      "author": "金銀銅鐵",
+      "author": "狂师",
       "created_at": "",
-      "summary": "bash 支持花括号扩展，本文会用具体的例子来演示它的作用。通过使用花括号扩展，我们可以批量生成内容"
+      "summary": "事情是这样的，今年 Postman 官宣了一个新政策，2026 年 3 月起，免费版只能单人用了，团队协作必须掏钱。 虽然过去半年了，但还是经常有一堆人在问有什么替代品。 今天给大家推荐 15 款接口"
     },
     {
-      "title": "大模型格式化输出",
-      "url": "https://juejin.cn/post/7682668965594054666",
+      "title": "ZorvAI 可视化小卡片：七层自研 Canvas 渲染引擎架构全解析",
+      "url": "https://juejin.cn/post/7682615329781809198",
       "source": "juejin",
       "score": 215,
       "raw_score": 12,
       "comments": 0,
-      "author": "东风破_",
+      "author": "QUOR",
       "created_at": "",
-      "summary": "如果只是和用户聊天，大模型返回自然语言就够了。 但程序更希望拿到： 而不是： 这就是结构化输出要解决的问题： 一、最简单的方法：要求模型返回 JSON 可以直接在 Prompt 中写： 模型可能返回："
+      "summary": "## 一、它是什么，以及它不是什么 可视化小卡片是 ZorvAI 在对话流里\"现场设计\"一张卡片的"
     },
     {
-      "title": "律师最贵的不是知识，是时间：哪些工作真的可以先交给 Agent？",
-      "url": "https://juejin.cn/post/7682656946978340915",
+      "title": "我们开发了一个「杂志封面.skill」",
+      "url": "https://juejin.cn/post/7682625828276355124",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "ZGIAI",
+      "author": "周一同学Zelina",
       "created_at": "",
-      "summary": "律师大量时间耗在合同逐条核对、重复问答、案例检索上。ZGI通过Workflow做合同初筛、内部知识库做带来源的问答、Skills沉淀办案经验，让律师只做判断，不查材料。"
+      "summary": "01 前言 经常看我们公众号的小伙伴，应该对星期一研究室的「信息美学家」栏目不陌生。它已经更新了很多期，而每一期，我们都会给它配一张新的封面。 在以前，我们是在「稿定设计」里手动在模板上修改好，然后再"
     },
     {
-      "title": "销售团队最缺的不是另一个 AI，而是有人把跟进这件事一直做下去",
-      "url": "https://juejin.cn/post/7682668965593825290",
+      "title": "同一个接口，为什么销售只看到自己的订单？我拆了 681 行数据权限拦截器的源码",
+      "url": "https://juejin.cn/post/7682593227543969798",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "ZGIAI",
+      "author": "她的男孩",
       "created_at": "",
-      "summary": "销售大量时间耗在\"别忘了跟进\"上，而非真正的客户沟通。ZGI通过Workflow将邮件回复后的查询、判断、记录、分流自动化，并沉淀优秀销售经验为可复用Skill，让Agent持续跟进，销售回归客户。"
+      "summary": "本文是 ForgeAdmin 框架源码拆解系列的一篇，所有代码都来自 forge-starter-datascope 模块，文末有仓库地址。 一、从一个熟悉的需求说起 做过管理系统的都遇到过这个需求："
     },
     {
-      "title": "讲透 SSE：从流式响应到 LangChain model.stream()",
-      "url": "https://juejin.cn/post/7682659072475627529",
+      "title": "Vue3 竞态请求防护组合式hooks：useLatestRequest 设计思路",
+      "url": "https://juejin.cn/post/7682625649379934248",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "东风破_",
+      "author": "Betterme",
       "created_at": "",
-      "summary": "大模型回答问题时，如果等整段内容全部生成完再返回，用户会经历明显的等待。 因此聊天应用通常采用流式输出： 现在使用 LangChain，实现已经非常简单： 但要真正理解这几行代码，还得知道底层发生了什"
+      "summary": "useLatestRequest 通过双保险解决竞态：AbortController 取消上一次未完成请求 + latestId 序号丢弃过期结果。核心设计是 run 接收工厂函数 (signal)"
+    },
+    {
+      "title": "AI驱动历史项目安全审查",
+      "url": "https://juejin.cn/post/7682624894434279459",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "tonydf",
+      "created_at": "",
+      "summary": "前言 近期，我们的一个基于 .NET Framework 的老项目被客户的安全扫描器扫出了 SQL 注入。收到报告的那一刻，我的第一反应不是\"修\"，而是 \"除了报告里写的这几个点，系统里到底还有多少我"
+    },
+    {
+      "title": "Elpis：从Json Schema 到 页面",
+      "url": "https://juejin.cn/post/7682593227544379398",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "whyweplay",
+      "created_at": "",
+      "summary": "1. 概括 这个架构的核心是：不直接开发一张业务页面，而是先用 Schema 描述页面；系统再把这份描述解析为统一的页面模型，最后由通用渲染器生成真实界面并连接业务数据。 因此，页面能力从“写死在 V"
+    },
+    {
+      "title": "一个 [ECS] 到底生成了多少代码？EasyECS 最核心的秘密都在这里",
+      "url": "https://juejin.cn/post/7682624894434754595",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "_zhourui_h_",
+      "created_at": "",
+      "summary": "EasyECS 用起来最“可疑”的地方，大概就是这一行： 业务代码只多了一个： 然后项目里突然就能使用： 甚至底层还能自动在： 不同实现之间切换。 看起来像是 EasyECS 做了什么运行时魔法。 实"
+    },
+    {
+      "title": "把 RustFS 跑在 Kubernetes 上：官方 Helm Chart 从单机到分布式",
+      "url": "https://juejin.cn/post/7682684241834524672",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "对象存储与RustFS",
+      "created_at": "",
+      "summary": "一套对象存储要进 Kubernetes，最省心的办法不是手写一堆 Deployment 和 PVC，而是直接用官方维护的 Helm Chart。我去年接过一个项目，团队想在已有 K8s 集群里给 AI"
+    },
+    {
+      "title": "Agent 跑满一天不等于多一个人：用四个指标算真实产能",
+      "url": "https://juejin.cn/post/7682663370555228214",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "用户527467561421",
+      "created_at": "",
+      "summary": "并发、Token 和运行时长容易采集，却不能直接代表产能。本文用事件账本、验收吞吐量、一次通过率、人工分钟和 WIP 背压，为小团队建立一套不被“忙碌指标”误导的 Agent 产能模型。"
     }
   ]
 }
