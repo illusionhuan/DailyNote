@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-08T15:39:53.134517+00:00",
+  "updated_at": "2026-09-09T02:10:47.068640+00:00",
   "articles": [
     {
       "title": "走进AI Agent第三篇：让 Agent 记住你",
       "url": "https://juejin.cn/post/7682394398210932763",
       "source": "juejin",
-      "score": 781,
-      "raw_score": 8060,
+      "score": 788,
+      "raw_score": 8789,
       "comments": 4,
       "author": "老王以为",
       "created_at": "",
       "summary": "单次会话内的上下文管理有一套成熟的技术：系统提示词怎么写、KV Cache 怎么保、状态栏怎么追加、对话历史怎么压缩。但这些技术有一个共同的前提：会话结束，一切归零。下一次对话开始时，Agent 不记"
     },
     {
-      "title": "【社区公告】致每一位掘友：关于这次调整， 想再说几句",
-      "url": "https://juejin.cn/post/7682603130694484014",
-      "source": "juejin",
-      "score": 744,
-      "raw_score": 5254,
-      "comments": 206,
-      "author": "掘金酱",
-      "created_at": "",
-      "summary": "各位JJYYMM： 前几天我们发布了《签到与矿石奖励解耦说明》。公告发出后，评论区的反馈比我们预想的更密集，也更直接。 有掘友说连续签到快六年，终于可以不用每天打卡了；有掘友说打卡了一千四百多天，截图"
-    },
-    {
       "title": "三年了，AI为何还没有抢走程序员饭碗？",
       "url": "https://juejin.cn/post/7682262550978936884",
       "source": "juejin",
-      "score": 720,
-      "raw_score": 3986,
-      "comments": 28,
+      "score": 733,
+      "raw_score": 4633,
+      "comments": 31,
       "author": "写代码像蔡徐抻",
       "created_at": "",
       "summary": "AI取代程序员，喊了应该是第三个年头了。 但显然，即使是AI已经迭代到 Claude 5、GPT-6 的当下，很多人想象中的大裁员潮也并没有到来。"
     },
     {
-      "title": "异构数据同步不只追延迟：用 KFS 守住不停机迁移的每一笔账",
-      "url": "https://juejin.cn/post/7682364222383308850",
+      "title": "大环境或许真的恶劣了起来，打工人你焦虑吗？",
+      "url": "https://juejin.cn/post/7683049897088843816",
       "source": "juejin",
-      "score": 637,
-      "raw_score": 1536,
+      "score": 286,
+      "raw_score": 27,
       "comments": 0,
-      "author": "一只牛博",
+      "author": "李剑一",
       "created_at": "",
-      "summary": "一次在线迁移进入割接前夜，最让人心里没底的通常不是“同步延迟还剩多少”，而是另一个问题：目标库里的数据，真的和源库对得上吗？ 源系统没有停。"
+      "summary": "今天不想聊AI或者技术了，想聊聊找工作的问题。 最近一段时间比较焦虑，一方面看网上各种 AI 大模型越来越强，一天天的上新，自己也是天天更新相关内容。 但是对比自己发现，原来全世界都在进步，仿佛只有我"
     },
     {
-      "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
-      "url": "https://juejin.cn/post/7681931232724860970",
-      "source": "juejin",
-      "score": 634,
-      "raw_score": 1481,
-      "comments": 5,
-      "author": "恋猫de小郭",
-      "created_at": "",
-      "summary": "这个问题 GPT 5.6 sol 的时候大家就都在说，Anthropic 在 Fable 5 的时候我记得应该也说过，比如 Superpower 在现在的强模型下就变成负优化，除了浪费 Token 毫"
-    },
-    {
-      "title": "GPT - 6 Astra 的使用焚诀",
-      "url": "https://juejin.cn/post/7682634449856217115",
-      "source": "juejin",
-      "score": 626,
-      "raw_score": 1355,
-      "comments": 8,
-      "author": "cxuanAI",
-      "created_at": "",
-      "summary": "昨天吐槽了一下为什么 GPT - 6 Astra 没给我推送，我今天早上排查了一下，发现之前有用的一个工具会侵入式的把模型列表给改了，所以 Codex 不管怎么更新用的还是三方的模型列表。。。。 这里"
-    },
-    {
-      "title": "支持独立部署的地图方案",
-      "url": "https://juejin.cn/post/7682362046578966580",
-      "source": "juejin",
-      "score": 568,
-      "raw_score": 697,
-      "comments": 9,
-      "author": "Gyrate",
-      "created_at": "",
-      "summary": "我们做城市治理大屏、数字孪生和应急指挥项目时，经常把高德地图 JSAPI 当作默认选择。本文以这份方案和石河子工程的落地结果为基础，讲清楚哪些能力可以自己搭建地图服务。"
-    },
-    {
-      "title": "Gemini 3.8 Flash 没涨价，干活却贵了 40%？",
-      "url": "https://juejin.cn/post/7683051207535083526",
+      "title": "Kotlin 协程上下文：从 plus 到 CombinedContext，彻底搞懂左偏结构",
+      "url": "https://juejin.cn/post/7683020866855288842",
       "source": "juejin",
       "score": 246,
       "raw_score": 17,
       "comments": 0,
-      "author": "孟健AI编程",
+      "author": "hai_android",
       "created_at": "",
-      "summary": "大家好，我是孟健。 在独立评测机构 AA 的测试中，Flash High 综合任务均价比 3.7 贵约 40%，不过官方 API 牌价并未调整：每百万输入 token 依然为 0.75 美元，输出包含"
+      "summary": "`CombinedContext` 使用树状结构高效共享子上下文，删除 / 查找都按 Key 递归完成。"
     },
     {
-      "title": "从四大模型一周连发看企业 AI 落地，为什么 95% 的试点不赚钱",
-      "url": "https://juejin.cn/post/7683086663756546098",
+      "title": "前端每日知识点：React Fiber 与 AI 流式长文本渲染：从调度原理到工程落地",
+      "url": "https://juejin.cn/post/7683025447916863534",
       "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
+      "score": 235,
+      "raw_score": 15,
       "comments": 0,
-      "author": "小虎AI生活",
+      "author": "天道kabuto",
       "created_at": "",
-      "summary": "1 背景，模型周与冷数据撞车 9月1日 Anthropic 发布 Claude Fable 5.1，主打长时程 Agent 任务 9月2日 Google 发布 Gemini 3.8 Flash，长周期"
+      "summary": "一、Fiber 到底改变了什么 先说结论：Fiber 没有让单次渲染更快，它改变的是“渲染这件事能不能被调度”。 在 React 15 及更早的版本里，一次 setState 会触发递归遍历整棵组件树"
     },
     {
-      "title": "一周 AI 观察：模型层在\"周更\"，钱却全流进了机房",
-      "url": "https://juejin.cn/post/7683016577462616099",
+      "title": "让大模型「听话」输出 JSON：LangChain OutputParser 结构化输出实战，从手写正则到 Zod Schema 四层进化",
+      "url": "https://juejin.cn/post/7683051207534952454",
       "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
-      "author": "米小虾",
+      "author": "mONESY",
       "created_at": "",
-      "summary": "一周：Anthropic、Meta、Google、OpenAI 四家顶级实验室在同一个星期里各发一款旗舰。CNBC 在 9 月 6 日给这个现象起了个名字——\"模型疲劳\"（model fatigue）"
+      "summary": "一、先看问题：LLM 输出为什么「不听话」 调用大模型，一句话就回来了： LLM 的回答大概率长这样： 希望对你有帮助！ 理解 stream 最好的比喻是 水管： 一头接着 LLM server，一头"
     },
     {
-      "title": "Text2SQL ：用自然语言操作 SQLite 数据库",
-      "url": "https://juejin.cn/post/7683020866855370762",
+      "title": "前端每日知识点：Next.js 渲染与缓存：从 Pages Router 到 Cache Components 的范式迁移",
+      "url": "https://juejin.cn/post/7683086663756890162",
       "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
+      "score": 200,
+      "raw_score": 10,
       "comments": 0,
-      "author": "东风破_",
+      "author": "天道kabuto",
       "created_at": "",
-      "summary": "Text2SQL 的核心，是让大模型根据数据库 Schema，把自然语言转换成 SQL，再交给数据库执行。本文用 SQLite 搭建一个最小 Demo，跑通查询、新增、修改以及多表 JOIN。"
+      "summary": "一句话说清这条演进主线 如果把 Next.js 这几年的渲染演进浓缩成一句话，我会说：渲染的控制粒度越来越细，缓存的行为越来越显式。 Pages Router：页面级，靠 getStaticProps"
     },
     {
-      "title": "每天认识一个组件：数据治理Apache Atlas",
-      "url": "https://juejin.cn/post/7683051207535280134",
+      "title": "Agent 换了 Pod，身份怎么办？拆解 Substrate 的 Actor Identity",
+      "url": "https://juejin.cn/post/7683020866854961162",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "瀛川",
+      "created_at": "",
+      "summary": "本文沿 Substrate 源码，拆解身份重绑定、Worker/Actor 分配校验、atunnel 私钥与出口认证，并区分 MintCert 和 MintJWT 的实现边界。"
+    },
+    {
+      "title": "AI Coding 提效 2 倍是真的吗？到底怎么衡量效果",
+      "url": "https://juejin.cn/post/7683073875694321710",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "乘风gg",
+      "created_at": "",
+      "summary": "每次有团队跟我说\"用了 AI 提效 2 倍\"，我就问一个问题—— 你怎么算出来的？ 答案几乎一模一样：\"以前手写一个页面要 2 天，现在 AI 辅助 1 天，提效 2 倍。\" 我追问：\"那你跟产品扯需"
+    },
+    {
+      "title": "🎯 Danci —— 用 AI 驱动开发一个全栈英语单词学习平台",
+      "url": "https://juejin.cn/post/7683049897088335912",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "YHL",
+      "created_at": "",
+      "summary": "Danci 是一个 AI 驱动的全栈英语单词学习平台，包含后台管理系统与 H5 移动端应用，基于 Next.js、Supabase、Drizzle ORM 构建，支持单词书管理、卡片学习、进度保存与单"
+    },
+    {
+      "title": "Spring 的核心特点与设计哲学",
+      "url": "https://juejin.cn/post/7683049897088532520",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "步行cgn",
+      "created_at": "",
+      "summary": "Spring 的核心特点与设计哲学 Spring 自 2003 年诞生以来，从一个轻量级的 IoC 容器发展为覆盖企业级开发全领域的庞大生态体系。要理解 Spring 为什么能成为 Java 开发的事"
+    },
+    {
+      "title": "第 20 章 质量保障 Harness 与评测体系",
+      "url": "https://juejin.cn/post/7683079867370946598",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "大大大大晴天",
+      "author": "前端阿凡",
       "created_at": "",
-      "summary": "Apache Atlas 的核心价值，是把分散在数据平台中的技术元数据、业务语义、分类标签、血缘关系和安全策略组织到一个统一治理框架中。"
+      "summary": "第 20 章 质量保障：Harness 与评测体系 本章要解决的问题 章节大纲 20.1 Agent 评测指标体系（任务成功率/工具正确率/成本/延迟） 20.2 评测集构建与自动化回归 20.3 防"
     },
     {
-      "title": "10 MB 的 Postman 替代品，启动不到 1 秒",
-      "url": "https://juejin.cn/post/7683086663756693554",
+      "title": "AI 写完 100 万行代码没人 Review，我做了一件事：把 AI 写的代码管起来了",
+      "url": "https://juejin.cn/post/7683002536370405395",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "她的男孩",
+      "created_at": "",
+      "summary": "第一条：Bun 1.4 重写，11 天，100 万行代码，Jarred Sumner 搭了个 Agent 框架让 AI 自己并行写。Token 烧了 16.5 万美金。 第二条：DHH 接受 Lex "
+    },
+    {
+      "title": "Webpack 与 Vite：从 Loader / Plugin 到 Rolldown 统一引擎",
+      "url": "https://juejin.cn/post/7683051207536427014",
       "source": "juejin",
       "score": 139,
       "raw_score": 5,
       "comments": 0,
-      "author": "小奏技术",
+      "author": "猫不易",
       "created_at": "",
-      "summary": "大家好，这里是小奏技术，觉得文章不错可以点个赞和关注 🪶 10 MB 的 API 调试工具，你见过吗？ 你有没有遇到过这种情况——为了调一个接口，先花两分钟等 Postman 慢慢转圈加载，内存占用直"
+      "summary": "前端构建工具面试里,\"讲 webpack 的 loader 和 plugin\"几乎是必考题,紧跟着大概率会追问Vite，这篇笔记会把这两个问题连起来讲个清楚。"
     },
     {
-      "title": "BanyanDB 0.11.0：新特性与升级指南",
-      "url": "https://juejin.cn/post/7683062023350763554",
+      "title": "同一份长文问两次，SGLang 怎样少算一遍",
+      "url": "https://juejin.cn/post/7683152167239057414",
       "source": "juejin",
       "score": 139,
       "raw_score": 5,
       "comments": 0,
-      "author": "SkyWalking中文站",
+      "author": "武子康",
       "created_at": "",
-      "summary": "BanyanDB 0.11.0：默认启用向量化查询、可插拔 Trace 后采样、Schema 屏障，以及不可忽略的升级顺序。 By BanyanDB 团队"
-    },
-    {
-      "title": "SkyWalking 11 与 BanyanDB 0.11：在存储引擎内部实现 Trace 尾部采样",
-      "url": "https://juejin.cn/post/7683060031084707875",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "SkyWalking中文站",
-      "created_at": "",
-      "summary": "Apache SkyWalking **11.0.0** 与 BanyanDB **0.11.0** 带来了 Trace 尾部采样（tail sampling）。"
+      "summary": "同一份长文问两次，SGLang 怎样少算一遍 给模型一份长文，先问“付款条件是什么”，再问“违约责任有哪些”。第二次的问题变了，文档没有变。模型还要把整份文档从头处理一遍吗？ 如果两次请求在模型输入端"
     }
   ]
 }
