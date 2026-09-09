@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-09T02:10:47.068640+00:00",
+  "updated_at": "2026-09-09T15:34:03.649982+00:00",
   "articles": [
     {
-      "title": "走进AI Agent第三篇：让 Agent 记住你",
-      "url": "https://juejin.cn/post/7682394398210932763",
+      "title": "固定电话验证详解：区号、号码、分机号的完整验证",
+      "url": "https://juejin.cn/post/7682724380078080015",
       "source": "juejin",
-      "score": 788,
-      "raw_score": 8789,
-      "comments": 4,
-      "author": "老王以为",
+      "score": 827,
+      "raw_score": 13657,
+      "comments": 1,
+      "author": "vipxieliang",
       "created_at": "",
-      "summary": "单次会话内的上下文管理有一套成熟的技术：系统提示词怎么写、KV Cache 怎么保、状态栏怎么追加、对话历史怎么压缩。但这些技术有一个共同的前提：会话结束，一切归零。下一次对话开始时，Agent 不记"
+      "summary": "固定电话验证详解：区号、号码、分机号的完整验证 📋 目录 引言 一、固定电话的三段式结构 二、区号、号码、分机号的真实规则 三、最容易写错的\"伪正则\" 四、@ChineseLandline：开箱即用的"
     },
     {
       "title": "三年了，AI为何还没有抢走程序员饭碗？",
       "url": "https://juejin.cn/post/7682262550978936884",
       "source": "juejin",
-      "score": 733,
-      "raw_score": 4633,
-      "comments": 31,
+      "score": 764,
+      "raw_score": 6669,
+      "comments": 41,
       "author": "写代码像蔡徐抻",
       "created_at": "",
       "summary": "AI取代程序员，喊了应该是第三个年头了。 但显然，即使是AI已经迭代到 Claude 5、GPT-6 的当下，很多人想象中的大裁员潮也并没有到来。"
     },
     {
-      "title": "大环境或许真的恶劣了起来，打工人你焦虑吗？",
-      "url": "https://juejin.cn/post/7683049897088843816",
+      "title": "【社区公告】致每一位掘友：关于这次调整， 想再说几句",
+      "url": "https://juejin.cn/post/7682603130694484014",
+      "source": "juejin",
+      "score": 756,
+      "raw_score": 6095,
+      "comments": 258,
+      "author": "掘金酱",
+      "created_at": "",
+      "summary": "各位JJYYMM： 前几天我们发布了《签到与矿石奖励解耦说明》。公告发出后，评论区的反馈比我们预想的更密集，也更直接。 有掘友说连续签到快六年，终于可以不用每天打卡了；有掘友说打卡了一千四百多天，截图"
+    },
+    {
+      "title": "浪费时间！DeepSeek 4.1 Flash",
+      "url": "https://juejin.cn/post/7683125482832887823",
+      "source": "juejin",
+      "score": 576,
+      "raw_score": 760,
+      "comments": 6,
+      "author": "甲维斯",
+      "created_at": "",
+      "summary": "我曾经因为 DS 的风格和梁文锋说的那句话，而对 DS 充满了好感。 但是，我对DeepSeek的好感所剩无几了！ 搞技术，实力为尊，做产品，体验为上，其它说再多都无用。 我这篇文章本来的标题是“辣鸡"
+    },
+    {
+      "title": "适配小米“中”折屏，非得买一台吗",
+      "url": "https://juejin.cn/post/7682593227544805382",
+      "source": "juejin",
+      "score": 523,
+      "raw_score": 415,
+      "comments": 2,
+      "author": "RockByte",
+      "created_at": "",
+      "summary": "各位 Android 爱好者们，大家好。 Android 正在全面推进自适应布局。应用不再只面对一种手机尺寸，开发者也应该让同一套功能在更多设备形态上都能正常使用。"
+    },
+    {
+      "title": "Flutter 状态管理基准测评，一个很有趣的观点",
+      "url": "https://juejin.cn/post/7682593227544788998",
+      "source": "juejin",
+      "score": 514,
+      "raw_score": 375,
+      "comments": 0,
+      "author": "恋猫de小郭",
+      "created_at": "",
+      "summary": "最近刚好看到，Filip Hráček 发了一篇 Flutter 状态管理 Benchmark，实际上对比 Provider、Riverpod、GetX、Signals 到底差了几微秒性能 差异的意义"
+    },
+    {
+      "title": "面试官皱眉：\"你懂 Vibe Coding，那你说superpowers和grill-me怎么选？\"，我：\"小孩才做选择，我全都要！\"",
+      "url": "https://juejin.cn/post/7682695183460974632",
+      "source": "juejin",
+      "score": 493,
+      "raw_score": 295,
+      "comments": 2,
+      "author": "MacroZheng",
+      "created_at": "",
+      "summary": "面试官：你简历上写了\"熟练使用 AI 编程工具\"，那我问你，superpowers 和 grill-me 你怎么选？我：这俩又不是竞品，选什么选？"
+    },
+    {
+      "title": "DeepSeek 降价，扩招 150 人",
+      "url": "https://juejin.cn/post/7683350178889760818",
+      "source": "juejin",
+      "score": 313,
+      "raw_score": 37,
+      "comments": 0,
+      "author": "stormzhangV",
+      "created_at": "",
+      "summary": "DeepSeek 宣布下调 Flash 系列 API 价格，并释放约 150 个工程岗位。本文梳理降价幅度、V4.1 Flash 进展与算力投入，讨论 Agent 产品、多模态能力和 AI 岗位转型。"
+    },
+    {
+      "title": "DeepSeek Harness 入门很简单（三）——DeepSeek Harness接入工具、MCP、Skill",
+      "url": "https://juejin.cn/post/7683355056541483042",
       "source": "juejin",
       "score": 286,
       "raw_score": 27,
       "comments": 0,
-      "author": "李剑一",
+      "author": "大模型真好玩",
       "created_at": "",
-      "summary": "今天不想聊AI或者技术了，想聊聊找工作的问题。 最近一段时间比较焦虑，一方面看网上各种 AI 大模型越来越强，一天天的上新，自己也是天天更新相关内容。 但是对比自己发现，原来全世界都在进步，仿佛只有我"
+      "summary": "想让 DeepSeek Harness更全能？工具、MCP、Skill三管齐下！本文手把手教你通过自然语言动态创建工具、一键接入高德地图等 MCP、装载 PPT 生成等 Skill ，全程无需写代码。"
     },
     {
-      "title": "Kotlin 协程上下文：从 plus 到 CombinedContext，彻底搞懂左偏结构",
-      "url": "https://juejin.cn/post/7683020866855288842",
+      "title": "DeepSeek Harness 系列（01）：它是什么——生产级 Agent 运行时全景",
+      "url": "https://juejin.cn/post/7683353819854454820",
       "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
+      "score": 276,
+      "raw_score": 24,
       "comments": 0,
-      "author": "hai_android",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "`CombinedContext` 使用树状结构高效共享子上下文，删除 / 查找都按 Key 递归完成。"
+      "summary": "DeepSeek Harness是 DeepSeek AI 开源的 Agent 运行时框架，用「一切皆插件」架构解决了 Agent 从 demo 到生产的核心工程问题。接下来会用一个系列分析它的原理"
     },
     {
-      "title": "前端每日知识点：React Fiber 与 AI 流式长文本渲染：从调度原理到工程落地",
-      "url": "https://juejin.cn/post/7683025447916863534",
+      "title": "一天一个开源项目（第212篇）：OpenMAIC —— 清华出品的多智能体交互式课堂",
+      "url": "https://juejin.cn/post/7683353819854503972",
       "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
+      "score": 260,
+      "raw_score": 20,
       "comments": 0,
-      "author": "天道kabuto",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "一、Fiber 到底改变了什么 先说结论：Fiber 没有让单次渲染更快，它改变的是“渲染这件事能不能被调度”。 在 React 15 及更早的版本里，一次 setState 会触发递归遍历整棵组件树"
+      "summary": "引言 这是\"一天一个开源项目\"系列的第 212 篇。今天的项目是 OpenMAIC。 在线教育的体验有一个根本性的局限：你看视频，视频播放，你暂停或倍速，但课程本身是固定的。"
     },
     {
-      "title": "让大模型「听话」输出 JSON：LangChain OutputParser 结构化输出实战，从手写正则到 Zod Schema 四层进化",
-      "url": "https://juejin.cn/post/7683051207534952454",
+      "title": "给 AI 生成的内容发一张身份证：C2PA 到底能证明什么，又证明不了什么",
+      "url": "https://juejin.cn/post/7683355056541597730",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "米小虾",
+      "created_at": "",
+      "summary": "目前最像答案的东西叫 C2PA（Coalition for Content Provenance and Authenticity，内容来源与真实性联盟），对外品牌叫 Content Credenti"
+    },
+    {
+      "title": "如何自己造一个时间处理库",
+      "url": "https://juejin.cn/post/7683394933152923688",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "mONESY",
+      "author": "mumuy",
       "created_at": "",
-      "summary": "一、先看问题：LLM 输出为什么「不听话」 调用大模型，一句话就回来了： LLM 的回答大概率长这样： 希望对你有帮助！ 理解 stream 最好的比喻是 水管： 一头接着 LLM server，一头"
+      "summary": "之前我在文章中说自己写时间处理库，有网友问：为什么要自己造一个轮子？是不知道市面上有成熟的库吗？有什么优势吗？ 其实我没想那么多，就是把“造一个自己的库”当作一个“课题”或者“挑战”。想要做一个自己用"
     },
     {
-      "title": "前端每日知识点：Next.js 渲染与缓存：从 Pages Router 到 Cache Components 的范式迁移",
-      "url": "https://juejin.cn/post/7683086663756890162",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "天道kabuto",
-      "created_at": "",
-      "summary": "一句话说清这条演进主线 如果把 Next.js 这几年的渲染演进浓缩成一句话，我会说：渲染的控制粒度越来越细，缓存的行为越来越显式。 Pages Router：页面级，靠 getStaticProps"
-    },
-    {
-      "title": "Agent 换了 Pod，身份怎么办？拆解 Substrate 的 Actor Identity",
-      "url": "https://juejin.cn/post/7683020866854961162",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "瀛川",
-      "created_at": "",
-      "summary": "本文沿 Substrate 源码，拆解身份重绑定、Worker/Actor 分配校验、atunnel 私钥与出口认证，并区分 MintCert 和 MintJWT 的实现边界。"
-    },
-    {
-      "title": "AI Coding 提效 2 倍是真的吗？到底怎么衡量效果",
-      "url": "https://juejin.cn/post/7683073875694321710",
-      "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
-      "comments": 0,
-      "author": "乘风gg",
-      "created_at": "",
-      "summary": "每次有团队跟我说\"用了 AI 提效 2 倍\"，我就问一个问题—— 你怎么算出来的？ 答案几乎一模一样：\"以前手写一个页面要 2 天，现在 AI 辅助 1 天，提效 2 倍。\" 我追问：\"那你跟产品扯需"
-    },
-    {
-      "title": "🎯 Danci —— 用 AI 驱动开发一个全栈英语单词学习平台",
-      "url": "https://juejin.cn/post/7683049897088335912",
+      "title": "Godot 4 入门（03）：用第一份 GDScript 驱动节点",
+      "url": "https://juejin.cn/post/7683339702867345450",
       "source": "juejin",
       "score": 180,
       "raw_score": 8,
       "comments": 0,
-      "author": "YHL",
+      "author": "烛阴",
       "created_at": "",
-      "summary": "Danci 是一个 AI 驱动的全栈英语单词学习平台，包含后台管理系统与 H5 移动端应用，基于 Next.js、Supabase、Drizzle ORM 构建，支持单词书管理、卡片学习、进度保存与单"
+      "summary": "一、创建脚本 打开 player.tscn，选中根节点并绑定脚本，保存为 scripts/player/player.gd： extends Node2D 表示脚本继承根节点能力；speed 是浮点变"
     },
     {
-      "title": "Spring 的核心特点与设计哲学",
-      "url": "https://juejin.cn/post/7683049897088532520",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "步行cgn",
-      "created_at": "",
-      "summary": "Spring 的核心特点与设计哲学 Spring 自 2003 年诞生以来，从一个轻量级的 IoC 容器发展为覆盖企业级开发全领域的庞大生态体系。要理解 Spring 为什么能成为 Java 开发的事"
-    },
-    {
-      "title": "第 20 章 质量保障 Harness 与评测体系",
-      "url": "https://juejin.cn/post/7683079867370946598",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "前端阿凡",
-      "created_at": "",
-      "summary": "第 20 章 质量保障：Harness 与评测体系 本章要解决的问题 章节大纲 20.1 Agent 评测指标体系（任务成功率/工具正确率/成本/延迟） 20.2 评测集构建与自动化回归 20.3 防"
-    },
-    {
-      "title": "AI 写完 100 万行代码没人 Review，我做了一件事：把 AI 写的代码管起来了",
-      "url": "https://juejin.cn/post/7683002536370405395",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "她的男孩",
-      "created_at": "",
-      "summary": "第一条：Bun 1.4 重写，11 天，100 万行代码，Jarred Sumner 搭了个 Agent 框架让 AI 自己并行写。Token 烧了 16.5 万美金。 第二条：DHH 接受 Lex "
-    },
-    {
-      "title": "Webpack 与 Vite：从 Loader / Plugin 到 Rolldown 统一引擎",
-      "url": "https://juejin.cn/post/7683051207536427014",
+      "title": "从数仓建模到 AI 数据底座：重新理解数据治理的位置",
+      "url": "https://juejin.cn/post/7683348233490268166",
       "source": "juejin",
       "score": 139,
       "raw_score": 5,
       "comments": 0,
-      "author": "猫不易",
+      "author": "大大大大晴天",
       "created_at": "",
-      "summary": "前端构建工具面试里,\"讲 webpack 的 loader 和 plugin\"几乎是必考题,紧跟着大概率会追问Vite，这篇笔记会把这两个问题连起来讲个清楚。"
-    },
-    {
-      "title": "同一份长文问两次，SGLang 怎样少算一遍",
-      "url": "https://juejin.cn/post/7683152167239057414",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "武子康",
-      "created_at": "",
-      "summary": "同一份长文问两次，SGLang 怎样少算一遍 给模型一份长文，先问“付款条件是什么”，再问“违约责任有哪些”。第二次的问题变了，文档没有变。模型还要把整份文档从头处理一遍吗？ 如果两次请求在模型输入端"
+      "summary": "数据治理体系：数仓建模解决“如何表达业务”，数据中台解决“如何复用资产”，湖仓一体解决“如何统一存储与计算”，实时数仓解决“如何低延迟可信计算”，AI 数据底座解决“如何让模型使用可信上下文”。"
     }
   ]
 }
