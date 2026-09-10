@@ -1,170 +1,159 @@
 {
-  "updated_at": "2026-09-09T15:34:03.649982+00:00",
+  "updated_at": "2026-09-10T02:08:27.098456+00:00",
   "articles": [
     {
-      "title": "固定电话验证详解：区号、号码、分机号的完整验证",
-      "url": "https://juejin.cn/post/7682724380078080015",
+      "title": "为啥 Blender 突然火了？",
+      "url": "https://juejin.cn/post/7683515498140221478",
       "source": "juejin",
-      "score": 827,
-      "raw_score": 13657,
+      "score": 409,
+      "raw_score": 111,
       "comments": 1,
-      "author": "vipxieliang",
+      "author": "cxuanAI",
       "created_at": "",
-      "summary": "固定电话验证详解：区号、号码、分机号的完整验证 📋 目录 引言 一、固定电话的三段式结构 二、区号、号码、分机号的真实规则 三、最容易写错的\"伪正则\" 四、@ChineseLandline：开箱即用的"
+      "summary": "GPT-6 Astra 发布之后，Blender 这个词汇突然进入了大家的视野中。以至于现在某知名社交平台上全是各种各样用 Astra + Blender 绘制的 3D 场景。 这篇就跟大家聊一聊 B"
     },
     {
-      "title": "三年了，AI为何还没有抢走程序员饭碗？",
-      "url": "https://juejin.cn/post/7682262550978936884",
+      "title": "一个人 + AI 做的小程序，一个月赚了 36 块",
+      "url": "https://juejin.cn/post/7683443642279723023",
       "source": "juejin",
-      "score": 764,
-      "raw_score": 6669,
-      "comments": 41,
-      "author": "写代码像蔡徐抻",
+      "score": 400,
+      "raw_score": 100,
+      "comments": 3,
+      "author": "好市民_",
       "created_at": "",
-      "summary": "AI取代程序员，喊了应该是第三个年头了。 但显然，即使是AI已经迭代到 Claude 5、GPT-6 的当下，很多人想象中的大裁员潮也并没有到来。"
+      "summary": "一个人+AI做了个观音灵签小程序，31天，579个用户，流量主收入36.21元。成本144元/年，日均收入覆盖日均成本。发不了财，但零花钱可以。"
     },
     {
-      "title": "【社区公告】致每一位掘友：关于这次调整， 想再说几句",
-      "url": "https://juejin.cn/post/7682603130694484014",
+      "title": "GPT-6 VS GPT-5.6：你该怎么选",
+      "url": "https://juejin.cn/post/7683448371320537124",
       "source": "juejin",
-      "score": 756,
-      "raw_score": 6095,
-      "comments": 258,
-      "author": "掘金酱",
-      "created_at": "",
-      "summary": "各位JJYYMM： 前几天我们发布了《签到与矿石奖励解耦说明》。公告发出后，评论区的反馈比我们预想的更密集，也更直接。 有掘友说连续签到快六年，终于可以不用每天打卡了；有掘友说打卡了一千四百多天，截图"
-    },
-    {
-      "title": "浪费时间！DeepSeek 4.1 Flash",
-      "url": "https://juejin.cn/post/7683125482832887823",
-      "source": "juejin",
-      "score": 576,
-      "raw_score": 760,
-      "comments": 6,
-      "author": "甲维斯",
-      "created_at": "",
-      "summary": "我曾经因为 DS 的风格和梁文锋说的那句话，而对 DS 充满了好感。 但是，我对DeepSeek的好感所剩无几了！ 搞技术，实力为尊，做产品，体验为上，其它说再多都无用。 我这篇文章本来的标题是“辣鸡"
-    },
-    {
-      "title": "适配小米“中”折屏，非得买一台吗",
-      "url": "https://juejin.cn/post/7682593227544805382",
-      "source": "juejin",
-      "score": 523,
-      "raw_score": 415,
-      "comments": 2,
+      "score": 330,
+      "raw_score": 45,
+      "comments": 0,
       "author": "RockByte",
       "created_at": "",
-      "summary": "各位 Android 爱好者们，大家好。 Android 正在全面推进自适应布局。应用不再只面对一种手机尺寸，开发者也应该让同一套功能在更多设备形态上都能正常使用。"
+      "summary": "如果不管什么任务都用最高档的 AI 模型，你 Hold 住成本吗？ 最近大家有没有发现，模型商把模型分档了：例如 GLM 有 5.3 和 5.3 Flash"
     },
     {
-      "title": "Flutter 状态管理基准测评，一个很有趣的观点",
-      "url": "https://juejin.cn/post/7682593227544788998",
-      "source": "juejin",
-      "score": 514,
-      "raw_score": 375,
-      "comments": 0,
-      "author": "恋猫de小郭",
-      "created_at": "",
-      "summary": "最近刚好看到，Filip Hráček 发了一篇 Flutter 状态管理 Benchmark，实际上对比 Provider、Riverpod、GetX、Signals 到底差了几微秒性能 差异的意义"
-    },
-    {
-      "title": "面试官皱眉：\"你懂 Vibe Coding，那你说superpowers和grill-me怎么选？\"，我：\"小孩才做选择，我全都要！\"",
-      "url": "https://juejin.cn/post/7682695183460974632",
-      "source": "juejin",
-      "score": 493,
-      "raw_score": 295,
-      "comments": 2,
-      "author": "MacroZheng",
-      "created_at": "",
-      "summary": "面试官：你简历上写了\"熟练使用 AI 编程工具\"，那我问你，superpowers 和 grill-me 你怎么选？我：这俩又不是竞品，选什么选？"
-    },
-    {
-      "title": "DeepSeek 降价，扩招 150 人",
-      "url": "https://juejin.cn/post/7683350178889760818",
-      "source": "juejin",
-      "score": 313,
-      "raw_score": 37,
-      "comments": 0,
-      "author": "stormzhangV",
-      "created_at": "",
-      "summary": "DeepSeek 宣布下调 Flash 系列 API 价格，并释放约 150 个工程岗位。本文梳理降价幅度、V4.1 Flash 进展与算力投入，讨论 Agent 产品、多模态能力和 AI 岗位转型。"
-    },
-    {
-      "title": "DeepSeek Harness 入门很简单（三）——DeepSeek Harness接入工具、MCP、Skill",
-      "url": "https://juejin.cn/post/7683355056541483042",
-      "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
-      "comments": 0,
-      "author": "大模型真好玩",
-      "created_at": "",
-      "summary": "想让 DeepSeek Harness更全能？工具、MCP、Skill三管齐下！本文手把手教你通过自然语言动态创建工具、一键接入高德地图等 MCP、装载 PPT 生成等 Skill ，全程无需写代码。"
-    },
-    {
-      "title": "DeepSeek Harness 系列（01）：它是什么——生产级 Agent 运行时全景",
-      "url": "https://juejin.cn/post/7683353819854454820",
-      "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
-      "comments": 0,
-      "author": "冬奇Lab",
-      "created_at": "",
-      "summary": "DeepSeek Harness是 DeepSeek AI 开源的 Agent 运行时框架，用「一切皆插件」架构解决了 Agent 从 demo 到生产的核心工程问题。接下来会用一个系列分析它的原理"
-    },
-    {
-      "title": "一天一个开源项目（第212篇）：OpenMAIC —— 清华出品的多智能体交互式课堂",
-      "url": "https://juejin.cn/post/7683353819854503972",
-      "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
-      "comments": 0,
-      "author": "冬奇Lab",
-      "created_at": "",
-      "summary": "引言 这是\"一天一个开源项目\"系列的第 212 篇。今天的项目是 OpenMAIC。 在线教育的体验有一个根本性的局限：你看视频，视频播放，你暂停或倍速，但课程本身是固定的。"
-    },
-    {
-      "title": "给 AI 生成的内容发一张身份证：C2PA 到底能证明什么，又证明不了什么",
-      "url": "https://juejin.cn/post/7683355056541597730",
-      "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
-      "comments": 0,
-      "author": "米小虾",
-      "created_at": "",
-      "summary": "目前最像答案的东西叫 C2PA（Coalition for Content Provenance and Authenticity，内容来源与真实性联盟），对外品牌叫 Content Credenti"
-    },
-    {
-      "title": "如何自己造一个时间处理库",
-      "url": "https://juejin.cn/post/7683394933152923688",
+      "title": "LangGraph 核心机制：从状态管理到人机协同",
+      "url": "https://juejin.cn/post/7683375934588026931",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "mumuy",
+      "author": "阿黎梨梨",
       "created_at": "",
-      "summary": "之前我在文章中说自己写时间处理库，有网友问：为什么要自己造一个轮子？是不知道市面上有成熟的库吗？有什么优势吗？ 其实我没想那么多，就是把“造一个自己的库”当作一个“课题”或者“挑战”。想要做一个自己用"
+      "summary": "LangGraph 是 LangChain 生态中用于构建复杂、有状态、多 Agent 协作工作流的编排框架。它通过图结构定义任务流程，支持条件分支、循环、持久化和中断恢复"
     },
     {
-      "title": "Godot 4 入门（03）：用第一份 GDScript 驱动节点",
-      "url": "https://juejin.cn/post/7683339702867345450",
+      "title": "手写 ReAct 循环：搞懂 Agent 工具调用",
+      "url": "https://juejin.cn/post/7683387359011143743",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "wangfpp",
+      "created_at": "",
+      "summary": "手写 ReAct 循环：搞懂 Agent 工具调用,用 Node.js + 本地模型（qwen3-1.7b）实现 ReAct（推理-行动-观察）循环的多工具调用，"
+    },
+    {
+      "title": "【Pipecat】一个能对话、会用工具的语音 Agent，是怎么工作的？",
+      "url": "https://juejin.cn/post/7683375626494066728",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "Sincerelyplz",
+      "created_at": "",
+      "summary": "上一篇《【Pipecat】基于 Pipecat 的 Voice Agent 实践》里，介绍了参考 Tana 做会议助手 MVP 的过程。从前端的卡片布局，到让 Agent 听我们说话、看共享屏幕"
+    },
+    {
+      "title": "从“死板的检索”到“会思考的助手”：用 LangGraph 打造 Agentic RAG",
+      "url": "https://juejin.cn/post/7683355056541630498",
       "source": "juejin",
       "score": 180,
       "raw_score": 8,
       "comments": 0,
-      "author": "烛阴",
+      "author": "阿黎梨梨",
       "created_at": "",
-      "summary": "一、创建脚本 打开 player.tscn，选中根节点并绑定脚本，保存为 scripts/player/player.gd： extends Node2D 表示脚本继承根节点能力；speed 是浮点变"
+      "summary": "传统 RAG（检索增强生成）的工作方式很直接：收到问题 → 去知识库检索相关内容 → 把内容喂给大模型 → 生成回答。这套流程在简单场景下够用，但一旦遇到复杂问题，就会暴露不少短板。"
     },
     {
-      "title": "从数仓建模到 AI 数据底座：重新理解数据治理的位置",
-      "url": "https://juejin.cn/post/7683348233490268166",
+      "title": "vue3 源码学习（四）从异步更新到 Scheduler 调度器",
+      "url": "https://juejin.cn/post/7683350015278121012",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "汐屿间",
+      "created_at": "",
+      "summary": "vue3 源码学习（四）从异步更新到 Scheduler 调度器 一、回顾上篇：我们实现了什么 上篇文章里，我们用一个 Set + 微任务，解决了「同步多次修改触发多次 effect」的问题： 这已经"
+    },
+    {
+      "title": "grid布局justify-items和align-items、justify-content和align-content",
+      "url": "https://juejin.cn/post/7683416533935636531",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "我的div丢了肿么办",
+      "created_at": "",
+      "summary": "默认值 justify-items的默认值: stretch; align-items的默认值: stretch; 表示项目会伸展占据网格单元内的可用空间。 justify-items:控制项目在网格"
+    },
+    {
+      "title": "从本地跑通到公网访问：前后端项目部署实战",
+      "url": "https://juejin.cn/post/7683350015278661684",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "先吃饱再说",
+      "created_at": "",
+      "summary": "代码在本地跑得好好的，怎么让用户通过域名访问？本文从部署的底层认知出发，拆解服务器选购、安全组与防火墙配置、Nginx 反向代理、宝塔面板可视化管理，以一个全栈项目的完整部署流程为例，帮你打通从“本地"
+    },
+    {
+      "title": "State 是\"长\"出来的：Annotation、reducer 与并行安全——LangGraph 系列之二",
+      "url": "https://juejin.cn/post/7683353819854438436",
       "source": "juejin",
       "score": 139,
       "raw_score": 5,
       "comments": 0,
-      "author": "大大大大晴天",
+      "author": "不好听613",
       "created_at": "",
-      "summary": "数据治理体系：数仓建模解决“如何表达业务”，数据中台解决“如何复用资产”，湖仓一体解决“如何统一存储与计算”，实时数仓解决“如何低延迟可信计算”，AI 数据底座解决“如何让模型使用可信上下文”。"
+      "summary": "上一篇埋下的问题 上一篇里那张最小图只有一条直线：节点做完，交给下一个。顺序执行时，手工维护一个\"总状态对象\"并不难——谁后写，谁生效。 但图的真正威力——并行、分支、循环——会立刻戳破\"后写覆盖\"的"
+    },
+    {
+      "title": "分支与循环：把\"下一跳\"交给状态和 LLM——LangGraph 系列之三",
+      "url": "https://juejin.cn/post/7683339702867329066",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "不好听613",
+      "created_at": "",
+      "summary": "从\"固定流水\"到\"看情况走\" 前两篇里，图的边都是固定的：A → B → END，编译时就定死了。这种图本质还是链。 但真实的 Agent 是看情况走的：用户问的是数学题就走数学处理，是闲聊就走对话；"
+    },
+    {
+      "title": "一个 checkpointer，解锁记忆与人工介入——LangGraph 系列之四",
+      "url": "https://juejin.cn/post/7683387359011258431",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "不好听613",
+      "created_at": "",
+      "summary": "前几篇藏着的共同缺陷 前三篇的图都能跑、能分支、能循环。但它们有个你没注意的前提：每次 invoke 都是一次\"全新\"的执行——状态从 default 起步，跑完就丢。 可真实的产品需要状态跨次调用地"
+    },
+    {
+      "title": "别再手动敲三遍 docker run 了：学会使用 Docker Compose 多容器编排",
+      "url": "https://juejin.cn/post/7683443642279034895",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "先吃饱再说",
+      "created_at": "",
+      "summary": "跑一个 NestJS + MySQL + Redis 的项目，你得手动敲三遍 docker run，还要自己建网络让它们互通。Docker Compose 把这些步骤写进一个 YAML 文件，从此只需"
     }
   ]
 }
