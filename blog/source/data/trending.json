@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-10T15:29:45.656468+00:00",
+  "updated_at": "2026-09-11T02:05:13.689141+00:00",
   "articles": [
     {
-      "title": "三年了，AI为何还没有抢走程序员饭碗？",
-      "url": "https://juejin.cn/post/7682262550978936884",
+      "title": "2026 年，你可以从项目中删掉这 5 个 npm 包了",
+      "url": "https://juejin.cn/post/7683724457530376198",
       "source": "juejin",
-      "score": 793,
-      "raw_score": 9275,
-      "comments": 46,
-      "author": "写代码像蔡徐抻",
-      "created_at": "",
-      "summary": "AI取代程序员，喊了应该是第三个年头了。 但显然，即使是AI已经迭代到 Claude 5、GPT-6 的当下，很多人想象中的大裁员潮也并没有到来。"
-    },
-    {
-      "title": "【社区公告】致每一位掘友：关于这次调整， 想再说几句",
-      "url": "https://juejin.cn/post/7682603130694484014",
-      "source": "juejin",
-      "score": 761,
-      "raw_score": 6400,
-      "comments": 267,
-      "author": "掘金酱",
-      "created_at": "",
-      "summary": "各位JJYYMM： 前几天我们发布了《签到与矿石奖励解耦说明》。公告发出后，评论区的反馈比我们预想的更密集，也更直接。 有掘友说连续签到快六年，终于可以不用每天打卡了；有掘友说打卡了一千四百多天，截图"
-    },
-    {
-      "title": "浪费时间！DeepSeek 4.1 Flash",
-      "url": "https://juejin.cn/post/7683125482832887823",
-      "source": "juejin",
-      "score": 675,
-      "raw_score": 2382,
-      "comments": 15,
-      "author": "甲维斯",
-      "created_at": "",
-      "summary": "我曾经因为 DS 的风格和梁文锋说的那句话，而对 DS 充满了好感。 但是，我对DeepSeek的好感所剩无几了！ 搞技术，实力为尊，做产品，体验为上，其它说再多都无用。 我这篇文章本来的标题是“辣鸡"
-    },
-    {
-      "title": "为什么市面上的 coding agent 大多数都基于Nodejs？",
-      "url": "https://juejin.cn/post/7683481485497188403",
-      "source": "juejin",
-      "score": 564,
-      "raw_score": 665,
-      "comments": 2,
-      "author": "Moment",
-      "created_at": "",
-      "summary": "最近看了几套比较知名的 Coding Agent，发现 TypeScript 确实出现得非常频繁。 新的 Kimi Code CLI 是 TypeScript + Node.js，DeepSeek H"
-    },
-    {
-      "title": "DeepSeek V4.1 Flash：一次把自家旗舰送走的发布",
-      "url": "https://juejin.cn/post/7683722642071470130",
-      "source": "juejin",
-      "score": 499,
-      "raw_score": 314,
-      "comments": 4,
-      "author": "码事漫谈",
-      "created_at": "",
-      "summary": "9 月 8 日下午，DeepSeek 在官方用户群里丢了一条不到 100 字的通知。没有发布会，没有预热海报，官网文档都没更新，就扔出一个模型名： 名字最后那串 0910 是它的保质期。48 小时后，"
-    },
-    {
-      "title": "为什么不推荐走Agent开发？",
-      "url": "https://juejin.cn/post/7683457864929329204",
-      "source": "juejin",
-      "score": 488,
-      "raw_score": 277,
-      "comments": 2,
-      "author": "程序员飞鱼",
-      "created_at": "",
-      "summary": "大家好呀，我是飞鱼 最近有些读者在学 Agent 开发，问了我一些问题： 其实大家经常看到网上很多培训班都会说，后端要向 AI 转型： 我个人觉得，Agent 开发这个职业想要有长期发展的前提是：你的"
-    },
-    {
-      "title": "推荐一个比ES快5倍的搜索引擎",
-      "url": "https://juejin.cn/post/7683722642070896690",
-      "source": "juejin",
-      "score": 451,
-      "raw_score": 181,
-      "comments": 3,
-      "author": "苏三说技术",
-      "created_at": "",
-      "summary": "前言 对于后端程序员来说，一提到搜索引擎技术，大家第一个想到的可能是ElasticSearch。 但ElasticSearch有三个让人头疼的点： ES集群运维太复杂了，光调JVM参数就要花费很多时间"
-    },
-    {
-      "title": "AI 改祖传模块后，代码评审总绕不开两个问题",
-      "url": "https://juejin.cn/post/7683724457529294854",
-      "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
+      "score": 371,
+      "raw_score": 72,
       "comments": 1,
-      "author": "kyriewen",
+      "author": "涛涛ing",
       "created_at": "",
-      "summary": "AI 能在几分钟里改完一个组件、补齐测试、顺手整理目录。真正让人卡住的，往往不是它写得够不够快，而是那份 diff 摆到评审里以后：我们究竟在确认什么？ 碰到维护多年的前端模块，代码评审最容易变成“这"
+      "summary": "一、删掉状态管理库：原生 Signals 已经落地 被替代的包： Redux、Zustand、MobX、Recoil、Jotai、Vue 的 ref（在跨框架场景下） 替代者： Signal.Stat"
     },
     {
-      "title": "用 Node.js 复刻 Codex Astra 的终端星光",
-      "url": "https://juejin.cn/post/7683539970712830006",
+      "title": "2025，记住这一年！它是古法编程的最后一年。",
+      "url": "https://juejin.cn/post/7683846471338885171",
       "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
-      "comments": 1,
-      "author": "moonrailgun",
-      "created_at": "",
-      "summary": "用 Node.js 复刻 Codex Astra 的终端星光 Codex 选中 gpt-6-astra 后，输入区域会出现一些淡淡的光点。它们停在原地，各自亮起，又慢慢隐进背景。 这类动画容易写得太吵"
-    },
-    {
-      "title": "把 AntV S2 列头计算从 O(n²) 降到 O(n)：一次开源组件的性能改造",
-      "url": "https://juejin.cn/post/7683730433377681454",
-      "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
+      "score": 330,
+      "raw_score": 45,
       "comments": 0,
-      "author": "闲坐含香咀翠",
+      "author": "阳火锅",
       "created_at": "",
-      "summary": "透视表性能优化系列·布局层——透视表每一帧都要算列头高度，列一多就是平方级开销，找到规律就能压回线性。"
+      "summary": "01 我现在干的活，就是给 AI 挑毛病 2025 年，大概是我这辈子最后一个被叫\"前端工程师\"的年份。 从这年开始，我没再敲过一行真正的代码。每天到工位坐下，我干的事就一件：把 AI 生成的一大堆代"
     },
     {
-      "title": "一天一个开源项目（第213篇）：public-apis —— 474k Star 的免费 API 终极清单",
-      "url": "https://juejin.cn/post/7683724457529442310",
+      "title": "DeepSeek V4.1 Flash 正式发布！",
+      "url": "https://juejin.cn/post/7683784267848122395",
       "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
+      "score": 292,
+      "raw_score": 29,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "cxuanAI",
       "created_at": "",
-      "summary": "public-apis 是 GitHub 上 Star 数排名前三的仓库，收录了 1400+ 个免费公开 API，涵盖 50+ 个大类，从动物图片到金融数据、从区块链到气象服务"
+      "summary": "刚刚我才写完文章说是 DeepSeek 开启正式降价，没过多会 DeepSeek V4.1 Flash 就正式发布了。 这今天 DeepSeek 你是要刷屏吗？ 先说一下结论： 从官方跑分看，Deep"
     },
     {
-      "title": "Agent 编排 Agent：DeepSeek Harness 的子代理与工作流系统有多强",
-      "url": "https://juejin.cn/post/7683752183521067048",
+      "title": "学习 FastAPI 的 Day 3：企业级目录与数据库迁移",
+      "url": "https://juejin.cn/post/7683820796637626394",
       "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
+      "score": 255,
+      "raw_score": 19,
       "comments": 0,
-      "author": "怕浪猫",
+      "author": "Dragon_xjy",
       "created_at": "",
-      "summary": "第14章：子代理与工作流编排——agent 如何编排 agent 一个 agent 能写代码、能跑命令。但如果任务太大——「重构这个模块」「同时修 10 个文件」——单个 agent 的上下文窗口会爆"
+      "summary": "前两天我们学习了接口、依赖注入和数据库操作。今天继续以新闻模块为例，看看代码为什么要分目录、项目如何启动，以及怎样用 Alembic 修改表结构又不丢失原有数据。内容会按照实际阅读顺序展开，新手跟着往"
     },
     {
-      "title": "DeepSeek Harness 系列（02）：万物皆插件——Cordis 核心设计深度解读",
-      "url": "https://juejin.cn/post/7683539970712731702",
+      "title": "接口幂等性怎么保证",
+      "url": "https://juejin.cn/post/7683751335721435151",
       "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
+      "score": 246,
+      "raw_score": 17,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "晚安日记wanna",
       "created_at": "",
-      "summary": "dsh 的所有能力都建立在 Cordis 插件框架之上。这篇文章结合真实源码，深度解读 Cordis 五个核心机制：Plugin、Context、Service、Event、Effect"
+      "summary": "锁在工作，唯一索引在工作，订单状态也确实只流转了一次。券还是发了两遍，积分还是加了两遍。 一个五年后端在面试里被问\"接口幂等怎么保证\"，答的是\"唯一主键约束 + 前端传幂等号 + 分布式锁\"——挑不出"
     },
     {
-      "title": "[Agent Memory / 强化学习] MemPO源码学习笔记 ---（1）--- 总体",
-      "url": "https://juejin.cn/post/7683751335721320463",
+      "title": "前端每日知识点：React 与 Vue Diff 算法对比 · 完整总结",
+      "url": "https://juejin.cn/post/7683784267847057435",
+      "source": "juejin",
+      "score": 240,
+      "raw_score": 16,
+      "comments": 0,
+      "author": "天道kabuto",
+      "created_at": "",
+      "summary": "一、核心分歧：变更的\"发现方式\"不同 React 和 Vue 的性能差异，根源并不在于\"谁的算法更快\"，而在于变更到底是怎么被发现的。 维度 React Vue 模式 拉（pull） 推（push） "
+    },
+    {
+      "title": "不要再把 Flow 当作一个容器",
+      "url": "https://juejin.cn/post/7683747144571207714",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "Android打工仔",
+      "created_at": "",
+      "summary": "# 不要再把 Flow 当作一个容器 在实际开发中，我们经常会遇到这样的需求： > “这里有一个 `Flow<T>`，但是我现在这个函数不是 `suspend` 的，我只想拿到它当前的值怎么办？”"
+    },
+    {
+      "title": "我的 AI 编程工作台：工具、模型与基础配置",
+      "url": "https://juejin.cn/post/7683846471338967091",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "罗西的思考",
+      "author": "全栈弄潮儿",
       "created_at": "",
-      "summary": "[Agent Memory / 强化学习] MemPO源码学习笔记 ---（1）--- 总体 0x00 概要 0x01 基础 & 背景 1.1 用RL训练记忆系统的要点 1.2 主要难点 1.3 主要"
+      "summary": "开篇 开始使用 AI 编程后，很多人的桌面会迅速变成这样： 浏览器里开着多个 AI 对话窗口。 编辑器里装了好几个代码助手。 终端里偶尔运行一个自动化 Agent。 收藏夹里保存了很多模型、插件和 P"
     },
     {
-      "title": "💫 给金鱼建图书馆（下）：Milvus 向量数据库，让 AI 拥有长期记忆",
-      "url": "https://juejin.cn/post/7683753471716606006",
+      "title": "AI Agent 不能自己签字：用 Python 工作流引擎给 AI 加一道人类审批闸门",
+      "url": "https://juejin.cn/post/7683810816321241107",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "mldong",
+      "created_at": "",
+      "summary": "Agent 能自己下单、自己发邮件，但重要动作要人类签字是长期需求。本文用 pip install jeeflow 给 Python Agent 装一道真审批闸门：发起→停在审批人手里→人点头→才放行；越权自批当场被拒，会签/驳回/留痕开箱即用。全程真机实录。"
+    },
+    {
+      "title": "从零开始，开源一本属于自己的 Pi 蓝皮书",
+      "url": "https://juejin.cn/post/7683776112268361780",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "默_笙",
+      "author": "小墨同学boy",
       "created_at": "",
-      "summary": "一、为什么需要向量数据库？ 上篇的三种管理策略各有短板： 策略 问题 截断 老消息直接扔，信息全丢 总结 压缩后有信息损失，细节保不住 文件 存了全量，但搜索靠关键词匹配，\"我做什么工作\"匹配不到\"数"
+      "summary": "这两个月以来我都在深度的学习和使用Pi。 一开始只是因为单纯的好奇，为什么会有人使用一个这么简洁的Agent？直接使用Codex、Claude Code不好吗？抱着这个疑问，我就开始了我的Pi Age"
+    },
+    {
+      "title": "Android WorkManager 笔记",
+      "url": "https://juejin.cn/post/7683735529537306651",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "hai_android",
+      "created_at": "",
+      "summary": "本文档整理了 Android Jetpack `WorkManager` 的几种典型使用方式：同步阻塞任务、协程挂起任务、`Function` 函数式接口，以及任务状态映射的实现思路。"
+    },
+    {
+      "title": "🚀 NestJS 后端开发实战：从设计模式到 CRUD 全栈",
+      "url": "https://juejin.cn/post/7683747144571224098",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "YHL",
+      "created_at": "",
+      "summary": "本文从工厂模式切入，讲解 NestJS 模块化架构、Controller 与 Service 分层，基于内存存储实现 Todos 增删改查 API，并配套单元测试，适合前端转后端开发者学习。"
+    },
+    {
+      "title": "EO2Weave 浏览器扩展正式上架 Chrome 应用商店：你的 AI 助手，从此住进每一个标签页",
+      "url": "https://juejin.cn/post/7683835074932310067",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "夜焱辰",
+      "created_at": "",
+      "summary": "今天有个双喜临门的消息要宣布： EO2Weave 浏览器扩展（v1.1.6）正式上架 Chrome Web Store；同时，它带来了一个我们打磨已久的重磅能力——Codex OAuth 授权。从此你"
+    },
+    {
+      "title": "Gin 项目为什么要分 Handler、Service、Repository？顺便讲透接口、依赖注入与指针",
+      "url": "https://juejin.cn/post/7683771208160968754",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "神秘的猪头",
+      "created_at": "",
+      "summary": "很多人刚开始写 Gin 时，一个接口通常是这样的： 项目小时完全没问题。 但是随着业务增加，一个 Handler 很快可能变成： 最终几百行全部堆在一个函数里。 所以真实项目通常会逐渐形成： 这篇文章"
+    },
+    {
+      "title": "React 全栈实战：从组件到鉴权的完整指南",
+      "url": "https://juejin.cn/post/7683752183520886824",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "绿色蟑螂",
+      "created_at": "",
+      "summary": "前言 React 是当前最流行的前端框架之一，但很多初学者在学习过程中会遇到这样的问题： 看了很多教程，但不知道如何组织一个完整的项目 理解了组件、状态等概念，但不知道如何应用到实际场景 知道 Rea"
     }
   ]
 }
