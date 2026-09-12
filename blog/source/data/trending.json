@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-11T15:32:06.713620+00:00",
+  "updated_at": "2026-09-12T02:10:34.273985+00:00",
   "articles": [
-    {
-      "title": "三年了，AI为何还没有抢走程序员饭碗？",
-      "url": "https://juejin.cn/post/7682262550978936884",
-      "source": "juejin",
-      "score": 811,
-      "raw_score": 11424,
-      "comments": 48,
-      "author": "写代码像蔡徐抻",
-      "created_at": "",
-      "summary": "AI取代程序员，喊了应该是第三个年头了。 但显然，即使是AI已经迭代到 Claude 5、GPT-6 的当下，很多人想象中的大裁员潮也并没有到来。"
-    },
     {
       "title": "【社区公告】致每一位掘友：关于这次调整， 想再说几句",
       "url": "https://juejin.cn/post/7682603130694484014",
       "source": "juejin",
-      "score": 763,
-      "raw_score": 6591,
+      "score": 764,
+      "raw_score": 6615,
       "comments": 271,
       "author": "掘金酱",
       "created_at": "",
       "summary": "各位JJYYMM： 前几天我们发布了《签到与矿石奖励解耦说明》。公告发出后，评论区的反馈比我们预想的更密集，也更直接。 有掘友说连续签到快六年，终于可以不用每天打卡了；有掘友说打卡了一千四百多天，截图"
     },
     {
-      "title": "SQL Server数据库迁移：V9R4C019 如何接住存量 T-SQL 批处理",
-      "url": "https://juejin.cn/post/7683830679906287643",
+      "title": "从 BI 到 Agent：我如何用 Java 打造一个轻量级数据库语义网关 DatI",
+      "url": "https://juejin.cn/post/7684092309537734662",
       "source": "juejin",
-      "score": 572,
-      "raw_score": 725,
+      "score": 313,
+      "raw_score": 37,
       "comments": 0,
-      "author": "一只牛博",
+      "author": "yimindev",
       "created_at": "",
-      "summary": "做 SQL Server 数据库迁移时，让开发团队紧张的往往不是几百张表，而是仓库里那些跑了很多年的 T-SQL。库存日结用 MERGE 合并数据，账户变更用 OUTPUT 写审计记录。"
+      "summary": "开源一个轻量化的数据库语义网关 DatI，让Agent可以安全、高效地访问企业数据库。 探索Agent 时代 NL2SQL 应用以及多维表格类的轻应用应该如何建设"
     },
     {
-      "title": "跟 WebUI 说再见了，最强 DeepSeek 桌面端来了！",
-      "url": "https://juejin.cn/post/7683816340574945343",
+      "title": "AI提示词工程：高效构建精准指令的方法论",
+      "url": "https://juejin.cn/post/7684204098857566214",
       "source": "juejin",
-      "score": 561,
-      "raw_score": 644,
-      "comments": 1,
-      "author": "cxuanAI",
-      "created_at": "",
-      "summary": "DeepSeek Harness 发布了有一段时间了，刚上线的时候遭到质疑和不理解，为什么期待已久的 Harness 竟然用了 WebUI 的方式，但你真要说，这种 WebUI 的方式，功能上其实没啥"
-    },
-    {
-      "title": "2025，记住这一年！它是古法编程的最后一年。",
-      "url": "https://juejin.cn/post/7683846471338885171",
-      "source": "juejin",
-      "score": 521,
-      "raw_score": 407,
-      "comments": 14,
-      "author": "阳火锅",
-      "created_at": "",
-      "summary": "01 我现在干的活，就是给 AI 挑毛病 2025 年，大概是我这辈子最后一个被叫\"前端工程师\"的年份。 从这年开始，我没再敲过一行真正的代码。每天到工位坐下，我干的事就一件：把 AI 生成的一大堆代"
-    },
-    {
-      "title": "我用 AI 写完一个需求后才发现，最难的不是 prompt，而是验收",
-      "url": "https://juejin.cn/post/7684102772083130422",
-      "source": "juejin",
-      "score": 372,
-      "raw_score": 73,
-      "comments": 2,
-      "author": "kyriewen",
-      "created_at": "",
-      "summary": "AI 把写代码的时间压到几分钟，但确认它达标的时间一点没少。5 个必验项加一份验收 prompt 模板，把\"看起来完成了\"和\"真的完成了\"区分开。"
-    },
-    {
-      "title": "鬼故事 ！DeepSeek4.1 比Opus5 GPT5.6还强！",
-      "url": "https://juejin.cn/post/7684080599314038818",
-      "source": "juejin",
-      "score": 371,
-      "raw_score": 72,
-      "comments": 1,
-      "author": "甲维斯",
-      "created_at": "",
-      "summary": "我已经给大家预警过了，没想到 DeepSeek V4.1 Flash 发布之后，还是被吹上天了！ 一个 Flash 居然打败 GPT-5.6 和 Opus 5 等旗舰模型了，有点聊斋的味道了！ 这个事"
-    },
-    {
-      "title": "一天一个开源项目（第214篇）：AstronRPA —— 科大讯飞开源的企业级 RPA + AI Agent 自动化平台",
-      "url": "https://juejin.cn/post/7684019326370611263",
-      "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
+      "score": 268,
+      "raw_score": 22,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "风骏时光牛马",
       "created_at": "",
-      "summary": "AstronRPA 是科大讯飞开源的企业级桌面 RPA 平台，300+ 预置组件覆盖浏览器、GUI、Excel/Word/PDF、图像识别、AI 服务，与 Astron Agent 双向集成实现\"推理"
+      "summary": "AI提示词工程：高效构建精准指令的方法论 1. 文档概述 AI提示词工程是通过规范化、结构化、逻辑化的指令设计，引导大语言模型、生成式AI输出精准、合规、高质量内容的核心技术。其核心目标是消除AI输出"
     },
     {
-      "title": "DeepSeek Harness 系列（03）：工具系统——给 Agent 装上手",
-      "url": "https://juejin.cn/post/7684111931514667027",
+      "title": "我TM竟然被Java的空指针坑了第三次！",
+      "url": "https://juejin.cn/post/7684122642483298338",
       "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
+      "score": 246,
+      "raw_score": 17,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "阿橙的百宝箱",
       "created_at": "",
-      "summary": "工具是让 Agent 不只是「会说话」的关键。这篇文章深入 dsh 工具系统的全部机制：从注册、类型推断、Schema 生成"
+      "summary": "\"这行代码怎么可能 NPE？！\"凌晨 2 点，我盯着生产环境报警群里的堆栈信息，第 3 次因为空指针摔在同一个地方。这次是在处理电商订单的履约系统，日订单量 50W+ 的场景下，一个 的误用直接让整"
     },
     {
-      "title": "多人共用一个 key，缓存命中率会不会因此降低？",
-      "url": "https://juejin.cn/post/7684080641567916047",
-      "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
-      "comments": 0,
-      "author": "码事漫谈",
-      "created_at": "",
-      "summary": "团队刚把一堆 AI 调用并到一个大模型推理套餐上，月底账单摊开，有人拍桌子：\"是不是咱们这么多人共用一个 key，把缓存命中率搞崩了？\" 这话对一半，错一半。 对的是，多人共用套餐确实可能把命中率拉下"
-    },
-    {
-      "title": "JitWord 4.0 万字分享：从协同工具到AI Word操作系统，聊聊3年产品创业史",
-      "url": "https://juejin.cn/post/7684156210711347242",
-      "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
-      "comments": 0,
-      "author": "徐小夕",
-      "created_at": "",
-      "summary": "先聊聊背景：为什么企业文档需要一次\"4.0级\"的进化？ 在数字化转型进入深水区的今天，企业文档正经历一场悄无声息的革命。 过去十年，我们见证了文档从\"本地文件\"到\"云端存储\"的迁移，从\"单人编辑\"到\""
-    },
-    {
-      "title": "DataWorks Data Agent 实战课堂（八）：数据质量巡检服务",
-      "url": "https://juejin.cn/post/7684090475512528905",
-      "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
-      "comments": 0,
-      "author": "阿里云大数据AI技术",
-      "created_at": "",
-      "summary": "本课程通过三个已经完成真实运行验证的演示用例，分别展示DataWorks Data Agent免配置风险兜底、核心表主动监控和监控失败自动诊断三类能力。"
-    },
-    {
-      "title": "docker compose环境变量替换",
-      "url": "https://juejin.cn/post/7684070741898756130",
+      "title": "四年前端被问 Code Review90人只看得懂空格和命名",
+      "url": "https://juejin.cn/post/7684080641567866895",
       "source": "juejin",
       "score": 222,
       "raw_score": 13,
       "comments": 0,
-      "author": "考虑考虑",
+      "author": "晚安日记wanna",
       "created_at": "",
-      "summary": "前言 在配置中，为了不在docker compose文件的一些配置进行硬编码，有时候会把配置外提 环境变量替换 一般会把可配置的环境变量外提${UT_POSTGRESQL_USER} 传入环境变量 $"
+      "summary": "CR 只看格式命名，是初级信号。完整 CR 有 5 层：格式、语法逻辑、异常副作用、架构可维护性、线上性能安全。答到第三层才算合格。"
     },
     {
-      "title": "还在手动配 SSL 证书？这个 75K Star 的 Web 服务器让 HTTPS 自动到起飞",
-      "url": "https://juejin.cn/post/7684140186457014322",
+      "title": "【学习】框架设计（DSL + 领域模型）（2）基于vue3完成动态组件库建设",
+      "url": "https://juejin.cn/post/7684156210711576618",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "爱吃红星柚",
+      "created_at": "",
+      "summary": "前言 在里程碑 3 中，我们通过\"DSL 配置 + 模板页 + 领域模型\"实现了快速建站：一份 schema 配置就能驱动 schema-table 渲染出列表页。但一个中后台系统远不止列表——新增、"
+    },
+    {
+      "title": "简历写精通浏览器原理一问 URL 到渲染直接哑火...",
+      "url": "https://juejin.cn/post/7684070741898788898",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "晚安日记wanna",
+      "created_at": "",
+      "summary": "背完“DNS→TCP→DOM→渲染”只算第一层。真正的分水岭是缓存优先级、阻塞机制、合成层划分，以及主线程和合成线程的分工。五层追问，答到第三层算合格。"
+    },
+    {
+      "title": "Spring Boot + Redis 分布式锁：一个订单重复提交引发的六次迭代",
+      "url": "https://juejin.cn/post/7684108802116665394",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "吃饱了得干活",
+      "created_at": "",
+      "summary": "一、什么是分布式锁？ 1. 从单机锁说起 在单机应用中，我们处理并发非常简单，用 Java 自带的锁就行： 或者用 ReentrantLock： 这些锁之所以有效，是因为所有线程都在同一个 JVM 里"
+    },
+    {
+      "title": "Bmob后端云实战｜Python实现SSE流式输出，给备忘录AI加上打字机效果",
+      "url": "https://juejin.cn/post/7684118428585574451",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "Bmob后端云",
+      "created_at": "",
+      "summary": "传统 AI 接口一次性返回会造成页面长时间空白，用户无法感知模型运行状态。本文基于 Bmob 后端云，采用 Python 搭建 SSE 服务端推送，前端实现逐字打字机渲染。保留 ACL 权限校验逻辑"
+    },
+    {
+      "title": "操作系统速记",
+      "url": "https://juejin.cn/post/7684156210711674922",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "Hey_AI_Coder",
+      "author": "jsl_jsl_jsl",
       "created_at": "",
-      "summary": "配置 HTTPS 证书有多痛苦？申请、验证、续期、重启，每一步都可能出错。Caddy 直接把这些全自动化了"
+      "summary": "操作系统架构沙盘 · 第一层：基石与边界（规则的制定者） 任何代码在物理硬件上运行之前，操作系统必须首先确立一套绝对的规则：谁有权限做什么（双态隔离） 、系统如何响应外部事件（中断机制） ，以及计算资"
     },
     {
-      "title": "我做了一个 Chrome 扩展，把 YouTube 播放列表批量变成 AI 可读的本地 Markdown",
-      "url": "https://juejin.cn/post/7684157530612138010",
+      "title": "pom 里没有、代码里没调过,但 WebClient 默认用的就是 netty-resolver-dns",
+      "url": "https://juejin.cn/post/7684157530611810330",
       "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
+      "score": 190,
+      "raw_score": 9,
       "comments": 0,
-      "author": "嘉琪coder",
+      "author": "xiaoqiMikko",
       "created_at": "",
-      "summary": "现在的 AI 已经很擅长总结、分类和问答，但在真正使用它整理知识时，我经常卡在更前面的一步： 怎样把散落在视频里的内容，变成 AI 可以稳定读取的资料？ 我平时会在 YouTube 上看课程、访谈和播"
+      "summary": "netty-resolver-dns 不在你的 pom 里,但 WebClient 默认就用它解析域名。三条 DNS 缓存投毒,Boot 3.5.14 及更早默认中招;附对照实测与一分钟自查法。"
+    },
+    {
+      "title": "构造注入详解：Spring 依赖注入的首选方式",
+      "url": "https://juejin.cn/post/7684118428585263155",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "步行cgn",
+      "created_at": "",
+      "summary": "构造注入详解：Spring 依赖注入的首选方式 一、什么是构造注入？ 构造注入（Constructor Injection）是 Spring 依赖注入的一种方式，它通过类的构造方法将依赖对象传递给目标"
+    },
+    {
+      "title": "依赖注入详解：Spring IoC 的实现方式",
+      "url": "https://juejin.cn/post/7684118428585214003",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "步行cgn",
+      "created_at": "",
+      "summary": "依赖注入详解：Spring IoC 的实现方式 一、什么是依赖注入？ 依赖注入（Dependency Injection，DI）是 Spring 实现控制反转（IoC）的具体方式。它的核心思想是：对象"
+    },
+    {
+      "title": "Wrapper、Criteria、Specification：查询能不能写得好维护一点",
+      "url": "https://juejin.cn/post/7684118428585410611",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "落木萧萧825",
+      "created_at": "",
+      "summary": "Wrapper、Criteria、Specification：查询能不能写得好维护一点 先交代背景。一个后台列表页，筛选条件是很常见的那种： 四行 SQL，缩进就是逻辑，谁扫一眼都懂。然后我打开项目，"
+    },
+    {
+      "title": "解决uni-app 中 SVG 图片在 iOS 端显示模糊问题",
+      "url": "https://juejin.cn/post/7684156210711298090",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "宸翰",
+      "created_at": "",
+      "summary": "uni-app 中部分 SVG 图标在 iOS 端模糊，排查发现与 SVG 内嵌阴影滤镜有关。iOS 可能先将图标栅格化，再进行模糊、缩放和合成，导致边缘失真。"
     }
   ]
 }
