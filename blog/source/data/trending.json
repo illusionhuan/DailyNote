@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-12T02:10:34.273985+00:00",
+  "updated_at": "2026-09-12T14:38:24.085772+00:00",
   "articles": [
     {
       "title": "【社区公告】致每一位掘友：关于这次调整， 想再说几句",
       "url": "https://juejin.cn/post/7682603130694484014",
       "source": "juejin",
       "score": 764,
-      "raw_score": 6615,
-      "comments": 271,
+      "raw_score": 6677,
+      "comments": 272,
       "author": "掘金酱",
       "created_at": "",
       "summary": "各位JJYYMM： 前几天我们发布了《签到与矿石奖励解耦说明》。公告发出后，评论区的反馈比我们预想的更密集，也更直接。 有掘友说连续签到快六年，终于可以不用每天打卡了；有掘友说打卡了一千四百多天，截图"
     },
     {
-      "title": "从 BI 到 Agent：我如何用 Java 打造一个轻量级数据库语义网关 DatI",
-      "url": "https://juejin.cn/post/7684092309537734662",
+      "title": "SQL Server数据库迁移：V9R4C019 如何接住存量 T-SQL 批处理",
+      "url": "https://juejin.cn/post/7683830679906287643",
       "source": "juejin",
-      "score": 313,
-      "raw_score": 37,
+      "score": 659,
+      "raw_score": 1988,
       "comments": 0,
-      "author": "yimindev",
+      "author": "一只牛博",
       "created_at": "",
-      "summary": "开源一个轻量化的数据库语义网关 DatI，让Agent可以安全、高效地访问企业数据库。 探索Agent 时代 NL2SQL 应用以及多维表格类的轻应用应该如何建设"
+      "summary": "做 SQL Server 数据库迁移时，让开发团队紧张的往往不是几百张表，而是仓库里那些跑了很多年的 T-SQL。库存日结用 MERGE 合并数据，账户变更用 OUTPUT 写审计记录。"
     },
     {
-      "title": "AI提示词工程：高效构建精准指令的方法论",
-      "url": "https://juejin.cn/post/7684204098857566214",
+      "title": "iPhone Duo 适配详解，需要改变的不止是布局模型",
+      "url": "https://juejin.cn/post/7684204098858106886",
+      "source": "juejin",
+      "score": 478,
+      "raw_score": 246,
+      "comments": 4,
+      "author": "恋猫de小郭",
+      "created_at": "",
+      "summary": "看了下官方的适配 Duo 设计指引，苹果的指南还真有点东西，看的头皮发麻，比如 Duo 下，外屏和内屏最好不能是两套 UI ，应用应该做到支持持续适应当前拥有的空间界面效果。 外屏、内屏、半折、Spl"
+    },
+    {
+      "title": "我把苹果发布会里的折叠屏，真的用网页做出来了",
+      "url": "https://juejin.cn/post/7684463933702291466",
+      "source": "juejin",
+      "score": 397,
+      "raw_score": 97,
+      "comments": 3,
+      "author": "雨夜寻晴天",
+      "created_at": "",
+      "summary": "事情是这样的。 前两天看苹果新手机发布会，看到那台手机从合上慢慢展开，屏幕从一块变成两块，内容还自己重新排了一遍。 我当时就一个感觉，卧槽，屏幕居然还能这样？ 更离谱的是，那个画面看起来不像手机在动，"
+    },
+    {
+      "title": "一天一个开源项目（第215篇）：Langflow - 可视化拖拽构建 AI 应用的低代码平台",
+      "url": "https://juejin.cn/post/7684463933718773787",
+      "source": "juejin",
+      "score": 301,
+      "raw_score": 32,
+      "comments": 0,
+      "author": "冬奇Lab",
+      "created_at": "",
+      "summary": "Langflow 是一个基于流程图的低代码 AI 应用构建平台，用拖拽方式将 LLM、向量数据库、工具、Agent 连接成完整的 RAG 流水线或多 Agent 系统"
+    },
+    {
+      "title": "手搓JSVM第 12 篇：完整最小 JSVM 实现与源码设计复盘",
+      "url": "https://juejin.cn/post/7684261460002029594",
       "source": "juejin",
       "score": 268,
       "raw_score": 22,
-      "comments": 0,
-      "author": "风骏时光牛马",
+      "comments": 1,
+      "author": "泯泷",
       "created_at": "",
-      "summary": "AI提示词工程：高效构建精准指令的方法论 1. 文档概述 AI提示词工程是通过规范化、结构化、逻辑化的指令设计，引导大语言模型、生成式AI输出精准、合规、高质量内容的核心技术。其核心目标是消除AI输出"
+      "summary": "本文目标 来到最后一篇，我们把前面逐步实现的零件重新组装成一台完整的最小 JSVM。直接通过实战，完成一个JSVM。"
     },
     {
-      "title": "我TM竟然被Java的空指针坑了第三次！",
-      "url": "https://juejin.cn/post/7684122642483298338",
+      "title": "Bun v1.4.1 深度解析：从 Zig 到 Rust，一场 11 天、64 个 AI 代理的语言迁徙",
+      "url": "https://juejin.cn/post/7684463933718822939",
       "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
+      "score": 260,
+      "raw_score": 20,
+      "comments": 0,
+      "author": "iDao技术魔方",
+      "created_at": "",
+      "summary": "Bun v1.4.1 发布，修复202个问题。从底层看：运行时核心已从Zig彻底重写为Rust——64个AI代理11天完成6778个提交的史诗级迁移。"
+    },
+    {
+      "title": "[TailScale]-打通你的局域网服务器到公网电脑",
+      "url": "https://juejin.cn/post/7684215630454751284",
+      "source": "juejin",
+      "score": 260,
+      "raw_score": 20,
+      "comments": 0,
+      "author": "一_个前端",
+      "created_at": "",
+      "summary": "为什么要使用TailScale 最近我买了一台小型主机到家里做linux服务器使用，部署我的一些自用应用。但是我的服务器只在局域网可以访问，在其他地方不能访问。所以我需要选择一种方案来让我可以访问到这"
+    },
+    {
+      "title": "Vue的computed属性竟然坑了我一把",
+      "url": "https://juejin.cn/post/7684313635774529576",
+      "source": "juejin",
+      "score": 251,
+      "raw_score": 18,
       "comments": 0,
       "author": "阿橙的百宝箱",
       "created_at": "",
-      "summary": "\"这行代码怎么可能 NPE？！\"凌晨 2 点，我盯着生产环境报警群里的堆栈信息，第 3 次因为空指针摔在同一个地方。这次是在处理电商订单的履约系统，日订单量 50W+ 的场景下，一个 的误用直接让整"
+      "summary": "上周四凌晨两点，我盯着屏幕上诡异的数据更新问题，发现一个本该自动更新的表格死活不响应——而这一切的罪魁祸首，竟然是平时最信任的 。你可能会想：\" 不是响应式的吗？怎么会出问题？\" 今天就用这次血泪教训"
     },
     {
-      "title": "四年前端被问 Code Review90人只看得懂空格和命名",
-      "url": "https://juejin.cn/post/7684080641567866895",
+      "title": "01-07-认知篇-对比-原生AssetBundle工作流",
+      "url": "https://juejin.cn/post/7684429619168313353",
+      "source": "juejin",
+      "score": 235,
+      "raw_score": 15,
+      "comments": 0,
+      "author": "SmalBox",
+      "created_at": "",
+      "summary": "原生 AssetBundle 工作流深度解析 一、引言 本章在系列中的定位：深入理解原生 AB 包的完整工作流 本章要解决的核心问题：原生 AB 包的完整流程是什么？有哪些最佳实践？ 阅读前置要求：了"
+    },
+    {
+      "title": "手搓JSVM第 11 篇：打包、模块与 CLI：把 VM 产物变成可运行文件",
+      "url": "https://juejin.cn/post/7684195084155174921",
+      "source": "juejin",
+      "score": 235,
+      "raw_score": 15,
+      "comments": 0,
+      "author": "泯泷",
+      "created_at": "",
+      "summary": "手搓JSVM第 11 篇：打包、模块与 CLI：把 VM 产物变成可运行文件 1. 本文目标 前面几篇已经把编译器和 runtime 的核心部件搭起来了"
+    },
+    {
+      "title": "30分钟拿执照，2500元租到200平，我去亦庄做OPC了",
+      "url": "https://juejin.cn/post/7684313635774971944",
       "source": "juejin",
       "score": 222,
       "raw_score": 13,
       "comments": 0,
-      "author": "晚安日记wanna",
+      "author": "老金带你玩AI",
       "created_at": "",
-      "summary": "CR 只看格式命名，是初级信号。完整 CR 有 5 层：格式、语法逻辑、异常副作用、架构可维护性、线上性能安全。答到第三层才算合格。"
+      "summary": "要做OPC，先做完这几步。30分钟拿到执照，解决的是公司怎样成立。 等了两个多月住进人才公寓，解决的是起步阶段怎样少一点固定支出。 至于这家公司能不能活下去，还是要靠我把产品拿到市场里，一单一单验"
     },
     {
-      "title": "【学习】框架设计（DSL + 领域模型）（2）基于vue3完成动态组件库建设",
-      "url": "https://juejin.cn/post/7684156210711576618",
+      "title": "看清 Claude Code 的用量与文件变更",
+      "url": "https://juejin.cn/post/7684215630454964276",
       "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
+      "score": 222,
+      "raw_score": 13,
       "comments": 0,
-      "author": "爱吃红星柚",
+      "author": "SkyWalking中文站",
       "created_at": "",
-      "summary": "前言 在里程碑 3 中，我们通过\"DSL 配置 + 模板页 + 领域模型\"实现了快速建站：一份 schema 配置就能驱动 schema-table 渲染出列表页。但一个中后台系统远不止列表——新增、"
+      "summary": "汇总多次会话、多台机器上的 Claude Code 用量，结合对话、工具调用和文件差异，看清智能体做了什么、修改了什么，以及消耗了哪些资源。"
     },
     {
-      "title": "简历写精通浏览器原理一问 URL 到渲染直接哑火...",
-      "url": "https://juejin.cn/post/7684070741898788898",
-      "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
-      "comments": 0,
-      "author": "晚安日记wanna",
-      "created_at": "",
-      "summary": "背完“DNS→TCP→DOM→渲染”只算第一层。真正的分水岭是缓存优先级、阻塞机制、合成层划分，以及主线程和合成线程的分工。五层追问，答到第三层算合格。"
-    },
-    {
-      "title": "Spring Boot + Redis 分布式锁：一个订单重复提交引发的六次迭代",
-      "url": "https://juejin.cn/post/7684108802116665394",
-      "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
-      "comments": 0,
-      "author": "吃饱了得干活",
-      "created_at": "",
-      "summary": "一、什么是分布式锁？ 1. 从单机锁说起 在单机应用中，我们处理并发非常简单，用 Java 自带的锁就行： 或者用 ReentrantLock： 这些锁之所以有效，是因为所有线程都在同一个 JVM 里"
-    },
-    {
-      "title": "Bmob后端云实战｜Python实现SSE流式输出，给备忘录AI加上打字机效果",
-      "url": "https://juejin.cn/post/7684118428585574451",
-      "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
-      "comments": 0,
-      "author": "Bmob后端云",
-      "created_at": "",
-      "summary": "传统 AI 接口一次性返回会造成页面长时间空白，用户无法感知模型运行状态。本文基于 Bmob 后端云，采用 Python 搭建 SSE 服务端推送，前端实现逐字打字机渲染。保留 ACL 权限校验逻辑"
-    },
-    {
-      "title": "操作系统速记",
-      "url": "https://juejin.cn/post/7684156210711674922",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "jsl_jsl_jsl",
-      "created_at": "",
-      "summary": "操作系统架构沙盘 · 第一层：基石与边界（规则的制定者） 任何代码在物理硬件上运行之前，操作系统必须首先确立一套绝对的规则：谁有权限做什么（双态隔离） 、系统如何响应外部事件（中断机制） ，以及计算资"
-    },
-    {
-      "title": "pom 里没有、代码里没调过,但 WebClient 默认用的就是 netty-resolver-dns",
-      "url": "https://juejin.cn/post/7684157530611810330",
-      "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
-      "comments": 0,
-      "author": "xiaoqiMikko",
-      "created_at": "",
-      "summary": "netty-resolver-dns 不在你的 pom 里,但 WebClient 默认就用它解析域名。三条 DNS 缓存投毒,Boot 3.5.14 及更早默认中招;附对照实测与一分钟自查法。"
-    },
-    {
-      "title": "构造注入详解：Spring 依赖注入的首选方式",
-      "url": "https://juejin.cn/post/7684118428585263155",
+      "title": "前端性能优化的第一性原理，是不断缩短“用户发起意图 → 获得可用结果”之间的时间",
+      "url": "https://juejin.cn/post/7684180482599682102",
       "source": "juejin",
       "score": 180,
       "raw_score": 8,
       "comments": 0,
-      "author": "步行cgn",
+      "author": "CharlesYu01",
       "created_at": "",
-      "summary": "构造注入详解：Spring 依赖注入的首选方式 一、什么是构造注入？ 构造注入（Constructor Injection）是 Spring 依赖注入的一种方式，它通过类的构造方法将依赖对象传递给目标"
+      "summary": "综述 前端性能优化的本质，不只是让代码跑得更快，而是重新安排工作发生的时间：能前置的前置，能隐藏的隐藏，最后再优化无法绕开的关键路径。 层级 高度抽象结论 核心问题 典型策略 L1 目标层 缩短“用户"
     },
     {
-      "title": "依赖注入详解：Spring IoC 的实现方式",
-      "url": "https://juejin.cn/post/7684118428585214003",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "步行cgn",
-      "created_at": "",
-      "summary": "依赖注入详解：Spring IoC 的实现方式 一、什么是依赖注入？ 依赖注入（Dependency Injection，DI）是 Spring 实现控制反转（IoC）的具体方式。它的核心思想是：对象"
-    },
-    {
-      "title": "Wrapper、Criteria、Specification：查询能不能写得好维护一点",
-      "url": "https://juejin.cn/post/7684118428585410611",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "落木萧萧825",
-      "created_at": "",
-      "summary": "Wrapper、Criteria、Specification：查询能不能写得好维护一点 先交代背景。一个后台列表页，筛选条件是很常见的那种： 四行 SQL，缩进就是逻辑，谁扫一眼都懂。然后我打开项目，"
-    },
-    {
-      "title": "解决uni-app 中 SVG 图片在 iOS 端显示模糊问题",
-      "url": "https://juejin.cn/post/7684156210711298090",
+      "title": "120+ 个 Agent Skill 管不过来？我造了套「包管理器」：仓库是源，链接是安装",
+      "url": "https://juejin.cn/post/7684228650582278150",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "宸翰",
+      "author": "王若风",
       "created_at": "",
-      "summary": "uni-app 中部分 SVG 图标在 iOS 端模糊，排查发现与 SVG 内嵌阴影滤镜有关。iOS 可能先将图标栅格化，再进行模糊、缩放和合成，导致边缘失真。"
+      "summary": "skillctl 六个工具按痛点长成：初始化、安装、同步、汇聚、体检、提交推送，全部幂等可重跑，断链和锁不一致能一键安全修复。"
     }
   ]
 }
