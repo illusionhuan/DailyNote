@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-12T14:38:24.085772+00:00",
+  "updated_at": "2026-09-13T02:07:05.566984+00:00",
   "articles": [
     {
-      "title": "【社区公告】致每一位掘友：关于这次调整， 想再说几句",
-      "url": "https://juejin.cn/post/7682603130694484014",
+      "title": "uni-app 安卓自有证书完全指南",
+      "url": "https://juejin.cn/post/7684405537220608046",
       "source": "juejin",
-      "score": 764,
-      "raw_score": 6677,
-      "comments": 272,
-      "author": "掘金酱",
-      "created_at": "",
-      "summary": "各位JJYYMM： 前几天我们发布了《签到与矿石奖励解耦说明》。公告发出后，评论区的反馈比我们预想的更密集，也更直接。 有掘友说连续签到快六年，终于可以不用每天打卡了；有掘友说打卡了一千四百多天，截图"
-    },
-    {
-      "title": "SQL Server数据库迁移：V9R4C019 如何接住存量 T-SQL 批处理",
-      "url": "https://juejin.cn/post/7683830679906287643",
-      "source": "juejin",
-      "score": 659,
-      "raw_score": 1988,
+      "score": 255,
+      "raw_score": 19,
       "comments": 0,
-      "author": "一只牛博",
+      "author": "90后晨仔",
       "created_at": "",
-      "summary": "做 SQL Server 数据库迁移时，让开发团队紧张的往往不是几百张表，而是仓库里那些跑了很多年的 T-SQL。库存日结用 MERGE 合并数据，账户变更用 OUTPUT 写审计记录。"
+      "summary": "一、核心前提：Android 只需要一套自有证书 在 Android 平台，签名的规则非常明确：同一个包名（Package Name）的应用，必须使用同一个证书签名，才能覆盖安装和更新。如果包名相同但"
     },
     {
-      "title": "iPhone Duo 适配详解，需要改变的不止是布局模型",
-      "url": "https://juejin.cn/post/7684204098858106886",
+      "title": "用 conda 固定默认环境 normal",
+      "url": "https://juejin.cn/post/7684180482599321654",
       "source": "juejin",
-      "score": 478,
-      "raw_score": 246,
-      "comments": 4,
-      "author": "恋猫de小郭",
-      "created_at": "",
-      "summary": "看了下官方的适配 Duo 设计指引，苹果的指南还真有点东西，看的头皮发麻，比如 Duo 下，外屏和内屏最好不能是两套 UI ，应用应该做到支持持续适应当前拥有的空间界面效果。 外屏、内屏、半折、Spl"
-    },
-    {
-      "title": "我把苹果发布会里的折叠屏，真的用网页做出来了",
-      "url": "https://juejin.cn/post/7684463933702291466",
-      "source": "juejin",
-      "score": 397,
-      "raw_score": 97,
-      "comments": 3,
-      "author": "雨夜寻晴天",
-      "created_at": "",
-      "summary": "事情是这样的。 前两天看苹果新手机发布会，看到那台手机从合上慢慢展开，屏幕从一块变成两块，内容还自己重新排了一遍。 我当时就一个感觉，卧槽，屏幕居然还能这样？ 更离谱的是，那个画面看起来不像手机在动，"
-    },
-    {
-      "title": "一天一个开源项目（第215篇）：Langflow - 可视化拖拽构建 AI 应用的低代码平台",
-      "url": "https://juejin.cn/post/7684463933718773787",
-      "source": "juejin",
-      "score": 301,
-      "raw_score": 32,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "Charlie_Byte",
       "created_at": "",
-      "summary": "Langflow 是一个基于流程图的低代码 AI 应用构建平台，用拖拽方式将 LLM、向量数据库、工具、Agent 连接成完整的 RAG 流水线或多 Agent 系统"
+      "summary": "先说目标 机器上同时有三套 Python 很容易搅在一起： 系统自带的 /usr/bin/python3 conda 的 base 自己建的业务 / 学习环境 想要的结果很简单：默认都是normal"
     },
     {
-      "title": "手搓JSVM第 12 篇：完整最小 JSVM 实现与源码设计复盘",
-      "url": "https://juejin.cn/post/7684261460002029594",
+      "title": "开发了一套AI智能体协作知识体系",
+      "url": "https://juejin.cn/post/7684163263414222867",
       "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
-      "comments": 1,
-      "author": "泯泷",
-      "created_at": "",
-      "summary": "本文目标 来到最后一篇，我们把前面逐步实现的零件重新组装成一台完整的最小 JSVM。直接通过实战，完成一个JSVM。"
-    },
-    {
-      "title": "Bun v1.4.1 深度解析：从 Zig 到 Rust，一场 11 天、64 个 AI 代理的语言迁徙",
-      "url": "https://juejin.cn/post/7684463933718822939",
-      "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "iDao技术魔方",
+      "author": "乱码三千",
       "created_at": "",
-      "summary": "Bun v1.4.1 发布，修复202个问题。从底层看：运行时核心已从Zig彻底重写为Rust——64个AI代理11天完成6778个提交的史诗级迁移。"
+      "summary": " ## 前言 最开始使用智能体也就是从`OpenClaw`开始, 通过技能的封装来实现经验的复用, 面对简单的流程性问题, 技能完全可以足够应付我们的需求, 同时也方便用户的交流. 但是遇到复杂"
     },
     {
-      "title": "[TailScale]-打通你的局域网服务器到公网电脑",
-      "url": "https://juejin.cn/post/7684215630454751284",
+      "title": "大模型如何调用工具，一次讲清背后的技术门道",
+      "url": "https://juejin.cn/post/7684313635775496232",
       "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
+      "score": 235,
+      "raw_score": 15,
       "comments": 0,
-      "author": "一_个前端",
+      "author": "卷无止境",
       "created_at": "",
-      "summary": "为什么要使用TailScale 最近我买了一台小型主机到家里做linux服务器使用，部署我的一些自用应用。但是我的服务器只在局域网可以访问，在其他地方不能访问。所以我需要选择一种方案来让我可以访问到这"
+      "summary": "这几年大模型圈子里最火的词，除了“智能体”，大概就是“工具调用”了。你跟 ChatGPT 说一句“帮我查一下今天杭州的天气”，它转头就能给你一个准确答案——这背后可不是模型自己“知道”天气，而是它悄悄"
     },
     {
-      "title": "Vue的computed属性竟然坑了我一把",
-      "url": "https://juejin.cn/post/7684313635774529576",
+      "title": "Python 进阶：海象运算符与模式匹配，让你的代码更优雅！",
+      "url": "https://juejin.cn/post/7684405537220624430",
       "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
+      "score": 229,
+      "raw_score": 14,
+      "comments": 0,
+      "author": "90后晨仔",
+      "created_at": "",
+      "summary": "💡 前言 作为一名 Python 开发者，你是否经历过以下场景： 为了在 if 判断后复用某个计算结果，不得不提前写一行赋值语句； 面对复杂的嵌套数据结构，写了一长串 if-elif-else 来判断"
+    },
+    {
+      "title": "Go 虚荣域名详解：我用 go get -x 抓了个包，终于看清了 Go 工具链“对暗号”的全过程",
+      "url": "https://juejin.cn/post/7684405537220722734",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "江湖十年",
+      "created_at": "",
+      "summary": "我们知道，Go 语言的包管理哲学和 Python/Node.js 这些前辈有些不同。Python 有一个中央集权的 [pypi.org](https://pypi.org/)，全世界的第三方库都集中托"
+    },
+    {
+      "title": "智能任务协同Agent",
+      "url": "https://juejin.cn/post/7684189422368522282",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "风骏时光牛马",
+      "created_at": "",
+      "summary": "智能任务协同Agent技术文档 1. 概述 智能任务协同Agent是面向多任务自动化场景的智能代理程序，核心目标是拆解复杂业务目标、调度子任务、协同多工具执行流程，自动完成任务规划、状态管理、结果校验"
+    },
+    {
+      "title": "Spring AI Alibaba基础教程",
+      "url": "https://juejin.cn/post/7684313635774595112",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "学者猫头鹰",
+      "created_at": "",
+      "summary": "Spring AI Alibaba 1.1.2.2 实战教程，基于百炼大模型，涵盖对话、工具调用、RAG、多模态，还讲解 Agent 与 Graph 进阶智能体编排开发。"
+    },
+    {
+      "title": "为什么我的Java Stream操作总是默默吃掉异常？",
+      "url": "https://juejin.cn/post/7684489943466164276",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
       "author": "阿橙的百宝箱",
       "created_at": "",
-      "summary": "上周四凌晨两点，我盯着屏幕上诡异的数据更新问题，发现一个本该自动更新的表格死活不响应——而这一切的罪魁祸首，竟然是平时最信任的 。你可能会想：\" 不是响应式的吗？怎么会出问题？\" 今天就用这次血泪教训"
+      "summary": "深夜11点，我盯着生产环境的错误监控面板，发现某个关键报表连续三天数据异常。最诡异的是：日志里没有任何错误记录。最终排查发现，是Stream.map()操作中抛出的异常被悄无声息地吞掉了——而同样的代"
     },
     {
-      "title": "01-07-认知篇-对比-原生AssetBundle工作流",
-      "url": "https://juejin.cn/post/7684429619168313353",
+      "title": "政务 Agent 面试真题五个得分点缺一就掉档",
+      "url": "https://juejin.cn/post/7684439645418602523",
       "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
+      "score": 190,
+      "raw_score": 9,
       "comments": 0,
-      "author": "SmalBox",
+      "author": "晚安日记wanna",
       "created_at": "",
-      "summary": "原生 AssetBundle 工作流深度解析 一、引言 本章在系列中的定位：深入理解原生 AB 包的完整工作流 本章要解决的核心问题：原生 AB 包的完整流程是什么？有哪些最佳实践？ 阅读前置要求：了"
+      "summary": "政务 Agent 面试不考 prompt，考的是能否把模糊需求拆成合规、可办、可追溯的系统。五个考点：事项规划、工具沙箱、三层记忆、自愈闭环、多 Agent 协同。少一个掉一档。"
     },
     {
-      "title": "手搓JSVM第 11 篇：打包、模块与 CLI：把 VM 产物变成可运行文件",
-      "url": "https://juejin.cn/post/7684195084155174921",
-      "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
-      "comments": 0,
-      "author": "泯泷",
-      "created_at": "",
-      "summary": "手搓JSVM第 11 篇：打包、模块与 CLI：把 VM 产物变成可运行文件 1. 本文目标 前面几篇已经把编译器和 runtime 的核心部件搭起来了"
-    },
-    {
-      "title": "30分钟拿执照，2500元租到200平，我去亦庄做OPC了",
-      "url": "https://juejin.cn/post/7684313635774971944",
-      "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
-      "comments": 0,
-      "author": "老金带你玩AI",
-      "created_at": "",
-      "summary": "要做OPC，先做完这几步。30分钟拿到执照，解决的是公司怎样成立。 等了两个多月住进人才公寓，解决的是起步阶段怎样少一点固定支出。 至于这家公司能不能活下去，还是要靠我把产品拿到市场里，一单一单验"
-    },
-    {
-      "title": "看清 Claude Code 的用量与文件变更",
-      "url": "https://juejin.cn/post/7684215630454964276",
-      "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
-      "comments": 0,
-      "author": "SkyWalking中文站",
-      "created_at": "",
-      "summary": "汇总多次会话、多台机器上的 Claude Code 用量，结合对话、工具调用和文件差异，看清智能体做了什么、修改了什么，以及消耗了哪些资源。"
-    },
-    {
-      "title": "前端性能优化的第一性原理，是不断缩短“用户发起意图 → 获得可用结果”之间的时间",
-      "url": "https://juejin.cn/post/7684180482599682102",
+      "title": "Py 邮件集成与密码重置，并用 Mailpit 测试",
+      "url": "https://juejin.cn/post/7684163263413567507",
       "source": "juejin",
       "score": 180,
       "raw_score": 8,
       "comments": 0,
-      "author": "CharlesYu01",
+      "author": "Charlie_Byte",
       "created_at": "",
-      "summary": "综述 前端性能优化的本质，不只是让代码跑得更快，而是重新安排工作发生的时间：能前置的前置，能隐藏的隐藏，最后再优化无法绕开的关键路径。 层级 高度抽象结论 核心问题 典型策略 L1 目标层 缩短“用户"
+      "summary": "项目中邮件功能用于发送密码重置链接，但此前只搭好了架子，缺少实际测试验证。本文将记录邮件集成的全链路配置、本地测试、以及过程中遇到并解决的几个问题。"
     },
     {
-      "title": "120+ 个 Agent Skill 管不过来？我造了套「包管理器」：仓库是源，链接是安装",
-      "url": "https://juejin.cn/post/7684228650582278150",
+      "title": "OpenAI 的 AI 在练任务时，顺手把 RubyGems 干瘫痪了四天",
+      "url": "https://juejin.cn/post/7684482883294740522",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "计算机魔术师",
+      "created_at": "",
+      "summary": "2026 年 5 月，一组 OpenAI 正在测试的 AI 智能体在执行网络数据采集任务时，向 RubyGems 平台上传了超过 2000 个恶意包，导致该平台被迫关闭新用户注册四天。安全研究员将此次"
+    },
+    {
+      "title": "Webhook 与飞书机器人集成",
+      "url": "https://juejin.cn/post/7684163263413600275",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "Charlie_Byte",
+      "created_at": "",
+      "summary": "审计告警功能需要把检测到的安全事件推送到飞书群。飞书提供了自定义机器人 Webhook 的接口，支持文本和富文本消息格式，也可以配置 HMAC-SHA256 签名验证。"
+    },
+    {
+      "title": "分布式和微服务差在哪从一次订单超时雪崩说起",
+      "url": "https://juejin.cn/post/7684405537219887150",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "王若风",
+      "author": "晚安日记wanna",
       "created_at": "",
-      "summary": "skillctl 六个工具按痛点长成：初始化、安装、同步、汇聚、体检、提交推送，全部幂等可重跑，断链和锁不一致能一键安全修复。"
+      "summary": "分布式答\"怎么部署\"，微服务答\"怎么拆、拆完怎么协同\"。拆错的微服务只换来分布式单体：多三个注册中心、三套配置中心、三套日志采集。这是选型题，不是概念题。"
+    },
+    {
+      "title": "Hugo 相对路径图片显示问题的分析与解决",
+      "url": "https://juejin.cn/post/7684263799713824831",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "Charlie_Byte",
+      "created_at": "",
+      "summary": "先说问题 写博客的时候用 Obsidian 插了张图： 编辑器里看着好好的，一跑 hugo 部署上去，图裂了。打开浏览器开发者工具一看，图片请求的路径根本就不对。"
     }
   ]
 }
