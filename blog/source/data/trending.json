@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-14T02:24:58.098515+00:00",
+  "updated_at": "2026-09-14T17:15:49.427223+00:00",
   "articles": [
     {
-      "title": "ADB Wi-Fi 2.0 ，Android 17 把无线调试的连接链路重新做了一遍",
-      "url": "https://juejin.cn/post/7684657593512263722",
+      "title": "从codex转战workbuddy使用一周的感受",
+      "url": "https://juejin.cn/post/7684460980934049807",
       "source": "juejin",
-      "score": 372,
-      "raw_score": 73,
-      "comments": 0,
-      "author": "恋猫de小郭",
+      "score": 718,
+      "raw_score": 3924,
+      "comments": 28,
+      "author": "wing98",
       "created_at": "",
-      "summary": "有多少之前用过 ADB Wi-Fi 的，有没有被它的稳定性恶心到了？这次在 Android 17 上官方终于做了优化： 自动连接成功率提高了 32% 在 90% 的连接场景里，建立连接的速度提高了 6"
+      "summary": "不是恰饭，也不是踩一捧一。只是记录一个 Codex 老用户切换到 WorkBuddy 的真实一周，以及过程中踩到的坑和省下的钱。 一、为什么换：被逼无奈的\"搬家\" 很早就听说腾讯出了智能体编程工具 W"
     },
     {
-      "title": "# 复杂任务下,如何让 AI Coding 稳定输出?",
-      "url": "https://juejin.cn/post/7684245191480639522",
+      "title": "DeepSeek 官方仓库惊现 DeepSeek Harness 桌面端！",
+      "url": "https://juejin.cn/post/7685188623412133898",
       "source": "juejin",
-      "score": 306,
-      "raw_score": 34,
-      "comments": 0,
-      "author": "HaiXCoder",
+      "score": 539,
+      "raw_score": 498,
+      "comments": 4,
+      "author": "ikoala",
       "created_at": "",
-      "summary": "AI Coding 复杂任务稳定输出：四个层面的工程化实践 序言 AI Coding 已经能完成不少小任务，但面对复杂任务时，输出经常不稳定。你可能遇到这些问题： 为什么小任务完成得很好，复杂任务却容"
+      "summary": "这个周末翻 DeepSeek Harness 官方仓库时，我发现 apps 目录里多了一个很难忽略的名字：desktop。 我这边也有一些AI Coding（SDD Agent AI工具等） 和 No"
     },
     {
-      "title": "在 Cesium 上画全球网格：我们怎么把 GeoSOT 接到瓦片调度上",
-      "url": "https://juejin.cn/post/7684657593512493098",
+      "title": "只备份一个 schema，别把整库都搬走",
+      "url": "https://juejin.cn/post/7685224902321848358",
       "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
+      "score": 520,
+      "raw_score": 402,
       "comments": 0,
-      "author": "尘世中一位迷途小书童",
+      "author": "一只牛博",
       "created_at": "",
-      "summary": "低空项目里总有人问：这片空域怎么存、怎么查、怎么跟隔壁系统对上号。多边形能画，一到相交、套娃、跨系统传，就开始扯皮。 我们后来在自己的三维地图里做了全球网格这一层。相机往下滚，格子跟着变细；点一下能看"
+      "summary": "只备份一个 schema，别把整库都搬走 一个库里塞好几个 schema 是常事：业务表在一个 schema，审计日志在另一个，可能还有给报表、给别的团队用的独立 schema。"
     },
     {
-      "title": "Flutter 在鸿蒙上跑原生视图，终于不用烤成一张皮了",
-      "url": "https://juejin.cn/post/7684690252645138466",
+      "title": "vLLM 与 SGLang KV Cache 底层实现机制深度调研报告",
+      "url": "https://juejin.cn/post/7685238126571208731",
+      "source": "juejin",
+      "score": 255,
+      "raw_score": 19,
+      "comments": 0,
+      "author": "GreenTea",
+      "created_at": "",
+      "summary": "一、底层 KV Cache 实现机制（基于 main 分支源码） 1. vLLM：PagedAttention + 哈希链前缀缓存 分层结构：KVCacheManager (vllm/v1/core/"
+    },
+    {
+      "title": "maven执行groovy脚本相关配置",
+      "url": "https://juejin.cn/post/7685224015708160050",
+      "source": "juejin",
+      "score": 251,
+      "raw_score": 18,
+      "comments": 0,
+      "author": "林鹿",
+      "created_at": "",
+      "summary": "maven属性与groovy变量对照表。${project.basedir}＝project.basedir"
+    },
+    {
+      "title": "AI 让我的独门小工具焕发第二春",
+      "url": "https://juejin.cn/post/7685206698757619712",
       "source": "juejin",
       "score": 246,
       "raw_score": 17,
       "comments": 0,
-      "author": "JarvanMo",
+      "author": "烽火戏诸诸诸侯",
       "created_at": "",
-      "summary": "Flutter 在 OpenHarmony 上嵌入原生视图，一直有个老毛病。原生内容得先烤成一张纹理，再贴回 Flutter 的图层树里。纹理采样一过，高光丢一点，圆角糊一点，透明度叠上去画面就肉。性"
+      "summary": "尤记的两年在掘金分享了一个在闲暇之余开发的 Windows 端口占用检测工具受到不少友友的点赞，那时候的 AI 仍在发展初期，故仅靠着 ChatGPT 粗糙的用 Java Swing 绘制了这么个玩意"
     },
     {
-      "title": "你给 AI 装的那些 skill，可能有一半根本没生效，1个技巧专治「AI 技能包装着装着就成了一团麻」",
-      "url": "https://juejin.cn/post/7684659924175306778",
+      "title": "做副总监的第 4 年，我才承认：我做的大部分是\"工作拆分转发\"",
+      "url": "https://juejin.cn/post/7685253104889528372",
       "source": "juejin",
       "score": 240,
       "raw_score": 16,
       "comments": 0,
-      "author": "jerrywus",
+      "author": "耳东蜗牛",
       "created_at": "",
-      "summary": "完全免费开源。macOS / Windows / Linux 都支持。欢迎提优化意见，觉得好用可以star支持一下～ 源码：Sessions Viewer 先问你一个扎心的问题 你给 Claude C"
+      "summary": "做副总监的第 4 年，我才敢承认：我做的大部分是\"工作拆分转发\" 2023 年 1 月 31 日下午，我收到一封 HR 邮件。 标题从\"前端高级技术经理\"变成\"产品质量部副总监\"。同时，前端和测试两个"
     },
     {
-      "title": "Deepseek Harness 架构解析和应用",
-      "url": "https://juejin.cn/post/7684759404727320627",
+      "title": "FDE 如何正确解决现场项目工程性的问题",
+      "url": "https://juejin.cn/post/7685216494905524260",
       "source": "juejin",
       "score": 235,
       "raw_score": 15,
       "comments": 0,
-      "author": "古茗前端团队",
+      "author": "怕浪猫",
       "created_at": "",
-      "summary": "前言 最近 Deepseek Harness 在 Github 很受追捧，短短几周就拥有了 200k+ 的 star，它跟其他的 agent 框架有何不同，为什么还能在这个拥挤的赛道出圈？这篇文章主要"
+      "summary": "第 2 章 解决正确的问题 2.1 进场第一周怎么过 第一周的目标只有一个：建立对客户业务的\"地面真相\"认知，而不是接受转述版本。 客户给你的背景材料、招标文件、高层访谈，都是二手的；二手信息经过了过"
     },
     {
-      "title": "CSS 浮动布局：从浮动到 BFC",
-      "url": "https://juejin.cn/post/7684814322541051967",
+      "title": "LangGraph 进阶：Command + Send 动态控制流、并行 Map-Reduce 实战与踩坑",
+      "url": "https://juejin.cn/post/7685261744722968627",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "柚yuzumi",
+      "author": "锋行天下",
       "created_at": "",
-      "summary": "本文介绍 CSS 文档流、浮动布局及其常见问题，并重点讲解浮动清除方法、BFC 的作用、渲染规则与常见创建方式。"
+      "summary": "初学 LangGraph 时，最先接触的是静态条件分支 add_conditional_edges。这种方式在编译期定义图的分支规则，ReAct Agent 循环就用它，图结构清晰、Mermaid 可"
     },
     {
-      "title": "Agent“六大核心能力”之ToolSystem篇",
-      "url": "https://juejin.cn/post/7684583207288913983",
+      "title": "AI 观察：CEO 们集体喊\"慢一点\"，钱却在加速进场",
+      "url": "https://juejin.cn/post/7685282635450597385",
       "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
+      "score": 229,
+      "raw_score": 14,
       "comments": 0,
-      "author": "许我半盏清茶",
+      "author": "米小虾",
       "created_at": "",
-      "summary": "前言 上文我们讲了Agent能干活的两个基础能力中的 Agent Loop 心跳机制。但是光有心跳，Agent还是不能帮我们完成任务，本文我们就来讲讲Agent的另一个基础能力 ToolSystem。"
+      "summary": "一周 AI 观察（9.8–9.14）：CEO 们集体喊\"慢一点\"，钱却在加速进场 本周关键事件 时间 事件 关键数字 9/12 Amodei 发表《We Must Pace the Frontier》"
     },
     {
-      "title": "一键即用！一个基于 Kubernetes 构建的云操作系统！",
-      "url": "https://juejin.cn/post/7684657593512542250",
+      "title": "DeepSeek Harness 系列（06）：System Prompt 组装——动态提示词的工程实现",
+      "url": "https://juejin.cn/post/7685253104889004084",
       "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
+      "score": 222,
+      "raw_score": 13,
       "comments": 0,
-      "author": "Java陈序员",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "casos —— 一个基于 Kubernetes 构建的云操作系统，它内嵌了 Kubernetes API Server、 Controller Manager 和 Scheduler."
+      "summary": "每次模型请求前，dsh 是怎么把几十个插件的提示词片段拼成一个完整的 system prompt 的？这篇文章拆解 ctx.systemPrompt 的注册机制、段落排序、动态变量、工具 schema"
     },
     {
-      "title": "上下文快爆炸了？Agent 的两种压缩手段：微压缩 vs LLM 摘要",
-      "url": "https://juejin.cn/post/7684478794612948992",
+      "title": "多模态大模型已经能识别和描述视频，为什么仍然缺乏可靠的时序感知能力？",
+      "url": "https://juejin.cn/post/7685261744723050547",
       "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 1,
-      "author": "sarasuki",
-      "created_at": "",
-      "summary": "前言 Agent 运行长任务是绕不开一个事实的：Agent的上下文是有限的，而且它一定会越用越大。读个文件、跑条命令、搜个网页等，每一轮工具调用的结果都会挤进上下文。堆着堆着，要么撞上窗口上限直接报错"
-    },
-    {
-      "title": "LangGraph 中断与恢复：让 Agent 执行到一半停下来等你确认",
-      "url": "https://juejin.cn/post/7684800289060339738",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
-      "author": "mONESY",
+      "author": "不惑_",
       "created_at": "",
-      "summary": "一、Agent 为什么需要「停下来」 先看一个最朴素的场景： 问题来了——这一步能直接执行吗？ 不能。转账是不可逆的，模型理解错一个字代价就是真金白银。所以在真正扣款之前，必须有人点头。 类似的场景还"
+      "summary": "人类98分，AI全零分，一段雪花视频戳穿了大模型的底牌 先看一个实验。 一段视频，平均7.1秒，大约333帧。 每一帧都是雪花，纯噪声。暂停在任何一帧，什么都看不见。 按下播放键，内容自己浮出来了。可"
     },
     {
-      "title": "你已经知道Agent循环是什么了，但是它真的有这么简单吗？",
-      "url": "https://juejin.cn/post/7684583207288782911",
+      "title": "一天一个开源项目（第217篇）：free-for-dev —— 137k Star 的开发者免费服务终极宝库",
+      "url": "https://juejin.cn/post/7685202974937284648",
       "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
-      "author": "许我半盏清茶",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "前言 上一篇文章我们知道了，Agent想要干活，主要是 Agent Loop 和 ToolSystem 在干活，那么本文我们来聊聊在Agent Loop中，我们会遇到哪些问题。"
+      "summary": "free-for-dev 是 GitHub 上排名最靠前的资源类仓库之一，收录了 60+ 大类、数百项提供真正免费层级的 SaaS/PaaS/IaaS 服务，从主流云平台到 CI/CD、数据库、AI"
     },
     {
-      "title": "报错之后，谁来证明它属于这次发布？前端错误治理的证据链设计",
-      "url": "https://juejin.cn/post/7684807239035830312",
+      "title": "Java实现hmacsha256加密算法",
+      "url": "https://juejin.cn/post/7685261744723181619",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "考虑考虑",
+      "created_at": "",
+      "summary": "前言 Java自带hmacsha256算法 hmacsha256实现 总结 Java实现hmacsha256加密算法，可以用它实现加密算法"
+    },
+    {
+      "title": "「AI学习笔记」Agent Memory（二）跨会话记忆：从聊天记录到可演化的长期记忆",
+      "url": "https://juejin.cn/post/7685206698757947392",
       "source": "juejin",
       "score": 139,
       "raw_score": 5,
       "comments": 0,
-      "author": "XanderDING",
+      "author": "山间小僧",
       "created_at": "",
-      "summary": "前端错误治理的关键不在于“多抓几条异常”，而在于让每个错误事件都能沿着症状、现场、制品、变更与责任五层证据，被还原为一个可验证、可分派、可关闭的问题。本文从浏览器捕获边界、Source Map 制品身"
-    },
-    {
-      "title": "零拷贝：CVPixelBuffer / IOSurface / Metal 纹理三者的关系",
-      "url": "https://juejin.cn/post/7684881847756029962",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "小幽灵",
-      "created_at": "",
-      "summary": "零拷贝省的不是拷贝，是所有权的简单性：一块 IOSurface 三个句柄，池只认 CVPixelBuffer 这个壳。画面倒退一帧、内存反涨、-6683，三个症状同一张图。"
-    },
-    {
-      "title": "ValidX时间段验证详解：ISO 8601标准与简化格式",
-      "url": "https://juejin.cn/post/7684649314159312930",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "vipxieliang",
-      "created_at": "",
-      "summary": "ValidX时间段验证详解：ISO 8601标准与简化格式 📋 目录 引言 一、时间段是什么：先分清\"时间点\"与\"时间段\" 二、两种格式总览与 API 入口 三、ISO 8601 标准格式详解 3.1"
+      "summary": "会话结束后，Agent 为什么又“不认识你”了 假设你上周告诉旅行 Agent 三件事：你已经从北京搬到上海；出差时优先坐高铁；Agent 已经替你订好 3 月 3 日回上海的车票。今天你打开新会话，"
     }
   ]
 }
