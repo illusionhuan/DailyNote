@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-14T17:15:49.427223+00:00",
+  "updated_at": "2026-09-15T02:29:57.525358+00:00",
   "articles": [
     {
-      "title": "从codex转战workbuddy使用一周的感受",
-      "url": "https://juejin.cn/post/7684460980934049807",
+      "title": "全网都在测鹈鹕，我用 DeepSeek-V4.1-Flash 跑了50+小时、超5000MTokens消耗的真实开发任务",
+      "url": "https://juejin.cn/post/7685282635450744841",
       "source": "juejin",
-      "score": 718,
-      "raw_score": 3924,
-      "comments": 28,
-      "author": "wing98",
-      "created_at": "",
-      "summary": "不是恰饭，也不是踩一捧一。只是记录一个 Codex 老用户切换到 WorkBuddy 的真实一周，以及过程中踩到的坑和省下的钱。 一、为什么换：被逼无奈的\"搬家\" 很早就听说腾讯出了智能体编程工具 W"
-    },
-    {
-      "title": "DeepSeek 官方仓库惊现 DeepSeek Harness 桌面端！",
-      "url": "https://juejin.cn/post/7685188623412133898",
-      "source": "juejin",
-      "score": 539,
-      "raw_score": 498,
-      "comments": 4,
-      "author": "ikoala",
-      "created_at": "",
-      "summary": "这个周末翻 DeepSeek Harness 官方仓库时，我发现 apps 目录里多了一个很难忽略的名字：desktop。 我这边也有一些AI Coding（SDD Agent AI工具等） 和 No"
-    },
-    {
-      "title": "只备份一个 schema，别把整库都搬走",
-      "url": "https://juejin.cn/post/7685224902321848358",
-      "source": "juejin",
-      "score": 520,
-      "raw_score": 402,
+      "score": 332,
+      "raw_score": 46,
       "comments": 0,
-      "author": "一只牛博",
+      "author": "阿灿在吗",
       "created_at": "",
-      "summary": "只备份一个 schema，别把整库都搬走 一个库里塞好几个 schema 是常事：业务表在一个 schema，审计日志在另一个，可能还有给报表、给别的团队用的独立 schema。"
+      "summary": "Gpt-6 Astra像一个游刃有余、举一反三的集大成者，DeepSeek-V4.1-Flash则像是学有所成刚刚出师的才下山的大派天骄，准备拳打脚踢老前辈。"
     },
     {
-      "title": "vLLM 与 SGLang KV Cache 底层实现机制深度调研报告",
-      "url": "https://juejin.cn/post/7685238126571208731",
+      "title": "AI Coding UI Patterns：把好设计说清楚！",
+      "url": "https://juejin.cn/post/7685302724011704347",
       "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
-      "comments": 0,
-      "author": "GreenTea",
+      "score": 301,
+      "raw_score": 32,
+      "comments": 1,
+      "author": "LiuMingXin",
       "created_at": "",
-      "summary": "一、底层 KV Cache 实现机制（基于 main 分支源码） 1. vLLM：PagedAttention + 哈希链前缀缓存 分层结构：KVCacheManager (vllm/v1/core/"
+      "summary": "少一点营销套路，多一点专业积累。拒绝信息差，尊重设计，也尊重代码。做纯粹的技术人，把好设计变成能够检索、理解和复用的共同语言。"
     },
     {
-      "title": "maven执行groovy脚本相关配置",
-      "url": "https://juejin.cn/post/7685224015708160050",
-      "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
-      "comments": 0,
-      "author": "林鹿",
-      "created_at": "",
-      "summary": "maven属性与groovy变量对照表。${project.basedir}＝project.basedir"
-    },
-    {
-      "title": "AI 让我的独门小工具焕发第二春",
-      "url": "https://juejin.cn/post/7685206698757619712",
-      "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
-      "comments": 0,
-      "author": "烽火戏诸诸诸侯",
-      "created_at": "",
-      "summary": "尤记的两年在掘金分享了一个在闲暇之余开发的 Windows 端口占用检测工具受到不少友友的点赞，那时候的 AI 仍在发展初期，故仅靠着 ChatGPT 粗糙的用 Java Swing 绘制了这么个玩意"
-    },
-    {
-      "title": "做副总监的第 4 年，我才承认：我做的大部分是\"工作拆分转发\"",
-      "url": "https://juejin.cn/post/7685253104889528372",
-      "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
-      "comments": 0,
-      "author": "耳东蜗牛",
-      "created_at": "",
-      "summary": "做副总监的第 4 年，我才敢承认：我做的大部分是\"工作拆分转发\" 2023 年 1 月 31 日下午，我收到一封 HR 邮件。 标题从\"前端高级技术经理\"变成\"产品质量部副总监\"。同时，前端和测试两个"
-    },
-    {
-      "title": "FDE 如何正确解决现场项目工程性的问题",
-      "url": "https://juejin.cn/post/7685216494905524260",
+      "title": "grid网格和合并项目",
+      "url": "https://juejin.cn/post/7685224015707717682",
       "source": "juejin",
       "score": 235,
       "raw_score": 15,
       "comments": 0,
-      "author": "怕浪猫",
+      "author": "我的div丢了肿么办",
       "created_at": "",
-      "summary": "第 2 章 解决正确的问题 2.1 进场第一周怎么过 第一周的目标只有一个：建立对客户业务的\"地面真相\"认知，而不是接受转述版本。 客户给你的背景材料、招标文件、高层访谈，都是二手的；二手信息经过了过"
+      "summary": "网格线 在grid布局中 这些分隔线被称为网格线 水平方向的叫做行线；垂直方向的叫做列线。 在两条网格线之间的空间，叫做网格轨道。 水平的叫做行轨道,垂直的叫做列轨道。 行轨道和列轨道相交的空间叫做网"
     },
     {
-      "title": "LangGraph 进阶：Command + Send 动态控制流、并行 Map-Reduce 实战与踩坑",
-      "url": "https://juejin.cn/post/7685261744722968627",
-      "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
-      "comments": 0,
-      "author": "锋行天下",
-      "created_at": "",
-      "summary": "初学 LangGraph 时，最先接触的是静态条件分支 add_conditional_edges。这种方式在编译期定义图的分支规则，ReAct Agent 循环就用它，图结构清晰、Mermaid 可"
-    },
-    {
-      "title": "AI 观察：CEO 们集体喊\"慢一点\"，钱却在加速进场",
-      "url": "https://juejin.cn/post/7685282635450597385",
-      "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
-      "comments": 0,
-      "author": "米小虾",
-      "created_at": "",
-      "summary": "一周 AI 观察（9.8–9.14）：CEO 们集体喊\"慢一点\"，钱却在加速进场 本周关键事件 时间 事件 关键数字 9/12 Amodei 发表《We Must Pace the Frontier》"
-    },
-    {
-      "title": "DeepSeek Harness 系列（06）：System Prompt 组装——动态提示词的工程实现",
-      "url": "https://juejin.cn/post/7685253104889004084",
+      "title": "一条订单消息的奇幻漂流：Spring Boot + RabbitMQ",
+      "url": "https://juejin.cn/post/7685267114437476390",
       "source": "juejin",
       "score": 222,
       "raw_score": 13,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "吃饱了得干活",
       "created_at": "",
-      "summary": "每次模型请求前，dsh 是怎么把几十个插件的提示词片段拼成一个完整的 system prompt 的？这篇文章拆解 ctx.systemPrompt 的注册机制、段落排序、动态变量、工具 schema"
+      "summary": "引子：先讲个故事 假设你在一家电商公司写代码，产品经理提了个需求： 你可能会写出这样的代码： 用户点一次\"下单\"，后端要按顺序做五件事，做完一件才做下一件。看起来直观，但上线后问题一个接一个： 短信服"
     },
     {
-      "title": "多模态大模型已经能识别和描述视频，为什么仍然缺乏可靠的时序感知能力？",
-      "url": "https://juejin.cn/post/7685261744723050547",
+      "title": "Compose焦点控制与应用",
+      "url": "https://juejin.cn/post/7685202974937546792",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "橘子风华",
+      "created_at": "",
+      "summary": "写在前面 很早之前，开始了解Compose，写了篇记录文章 Jetpack Compose的了解。 和过往告别，写了篇 Android TV开发-按键焦点了解与应用。 为了更好学习Compose，自己"
+    },
+    {
+      "title": "🧭 Milvus 向量数据库实战指南：从 Docker 部署到 AI 日记语义搜索",
+      "url": "https://juejin.cn/post/7685202974936596520",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "不惑_",
+      "author": "YHL",
       "created_at": "",
-      "summary": "人类98分，AI全零分，一段雪花视频戳穿了大模型的底牌 先看一个实验。 一段视频，平均7.1秒，大约333帧。 每一帧都是雪花，纯噪声。暂停在任何一帧，什么都看不见。 按下播放键，内容自己浮出来了。可"
+      "summary": "本文带你用 Docker Compose 部署 Milvus，并通过 OpenAI Embeddings 将日记转为向量存入数据库，实现不依赖关键词精确匹配的语义搜索。"
     },
     {
-      "title": "一天一个开源项目（第217篇）：free-for-dev —— 137k Star 的开发者免费服务终极宝库",
-      "url": "https://juejin.cn/post/7685202974937284648",
+      "title": "Tensor Parallel 深入解析：多加 GPU，推理为什么可能更慢",
+      "url": "https://juejin.cn/post/7685260774627147818",
       "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
+      "score": 180,
+      "raw_score": 8,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "武子康",
       "created_at": "",
-      "summary": "free-for-dev 是 GitHub 上排名最靠前的资源类仓库之一，收录了 60+ 大类、数百项提供真正免费层级的 SaaS/PaaS/IaaS 服务，从主流云平台到 CI/CD、数据库、AI"
+      "summary": "Tensor Parallel 深入解析：多加 GPU，推理为什么可能更慢 TL;DR 场景：8 卡 A6000 机器，模型用 TP=2 已能装；团队把 TP 从 2 调到 8 期待\"用户更快收到回答"
     },
     {
-      "title": "Java实现hmacsha256加密算法",
-      "url": "https://juejin.cn/post/7685261744723181619",
+      "title": "深入浅出RAG——第11章：Prompt 工程与上下文优化",
+      "url": "https://juejin.cn/post/7685224902322208806",
       "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
+      "score": 155,
+      "raw_score": 6,
       "comments": 0,
-      "author": "考虑考虑",
+      "author": "深海鱼在掘金",
       "created_at": "",
-      "summary": "前言 Java自带hmacsha256算法 hmacsha256实现 总结 Java实现hmacsha256加密算法，可以用它实现加密算法"
+      "summary": "讲解 RAG 场景下 Prompt 的设计方法，剖析 Stuff、Map-Reduce、Refine 三种上下文组装策略的取舍，并给出多轮对话中的 Token 预算分配与文档摆放方案，让检索结果真正"
     },
     {
-      "title": "「AI学习笔记」Agent Memory（二）跨会话记忆：从聊天记录到可演化的长期记忆",
-      "url": "https://juejin.cn/post/7685206698757947392",
+      "title": "复合索引最左前缀原则：PostgreSQL 的 WHERE 为什么必须命中第一列",
+      "url": "https://juejin.cn/post/7685283059571556362",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "旺仔不是程序员",
+      "created_at": "",
+      "summary": "复合索引最左前缀原则：PostgreSQL 的 WHERE 为什么必须命中第一列 一、前言 你是否遇到过：明明建了复合索引，EXPLAIN 却显示 Seq Scan（全表扫描）"
+    },
+    {
+      "title": "MCP 半小时跑通和敢上生产之间，隔着这 5 个坑",
+      "url": "https://juejin.cn/post/7685317187397877806",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "硅基书斋",
+      "created_at": "",
+      "summary": "MCP 半小时跑通和敢上生产之间隔着 5 个坑：description 当接口契约审、写操作走工程护栏不靠 prompt、自建别直调 Service 层、只读数据用 Resources 别用 Tool"
+    },
+    {
+      "title": "01-10-认知篇-总览-YooAsset核心设计哲学",
+      "url": "https://juejin.cn/post/7685302724012556315",
       "source": "juejin",
       "score": 139,
       "raw_score": 5,
       "comments": 0,
-      "author": "山间小僧",
+      "author": "SmalBox",
       "created_at": "",
-      "summary": "会话结束后，Agent 为什么又“不认识你”了 假设你上周告诉旅行 Agent 三件事：你已经从北京搬到上海；出差时优先坐高铁；Agent 已经替你订好 3 月 3 日回上海的车票。今天你打开新会话，"
+      "summary": "YooAsset 核心设计哲学 一、引言 本章在系列中的定位：理解 YooAsset 的设计思想与架构理念 本章要解决的核心问题：YooAsset 为什么这样设计？每个设计决策背后的权衡是什么？ 阅读"
+    },
+    {
+      "title": "Agnes 3.0 Flash 来了：一个\"能真正把活干完\"的 AI 模型",
+      "url": "https://juejin.cn/post/7685332147724910602",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "SimonKing",
+      "created_at": "",
+      "summary": "AI 圈从来不缺新模型，但大部分新模型发完新闻稿就没人提了。真正能让人记住的，要么是能力碾压同行，要么是价格碾压同行。"
+    },
+    {
+      "title": "别再用正则抠 JSON 了：LangChain 结构化输出的三种正确姿势",
+      "url": "https://juejin.cn/post/7685260774626967594",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "小林ixn",
+      "created_at": "",
+      "summary": "前言：LLM 输出结构化数据，为什么这么难？ 做 AI 应用的时候，你会发现一个非常高频的需求：让大模型返回 JSON。 不管是提取实体、解析表单、还是做下一步的业务分支判断，我们都希望 LLM 的输"
+    },
+    {
+      "title": "字段类型不一致：PostgreSQL 报错与索引失效的第一元凶",
+      "url": "https://juejin.cn/post/7685317187398025262",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "旺仔不是程序员",
+      "created_at": "",
+      "summary": "字段类型不一致：PostgreSQL 报错与索引失效的第一元凶 一、前言 你是否遇到过：SQL 明明没问题，一执行就抛 ERROR: operator does not exist:"
+    },
+    {
+      "title": "Spring AI 2.0 进阶入门：Badcase、Eval 与大模型应用效果优化",
+      "url": "https://juejin.cn/post/7685342914481831945",
+      "source": "juejin",
+      "score": 60,
+      "raw_score": 2,
+      "comments": 0,
+      "author": "JoyT",
+      "created_at": "",
+      "summary": "前面的 Agent 已经具备 Memory、RAG、Tool、MCP、Workflow 和 Task State。系统能力越来越丰富以后，会出现一个更加实际的问题：模型回答错了，到底应该修改 Prom"
     }
   ]
 }
