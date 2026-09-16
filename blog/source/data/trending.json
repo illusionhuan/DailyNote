@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-15T15:54:54.109685+00:00",
+  "updated_at": "2026-09-16T02:24:09.289283+00:00",
   "articles": [
     {
-      "title": "从codex转战workbuddy使用一周的感受",
-      "url": "https://juejin.cn/post/7684460980934049807",
+      "title": "CPF-Flutter 社区提出折叠场景分栏（平行视界） 方案",
+      "url": "https://juejin.cn/post/7685604730751057983",
       "source": "juejin",
-      "score": 767,
-      "raw_score": 6913,
-      "comments": 47,
-      "author": "wing98",
-      "created_at": "",
-      "summary": "不是恰饭，也不是踩一捧一。只是记录一个 Codex 老用户切换到 WorkBuddy 的真实一周，以及过程中踩到的坑和省下的钱。 一、为什么换：被逼无奈的\"搬家\" 很早就听说腾讯出了智能体编程工具 W"
-    },
-    {
-      "title": "ValidX时间段验证详解：ISO 8601标准与简化格式",
-      "url": "https://juejin.cn/post/7684649314159312930",
-      "source": "juejin",
-      "score": 742,
-      "raw_score": 5130,
+      "score": 392,
+      "raw_score": 92,
       "comments": 0,
-      "author": "vipxieliang",
+      "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "ValidX时间段验证详解：ISO 8601标准与简化格式 📋 目录 引言 一、时间段是什么：先分清\"时间点\"与\"时间段\" 二、两种格式总览与 API 入口 三、ISO 8601 标准格式详解 3.1"
+      "summary": "最近 CPF-Flutter 针对折叠屏场景提了平行视界的适配方案，这个方案从特性从 Flutter 3.35.8-ohos-1.0.3 版本就开始支持了，方案除了分栏，主要也是为了现在阔折叠场景会有"
     },
     {
-      "title": "黄仁勋台上接特朗普电话开免提，全场听到一句话：AI 不会减速",
-      "url": "https://juejin.cn/post/7685320540698361899",
+      "title": "2026年，这5个JS新趋势正在悄悄改写前端",
+      "url": "https://juejin.cn/post/7685684235953094697",
       "source": "juejin",
-      "score": 613,
-      "raw_score": 1163,
+      "score": 338,
+      "raw_score": 49,
       "comments": 0,
-      "author": "计算机魔术师",
+      "author": "涛涛ing",
       "created_at": "",
-      "summary": "2026 年 9 月 14 日，洛杉矶 All-In Summit 上，黄仁勋在台上接到特朗普电话并开启免提，两人围绕 Anthropic 提出的 AI「限速」主张展开对话。特朗普将 AI 安全担忧称"
+      "summary": "一、ES2026正式落地：Date时代终结，一堆历史遗留问题被修了 ECMA-262第17版（ES2026）已于2026年6月30日由Ecma International正式批准。TC39在3月会议就"
     },
     {
-      "title": "Android Studio Quail 4发布，看日志我以为谷歌放弃Flutter了",
-      "url": "https://juejin.cn/post/7685597597233905716",
-      "source": "juejin",
-      "score": 391,
-      "raw_score": 91,
-      "comments": 0,
-      "author": "程序员老刘",
-      "created_at": "",
-      "summary": "AS Quail 4四个大件全押AI，发布日志里仅有的一条Flutter相关更新却是帮你迁移回原生。谷歌真要放弃Flutter吗？老刘翻完两条产品线的发布日志，聊聊Flutter开发者接下来该怎么选"
-    },
-    {
-      "title": "为什么越来越多人用OpenWiki？",
-      "url": "https://juejin.cn/post/7685591822258585626",
-      "source": "juejin",
-      "score": 383,
-      "raw_score": 83,
-      "comments": 1,
-      "author": "苏三说技术",
-      "created_at": "",
-      "summary": "前言 很多团队在用上AI编程工具之后，都会遇到这个瓶颈：AI的“短期记忆”够了，但“长期记忆”没有。 每次任务都是一次全新的开始，之前积累的理解完全浪费。 2026年7月，LangChain开源了Op"
-    },
-    {
-      "title": "我花3天抓了一个幽灵bug，凶手藏在第4层",
-      "url": "https://juejin.cn/post/7685591822258864154",
-      "source": "juejin",
-      "score": 341,
-      "raw_score": 51,
-      "comments": 1,
-      "author": "kyriewen",
-      "created_at": "",
-      "summary": "用户说页面没更新，我花了3天排查——凶手不是浏览器缓存，是叠了5层的缓存里第4层Nginx配置。从memory cache到Service Worker到HTTP头到React Query，逐层破案。"
-    },
-    {
-      "title": "我怎么用 AI，同时写内容、做课程、开发产品",
-      "url": "https://juejin.cn/post/7685657703509409792",
-      "source": "juejin",
-      "score": 289,
-      "raw_score": 28,
-      "comments": 0,
-      "author": "老金带你玩AI",
-      "created_at": "",
-      "summary": "这是上周日我在亦庄模数 OPC（WaytoAGI 社区运营）做的一次线下分享，现场收到了一些好评。回来整理成文字，分享给大家。 工具越来越多，模型越来越厉害，但如果用法没变，人反而可能越来越忙。 一个"
-    },
-    {
-      "title": "别再手动找对标了！做公众号漫画，这套工具从选题到发稿全覆盖",
-      "url": "https://juejin.cn/post/7685625152361119785",
+      "title": "顶部区域固定,左侧区域滚动，右侧区域滚动，彼此独立",
+      "url": "https://juejin.cn/post/7685648064543096878",
       "source": "juejin",
       "score": 264,
       "raw_score": 21,
       "comments": 0,
-      "author": "后端小肥肠",
+      "author": "我的div丢了肿么办",
       "created_at": "",
-      "summary": "这几天又回归写代码了，把之前的漫画工坊升级成桌面端产品，现在已覆盖公众号几个大主流赛道，包括但不限于趣味、老纪、小林、美食、治愈IP等。。。"
+      "summary": "顶部固定,左侧滚动，右侧滚动，彼此独立 实现一个网页功能。 顶部区域，左右布局。 顶部的内容固定不变(始终在最顶部),左侧内容超出滚动，右侧内容超过滚动，左右2侧的滚动互不影响 实现滚动的2个条件： "
     },
     {
-      "title": "微信 AI 社交灰度测试：企业 AI 落地真正的门槛在知识库治理",
-      "url": "https://juejin.cn/post/7685587857865408522",
+      "title": "Spring Boot 4 SSRF 防护源码剖析:InetAddressFilter 挡住内网地址与云元数据",
+      "url": "https://juejin.cn/post/7685577303418994726",
+      "source": "juejin",
+      "score": 255,
+      "raw_score": 19,
+      "comments": 0,
+      "author": "Java内核笔记",
+      "created_at": "",
+      "summary": "Spring Boot 4 新增 InetAddressFilter：一个Bean覆盖RestClient、WebClient等全部HTT 客户端，在IP层拦截内网地址与云元数据，从根上防 SSRF。"
+    },
+    {
+      "title": "Electron：Module 与 Service 的职责边界与加载时序编排",
+      "url": "https://juejin.cn/post/7685363581945675816",
       "source": "juejin",
       "score": 251,
       "raw_score": 18,
       "comments": 0,
-      "author": "小虎AI生活",
+      "author": "BanShan_Alec",
       "created_at": "",
-      "summary": "导语 2026 年 9 月 7 日起，微信开始小范围灰度测试「小微 AI 社交」。经双方授权后，两个小微建立独立会话，先完成时间协调、信息同步、事务交接，再把结果生成确认卡片交回用户拍板。对话记录只保"
+      "summary": "理清 Module 与 Service 的职责边界，并将隐式的时序假设转化为显式的架构约束，是桌面客户端走向高可靠性的必经之路。"
     },
     {
-      "title": "从 RAG 到 Agentic RAG：第一步，让模型决定「要不要检索」",
-      "url": "https://juejin.cn/post/7685648064543031342",
-      "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
-      "comments": 0,
-      "author": "东风破_",
-      "created_at": "",
-      "summary": "普通 RAG 通常只有一条固定流水线：用户提问 → 向量检索 → 拼接上下文 → LLM 生成答案。它能工作，却不会判断。这篇从一个最基础的 RAG 出发，用 LangGraph 加入问题路由，让模型"
-    },
-    {
-      "title": "[Agent Memory / 强化学习] MemPO源码学习笔记 --- (2)--- 训练",
-      "url": "https://juejin.cn/post/7685644889095323699",
+      "title": "Electron: 你是否需要对 Preload 开启 nodeIntegration？",
+      "url": "https://juejin.cn/post/7685526409536503823",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "罗西的思考",
+      "author": "BanShan_Alec",
       "created_at": "",
-      "summary": "[Agent Memory / 强化学习] MemPO源码学习笔记 --- (2)--- 训练 0x00 概要 0x01 原理 1.1 为什么MemPO必须用RL而不是SFT？ 1.2 RL 方案的通"
+      "summary": "怎么让 Preload 拥有 Node 能力，需要配置什么？需要为当前窗口开启 Preload Node 能力 (sandbox: false) 吗？"
     },
     {
-      "title": "云栖剧透丨四场论坛，看清智能体走进生产的关键路径",
-      "url": "https://juejin.cn/post/7685625152360562729",
+      "title": "Java和Go都拍胸脯说\"内存我包了\"，可它们到底是怎么下手的？",
+      "url": "https://juejin.cn/post/7685668429751271487",
       "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
+      "score": 222,
+      "raw_score": 13,
       "comments": 0,
-      "author": "阿里云云原生",
+      "author": "蛋先生DX",
       "created_at": "",
-      "summary": "云栖剧透丨四场论坛，看清智能体走进生产的关键路径云栖剧透丨四场论坛，看清智能体走进生产的关键路径云栖剧透丨四场论坛，看清智能体走进生产的关键路径"
+      "summary": "上回咱们把内存翻车的根源捋了一下，最后得出一个结论：要根治，得靠\"接管型 Runtime\"把内存的分配、访问、释放一手包办。今天咱就顺着一条\"申请内存\"的代码链路，看看它到底是怎么\"下场\"接管的？"
     },
     {
-      "title": "一图看懂 ADrive 跨产品协作实践：文件通了，Agent 就通了",
-      "url": "https://juejin.cn/post/7685644889095733299",
-      "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
-      "comments": 0,
-      "author": "火山引擎Agent社区",
-      "created_at": "",
-      "summary": "火山引擎 ADrive 依托 ADrive CLI 搭建 Agent 统一文件协作空间，以 48 小时视频项目演示多 Agent 接力创作，高危操作人工确认，附接入方法。"
-    },
-    {
-      "title": "LangGraph 模拟大模型调用工具失败后重试直到成功",
-      "url": "https://juejin.cn/post/7685587857865424906",
+      "title": "让 AI 先写方案，再写代码",
+      "url": "https://juejin.cn/post/7685691414156967982",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "锋行天下",
+      "author": "全栈弄潮儿",
       "created_at": "",
-      "summary": "模拟用户输入问题后，大模型分析要调用工具，但是工具节点有一定几率调用失败，失败后重新调用，直到成功 以下输出运行信息"
+      "summary": "开篇 当我们把需求交给 AI 时，最常见的一句话是： 这句话当然能得到代码。 但对于中级开发者来说，真正需要警惕的不是“AI 写得慢”，而是： 代码已经生成了，才发现方案选错了。 接口写完了，才发现同"
     },
     {
-      "title": "L2A-一个域名如何访问多台云服务器-子域名、路径前缀与Nginx反向代理选型指南",
-      "url": "https://juejin.cn/post/7685651354878525449",
+      "title": "Electron: 缓存机制有哪些？能控制的又有哪些",
+      "url": "https://juejin.cn/post/7685526409536339983",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "BanShan_Alec",
+      "created_at": "",
+      "summary": "Electron 缓存机制深度解析 在 Electron (包括 VS Code 等应用) 的架构中，缓存机制是一个涉及 Chromium 渲染引擎、V8 JavaScript 引擎 以及 Node."
+    },
+    {
+      "title": "大模型实战：手把手教你用 DeepSeek 打造 Text2SQL 数据平权应用",
+      "url": "https://juejin.cn/post/7685657703510032384",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "HjhIron",
+      "created_at": "",
+      "summary": "前言 在“Vibe Coding”（氛围编程）时代，代码开发的平权正在发生，而数据平权（Data Democracy） 也紧随其后。Text2SQL 技术让非技术人员只需通过自然语言描述，就能直接与数"
+    },
+    {
+      "title": "Python 将 HTML 转换为 Word 文档的实践指南",
+      "url": "https://juejin.cn/post/7685800307367919635",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "缺点内向",
+      "created_at": "",
+      "summary": "本文以 Spire.Doc for Python 为例，介绍从 HTML 文件、HTML 字符串和字节流三种途径创建 Word 文档的方法，并整理转换过程中可能遇到的编码、图片加载和样式兼容等问题。"
+    },
+    {
+      "title": "Guides vs Sensors：Harness 的双核控制框架",
+      "url": "https://juejin.cn/post/7685668429752008767",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "plainGeek",
+      "created_at": "",
+      "summary": "Guides vs Sensors：Harness 的双核控制框架 上一篇讲了 Harness 是什么——包裹在模型外面的七层系统。这一篇讲 Harness 最核心的控制框架，也是整个领域最有用的心智"
+    },
+    {
+      "title": "手搓三种 Agent 范式后，一次翻车让我看穿了它的本质",
+      "url": "https://juejin.cn/post/7685604730750369855",
       "source": "juejin",
       "score": 169,
       "raw_score": 7,
       "comments": 0,
-      "author": "郑恩赐",
+      "author": "能不能静下心来看",
       "created_at": "",
-      "summary": "本文档从 DNS（Domain Name System，域名系统）的职责边界出发，讲清「一个域名 + 多台 ECS（Elastic Compute Service，云服务器）」为什么必须引入入口层，再"
+      "summary": "上一篇《从 RAG 到 Agent》里，我跑通了第一个 ReAct 智能体，理解了\"循环 + 决策\"和普通程序的区别。这一篇是续集：照着教程手搓了三种经典范式（ReAct、Plan-and-Solve"
+    },
+    {
+      "title": "HarmonyOS 6.0 智感握姿实战：一道安检门、五态分诊、一静一响两个坑",
+      "url": "https://juejin.cn/post/7685690914828533769",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "威哥爱编程",
+      "created_at": "",
+      "summary": "一、先别急着写代码，先看屏幕够不够得着 设想一个场景：你做了一个新闻阅读应用，右下方放了一个\"写评论\"的悬浮按钮。用户用左手单手握着一台 6.8 寸的大屏，拇指尖刚好够到屏幕中线偏左。那个按钮在右下角"
+    },
+    {
+      "title": "英伟达是人工智能领域的\"中央银行\"",
+      "url": "https://juejin.cn/post/7685684235954044969",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "计算机魔术师",
+      "created_at": "",
+      "summary": "围绕 英伟达是人工智能领域的\"中央银行\" 展开，把 industry_insight、从行业局势、商业影响与从业者判断来写。英伟达通过为客户提供巨额融资支持来拉动芯片需求、过去三年承诺向初创企业投资超"
     }
   ]
 }
