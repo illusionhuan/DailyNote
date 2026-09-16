@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-16T02:24:09.289283+00:00",
+  "updated_at": "2026-09-16T15:46:35.618068+00:00",
   "articles": [
     {
-      "title": "CPF-Flutter 社区提出折叠场景分栏（平行视界） 方案",
-      "url": "https://juejin.cn/post/7685604730751057983",
+      "title": "ValidX时间段验证详解：ISO 8601标准与简化格式",
+      "url": "https://juejin.cn/post/7684649314159312930",
       "source": "juejin",
-      "score": 392,
-      "raw_score": 92,
+      "score": 809,
+      "raw_score": 11156,
       "comments": 0,
-      "author": "恋猫de小郭",
+      "author": "vipxieliang",
       "created_at": "",
-      "summary": "最近 CPF-Flutter 针对折叠屏场景提了平行视界的适配方案，这个方案从特性从 Flutter 3.35.8-ohos-1.0.3 版本就开始支持了，方案除了分栏，主要也是为了现在阔折叠场景会有"
+      "summary": "ValidX时间段验证详解：ISO 8601标准与简化格式 📋 目录 引言 一、时间段是什么：先分清\"时间点\"与\"时间段\" 二、两种格式总览与 API 入口 三、ISO 8601 标准格式详解 3.1"
     },
     {
-      "title": "2026年，这5个JS新趋势正在悄悄改写前端",
-      "url": "https://juejin.cn/post/7685684235953094697",
+      "title": "从codex转战workbuddy使用一周的感受",
+      "url": "https://juejin.cn/post/7684460980934049807",
       "source": "juejin",
-      "score": 338,
-      "raw_score": 49,
-      "comments": 0,
-      "author": "涛涛ing",
+      "score": 789,
+      "raw_score": 8857,
+      "comments": 59,
+      "author": "wing98",
       "created_at": "",
-      "summary": "一、ES2026正式落地：Date时代终结，一堆历史遗留问题被修了 ECMA-262第17版（ES2026）已于2026年6月30日由Ecma International正式批准。TC39在3月会议就"
+      "summary": "不是恰饭，也不是踩一捧一。只是记录一个 Codex 老用户切换到 WorkBuddy 的真实一周，以及过程中踩到的坑和省下的钱。 一、为什么换：被逼无奈的\"搬家\" 很早就听说腾讯出了智能体编程工具 W"
     },
     {
-      "title": "顶部区域固定,左侧区域滚动，右侧区域滚动，彼此独立",
-      "url": "https://juejin.cn/post/7685648064543096878",
+      "title": "前端2秒生成500页矢量PDF，rust真的强到没朋友",
+      "url": "https://juejin.cn/post/7685644889096011827",
+      "source": "juejin",
+      "score": 686,
+      "raw_score": 2707,
+      "comments": 12,
+      "author": "刘发财",
+      "created_at": "",
+      "summary": "dompdf.js 是我开源的一个js库，他通过html2canvas+jspdf将html生成为矢量pdf（非截图式pdf），生成1000页PDF只需要5秒。"
+    },
+    {
+      "title": "ChatGPT 开启无限 token",
+      "url": "https://juejin.cn/post/7685770509585629190",
+      "source": "juejin",
+      "score": 579,
+      "raw_score": 794,
+      "comments": 0,
+      "author": "cxuanAI",
+      "created_at": "",
+      "summary": "OpenAI 的 Astra 来了之后，我明显感觉到额度不够用，如果你只是一个 Plus 用户，你在额度消耗完了之后，还想干活的话，该怎么办呢。 其实有两种方式： 1. 不用 Astra ，还是用 G"
+    },
+    {
+      "title": "程序员创业快一年：做出产品不等于拥有生意",
+      "url": "https://juejin.cn/post/7685966242269151270",
+      "source": "juejin",
+      "score": 286,
+      "raw_score": 27,
+      "comments": 0,
+      "author": "孟健AI编程",
+      "created_at": "",
+      "summary": "大家好，我是孟健。 坐下来动笔写这篇复盘时，我离开大厂全职创业已经快一年了。心里最先浮上来的不是做成了什么，而是这一路上自己的认识发生了多大变化——做技术时我们习惯盯紧代码产出与系统实现，但做生意必须"
+    },
+    {
+      "title": "5 年级的儿子居然学会了破解。。。",
+      "url": "https://juejin.cn/post/7685987418991001600",
+      "source": "juejin",
+      "score": 264,
+      "raw_score": 21,
+      "comments": 1,
+      "author": "野生的码农",
+      "created_at": "",
+      "summary": "儿子的牛听听，能突破家长端限制的 30 分钟，这究竟是道德的沦丧，还是人性的扭曲？请收看「走近科学」"
+    },
+    {
+      "title": "从 RAG 到 Agentic RAG：第二步，把复杂问题拆开再检索",
+      "url": "https://juejin.cn/post/7686040694946922505",
       "source": "juejin",
       "score": 264,
       "raw_score": 21,
       "comments": 0,
-      "author": "我的div丢了肿么办",
+      "author": "东风破_",
       "created_at": "",
-      "summary": "顶部固定,左侧滚动，右侧滚动，彼此独立 实现一个网页功能。 顶部区域，左右布局。 顶部的内容固定不变(始终在最顶部),左侧内容超出滚动，右侧内容超过滚动，左右2侧的滚动互不影响 实现滚动的2个条件： "
+      "summary": "上一篇，我们已经让 RAG 学会了一件事： 于是流程从： 变成了： 这一步解决的是： 但只要开始处理稍微复杂一点的问题，很快就会碰到第二层麻烦： 一、一次检索为什么会开始吃力？ 还是拿《天龙八部》做例"
     },
     {
-      "title": "Spring Boot 4 SSRF 防护源码剖析:InetAddressFilter 挡住内网地址与云元数据",
-      "url": "https://juejin.cn/post/7685577303418994726",
+      "title": "81.8 秒的视频，我们改了 15 个版本：一次纯 Codex 驱动的 AI-native 视频实践",
+      "url": "https://juejin.cn/post/7685963994266337331",
       "source": "juejin",
       "score": 255,
       "raw_score": 19,
       "comments": 0,
-      "author": "Java内核笔记",
+      "author": "京东云开发者",
       "created_at": "",
-      "summary": "Spring Boot 4 新增 InetAddressFilter：一个Bean覆盖RestClient、WebClient等全部HTT 客户端，在IP层拦截内网地址与云元数据，从根上防 SSRF。"
+      "summary": "大家好，如果现在给你一份产品资料，让你在几天内做成一支有传播力的视频，你会从哪里开始？写脚本、找素材、做画面、试配音、挑音乐……每一步都像在提醒你：这件事需要一整支团队。 这一次，我们换了一种做法。你"
     },
     {
-      "title": "Electron：Module 与 Service 的职责边界与加载时序编排",
-      "url": "https://juejin.cn/post/7685363581945675816",
+      "title": "7000 万 QPS、500 PB：OpenAI 如何用一个 Python 存储平台撑住 10 亿用户",
+      "url": "https://juejin.cn/post/7686040694946856969",
       "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "BanShan_Alec",
+      "author": "GreenTea",
       "created_at": "",
-      "summary": "理清 Module 与 Service 的职责边界，并将隐式的时序假设转化为显式的架构约束，是桌面客户端走向高可靠性的必经之路。"
+      "summary": "TL;DR OpenAI 自研的在线存储平台 Habitat 当前承载 70M+ QPS、500+ PB 数据、约 40 个地理区域，支撑每周 10 亿+  活跃用户的产品流量。这篇文章值得看的不是\""
     },
     {
-      "title": "Electron: 你是否需要对 Preload 开启 nodeIntegration？",
-      "url": "https://juejin.cn/post/7685526409536503823",
-      "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
-      "comments": 0,
-      "author": "BanShan_Alec",
-      "created_at": "",
-      "summary": "怎么让 Preload 拥有 Node 能力，需要配置什么？需要为当前窗口开启 Preload Node 能力 (sandbox: false) 吗？"
-    },
-    {
-      "title": "Java和Go都拍胸脯说\"内存我包了\"，可它们到底是怎么下手的？",
-      "url": "https://juejin.cn/post/7685668429751271487",
-      "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
-      "comments": 0,
-      "author": "蛋先生DX",
-      "created_at": "",
-      "summary": "上回咱们把内存翻车的根源捋了一下，最后得出一个结论：要根治，得靠\"接管型 Runtime\"把内存的分配、访问、释放一手包办。今天咱就顺着一条\"申请内存\"的代码链路，看看它到底是怎么\"下场\"接管的？"
-    },
-    {
-      "title": "让 AI 先写方案，再写代码",
-      "url": "https://juejin.cn/post/7685691414156967982",
+      "title": "QML Drawer 抽屉导航详解",
+      "url": "https://juejin.cn/post/7686016105336324123",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "全栈弄潮儿",
+      "author": "Quz",
       "created_at": "",
-      "summary": "开篇 当我们把需求交给 AI 时，最常见的一句话是： 这句话当然能得到代码。 但对于中级开发者来说，真正需要警惕的不是“AI 写得慢”，而是： 代码已经生成了，才发现方案选错了。 接口写完了，才发现同"
+      "summary": "Drawer 是官方封装好的，自带模态遮罩和边缘滑出效果，只要设置 edge 决定从哪条边滑出。qml_drawer 项目把四个方向的抽屉各做成一个独立组件，集中在一个主页面里展示。"
     },
     {
-      "title": "Electron: 缓存机制有哪些？能控制的又有哪些",
-      "url": "https://juejin.cn/post/7685526409536339983",
+      "title": "一个组件，提升 react-router 开发的幸福感",
+      "url": "https://juejin.cn/post/7686010356545601599",
       "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
+      "score": 200,
+      "raw_score": 10,
       "comments": 0,
-      "author": "BanShan_Alec",
+      "author": "驳是",
       "created_at": "",
-      "summary": "Electron 缓存机制深度解析 在 Electron (包括 VS Code 等应用) 的架构中，缓存机制是一个涉及 Chromium 渲染引擎、V8 JavaScript 引擎 以及 Node."
+      "summary": "你的 React SPA 应用，是否 useNavigate 满天飞？是的话，可以看看这篇文章，将会极大降低你使用 react-router的心智负担，提升开发幸福感。"
     },
     {
-      "title": "大模型实战：手把手教你用 DeepSeek 打造 Text2SQL 数据平权应用",
-      "url": "https://juejin.cn/post/7685657703510032384",
+      "title": "拆给 8 个子智能体，只拿回 2.3 倍信息：多智能体分解的产出守恒律",
+      "url": "https://juejin.cn/post/7686040694946791433",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "米小虾",
+      "created_at": "",
+      "summary": "一、三条 folklore，和一个没人问的问题 任何一份多智能体架构的设计文档里，都能找到这三条理由： folklore 说法 它回答的问题 上下文更小 每个子 agent 只看自己那一块，不会被全局"
+    },
+    {
+      "title": "RSI真的临近了吗？AI开始改进AI，但“智能爆炸”还差关键一跳",
+      "url": "https://juejin.cn/post/7685982562691612678",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "HjhIron",
+      "author": "win4r",
       "created_at": "",
-      "summary": "前言 在“Vibe Coding”（氛围编程）时代，代码开发的平权正在发生，而数据平权（Data Democracy） 也紧随其后。Text2SQL 技术让非技术人员只需通过自然语言描述，就能直接与数"
+      "summary": "RSI真的临近了吗？AI开始改进AI，但“智能爆炸”还差关键一跳 从自我修改代码，到改写技术进步的速度，我们究竟走到了哪一步？ 资料核对截至：2026年9月16日 2026年9月6日，OpenAI宣布"
     },
     {
-      "title": "Python 将 HTML 转换为 Word 文档的实践指南",
-      "url": "https://juejin.cn/post/7685800307367919635",
+      "title": "HarmonyOS：应用程序包管理模块（获取当前应用信息）",
+      "url": "https://juejin.cn/post/7686016105336586267",
       "source": "juejin",
       "score": 180,
       "raw_score": 8,
       "comments": 0,
-      "author": "缺点内向",
+      "author": "ChinaDragon",
       "created_at": "",
-      "summary": "本文以 Spire.Doc for Python 为例，介绍从 HTML 文件、HTML 字符串和字节流三种途径创建 Word 文档的方法，并整理转换过程中可能遇到的编码、图片加载和样式兼容等问题。"
+      "summary": "ohos.bundle.bundleManager 本模块提供应用信息的查询能力，支持应用包信息BundleInfo、应用程序信息ApplicationInfo等信息的查询。"
     },
     {
-      "title": "Guides vs Sensors：Harness 的双核控制框架",
-      "url": "https://juejin.cn/post/7685668429752008767",
+      "title": "OpenMetadata VS DataHub VS Atlas VS Gravitino",
+      "url": "https://juejin.cn/post/7685956257669152783",
       "source": "juejin",
       "score": 180,
       "raw_score": 8,
       "comments": 0,
-      "author": "plainGeek",
+      "author": "大大大大晴天",
       "created_at": "",
-      "summary": "Guides vs Sensors：Harness 的双核控制框架 上一篇讲了 Harness 是什么——包裹在模型外面的七层系统。这一篇讲 Harness 最核心的控制框架，也是整个领域最有用的心智"
-    },
-    {
-      "title": "手搓三种 Agent 范式后，一次翻车让我看穿了它的本质",
-      "url": "https://juejin.cn/post/7685604730750369855",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "能不能静下心来看",
-      "created_at": "",
-      "summary": "上一篇《从 RAG 到 Agent》里，我跑通了第一个 ReAct 智能体，理解了\"循环 + 决策\"和普通程序的区别。这一篇是续集：照着教程手搓了三种经典范式（ReAct、Plan-and-Solve"
-    },
-    {
-      "title": "HarmonyOS 6.0 智感握姿实战：一道安检门、五态分诊、一静一响两个坑",
-      "url": "https://juejin.cn/post/7685690914828533769",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "威哥爱编程",
-      "created_at": "",
-      "summary": "一、先别急着写代码，先看屏幕够不够得着 设想一个场景：你做了一个新闻阅读应用，右下方放了一个\"写评论\"的悬浮按钮。用户用左手单手握着一台 6.8 寸的大屏，拇指尖刚好够到屏幕中线偏左。那个按钮在右下角"
-    },
-    {
-      "title": "英伟达是人工智能领域的\"中央银行\"",
-      "url": "https://juejin.cn/post/7685684235954044969",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "计算机魔术师",
-      "created_at": "",
-      "summary": "围绕 英伟达是人工智能领域的\"中央银行\" 展开，把 industry_insight、从行业局势、商业影响与从业者判断来写。英伟达通过为客户提供巨额融资支持来拉动芯片需求、过去三年承诺向初创企业投资超"
+      "summary": "OpenMetadata和DataHub像面向用户、平台和AI的元数据治理与发现层；Atlas像Hadoop/Ranger体系中的治理基础设施；Gravitino像统一Catalog与元数据访问控制面"
     }
   ]
 }
