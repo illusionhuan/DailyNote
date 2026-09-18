@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-17T15:53:21.276244+00:00",
+  "updated_at": "2026-09-18T02:13:26.939620+00:00",
   "articles": [
     {
-      "title": "⚡2026 年了，十万级表格还只会「虚拟滚动」？难怪你的页面照样卡顿",
-      "url": "https://juejin.cn/post/7686043275371708450",
+      "title": "2026年，前端框架开始为 AI 而生了",
+      "url": "https://juejin.cn/post/7686452260913053715",
       "source": "juejin",
-      "score": 620,
-      "raw_score": 1260,
-      "comments": 1,
-      "author": "秋天的一阵风",
-      "created_at": "",
-      "summary": "前言 Hello~大家好，我是秋天的一阵风 做前端的小伙伴，面试大概率都被问过这个经典问题：大数据量表格如何优化渲染性能？ 标准答案几乎是脱口而出：用虚拟滚动！只渲染可视区域的几十行 DOM，减少页面"
-    },
-    {
-      "title": "🤖 AI写代码越跑越快，项目组件却越来越乱？一套工程闭环根治重复造轮子 ⚡",
-      "url": "https://juejin.cn/post/7685970177332592655",
-      "source": "juejin",
-      "score": 617,
-      "raw_score": 1225,
-      "comments": 1,
-      "author": "秋天的一阵风",
-      "created_at": "",
-      "summary": "前言 Hello~大家好，我是秋天的一阵风 AI 现在已经是前端开发的标配。让它写个 Vue 组件、TSX 页面，几秒钟就能出代码，迭代快得肉眼可见。 但快是有代价的。AI 只负责\"快速产出\"，不关心"
-    },
-    {
-      "title": "Codex 最新焚决发布，快！",
-      "url": "https://juejin.cn/post/7686029820083929097",
-      "source": "juejin",
-      "score": 578,
-      "raw_score": 777,
-      "comments": 2,
-      "author": "沉默王二",
-      "created_at": "",
-      "summary": "OpenAI 官方发布 Astra 时代提示词清理指南，逐条拆解四个核心方向，附可复制的审查提示词，覆盖 Claude Code 和 Codex 两个生态"
-    },
-    {
-      "title": "JDK27正式发布，人麻了!",
-      "url": "https://juejin.cn/post/7686174631263404073",
-      "source": "juejin",
-      "score": 552,
-      "raw_score": 579,
-      "comments": 4,
-      "author": "苏三说技术",
-      "created_at": "",
-      "summary": "前言 2026年9月15日，Oracle正式发布了JDK 27，对应JSR 402，是Java SE 27的参考实现。 说实话，每次Java发布新版本，我都会习惯性看一眼JEP列表，然后判断“这个版本"
-    },
-    {
-      "title": "一座不够大的城市，装下了我毕业后的成长",
-      "url": "https://juejin.cn/post/7686327615728975922",
-      "source": "juejin",
-      "score": 521,
-      "raw_score": 406,
-      "comments": 11,
-      "author": "Dragon_xjy",
-      "created_at": "",
-      "summary": "我是 2024 年毕业的，长沙本地人，专科学历。在大环境不好的情况下还是选择做前端，当时没有想这么多，就觉得简单，其他也学不进去。哈哈哈哈😄 从毕业到现在前后待过三家公司（怎么说猛不猛）是的没错，"
-    },
-    {
-      "title": "电商资料包合规体检实战：用蓝耘元生代把 20 分钟人工核验压成一分半",
-      "url": "https://juejin.cn/post/7686361321609887790",
-      "source": "juejin",
-      "score": 499,
-      "raw_score": 313,
+      "score": 324,
+      "raw_score": 42,
       "comments": 0,
-      "author": "一只牛博",
+      "author": "涛涛ing",
       "created_at": "",
-      "summary": "一个商品要上架，得先备齐一套资料，包括产品说明书、检测报告、品牌授权书、平台发布规则、商品参数表，以及一份待发布的文案。用蓝耘直接识别"
+      "summary": "一、Lynx 4.0：当框架开始“教AI写代码” Lynx是字节跳动开源的跨端框架，在2026年9月11日发布了4.0版本。这个版本最值得关注的变化，是它为AI Agent提供了一套完整的“能力边界文"
     },
     {
-      "title": "一份 KDMS 评估报告，怎样排出迁移先后顺序",
-      "url": "https://juejin.cn/post/7686361321610035246",
+      "title": "Redis官方发布高颜值可视化工具，功能更是强的离谱！",
+      "url": "https://juejin.cn/post/7686407926581395471",
       "source": "juejin",
-      "score": 498,
-      "raw_score": 311,
+      "score": 313,
+      "raw_score": 37,
       "comments": 0,
-      "author": "一只牛博",
+      "author": "MacroZheng",
       "created_at": "",
-      "summary": "迁移项目刚启动时，报告首页往往会给人一种很乐观的感觉：对象已经采集完成，总兼容度也有了。真正拿到排期表上，问题马上变了。"
+      "summary": "最近发现Redis官方客户端推出了Web版本，部署到服务器上之后，打开浏览器就能直接管理Redis，用起来方便了不少。下面就从安装到使用完整体验一遍这个Web版本，看看它到底好不好用！"
     },
     {
-      "title": "AI用量v0.1.11更新发布 新增 jusage doctor 诊断指令 托盘展示token 和余额 新增 AutoClaw 支持",
-      "url": "https://juejin.cn/post/7686376405303918644",
-      "source": "juejin",
-      "score": 298,
-      "raw_score": 31,
-      "comments": 0,
-      "author": "XCaptain",
-      "created_at": "",
-      "summary": "🚀 本次更新 🖥️ Desktop ✨ macOS 菜单栏托盘默认同时显示今日 Token 和金额，可在「应用设置」中选择仅 Token、仅金额或关闭。#157 @Xxcool ✨ 新增 AutoCl"
-    },
-    {
-      "title": "一份 JSON，一条能跑的审批流：把报销流程送上工作流引擎",
-      "url": "https://juejin.cn/post/7686341986505474083",
+      "title": "AI越来越强了，为什么测试人反而越来越累！（为打工人发声）",
+      "url": "https://juejin.cn/post/7686408837754748978",
       "source": "juejin",
       "score": 292,
       "raw_score": 29,
       "comments": 0,
-      "author": "mldong",
+      "author": "狂师",
       "created_at": "",
-      "summary": "把报销审批流从 if/else 交给工作流引擎：一份流程 JSON，deploy 带版本上线，发起 6666 和 666 两张单，引擎按金额自动分流经理和总监。三栈实跑，命令可复制。"
+      "summary": "本文揭示AI时代测试工程师“越忙越累”的真相：研发、产品等岗位因AI大幅提效，而测试却成瓶颈——AI擅长“迎合”，测试重在“挑刺”；产能翻倍导致被测物激增，验证环节却难以规模化..."
     },
     {
-      "title": "如何看待GPT-6在UP主众测中碾压夺冠？它是现在最强大模型吗？",
-      "url": "https://juejin.cn/post/7686347234725068843",
-      "source": "juejin",
-      "score": 282,
-      "raw_score": 26,
-      "comments": 0,
-      "author": "苏三说技术",
-      "created_at": "",
-      "summary": "前言 9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。 GPT-6 Astra在10位UP主的测评中拿下榜首，获得榜首次数冠军。 榜单前五名中，国产大模型占据三席。 消息一出，"
-    },
-    {
-      "title": "[Agent Memory / 强化学习] MemPO源码学习笔记 --- （3）--- Rollout思路",
-      "url": "https://juejin.cn/post/7686394441276637230",
+      "title": "为什么越来越多开发者开始用 PostgreSQL？",
+      "url": "https://juejin.cn/post/7686397150886477851",
       "source": "juejin",
       "score": 246,
       "raw_score": 17,
       "comments": 0,
-      "author": "罗西的思考",
+      "author": "Moment",
       "created_at": "",
-      "summary": "[Agent Memory / 强化学习] MemPO源码学习笔记 --- （3）--- Rollout思路 0x00 概要 0x01 Rollout 主要内容 1.1 时间线 1.2 纯 Rollo"
+      "summary": "Stack Overflow 的开发者调查里，有一组变化挺值得注意。 2018 年，使用 PostgreSQL 的受访者占比大约是 33%；到了 2024 年，这个数字已经接近 49%。在 2025 "
     },
     {
-      "title": "《潮水漫过十七岁》开学了",
-      "url": "https://juejin.cn/post/7686394441276686382",
+      "title": "Spring Boot 4 与 Spring AI 2.0 深度集成:ChatClient、Advisor 链与 MCP(源码级实战)",
+      "url": "https://juejin.cn/post/7686319335854571526",
+      "source": "juejin",
+      "score": 246,
+      "raw_score": 17,
+      "comments": 0,
+      "author": "Java内核笔记",
+      "created_at": "",
+      "summary": "Spring AI 2.0 按 Boot 4.1.1/Java 17 构建，工具调用循环从 ChatModel 内部搬到 Advisor 链上实现\"可拦截即可治理\"，附 1.1→2.0 三档迁移清单。"
+    },
+    {
+      "title": "04# Codex CLI实战：OpenAI的编程代理",
+      "url": "https://juejin.cn/post/7686397150886658075",
+      "source": "juejin",
+      "score": 229,
+      "raw_score": 14,
+      "comments": 0,
+      "author": "东方红杉",
+      "created_at": "",
+      "summary": "上周我给一个Vue3任务管理项目加测试，用Codex CLI写了40个单元测试和12个E2E测试。整个过程花了不到2小时，其中1小时在等网络请求。 场景引入 你的Vue3任务管理应用已经跑起来了，有任"
+    },
+    {
+      "title": "给 AI Agent 一台云主机：基于 noVNC 的云桌面架构与最小实现",
+      "url": "https://juejin.cn/post/7686389996107956274",
       "source": "juejin",
       "score": 222,
       "raw_score": 13,
       "comments": 0,
-      "author": "狗头大军之江苏分军",
+      "author": "第六种自由",
       "created_at": "",
-      "summary": "2039年9月1日 星期四 晴 今天开学，高二。 我妈六点二十把我叫醒的时候，我第一反应是怎么又开学了。我明明感觉暑假才刚开始没几天，结果一睁眼已经九月了。窗帘外面亮得要命，空调还在响，我在床上躺了几"
+      "summary": "从 noVNC、VNC Server 和 websockify 出发，拆解一台可观察、可接管、可审计的 AI Agent 云主机如何最小实现。"
     },
     {
-      "title": "不写出来的思考：把 Transformer 的层循环起来，是第三条 scaling 轴还是省错了地方？",
-      "url": "https://juejin.cn/post/7686341072617177126",
+      "title": "让Codex直接生成PSD难吗？提示词其实很简单",
+      "url": "https://juejin.cn/post/7686438901070037046",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "亿元程序员",
+      "created_at": "",
+      "summary": "引言 哈喽大家好，我是亿元程序员，一位有着8年游戏行业经验的主程。 上两期文章**《一个人，4个岗位，20天：我用Cursor+Codex上线了一款微信小游戏》**非常受欢迎。 游戏可在文末体验，距离"
+    },
+    {
+      "title": "为什么 MySQL 的 LIKE 查询这么慢？Elasticsearch 倒排索引完全解析",
+      "url": "https://juejin.cn/post/7686376405303509044",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "米小虾",
+      "author": "先吃饱再说",
       "created_at": "",
-      "summary": "一、两个默认出口，各自在机制上必然收费 先说清楚这条路到底想要什么。 现在的语言模型想做多步串行计算，默认只有两个出口： 第二条收费值得展开。模型内部\"想\"一个概念，是一长串连续的数，可以同时压着好几"
+      "summary": "在 MySQL 里用 LIKE '%关键词%' 搜 1000 万条记录，数据库只能逐行扫描，慢得让人崩溃。Elasticsearch 用倒排索引把\"文档→词条\"翻转成\"词条→文档\"，实现海量文本下毫秒"
     },
     {
-      "title": "让模型说\"我不知道\"，比让它答对更难：放弃文本生成能换来什么",
-      "url": "https://juejin.cn/post/7686394441276997678",
+      "title": "一次线上死锁排查：std::list::size () 居然是 O (n)？",
+      "url": "https://juejin.cn/post/7686376405303689268",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "Methy",
+      "created_at": "",
+      "summary": "一、问题现象 线上有一个数据处理服务，运行一段时间后会突然卡死。 表现很诡异： 进程还活着，没有崩溃，没有 coredump CPU 占用率很高，但就是不处理数据 上游数据持续发过来，但下游再也收不到"
+    },
+    {
+      "title": "前端如何把 TXT 文本文件转成 Word 文档：React 实践",
+      "url": "https://juejin.cn/post/7686438901070135350",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "缺点内向",
+      "created_at": "",
+      "summary": "本文以一款基于 WebAssembly 的文档处理库为例，介绍在 React 项目中把 TXT 文本文件转换为 Word 文档的实现流程与注意事项。"
+    },
+    {
+      "title": "C++20模板元编程 04：变量模板 别名模板与模板Lambda实战",
+      "url": "https://juejin.cn/post/7686389996108005426",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "米小虾",
+      "author": "软件科学_郝学胜",
       "created_at": "",
-      "summary": "一、先定义清楚：什么叫做\"校准\" 校准（calibration）的定义只有一句： 不是准确率高，不是听起来自信，是说出来的概率和经验频率对得上。 一个例子说明它和准确率的区别： 模型 行为 准确率 校"
+      "summary": "很多C++开发者对模板的认知，还停留在函数模板、类模板的基础阶段，觉得模板只是“泛型复用工具”。但实际上，从C++14到C++20，模板体系迎来了多次重磅升级，新增的变量模板、别名模板、模板Lambd"
     },
     {
-      "title": "小黑插图 Skill:从 11.7k star 的 Codex 专属，到 Claude Code 能用的平替",
-      "url": "https://juejin.cn/post/7686389996108464178",
+      "title": "归并排序和堆排序都能保证O(nlogn)，为什么谁也没法把稳定和原地两个优点占全",
+      "url": "https://juejin.cn/post/7686396471165386767",
       "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
+      "score": 155,
+      "raw_score": 6,
       "comments": 0,
-      "author": "三金得鑫",
+      "author": "Zane1994",
       "created_at": "",
-      "summary": "11.7k star 的小黑配图 Skill 只能用 Codex？拆解出图流程，手把手教你用平替 character-illustrations 在 Claude Code 本地渲染 SVG 插图。"
+      "summary": "写在前面 上一篇讲快速排序，平均O(nlogn)听着很美，但最坏情况会退化成O(n²)，还得靠随机化基准这种\"打补丁\"的方式去防。归并排序和堆排序不一样，不管输入长什么样，最坏情况都稳稳地卡在O(nl"
+    },
+    {
+      "title": "金仓、MySQL、PostgreSQL 用什么管理工具？DBeaver、Navicat、KStudio 我都试了一遍",
+      "url": "https://juejin.cn/post/7686485244199157770",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "掘金者阿豪",
+      "created_at": "",
+      "summary": "金仓、MySQL、PostgreSQL 用什么管理工具？DBeaver、Navicat、KStudio 我都试了一遍 去年做一个数据中台项目的时候，手里同时有 MySQL、Oracle 和 Kingb"
+    },
+    {
+      "title": "03# Claude Code实战：终端里的逻辑引擎",
+      "url": "https://juejin.cn/post/7686472562256805926",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "东方红杉",
+      "created_at": "",
+      "summary": "上一篇我们用 Cursor 搭好了前端页面，Vue3 组件跑起来了，界面能交互了。接下来要让数据流动起来，后端 API 是连接前端和数据库的桥梁。这次我们换个工具：Claude Code，一个运行在终"
     }
   ]
 }
