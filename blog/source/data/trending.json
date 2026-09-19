@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-18T15:27:20.086796+00:00",
+  "updated_at": "2026-09-19T02:16:21.192334+00:00",
   "articles": [
     {
-      "title": "从codex转战workbuddy使用一周的感受",
-      "url": "https://juejin.cn/post/7684460980934049807",
+      "title": "Android 系统启动机制（八）：系统服务怎样从创建走到可用？SystemServiceManager 和 Boot Phase 各管什么？",
+      "url": "https://juejin.cn/post/7686766424309071914",
       "source": "juejin",
-      "score": 814,
-      "raw_score": 11750,
-      "comments": 74,
-      "author": "wing98",
-      "created_at": "",
-      "summary": "不是恰饭，也不是踩一捧一。只是记录一个 Codex 老用户切换到 WorkBuddy 的真实一周，以及过程中踩到的坑和省下的钱。 一、为什么换：被逼无奈的\"搬家\" 很早就听说腾讯出了智能体编程工具 W"
-    },
-    {
-      "title": "一座不够大的城市，装下了我毕业后的成长",
-      "url": "https://juejin.cn/post/7686327615728975922",
-      "source": "juejin",
-      "score": 673,
-      "raw_score": 2338,
-      "comments": 26,
-      "author": "Dragon_xjy",
-      "created_at": "",
-      "summary": "我是 2024 年毕业的，长沙本地人，专科学历。在大环境不好的情况下还是选择做前端，当时没有想这么多，就觉得简单，其他也学不进去。哈哈哈哈😄 从毕业到现在前后待过三家公司（怎么说猛不猛）是的没错，"
-    },
-    {
-      "title": "用了一个月 WorkBuddy，聊聊我的真实感受",
-      "url": "https://juejin.cn/post/7686407614478237748",
-      "source": "juejin",
-      "score": 600,
-      "raw_score": 1010,
-      "comments": 7,
-      "author": "勇宝趣学前端",
-      "created_at": "",
-      "summary": "我用 GPT 有两年多了，也算是个重度用户了吧。平常写方案、改文案、整理资料、有时候半夜想到一个选题也会爬起来跟它聊两轮。因为网络的原因，我一直走的是中转站——大家懂的都懂，就是第三方转发 API 的"
-    },
-    {
-      "title": "ZCode 把整个 Git 仓库加密上传到了阿里云 OSS：一次客户端逆向的完整复盘",
-      "url": "https://juejin.cn/post/7686534839903535144",
-      "source": "juejin",
-      "score": 478,
-      "raw_score": 248,
+      "score": 322,
+      "raw_score": 41,
       "comments": 0,
-      "author": "殷紫川",
+      "author": "小明的运行时",
       "created_at": "",
-      "summary": "智谱ZCode桌面端存在静默上传机制：登录后自动扫描工作区，将含完整Git历史（含已删敏感文件）的313MB加密包直传阿里云OSS，私钥仅存云端，用户无法解密或关闭该功能。"
+      "summary": "拆开构造、发布、Boot Phase 与业务 ready，说明 SystemServer 显式顺序、SystemServiceManager 和服务专用回调各管什么。"
     },
     {
-      "title": "完蛋了，豆包变这么强？Seed2.1pro小测一下！",
-      "url": "https://juejin.cn/post/7686688669902716978",
+      "title": "【Agent Harness】Gliding Horse 最新进化：从“能学习”到“可验证的自主进化”",
+      "url": "https://juejin.cn/post/7686766424308744234",
       "source": "juejin",
-      "score": 415,
-      "raw_score": 120,
+      "score": 251,
+      "raw_score": 18,
       "comments": 0,
-      "author": "甲维斯",
+      "author": "doiito",
       "created_at": "",
-      "summary": "我对“豆姐”没有偏见，我觉得她傻傻的挺可爱的！ 今天测了一把豆包最新专业版模型，有种过山车的感觉！ 有些例子很符合豆包的人设，但是有些例子让我很惊讶。 我本来是不会测豆包的，但是刷了两篇文章，好像说新"
+      "summary": "Gliding Horse 最新进化：从“能学习”到“可验证的自主进化” Gliding Horse 一直在构建一套完整的智能体系。之前的文章里，我们聊过动态 PDCA 编排、四层记忆、技能图谱自进化"
     },
     {
-      "title": "对标 MinIO！全新一代分布式文件系统正式发布",
-      "url": "https://juejin.cn/post/7686699536866181156",
+      "title": "Android 组件化开发实践",
+      "url": "https://juejin.cn/post/7686745928792653862",
       "source": "juejin",
-      "score": 393,
-      "raw_score": 93,
+      "score": 251,
+      "raw_score": 18,
       "comments": 0,
-      "author": "JavaGuide",
+      "author": "hai_android",
       "created_at": "",
-      "summary": "时隔大半年，**RustFS 正式版已经发布，迎来 GA（General Availability，正式可用）阶段**。今天给大家同步一下这个消息，尤其是正在用 MinIO、准备自建对象存储的同学，可"
+      "summary": "核心思路一句话：业务模块互不依赖、可独立运行，壳工程负责集成打包。下面全部围绕直播业务场景下的关键代码展开。"
     },
     {
-      "title": "一周 AI 观察（9.14–9.18）：Anthropic 自曝\"AI 写了我四分之一的研发\"，于是这一周所有人都在买同一样东西",
-      "url": "https://juejin.cn/post/7686710853032575014",
+      "title": "Docker 从入门到实战：容器化全栈项目，再顺手编排一个 Milvus 向量数据库",
+      "url": "https://juejin.cn/post/7686529021816586280",
       "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "米小虾",
+      "author": "为你学会写情书",
       "created_at": "",
-      "summary": "一、本周关键事件表 日期 事件 关键数字 9/12 Amodei 发《We Must Pace the Frontier》，呼吁放缓前沿研发速度 得到 Altman、马斯克、哈萨比斯支持 9/14 微"
+      "summary": "Docker 从入门到实战：容器化全栈项目，再顺手编排一个 Milvus 向量数据库 写在前面 你大概率遇到过这种情况：本地跑得好好的项目，发给同事或者部署到服务器，就各种 npm install 报"
     },
     {
-      "title": "【AI 媒体必备】角色说明书制作",
-      "url": "https://juejin.cn/post/7686745928791785510",
+      "title": "从LangGraph到DeepAgents：理解AgentHarness",
+      "url": "https://juejin.cn/post/7686777563218690098",
       "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "XiaoLei_Liu",
+      "author": "初学AI的小高",
       "created_at": "",
-      "summary": "无论是视频、图文、漫画还是系列 IP，只要作品围绕人物展开，角色设计和角色一致性就是一切的起点。 它的重要性，就像电影、电视剧的选角。角色选得对不对、立不立得住，会直接影响观众是否相信这个剧，是否喜"
+      "summary": "Agent会调用工具之后，还需要哪些工程组件？本文结合只读项目分析助手，讲清Deep Agents与LangGraph的关系，拆解文件访问、子任务委派、上下文管理和状态保存，并提供Python示例。"
     },
     {
-      "title": "Skill 里的脚本终于能跑了，星悟接 CubeSandbox 的纪实",
-      "url": "https://juejin.cn/post/7686745928792031270",
-      "source": "juejin",
-      "score": 264,
-      "raw_score": 21,
-      "comments": 0,
-      "author": "码云之上",
-      "created_at": "",
-      "summary": "星悟用 CubeSandbox 执行 Skill 包内脚本，并把 stdio MCP 经 sidecar 转成 HTTP，补齐社区包支持。聊天进程始终不 spawn，模型碰不到任意代码字段。"
-    },
-    {
-      "title": "火山引擎 AgentKit 获评中国信通院 2026 智能原生软件“银弹”标杆实践",
-      "url": "https://juejin.cn/post/7686745928792424486",
+      "title": "一句话换个词序意思就全变，大模型是怎么读出门道的？手搓一个 Transformer 看清楚",
+      "url": "https://juejin.cn/post/7686700429766508571",
       "source": "juejin",
       "score": 235,
       "raw_score": 15,
       "comments": 0,
-      "author": "火山引擎Agent社区",
+      "author": "桃西西呀beverlyLee",
       "created_at": "",
-      "summary": "火山引擎 AgentKit 获信通院银弹标杆。平台覆盖智能体全生命周期，解决企业落地难题，已在多行业落地提效。"
+      "summary": "一句话换个词序意思就全变，大模型是怎么读出门道的？手搓一个 Transformer 看清楚。用 PyTorch 从零手搓一个 Transformer，用真实跑出来的数字讲清楚：大模型到底靠什么读出门道"
     },
     {
-      "title": "RSI 走到哪一步了：拆开递归自我改进的三个可写面、五条定律，和那个没人做的对照实验",
-      "url": "https://juejin.cn/post/7686710853032443942",
+      "title": "LCODER之AI Agent开发实战一 ：问数项目智能体搭建（3）元数据知识库的构建",
+      "url": "https://juejin.cn/post/7686700429766787099",
       "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
+      "score": 215,
+      "raw_score": 12,
       "comments": 0,
-      "author": "米小虾",
+      "author": "KimLiu",
       "created_at": "",
-      "summary": "一、先立门槛：什么才算\"真 RSI\" RSI 这个词被用得太宽，先收紧定义。9 月 10 日挂在 arXiv 上的路线图《The Last AI Built by Humans: Toward Gen"
+      "summary": "在上一章，我们已经连接好了服务，4个客户端管理类也都跑通了，这一章就来学习怎么往元数据库中写入数据，也就是怎么构建元数据知识库。 目前来说，现在数据库中的状态是这样的： 数据库 当前状态 我们需要的状"
     },
     {
-      "title": "多行业专家招募｜参与线上访谈拿 2000元/h 现金报酬！",
-      "url": "https://juejin.cn/post/7686753873659543598",
-      "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
-      "comments": 0,
-      "author": "火山引擎Agent社区",
-      "created_at": "",
-      "summary": "招募四类专家：销售 SaaS、商业视觉、交互产品专家访谈 2000 元 / 小时；销售行业专家出题 600-1000 元 / 题，需满足对应从业及 AI 相关经验。"
-    },
-    {
-      "title": "HN 382分热文里的终端小技巧，我实测了一遍，git pickaxe 最值",
-      "url": "https://juejin.cn/post/7686699536866312228",
+      "title": "裁员的风刮到了三线荒凉的城市",
+      "url": "https://juejin.cn/post/7686787755355455529",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "Flynt",
+      "author": "唐小码",
       "created_at": "",
-      "summary": "HN 382分热文盘了一堆终端小技巧。挑了几个实测：git log -S 半分钟定位被删的代码，atuin 历史搜索也算惊喜；原文 git checkout - 的说法有歧义，实测才搞清坑在哪"
+      "summary": "简单介绍 博主简单介绍一下我们公司情况，公司是一个私企，目前到现在也有30多年了，主要经营硬件和软件两部分，软件开发人员规模是100人左右，当然了团队划分还是比较明确的，包括：算法、GIS、前端、后端"
     },
     {
-      "title": "加了 20 条示例反而变差：你的 few-shot 提升，可能只是 prompt 变长的功劳",
-      "url": "https://juejin.cn/post/7686848033121042470",
+      "title": "时间线交互引擎：从像素到帧的逆向映射与磁吸网格",
+      "url": "https://juejin.cn/post/7686706965931687971",
       "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
-      "author": "米小虾",
+      "author": "flash俊杰",
       "created_at": "",
-      "summary": "一、现象：同一批模型，一个任务 +24pp，另一个只有 +3.4pp 论文《Few-Shot Degradation Is Not What It Seems》（arXiv:2609.15990，12"
+      "summary": "时间线交互引擎：从像素到帧的逆向映射与磁吸网格 一、为什么不用 Canvas 而用 DOM 时间线有两种实现思路： Canvas 渲染：性能上限高，10 万 clip 也能流畅。但失去 DOM 的事件"
     },
     {
-      "title": "Springboot环境变量占位符语法",
-      "url": "https://juejin.cn/post/7686848033121386534",
+      "title": "Vue 3 响应式陷阱与状态单例：从 TDZ 白屏到跨进程 Proxy 剥离",
+      "url": "https://juejin.cn/post/7686699536866132004",
       "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
+      "score": 200,
+      "raw_score": 10,
       "comments": 0,
-      "author": "考虑考虑",
+      "author": "flash俊杰",
       "created_at": "",
-      "summary": "前言 在 Spring Boot 中，环境变量占位符主要通过 ${...} 语法来引用外部配置，在部署的时候，可以从外部传入，不用写死在程序 环境变量命名转换规则 基本用法 application.p"
+      "summary": "Vue 3 响应式陷阱与状态单例：从 TDZ 白屏到跨进程 Proxy 剥离 一、TDZ：const 提升的隐形杀手 TDZ（Temporal Dead Zone，暂时性死区）是 ES6 let/co"
+    },
+    {
+      "title": "独立 App 首发完成 iPhone Duo 展开态适配",
+      "url": "https://juejin.cn/post/7686529021817143336",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "大熊猫侯佩",
+      "created_at": "",
+      "summary": "独立 App 首发完成 iPhone Duo 展开态适配 iPhone Duo 带来了新的屏幕形态，也给效率类 App 提出了一个很直接的问题：当一台 iPhone 展开后，界面是否还能只按传统单列手"
+    },
+    {
+      "title": "告警规则 243 砍到 27：Prometheus 降噪实战，日均打扰 47 次 → 3 次",
+      "url": "https://juejin.cn/post/7686534839904436264",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "宋均浩",
+      "created_at": "",
+      "summary": "3.18 那次 47 分钟没人发现的故障之后，我把 243 条告警规则砍到 27 条，日均告警从 47 次降到 3 次，MTTD 压到 4 分钟。本文是完整 5 步降噪记录，脚本和配置可直接抄。"
+    },
+    {
+      "title": "EasyAdminBlazor 2.3 源码架构解析：Blazor Admin 请求到底是怎么跑起来的？",
+      "url": "https://juejin.cn/post/7686529021816963112",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "用户EasyAdminBlazor",
+      "created_at": "",
+      "summary": "本文对应版本：EasyAdminBlazor 2.3.0。 源码位置： EasyAdminBlazor/AdminExtensions.cs（注册与中间件） EasyAdminBlazor/Admin"
+    },
+    {
+      "title": "多模态视频理解工程：抽帧策略、帧预算与 Prompt 组装",
+      "url": "https://juejin.cn/post/7686767414038331407",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "flash俊杰",
+      "created_at": "",
+      "summary": "多模态视频理解工程：抽帧策略、帧预算与 Prompt 组装 一、抽帧：均匀采样是最差的好方案 均匀采样（Uniform Sampling） 每 N 秒取一帧，最简单： 问题一目了然：10 分钟的 Vl"
+    },
+    {
+      "title": "C# 动态代理与 DispatchProxy：从原理到实战的完整指南",
+      "url": "https://juejin.cn/post/7686534839904305192",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "rick977",
+      "created_at": "",
+      "summary": "🤔 你是否遇到过这些困境？ 在实际项目开发中，有一类需求几乎每个 C# 开发者都绕不开——在不修改原有业务代码的前提下，统一添加日志、权限校验、性能监控、缓存等横切关注点。 很多团队的第一反应是：手动"
     }
   ]
 }
