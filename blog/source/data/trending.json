@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-19T15:02:29.683488+00:00",
+  "updated_at": "2026-09-20T02:25:03.538111+00:00",
   "articles": [
     {
-      "title": "从codex转战workbuddy使用一周的感受",
-      "url": "https://juejin.cn/post/7684460980934049807",
+      "title": "React 19.3 发布，但真正的赢家是 StyleX：当 AI 成为框架的“第一用户”",
+      "url": "https://juejin.cn/post/7686769981477814313",
       "source": "juejin",
-      "score": 819,
-      "raw_score": 12475,
-      "comments": 75,
-      "author": "wing98",
-      "created_at": "",
-      "summary": "不是恰饭，也不是踩一捧一。只是记录一个 Codex 老用户切换到 WorkBuddy 的真实一周，以及过程中踩到的坑和省下的钱。 一、为什么换：被逼无奈的\"搬家\" 很早就听说腾讯出了智能体编程工具 W"
-    },
-    {
-      "title": "一座不够大的城市，装下了我毕业后的成长",
-      "url": "https://juejin.cn/post/7686327615728975922",
-      "source": "juejin",
-      "score": 711,
-      "raw_score": 3617,
-      "comments": 27,
-      "author": "Dragon_xjy",
-      "created_at": "",
-      "summary": "我是 2024 年毕业的，长沙本地人，专科学历。在大环境不好的情况下还是选择做前端，当时没有想这么多，就觉得简单，其他也学不进去。哈哈哈哈😄 从毕业到现在前后待过三家公司（怎么说猛不猛）是的没错，"
-    },
-    {
-      "title": "大模型的参数量为什么那么大？",
-      "url": "https://juejin.cn/post/7686949251356033074",
-      "source": "juejin",
-      "score": 318,
-      "raw_score": 39,
+      "score": 346,
+      "raw_score": 54,
       "comments": 0,
-      "author": "去伪存真",
+      "author": "涛涛ing",
       "created_at": "",
-      "summary": "本文深入探索了大模型的技术奥秘：从千亿参数与FFN知识库的宏大身躯，到Token概率预测的纯粹本质，再到KV Cache的推理优化工程，全面揭示了AI流畅对话背后的硬核数学与计算逻辑。"
+      "summary": "一、React 19.3：视图过渡稳定，但这不是重点 先看 React 19.3 本身。 这是 React 19 的一个次版本，9 月 9 日正式发布，API 层面没有破坏性变更。团队遵循语义化版本规"
     },
     {
-      "title": "视野修炼第133期 | Native 回春了?",
-      "url": "https://juejin.cn/post/7686814003734085632",
+      "title": "从一个 10 万星 AI Agent 项目里，能学到什么真正的软件工程",
+      "url": "https://juejin.cn/post/7686798164307853346",
       "source": "juejin",
-      "score": 301,
-      "raw_score": 32,
+      "score": 255,
+      "raw_score": 19,
       "comments": 0,
-      "author": "粥里有勺糖",
+      "author": "王若风",
       "created_at": "",
-      "summary": "① Shopify 从 React Native 又转向 Native ② UI SKILLS 合集 ③ JS 13KB 做出来的小游戏 ④ Claude也默认支持 AGENTS.md 了"
+      "summary": "拆解 10 万星开源 Agent 工具箱 pi 的十条工程决策：薄而正交的分层、可订阅事件树、原子边界排队、请求格式与线上服务分层测试、供应链依赖审计与 fail loud 边界处理"
     },
     {
-      "title": "为什么最近开始关注 JEV？几个实战案例告诉你答案",
-      "url": "https://juejin.cn/post/7686808742222856211",
+      "title": "Python 如何实现 Word 与 RTF 文档互转",
+      "url": "https://juejin.cn/post/7686861782687924264",
       "source": "juejin",
-      "score": 298,
-      "raw_score": 31,
+      "score": 255,
+      "raw_score": 19,
       "comments": 0,
-      "author": "前端小小栈",
+      "author": "缺点内向",
       "created_at": "",
-      "summary": "JEV 不是另一个 GPT，而是一种专注“做决定”的 AI 模型。它可以用于 Agent 路由、RAG 排序、代码审查、风险判断等，让 AI 从“生成内容”走向“直接决策”，值得关注。"
+      "summary": "在跨平台文档交换的场景中，Word 与 RTF 之间的格式转换是一个较为常见的需求。本文将介绍在 Python 中实现 Word 与 RTF 双向转换的基本方法。"
     },
     {
-      "title": "CLAUDE.md 引用 AGENTS.md 后，两边真的读到同一套规则吗？",
-      "url": "https://juejin.cn/post/7686846675642974271",
+      "title": "从Props透传到自定义Hook：系统梳理React跨层级通信与逻辑复用",
+      "url": "https://juejin.cn/post/7686746122728554530",
       "source": "juejin",
-      "score": 295,
-      "raw_score": 30,
+      "score": 222,
+      "raw_score": 13,
       "comments": 0,
-      "author": "武子康",
+      "author": "kisshyshy",
       "created_at": "",
-      "summary": "CLAUDE.md 引用 AGENTS.md 后，两边真的读到同一套规则吗？ 一个团队交替使用 Codex 和 Claude Code。最初，维护者把测试入口、生成目录和提交要求复制到 AGENTS."
+      "summary": "本文从Props透传痛点出发，系统讲解ReactContext跨层级通信与自定义Hook逻辑复用，涵盖组件组合、Hook分类与组合性、TS分层架构及单向依赖原则。很适合初中级React开发者进阶学习"
     },
     {
-      "title": "Redis 版本演进、新特性与协议那些事儿",
-      "url": "https://juejin.cn/post/7686949251356196914",
-      "source": "juejin",
-      "score": 282,
-      "raw_score": 26,
-      "comments": 0,
-      "author": "苏渡苇",
-      "created_at": "",
-      "summary": "Redis 从 1.0 到 8.6：1.x–2.x：打基础，数据结构 + Lua 脚本，3.x–5.x：分布式 + 流消息，6.x：多线程 I/O + ACL，7.x：脚本函数，8向量检索 + AI"
-    },
-    {
-      "title": "用 AI 快速读懂陌生项目：代码库导览工作流",
-      "url": "https://juejin.cn/post/7686808742222528531",
-      "source": "juejin",
-      "score": 282,
-      "raw_score": 26,
-      "comments": 0,
-      "author": "全栈弄潮儿",
-      "created_at": "",
-      "summary": "开篇 接手一个陌生项目时，你通常会先做什么？ 很多开发者的第一反应是： 这种方式偶尔也能完成任务。 但如果项目比较大，或者需求涉及多个模块，直接搜索关键词很容易遇到这些问题： 找到的是 DTO、测试桩"
-    },
-    {
-      "title": "RAG 到底是怎么工作的？从用户提问到模型回答的完整链路",
-      "url": "https://juejin.cn/post/7686776681454026788",
-      "source": "juejin",
-      "score": 279,
-      "raw_score": 25,
-      "comments": 0,
-      "author": "杨杨杨大侠",
-      "created_at": "",
-      "summary": "大模型很聪明，但它通常不知道企业内部文档，也不知道刚刚更新的业务规则。 如果直接问模型： 模型可能根据训练数据猜一个答案，也可能一本正经地编错。 RAG（Retrieval-Augmented Gen"
-    },
-    {
-      "title": "前端加密的作用与使用场景",
-      "url": "https://juejin.cn/post/7686780705863581702",
-      "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
-      "comments": 0,
-      "author": "excel",
-      "created_at": "",
-      "summary": "前端加密是指在浏览器端，使用 Web Crypto API 或其他加密技术，对数据进行加密、解密、签名或哈希处理。 一、为什么需要前端加密 前端加密主要用于保护敏感数据，降低数据在传输、处理和存储过程"
-    },
-    {
-      "title": "Shopify 弃 React Native 上了 HN 1272 分，我复现了它给 Agent 用的那套无头架构",
-      "url": "https://juejin.cn/post/7686808742222954515",
-      "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
-      "comments": 0,
-      "author": "Flynt",
-      "created_at": "",
-      "summary": "Shopify 撤回六年 React Native 押注，HN 1272 分。比结论更值钱的是架构：逻辑与 UI 解耦，CLI 无头跑给 agent 毫秒级迭代。我用 Node 复现了最小版"
-    },
-    {
-      "title": "开源项目第222期：security-audit — Cloudflare 的安全审计 Skill，把 Coding Agent 变成六阶段安全审计器",
-      "url": "https://juejin.cn/post/7686774243414687779",
-      "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
-      "comments": 0,
-      "author": "冬奇Lab",
-      "created_at": "",
-      "summary": "引言 这是「每日一个开源项目」系列的第 222 篇。今天的项目是 security-audit —— Cloudflare 出品的 coding-agent skill，13,825 颗 Star"
-    },
-    {
-      "title": "Kage： 一个 244KB 文件，做出百万级视觉效果",
-      "url": "https://juejin.cn/post/7686972772229038118",
+      "title": "从coredump栈帧到汇编指令：手把手定位C++空指针崩溃点",
+      "url": "https://juejin.cn/post/7686774243414229027",
       "source": "juejin",
       "score": 215,
       "raw_score": 12,
       "comments": 0,
-      "author": "Hey_AI_Coder",
+      "author": "Matthys",
       "created_at": "",
-      "summary": "Kage（影）是一个交互式五章节夜游京都山寺的 Three.js 体验，由设计师 MengTo 创作。它不是产品落地页，不是游戏引擎演示，而是一本\"会动的数字艺术书\"。"
+      "summary": "问题背景 线上QC进程凌晨连续崩溃三次，每次coredump栈帧都指向同一个位置： 二进制文件没有带调试符号，gdb 看不到源码行号，只知道崩在 CalculateKDP 这个函数里，函数起始地址是 "
     },
     {
-      "title": "使用Rokid AIUI做了一个童年推箱子游戏",
-      "url": "https://juejin.cn/post/7687015527130546191",
+      "title": "LangChina-创建第一个Agent",
+      "url": "https://juejin.cn/post/7686776681454370852",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "ikun_文",
+      "created_at": "",
+      "summary": "完成最精简的Python环境配置，配置阿里云百炼API Key，编写第一个Agent 访问阿里云百炼控制台首页，获取API Key 环境准备 Python：3.10或更高版本，我这里使用3.12 配置"
+    },
+    {
+      "title": "Vue2 的 defineProperty 差在哪四层追问筛掉九成候选人",
+      "url": "https://juejin.cn/post/7686848033142800393",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "晚安日记wanna",
+      "created_at": "",
+      "summary": "能背出「Vue3 用 Proxy 代替 defineProperty」只值 0 分。讲清 Vue2 哪些场景天生处理不了、Proxy 又漏了哪些坑、Vue3 为什么留着 markRaw，才算及格。"
+    },
+    {
+      "title": "上下文即服务：AI 应用的竞争，为什么会从入口转向 Context？",
+      "url": "https://juejin.cn/post/7687098794984489010",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "掘金泥石流",
+      "created_at": "",
+      "summary": "企业换一个 Agent，不该重建一遍业务记忆。把数据、规则、权限和实时状态组织成持续更新的上下文，才可能让不同 Agent 围绕同一套业务事实工作。"
+    },
+    {
+      "title": "AI 都能写代码了，为什么企业还需要 FDE？",
+      "url": "https://juejin.cn/post/7687098794984456242",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "掘金泥石流",
+      "created_at": "",
+      "summary": "从一个客户流失预警需求出发，拆开 Demo 到生产之间的数据、规则、权限和验收问题，看懂 FDE 的价值，以及它与软件外包的区别。"
+    },
+    {
+      "title": "从 Palantir AI FDE 到我们的实践：企业交付如何变成产品？",
+      "url": "https://juejin.cn/post/7687069228299518003",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "笃行_其道",
+      "author": "掘金泥石流",
       "created_at": "",
-      "summary": "一、缘起 家里电视的机顶盒当年带了一堆小游戏，我玩得最久的就是推箱子。一个小人，几个箱子，几个目标点，遥控器方向键一下一下挪。那会儿盒子里的小游戏就那几个，推箱子是唯一一个我能坐那儿玩一整个下午的。后"
+      "summary": "AI FDE 的关键是让 Agent 获得可操作的业务环境、工具和验证反馈。从 Palantir 的变化出发，拆解把实施经验做成产品需要哪些工程能力。"
     },
     {
-      "title": "02-04-原理篇-资源组织与依赖分析",
-      "url": "https://juejin.cn/post/7686846675643564095",
+      "title": "AI越懂你越好吗？五天实验给出一个不舒服的答案",
+      "url": "https://juejin.cn/post/7687069228299599923",
       "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
+      "score": 200,
+      "raw_score": 10,
       "comments": 0,
-      "author": "SmalBox",
+      "author": "蜗牛聊AI",
       "created_at": "",
-      "summary": "资源组织与依赖分析 一、引言 资源组织与依赖分析是 Unity 资源管理的核心环节。合理的资源组织可以提高资源加载效率，减少内存占用，而准确的依赖分析可以确保资源被正确加载。本章将深入解析资源组织和依"
+      "summary": "“AI越了解我，体验就越好”正在成为默认产品逻辑。Google DeepMind团队9月17日提交的一项五天随机对照研究却发现，多数态度变化来自重复使用，而不是个性化本身；更值得警惕的是，不同个性化方式会把用户带向不同的"
+    },
+    {
+      "title": "平均延迟很快用户还在卡？用AIPerf看懂P99尾延迟",
+      "url": "https://juejin.cn/post/7687133768549466138",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "蜗牛聊AI",
+      "created_at": "",
+      "summary": "一组AI请求平均1秒完成，用户仍可能频繁遇到5秒卡顿。通俗地说，平均值像全班平均身高，无法告诉你最高那几个人有多高；P99则告诉你最慢的1%请求处在什么位置。学会分位数、首Token时间和Token间延迟，你就能把“感觉"
+    },
+    {
+      "title": "Agent会互相调用了，但A2A 1.0真正解决的是协作边界",
+      "url": "https://juejin.cn/post/7687098794984505394",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "蜗牛聊AI",
+      "created_at": "",
+      "summary": "一个客服Agent把账单问题交给财务Agent，难点不是再发一次提示词，而是确认对方是谁、能做什么、代表谁访问数据，以及失败后谁负责。Microsoft Foundry在9月18日正式支持A2A 1.0端点与调用工具。它"
+    },
+    {
+      "title": "IoTHub半个月崩了五次？都是裸rethrow惹的祸",
+      "url": "https://juejin.cn/post/7686774243414245411",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "Matthys",
+      "created_at": "",
+      "summary": "问题现象 IoTHub进程半个月内连续崩溃了五次，每次崩溃的coredump栈帧都不一样： 一次崩在 getTopicPrx 一次崩在 getPublisher 一次崩在IceStorm内部的reth"
+    },
+    {
+      "title": "AI给面试打分不够，求职者更需要可核对的证据",
+      "url": "https://juejin.cn/post/7687148425099591707",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "蜗牛聊AI",
+      "created_at": "",
+      "summary": "视频面试AI常给出一个分数，却说不清这个分数来自哪句话、哪次停顿或哪个画面。9月17日提交的E-AVI论文尝试把评分连接到带时间戳的文本、声音和视觉证据。它比“流利生成一段解释”更进一步，但距离可用于真实招聘的公平程序仍"
     }
   ]
 }
