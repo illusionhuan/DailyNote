@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-20T02:25:03.538111+00:00",
+  "updated_at": "2026-09-20T15:06:28.289126+00:00",
   "articles": [
     {
-      "title": "React 19.3 发布，但真正的赢家是 StyleX：当 AI 成为框架的“第一用户”",
-      "url": "https://juejin.cn/post/7686769981477814313",
+      "title": "走进 AI Agent 第四篇：知识获取管道——RAG 基础",
+      "url": "https://juejin.cn/post/7687422041256689691",
       "source": "juejin",
-      "score": 346,
-      "raw_score": 54,
+      "score": 743,
+      "raw_score": 5195,
       "comments": 0,
-      "author": "涛涛ing",
+      "author": "老王以为",
       "created_at": "",
-      "summary": "一、React 19.3：视图过渡稳定，但这不是重点 先看 React 19.3 本身。 这是 React 19 的一个次版本，9 月 9 日正式发布，API 层面没有破坏性变更。团队遵循语义化版本规"
+      "summary": "大模型的训练数据有截止日期，而企业知识每天都在更新。怎么让 Agent 读懂行业法规、公司流程、专业文档，成为真正的领域专家？本篇走完一条完整的知识获取管道：从文档分块、稠密与稀疏嵌入，到混合检索。"
     },
     {
-      "title": "从一个 10 万星 AI Agent 项目里，能学到什么真正的软件工程",
-      "url": "https://juejin.cn/post/7686798164307853346",
+      "title": "只恢复一张表，别把整个库都还回去",
+      "url": "https://juejin.cn/post/7687439830713237513",
+      "source": "juejin",
+      "score": 511,
+      "raw_score": 363,
+      "comments": 0,
+      "author": "一只牛博",
+      "created_at": "",
+      "summary": "配置表被人改乱了、一张临时表被误清了、想单独捞一张表的数据去比对——这类事只牵扯一张表，为它把整个库还原一遍就太重了。"
+    },
+    {
+      "title": "本地图库语义搜索实战：接上蓝耘元生代，让\"傍晚的海边\"能搜到图",
+      "url": "https://juejin.cn/post/7687331138987196425",
+      "source": "juejin",
+      "score": 506,
+      "raw_score": 341,
+      "comments": 1,
+      "author": "一只牛博",
+      "created_at": "",
+      "summary": "本地图库的麻烦不在存，在找，文件名大多是 IMG_2043 这种，目录按月份分，真要找\"那张傍晚拍的、有山有海的\"就得一张张翻过去。我为一个封面图翻过十几分钟，挑出来的还是张凑合的。"
+    },
+    {
+      "title": "记录一种很新的大屏开发方式",
+      "url": "https://juejin.cn/post/7687436260063100963",
+      "source": "juejin",
+      "score": 497,
+      "raw_score": 308,
+      "comments": 2,
+      "author": "Gyrate",
+      "created_at": "",
+      "summary": "尝试用AI承接原本交给第三方团队的园区楼宇三维大屏开发：从Revit/IFC模型处理、网页资产与LOD轻量化，到Three.js园区场景、楼层构件交互，再以iframe接入Vue大屏"
+    },
+    {
+      "title": "为什么最近开始关注 JEV？几个实战案例告诉你答案",
+      "url": "https://juejin.cn/post/7686808742222856211",
+      "source": "juejin",
+      "score": 470,
+      "raw_score": 224,
+      "comments": 0,
+      "author": "前端小小栈",
+      "created_at": "",
+      "summary": "JEV 不是另一个 GPT，而是一种专注“做决定”的 AI 模型。它可以用于 Agent 路由、RAG 排序、代码审查、风险判断等，让 AI 从“生成内容”走向“直接决策”，值得关注。"
+    },
+    {
+      "title": "GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的",
+      "url": "https://juejin.cn/post/7687032811338891302",
+      "source": "juejin",
+      "score": 451,
+      "raw_score": 180,
+      "comments": 0,
+      "author": "GreenTea",
+      "created_at": "",
+      "summary": "最近看到两条推文，来自 Lauren Tan（@poteto）。 她的背景：前 Cursor 核心成员，之前在 Meta React 团队和 Netflix 待过，现在在 SpaceXAI 做 Gro"
+    },
+    {
+      "title": "为什么全世界的 AI 都画不好一只骑自行车的鹈鹕",
+      "url": "https://juejin.cn/post/7687439830713417737",
+      "source": "juejin",
+      "score": 437,
+      "raw_score": 154,
+      "comments": 0,
+      "author": "犀利豆",
+      "created_at": "",
+      "summary": "2024 年 10 月 25 日，Simon Willison 让 16 个大模型画一只骑自行车的鹈鹕。两年过去，这道题成了看模型进步最直观的一把尺子。"
+    },
+    {
+      "title": "智谱 ZCode 静默上传 Git 历史：48 小时信任危机复盘",
+      "url": "https://juejin.cn/post/7687441604429692955",
+      "source": "juejin",
+      "score": 392,
+      "raw_score": 92,
+      "comments": 1,
+      "author": "码事漫谈",
+      "created_at": "",
+      "summary": "ferstar 清理磁盘的时候，大概没想过自己会扒出智谱的一桩丑事。他在 ~/.zcode 的隐藏目录里发现一份 313MB 的加密包，怎么也打不开。顺手看了眼旁边的状态文件：本地一个商业项目，排除依"
+    },
+    {
+      "title": "AI Agent 的\"自主性悖论\"——为什么给它的自由度越大，越要配一套更硬的护栏",
+      "url": "https://juejin.cn/post/7687440193649786886",
+      "source": "juejin",
+      "score": 334,
+      "raw_score": 47,
+      "comments": 0,
+      "author": "咸鱼老弟",
+      "created_at": "",
+      "summary": "一、从\"帮我写\"到\"帮我去做\"：一个量变引发质变的拐点 过去两年，我们对大模型的用法，绝大多数都停留在同一个模式里：给它一段输入，它返回一段输出，中间没有副作用。写邮件、写周报、翻译、总结、润色、写代"
+    },
+    {
+      "title": "Jev是什么AI模型？不做自然语言生成为何引发热议",
+      "url": "https://juejin.cn/post/7687583607784636426",
+      "source": "juejin",
+      "score": 286,
+      "raw_score": 27,
+      "comments": 0,
+      "author": "孟健AI编程",
+      "created_at": "",
+      "summary": "大家好，我是孟健。 作为一个完全不输出自然语言的结构化决策模型，Jev并没有取代原有的主语言模型。我们将它接入ShipSite，仅仅用来承担流程中的辅助判断任务。 这几天 HN 和技术社区关于 Jev"
+    },
+    {
+      "title": "一天一个开源项目（第223篇）：TeamAI-CLI —— 腾讯开源的团队级 AI Agent 中间层，让每个人的 AI 能力变成团队共享能力",
+      "url": "https://juejin.cn/post/7687445339747041289",
       "source": "juejin",
       "score": 255,
       "raw_score": 19,
       "comments": 0,
-      "author": "王若风",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "拆解 10 万星开源 Agent 工具箱 pi 的十条工程决策：薄而正交的分层、可订阅事件树、原子边界排队、请求格式与线上服务分层测试、供应链依赖审计与 fail loud 边界处理"
+      "summary": "TeamAI-CLI 是腾讯开源的团队协作中间层工具，不是又一个 AI 编程助手，而是让 Claude Code、Codex、Cursor 等已安装的 AI 工具共享技能、规则、知识库的元管理系统"
     },
     {
-      "title": "Python 如何实现 Word 与 RTF 文档互转",
-      "url": "https://juejin.cn/post/7686861782687924264",
+      "title": "用 Rust 写 Agent 服务 -- adk-rust 上手记",
+      "url": "https://juejin.cn/post/7687434016367542306",
       "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "缺点内向",
+      "author": "独立开发阿平",
       "created_at": "",
-      "summary": "在跨平台文档交换的场景中，Word 与 RTF 之间的格式转换是一个较为常见的需求。本文将介绍在 Python 中实现 Word 与 RTF 双向转换的基本方法。"
+      "summary": "用 adk-rust 给已有服务加 Agent 能力。难在两个不报错的失败，ctx.state() 恒为 None，模型 401 变成 HTTP 200 空事件流。另附中文界面改造和生产化实测。"
     },
     {
-      "title": "从Props透传到自定义Hook：系统梳理React跨层级通信与逻辑复用",
-      "url": "https://juejin.cn/post/7686746122728554530",
-      "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
-      "comments": 0,
-      "author": "kisshyshy",
-      "created_at": "",
-      "summary": "本文从Props透传痛点出发，系统讲解ReactContext跨层级通信与自定义Hook逻辑复用，涵盖组件组合、Hook分类与组合性、TS分层架构及单向依赖原则。很适合初中级React开发者进阶学习"
-    },
-    {
-      "title": "从coredump栈帧到汇编指令：手把手定位C++空指针崩溃点",
-      "url": "https://juejin.cn/post/7686774243414229027",
+      "title": "我给 Excalidraw 做了一个本地工作区：DrawSpace",
+      "url": "https://juejin.cn/post/7687445339747221513",
       "source": "juejin",
       "score": 215,
       "raw_score": 12,
       "comments": 0,
-      "author": "Matthys",
+      "author": "Nicander",
       "created_at": "",
-      "summary": "问题背景 线上QC进程凌晨连续崩溃三次，每次coredump栈帧都指向同一个位置： 二进制文件没有带调试符号，gdb 看不到源码行号，只知道崩在 CalculateKDP 这个函数里，函数起始地址是 "
+      "summary": "我给 Excalidraw 做了一个本地工作区：DrawSpace 我给 Excalidraw 做了一个本地工作区：DrawSpace 为什么做这个项目 我平时很喜欢用 Excalidraw。比很多专"
     },
     {
-      "title": "LangChina-创建第一个Agent",
-      "url": "https://juejin.cn/post/7686776681454370852",
+      "title": "一年前没启动 AI 提效的团队，今年在付什么钱？",
+      "url": "https://juejin.cn/post/7687459980892667950",
       "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
+      "score": 190,
+      "raw_score": 9,
       "comments": 0,
-      "author": "ikun_文",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "完成最精简的Python环境配置，配置阿里云百炼API Key，编写第一个Agent 访问阿里云百炼控制台首页，获取API Key 环境准备 Python：3.10或更高版本，我这里使用3.12 配置"
+      "summary": "写给还没启动 AI 提效的团队负责人：不做会怎样、做了能得到什么，先看清三件事，再学会一套 ROI 口径"
     },
     {
-      "title": "Vue2 的 defineProperty 差在哪四层追问筛掉九成候选人",
-      "url": "https://juejin.cn/post/7686848033142800393",
-      "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
-      "comments": 0,
-      "author": "晚安日记wanna",
-      "created_at": "",
-      "summary": "能背出「Vue3 用 Proxy 代替 defineProperty」只值 0 分。讲清 Vue2 哪些场景天生处理不了、Proxy 又漏了哪些坑、Vue3 为什么留着 markRaw，才算及格。"
-    },
-    {
-      "title": "上下文即服务：AI 应用的竞争，为什么会从入口转向 Context？",
-      "url": "https://juejin.cn/post/7687098794984489010",
-      "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
-      "comments": 0,
-      "author": "掘金泥石流",
-      "created_at": "",
-      "summary": "企业换一个 Agent，不该重建一遍业务记忆。把数据、规则、权限和实时状态组织成持续更新的上下文，才可能让不同 Agent 围绕同一套业务事实工作。"
-    },
-    {
-      "title": "AI 都能写代码了，为什么企业还需要 FDE？",
-      "url": "https://juejin.cn/post/7687098794984456242",
-      "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
-      "comments": 0,
-      "author": "掘金泥石流",
-      "created_at": "",
-      "summary": "从一个客户流失预警需求出发，拆开 Demo 到生产之间的数据、规则、权限和验收问题，看懂 FDE 的价值，以及它与软件外包的区别。"
-    },
-    {
-      "title": "从 Palantir AI FDE 到我们的实践：企业交付如何变成产品？",
-      "url": "https://juejin.cn/post/7687069228299518003",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "掘金泥石流",
-      "created_at": "",
-      "summary": "AI FDE 的关键是让 Agent 获得可操作的业务环境、工具和验证反馈。从 Palantir 的变化出发，拆解把实施经验做成产品需要哪些工程能力。"
-    },
-    {
-      "title": "AI越懂你越好吗？五天实验给出一个不舒服的答案",
-      "url": "https://juejin.cn/post/7687069228299599923",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "蜗牛聊AI",
-      "created_at": "",
-      "summary": "“AI越了解我，体验就越好”正在成为默认产品逻辑。Google DeepMind团队9月17日提交的一项五天随机对照研究却发现，多数态度变化来自重复使用，而不是个性化本身；更值得警惕的是，不同个性化方式会把用户带向不同的"
-    },
-    {
-      "title": "平均延迟很快用户还在卡？用AIPerf看懂P99尾延迟",
-      "url": "https://juejin.cn/post/7687133768549466138",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "蜗牛聊AI",
-      "created_at": "",
-      "summary": "一组AI请求平均1秒完成，用户仍可能频繁遇到5秒卡顿。通俗地说，平均值像全班平均身高，无法告诉你最高那几个人有多高；P99则告诉你最慢的1%请求处在什么位置。学会分位数、首Token时间和Token间延迟，你就能把“感觉"
-    },
-    {
-      "title": "Agent会互相调用了，但A2A 1.0真正解决的是协作边界",
-      "url": "https://juejin.cn/post/7687098794984505394",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "蜗牛聊AI",
-      "created_at": "",
-      "summary": "一个客服Agent把账单问题交给财务Agent，难点不是再发一次提示词，而是确认对方是谁、能做什么、代表谁访问数据，以及失败后谁负责。Microsoft Foundry在9月18日正式支持A2A 1.0端点与调用工具。它"
-    },
-    {
-      "title": "IoTHub半个月崩了五次？都是裸rethrow惹的祸",
-      "url": "https://juejin.cn/post/7686774243414245411",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "Matthys",
-      "created_at": "",
-      "summary": "问题现象 IoTHub进程半个月内连续崩溃了五次，每次崩溃的coredump栈帧都不一样： 一次崩在 getTopicPrx 一次崩在 getPublisher 一次崩在IceStorm内部的reth"
-    },
-    {
-      "title": "AI给面试打分不够，求职者更需要可核对的证据",
-      "url": "https://juejin.cn/post/7687148425099591707",
+      "title": "LangChain.js Agent Memory 实战（上）：从内存对话、文件持久化到截断与摘要",
+      "url": "https://juejin.cn/post/7687441604430086171",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "蜗牛聊AI",
+      "author": "半个落月",
       "created_at": "",
-      "summary": "视频面试AI常给出一个分数，却说不清这个分数来自哪句话、哪次停顿或哪个画面。9月17日提交的E-AVI论文尝试把评分连接到带时间戳的文本、声音和视觉证据。它比“流利生成一段解释”更进一步，但距离可用于真实招聘的公平程序仍"
+      "summary": "从大模型无状态问题出发，使用 LangChain.js 实现内存会话、文件持久化、消息截断与摘要压缩，并解析消息流转、Token 预算和上下文管理中的关键细节。"
     }
   ]
 }
