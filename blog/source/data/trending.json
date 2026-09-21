@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-20T15:06:28.289126+00:00",
+  "updated_at": "2026-09-21T02:23:40.206907+00:00",
   "articles": [
     {
       "title": "走进 AI Agent 第四篇：知识获取管道——RAG 基础",
       "url": "https://juejin.cn/post/7687422041256689691",
       "source": "juejin",
-      "score": 743,
-      "raw_score": 5195,
+      "score": 823,
+      "raw_score": 13163,
       "comments": 0,
       "author": "老王以为",
       "created_at": "",
       "summary": "大模型的训练数据有截止日期，而企业知识每天都在更新。怎么让 Agent 读懂行业法规、公司流程、专业文档，成为真正的领域专家？本篇走完一条完整的知识获取管道：从文档分块、稠密与稀疏嵌入，到混合检索。"
     },
     {
-      "title": "只恢复一张表，别把整个库都还回去",
-      "url": "https://juejin.cn/post/7687439830713237513",
+      "title": "为什么越来越多人放弃 Claude Code 转而用 Pi？",
+      "url": "https://juejin.cn/post/7687499915136942134",
       "source": "juejin",
-      "score": 511,
-      "raw_score": 363,
+      "score": 469,
+      "raw_score": 222,
       "comments": 0,
-      "author": "一只牛博",
+      "author": "JavaGuide",
       "created_at": "",
-      "summary": "配置表被人改乱了、一张临时表被误清了、想单独捞一张表的数据去比对——这类事只牵扯一张表，为它把整个库还原一遍就太重了。"
+      "summary": "之前写过两篇关于 OMP的文章，一篇聊使用，一篇聊接 DeepSeek。OMP 其实是 Pi 的一个 fork，在使用 OMP 的时候，我也一直在用 Pi。 Pi 的 harness 相比于 Clau"
     },
     {
-      "title": "本地图库语义搜索实战：接上蓝耘元生代，让\"傍晚的海边\"能搜到图",
-      "url": "https://juejin.cn/post/7687331138987196425",
+      "title": "DeepSeek V4.1 Flash，等等，为什么现在大家都在卷 Flash？",
+      "url": "https://juejin.cn/post/7687537292214501412",
       "source": "juejin",
-      "score": 506,
-      "raw_score": 341,
-      "comments": 1,
-      "author": "一只牛博",
-      "created_at": "",
-      "summary": "本地图库的麻烦不在存，在找，文件名大多是 IMG_2043 这种，目录按月份分，真要找\"那张傍晚拍的、有山有海的\"就得一张张翻过去。我为一个封面图翻过十几分钟，挑出来的还是张凑合的。"
-    },
-    {
-      "title": "记录一种很新的大屏开发方式",
-      "url": "https://juejin.cn/post/7687436260063100963",
-      "source": "juejin",
-      "score": 497,
-      "raw_score": 308,
-      "comments": 2,
-      "author": "Gyrate",
-      "created_at": "",
-      "summary": "尝试用AI承接原本交给第三方团队的园区楼宇三维大屏开发：从Revit/IFC模型处理、网页资产与LOD轻量化，到Three.js园区场景、楼层构件交互，再以iframe接入Vue大屏"
-    },
-    {
-      "title": "为什么最近开始关注 JEV？几个实战案例告诉你答案",
-      "url": "https://juejin.cn/post/7686808742222856211",
-      "source": "juejin",
-      "score": 470,
-      "raw_score": 224,
+      "score": 391,
+      "raw_score": 91,
       "comments": 0,
-      "author": "前端小小栈",
+      "author": "RockByte",
       "created_at": "",
-      "summary": "JEV 不是另一个 GPT，而是一种专注“做决定”的 AI 模型。它可以用于 Agent 路由、RAG 排序、代码审查、风险判断等，让 AI 从“生成内容”走向“直接决策”，值得关注。"
+      "summary": "我们先看最近半年内的新闻。 2026 年 4 月 24 日，DeepSeek 发布 V4 系列，其中就有主打快捷和经济的 DeepSeek-V4-Flash......"
     },
     {
-      "title": "GrokBot 核心成员 Lauren Tan：每月交付 2000 个 PR 的人，是怎么用 AI 的",
-      "url": "https://juejin.cn/post/7687032811338891302",
+      "title": "从 0 到 1，记录我的第一个出海 SaaS 独立开发项目",
+      "url": "https://juejin.cn/post/7687457196955631657",
       "source": "juejin",
-      "score": 451,
-      "raw_score": 180,
+      "score": 381,
+      "raw_score": 81,
       "comments": 0,
-      "author": "GreenTea",
+      "author": "代码小学僧",
       "created_at": "",
-      "summary": "最近看到两条推文，来自 Lauren Tan（@poteto）。 她的背景：前 Cursor 核心成员，之前在 Meta React 团队和 Netflix 待过，现在在 SpaceXAI 做 Gro"
+      "summary": "前言 受到同事的鼓励与引导，我也决定开始做自己的出海 SaaS 工具站了。 我去银行开通了一张支持海外支付的万事达卡，随后便开始买域名、建项目，直接开搓！"
     },
     {
-      "title": "为什么全世界的 AI 都画不好一只骑自行车的鹈鹕",
-      "url": "https://juejin.cn/post/7687439830713417737",
+      "title": "IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水",
+      "url": "https://juejin.cn/post/7687493428759117875",
       "source": "juejin",
-      "score": 437,
-      "raw_score": 154,
+      "score": 349,
+      "raw_score": 56,
       "comments": 0,
-      "author": "犀利豆",
+      "author": "TF男孩",
       "created_at": "",
-      "summary": "2024 年 10 月 25 日，Simon Willison 让 16 个大模型画一只骑自行车的鹈鹕。两年过去，这道题成了看模型进步最直观的一把尺子。"
+      "summary": "我自认为是一个coder，但是奈何不少人都记住我写的故事和经历，并且认为我是一个talker。在一些老观众的怂恿下……"
     },
     {
-      "title": "智谱 ZCode 静默上传 Git 历史：48 小时信任危机复盘",
-      "url": "https://juejin.cn/post/7687441604429692955",
+      "title": "栗子前端技术周刊第 147 期 - React Router 8.4、Vite 云服务攻击、pnpm 12.4...",
+      "url": "https://juejin.cn/post/7687537292214616100",
       "source": "juejin",
-      "score": 392,
-      "raw_score": 92,
-      "comments": 1,
-      "author": "码事漫谈",
-      "created_at": "",
-      "summary": "ferstar 清理磁盘的时候，大概没想过自己会扒出智谱的一桩丑事。他在 ~/.zcode 的隐藏目录里发现一份 313MB 的加密包，怎么也打不开。顺手看了眼旁边的状态文件：本地一个商业项目，排除依"
-    },
-    {
-      "title": "AI Agent 的\"自主性悖论\"——为什么给它的自由度越大，越要配一套更硬的护栏",
-      "url": "https://juejin.cn/post/7687440193649786886",
-      "source": "juejin",
-      "score": 334,
-      "raw_score": 47,
+      "score": 330,
+      "raw_score": 45,
       "comments": 0,
-      "author": "咸鱼老弟",
+      "author": "晓得迷路了",
       "created_at": "",
-      "summary": "一、从\"帮我写\"到\"帮我去做\"：一个量变引发质变的拐点 过去两年，我们对大模型的用法，绝大多数都停留在同一个模式里：给它一段输入，它返回一段输出，中间没有副作用。写邮件、写周报、翻译、总结、润色、写代"
+      "summary": "🌰栗子前端技术周刊第 147 期 (2026.09.14 - 2026.09.20)：浏览前端一周最新消息，学习国内外优秀文章，让我们保持对前端的好奇心。 📰 技术资讯 React Router 8."
     },
     {
-      "title": "Jev是什么AI模型？不做自然语言生成为何引发热议",
-      "url": "https://juejin.cn/post/7687583607784636426",
+      "title": "AI 热点日报（2026-09-21）：AI四巨头遭反垄断集体诉讼，特朗普发起AI改名投票",
+      "url": "https://juejin.cn/post/7687457196955664425",
       "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
+      "score": 308,
+      "raw_score": 35,
       "comments": 0,
-      "author": "孟健AI编程",
+      "author": "墨林陌",
       "created_at": "",
-      "summary": "大家好，我是孟健。 作为一个完全不输出自然语言的结构化决策模型，Jev并没有取代原有的主语言模型。我们将它接入ShipSite，仅仅用来承担流程中的辅助判断任务。 这几天 HN 和技术社区关于 Jev"
+      "summary": "AI 热点日报（2026-09-21）：AI四巨头遭反垄断集体诉讼，特朗普发起AI改名投票 算力与芯片 1. 地平线智能驾驶芯片量产突破1500万颗，国内每三台智驾车就有一台用其方案 地平线征程系列智"
     },
     {
-      "title": "一天一个开源项目（第223篇）：TeamAI-CLI —— 腾讯开源的团队级 AI Agent 中间层，让每个人的 AI 能力变成团队共享能力",
-      "url": "https://juejin.cn/post/7687445339747041289",
+      "title": "AI 写代码最大的风险不是不会写，而是太能写：我给 Coding Agent 加的 4 层工程约束",
+      "url": "https://juejin.cn/post/7687420387300671488",
       "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
+      "score": 264,
+      "raw_score": 21,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "找工作中_求内推",
       "created_at": "",
-      "summary": "TeamAI-CLI 是腾讯开源的团队协作中间层工具，不是又一个 AI 编程助手，而是让 Claude Code、Codex、Cursor 等已安装的 AI 工具共享技能、规则、知识库的元管理系统"
+      "summary": "AI 编程有一个极其危险的本能：要么在写新代码时过度设计，要么在重构时把“代码简化”理解成“疯狂删代码，行数越少越好”。"
     },
     {
-      "title": "用 Rust 写 Agent 服务 -- adk-rust 上手记",
-      "url": "https://juejin.cn/post/7687434016367542306",
+      "title": "外网 3500 万人围观的 Jev 模型，有这 10 个神奇玩法。",
+      "url": "https://juejin.cn/post/7687505412875812864",
+      "source": "juejin",
+      "score": 251,
+      "raw_score": 18,
+      "comments": 0,
+      "author": "逛逛GitHub",
+      "created_at": "",
+      "summary": "Jev 大模型刚发布，就在外网获得大量的讨论。 目前它应该是外网最火的大模型。 Jev 的创始人之前是 OpenAI 的员工，参与 InstructGPT 和人类反馈强化学习的研究。 现在他推出了这个"
+    },
+    {
+      "title": "Spring AI RAG接上观测云怎么做全链路观测？",
+      "url": "https://juejin.cn/post/7687530765488062479",
       "source": "juejin",
       "score": 240,
       "raw_score": 16,
       "comments": 0,
-      "author": "独立开发阿平",
+      "author": "努力的小雨",
       "created_at": "",
-      "summary": "用 adk-rust 给已有服务加 Agent 能力。难在两个不报错的失败，ctx.state() 恒为 None，模型 401 变成 HTTP 200 空事件流。另附中文界面改造和生产化实测。"
+      "summary": "做 RAG 应用时，最让人头疼的问题往往不是“彻底不能用”，而是“偶尔有点慢”。 RAG 可以先理解成“先找相关资料，再让大模型带着资料回答”。Embedding 负责把文字问题变成数字向量，Milv"
     },
     {
-      "title": "我给 Excalidraw 做了一个本地工作区：DrawSpace",
-      "url": "https://juejin.cn/post/7687445339747221513",
+      "title": "数据库改了配置，说好的 30 秒自动刷新根本没跑：那条 @Scheduled 是注释状态",
+      "url": "https://juejin.cn/post/7687434016367411234",
+      "source": "juejin",
+      "score": 235,
+      "raw_score": 15,
+      "comments": 0,
+      "author": "她的男孩",
+      "created_at": "",
+      "summary": "运维在配置中心改了个开关，问我：\"不是说 30 秒自动生效吗？我都等五分钟了。\" 我说你调一下刷新接口。他调完就生效了。 我当时以为是偶发。后来翻源码才发现——自动刷新这个功能，压根就没在跑。 不是配"
+    },
+    {
+      "title": "从 EventSource 到可复用 SSE Client：我如何实现多实例、双超时与自动重连",
+      "url": "https://juejin.cn/post/7687424499610419200",
       "source": "juejin",
       "score": 215,
       "raw_score": 12,
       "comments": 0,
-      "author": "Nicander",
+      "author": "one_last_FE",
       "created_at": "",
-      "summary": "我给 Excalidraw 做了一个本地工作区：DrawSpace 我给 Excalidraw 做了一个本地工作区：DrawSpace 为什么做这个项目 我平时很喜欢用 Excalidraw。比很多专"
+      "summary": "基于 EventSource 实现多实例连接管理，支持连接/响应超时、自动重连和统一错误处理，通过生命周期回调解耦通信层与业务层，提升 AI 长任务流式链路的稳定性与复用性。"
     },
     {
-      "title": "一年前没启动 AI 提效的团队，今年在付什么钱？",
-      "url": "https://juejin.cn/post/7687459980892667950",
+      "title": "Agent说做完了，其实什么都没改：静默失败原因拆解",
+      "url": "https://juejin.cn/post/7687428120388665371",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "桃西西呀beverlyLee",
       "created_at": "",
-      "summary": "写给还没启动 AI 提效的团队负责人：不做会怎样、做了能得到什么，先看清三件事，再学会一套 ROI 口径"
+      "summary": "Agent说做完了，其实什么都没改：静默失败故障树拆解.你让编码 Agent 把一个旧的鉴权函数改个名字，它回你做完了，但实际什么也没写。这篇带你深入复盘这个问题。"
     },
     {
-      "title": "LangChain.js Agent Memory 实战（上）：从内存对话、文件持久化到截断与摘要",
-      "url": "https://juejin.cn/post/7687441604430086171",
+      "title": "聊聊我的AI学习方法与思考！",
+      "url": "https://juejin.cn/post/7687505412876075008",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "半个落月",
+      "author": "程序员飞鱼",
       "created_at": "",
-      "summary": "从大模型无状态问题出发，使用 LangChain.js 实现内存会话、文件持久化、消息截断与摘要压缩，并解析消息流转、Token 预算和上下文管理中的关键细节。"
+      "summary": "大家好呀，我是飞鱼 这篇文章，主要想讲讲怎么学习 AI？或者说 AI 时代到底要怎么学习？ 之前网上有人吐槽：AI时代，只要你学得足够慢，你就可以不用学了！ 其实现在 AI 时代的知识和工具的过时速度"
+    },
+    {
+      "title": "Akamai 云服务持续强化其基础架构（更新时间：2026年8月）",
+      "url": "https://juejin.cn/post/7687580061679042610",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "AKAMAI",
+      "created_at": "",
+      "summary": "2026年第二季度，Akamai聚焦AI基础设施平台成熟度，强化网络、身份认证、Kubernetes、存储与可观测性协同能力，实现与现有环境无缝集成，无需重构。"
     }
   ]
 }
