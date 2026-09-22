@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-22T02:27:38.008574+00:00",
+  "updated_at": "2026-09-22T15:57:05.034450+00:00",
   "articles": [
     {
       "title": "⚡上线 24 小时，13% 的付费团队连夜换到 Jev：它到底什么来头？",
       "url": "https://juejin.cn/post/7687855879103021108",
       "source": "juejin",
-      "score": 472,
-      "raw_score": 230,
+      "score": 625,
+      "raw_score": 1334,
       "comments": 2,
       "author": "秋天的一阵风",
       "created_at": "",
       "summary": "🔢 前言 Hello~大家好，我是秋天的一阵风 上周外网开发者圈在讨论一个“不会说话”的AI模型。 它叫 Jev，9 月 15 号才发布。做它的是家刚结束两年隐身的小公司，TypeSafe AI，40"
     },
     {
-      "title": "ZCode 开源了来看看这是个什么东西",
-      "url": "https://juejin.cn/post/7687855879102890036",
+      "title": "为什么死磕 1px 的团队，用户体验反而更差？",
+      "url": "https://juejin.cn/post/7687972882228461609",
       "source": "juejin",
-      "score": 373,
-      "raw_score": 74,
-      "comments": 0,
-      "author": "怕浪猫",
+      "score": 592,
+      "raw_score": 919,
+      "comments": 16,
+      "author": "ErpanOmer",
       "created_at": "",
-      "summary": "一、先说结论：这是个什么东西 ZCode，官网 zcode.z.ai，仓库 github.com/zai-org/ZCode，Apache-2.0 协议，TypeScript 写的。出品方是智谱 Z."
+      "summary": "像素级还原在Web平台无法实现，因设备屏幕宽度与像素比差异巨大，渲染环境不统一。文章认为过度追求像素对齐消耗大量开发时间，挤压性能与体验优化，主张采用弹性约束系统实现设计意图。"
     },
     {
-      "title": "Jev 爆火之后，我们把它集成进了数据湖仓",
-      "url": "https://juejin.cn/post/7687845366608019456",
+      "title": "16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测",
+      "url": "https://juejin.cn/post/7687509634027831348",
       "source": "juejin",
-      "score": 357,
-      "raw_score": 61,
-      "comments": 0,
-      "author": "Databend",
+      "score": 536,
+      "raw_score": 481,
+      "comments": 1,
+      "author": "雪隐_上班了",
       "created_at": "",
-      "summary": "最近Jev 突然火起来了，稍微试了下做分类任务效果非常不错，成本也低廉。所以给 Databend 的 Python UDF 写了一个 Jev 集成，顺手把过程和想法整理成这篇文章。 先说 Jev 是个"
+      "summary": "主角介绍：7 GB 的 27B 是怎么炼成的 Ternary-Bonsai-2-27B 是 PrismML 在 2026 年 9 月放出的二代盆栽。它的核心卖点一句话就能说完：Qwen3.8-27B "
     },
     {
-      "title": "AndroidX 新增 Security State ，支持可编程的系统安全状态查询",
-      "url": "https://juejin.cn/post/7687807835842248710",
+      "title": "模型中立——把大模型做成\"可替换零件\"，而不是焊死在业务里",
+      "url": "https://juejin.cn/post/7688015427069165587",
       "source": "juejin",
-      "score": 354,
-      "raw_score": 59,
+      "score": 513,
+      "raw_score": 368,
       "comments": 0,
-      "author": "恋猫de小郭",
+      "author": "TechLearn",
       "created_at": "",
-      "summary": "最近谷歌算是正式介绍了 AndroidX Security State Libraries ，包括 androidx.security:security-state:1.1.0 和 androidx."
+      "summary": "接大模型最危险的一行代码，是写在业务里的 baseUrl 2024 年到 2026 年，团队接大模型的方式变了好几轮：先是某家闭源 API，然后国产模型陆续可用，接着又有人要求本地私有化部署。价格、合"
     },
     {
-      "title": "AI 热点日报（2026-09-22）：AMD市值首破万亿美元，阶跃星辰发布600B开源模型",
-      "url": "https://juejin.cn/post/7687793891200499718",
+      "title": "权限不只是菜单按钮——QuickBlue 的 RBAC 与行级数据权限是怎么落地的",
+      "url": "https://juejin.cn/post/7688015427069149203",
       "source": "juejin",
-      "score": 320,
-      "raw_score": 40,
+      "score": 468,
+      "raw_score": 220,
       "comments": 0,
-      "author": "墨林陌",
+      "author": "TechLearn",
       "created_at": "",
-      "summary": "AI热点日报（2026-09-22）：AMD市值首破万亿美元，阶跃星辰发布600B开源模型跻身全球前三，Meta Muse登顶美国iPhone免费榜，苹果将推家用AI智能屏，AI短剧占比超九成。"
+      "summary": "权限做到\"菜单和按钮\"就够了吗？企业里真正难的是第四层 几乎每个后台框架都说自己有 RBAC。打开一看，确实有：用户、角色、菜单，勾一勾就授权了。 但进了企业项目，需求往往会多出一层： 这一层叫数据权"
     },
     {
-      "title": "用 AI 写代码别只甩一句指令，这套工作流救过我的项目",
-      "url": "https://juejin.cn/post/7687855879103250484",
+      "title": "前端工程师的 3D 第一课：一个模型如何进入网页",
+      "url": "https://juejin.cn/post/7687855997507993643",
       "source": "juejin",
-      "score": 289,
-      "raw_score": 28,
-      "comments": 0,
-      "author": "挖掘狂人",
+      "score": 435,
+      "raw_score": 151,
+      "comments": 2,
+      "author": "wendZzoo",
       "created_at": "",
-      "summary": "用AI写代码不能只甩一条指令。作者以真实阅读器项目为例，拆解环境搭建、产品设计、技术设计、实现自测、人工验收五步工作流，附项目说明书。核心：让AI自验、你再验一遍，比写长提示词更管用。"
+      "summary": "我是一个有前端开发经验、但几乎没有 3D 建模经验的学习者。我的目标是逐步做出能在网页里展示的货架和商品模型。"
     },
     {
-      "title": "在 React 中用 JavaScript 将 Word 转换为文本",
-      "url": "https://juejin.cn/post/7687845366608134144",
+      "title": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
+      "url": "https://juejin.cn/post/7688333234086150178",
+      "source": "juejin",
+      "score": 292,
+      "raw_score": 29,
+      "comments": 0,
+      "author": "苍何",
+      "created_at": "",
+      "summary": "这是苍何的第 603 篇原创！ 大家好，我是苍何。 还记得之前我开源了一个微信 cli，可以读取到微信的聊天记录，并给到 Agent 总结，全网爆火。 虽然这个 CLI 好用是好用，但是有点那啥，所以"
+    },
+    {
+      "title": "给你的 Claude Code\\Codex 等 AI Coding Agent 装个桌宠吧",
+      "url": "https://juejin.cn/post/7688209623505469478",
+      "source": "juejin",
+      "score": 246,
+      "raw_score": 17,
+      "comments": 0,
+      "author": "三金得鑫",
+      "created_at": "",
+      "summary": "用 clawd-on-desk 给 Claude Code、Codex 等 AI Agent 装个桌宠：关联 Agent、导入 Codex Pet 包换成小八形象，还能自定义任务完成与权限提示音。"
+    },
+    {
+      "title": "IT风云录 02 | 中年程序员，看不惯大公司，去小公司了",
+      "url": "https://juejin.cn/post/7688193248973357106",
+      "source": "juejin",
+      "score": 246,
+      "raw_score": 17,
+      "comments": 0,
+      "author": "TF男孩",
+      "created_at": "",
+      "summary": "上一篇承接 [IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水] 刚辞职离开的公司，是超过500人的企业，不缺钱，很土豪。再之前的公司也都是几百人的公司，最次也是新三板上市。现在"
+    },
+    {
+      "title": "历时三年，我的第一款全栈产品 Acrodata 终于上线了！",
+      "url": "https://juejin.cn/post/7688163400499281935",
       "source": "juejin",
       "score": 240,
       "raw_score": 16,
       "comments": 0,
-      "author": "缺点内向",
+      "author": "叙帝利",
       "created_at": "",
-      "summary": "在 Web 应用中处理用户上传的 Word 文档时，一个常见的需求是提取其中的纯文本内容。本文以 React 为例，梳理一套基于 WASM 的 Word 转文本实现思路。"
+      "summary": "最近三年的软件行业风云突变，AI 来势汹汹，很多创业公司甚至没有撑过三年，而我却为了一款没有利润的产品硬刚三年，到底值不值？"
     },
     {
-      "title": "GPU Pod 已经 Running，为什么扩容还没变成推理容量？",
-      "url": "https://juejin.cn/post/7687908992442335283",
+      "title": "把上下文编译进权重：拆解剑桥「无限参数 LLM」，以及它尚未回答的四个问题",
+      "url": "https://juejin.cn/post/7688212417864974363",
+      "source": "juejin",
+      "score": 229,
+      "raw_score": 14,
+      "comments": 0,
+      "author": "米小虾",
+      "created_at": "",
+      "summary": "一、旧范式的原罪：上下文是「租」来的，不是「买」下的 先把问题定义精确。一个部署后的模型面对的处境是：最值钱的信息往往不在训练集里，而在它正在处理的这轮交互里——用户随口给的一个事实，或者对他某次错误"
+    },
+    {
+      "title": "0 行权重改动，77% 首字延迟下降：2026 年的推理提速为什么都发生在权重之外",
+      "url": "https://juejin.cn/post/7688226072480399398",
       "source": "juejin",
       "score": 215,
       "raw_score": 12,
       "comments": 0,
-      "author": "武子康",
+      "author": "米小虾",
       "created_at": "",
-      "summary": "GPU Pod 已经 Running，为什么扩容还没变成推理容量？ 流量升高，模型服务开始排队。扩容已经触发，新建的两个 GPU Worker Pod 也显示 Running，但请求的首 token "
+      "summary": "一、旧范式的原罪：decode 是内存墙，不是算力墙 要理解为什么\"不碰权重\"能省这么多，得先知道 LLM 推理的哪一段卡在哪。 推理分两段，两段的瓶颈完全不同。 算术强度（arithmetic in"
     },
     {
-      "title": "2.5 Java 8.0 版本新增特性和类",
-      "url": "https://juejin.cn/post/7687800089251037226",
+      "title": "Jev 爆火一周后，我装了它的开源平替 Laya：路由 0.3 毫秒是真的，推理先把我机器干爆了",
+      "url": "https://juejin.cn/post/7688333234086199330",
       "source": "juejin",
       "score": 215,
       "raw_score": 12,
       "comments": 0,
-      "author": "T_Apollo",
+      "author": "Flynt",
       "created_at": "",
-      "summary": "Java 8.0 是Java语言发展史上的一个分水岭。标志着 Java 正式迈入函数式编程时代，重塑了语言范式、API 设计与运行时机制。"
+      "summary": "全网在聊不说话的AI Jev，装了开源平替Laya：5种语言路由全对0.13-0.39ms；322M权重加载即OOM。官方自曝zero-shot近随机、高棉语0分配95.2%置信，比评论区诚实。"
     },
     {
-      "title": "你升的是 jackson-databind,中招的是 jackson-core:一个超长 JSON key 就能吃掉 200MB 堆",
-      "url": "https://juejin.cn/post/7687818534403489842",
+      "title": "聊几句就能让 AI 写代码，Spec 还有必要吗？",
+      "url": "https://juejin.cn/post/7688197216384630820",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "xiaoqiMikko",
+      "author": "杨杨杨大侠",
       "created_at": "",
-      "summary": "jackson-core 的 maxNameLength 在字符输入路径上形同虚设,一个超长 JSON key 吃掉约 200MB 堆;全局库至今没收,Dependabot 不报。附自查工具。"
+      "summary": "你想给文章列表加个搜索功能，打开 AI 编程助手，说明想法，再补充几句。AI 开始读代码、修改页面、运行测试，整个过程没有出现一个叫 spec.md 的文件。 既然聊几句就能开发，为什么还要专门写 S"
     },
     {
-      "title": "Kafka 消费积压排查入门：Docker 搭环境亲手制造一次 ‘消息堵死‘，10 分钟看懂 Lag",
-      "url": "https://juejin.cn/post/7687793891199516678",
+      "title": "《潮水漫过十七岁》对她的感觉",
+      "url": "https://juejin.cn/post/7688267524370595866",
       "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
+      "score": 155,
+      "raw_score": 6,
       "comments": 0,
-      "author": "Nano叶落",
+      "author": "狗头大军之江苏分军",
       "created_at": "",
-      "summary": "线上数据同步延迟几十分钟，应用没报错、没重启，运维说\"Kafka 堵了\"你却不知道从哪里查起？本文用 Docker 搭一套可复现环境，亲手制造一次消费积压，手把手带你走完积压排查的第一步：「认识 → "
-    },
-    {
-      "title": "SpringBoot 集成 SSE 实现服务端推送或可代替Websocket",
-      "url": "https://juejin.cn/post/7687910066222530606",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "SimonKing",
-      "created_at": "",
-      "summary": "最近做的业务项目总是遇到到长连接、服务端向前端推送消息的功能点。由于项目中已经集成了现成的WebSocket，也就是没有再重复造轮子。"
-    },
-    {
-      "title": "缓存明明命中了却报 ClassCastException：拆完多级缓存控制面，我挖出 5 个静默失效的坑",
-      "url": "https://juejin.cn/post/7687823120006627364",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "她的男孩",
-      "created_at": "",
-      "summary": "上周线上冒出来一个特别邪门的报错：java.lang.ClassCastException: LinkedHashMap cannot be cast to OrderVO。 邪门在三件事上：只在缓存"
-    },
-    {
-      "title": "QML 列表中的四种委托：ItemDelegate、CheckDelegate、RadioDelegate、SwitchDelegate",
-      "url": "https://juejin.cn/post/7687818534404931634",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "Quz",
-      "created_at": "",
-      "summary": "列表里的自定义行是由委托组件画出来的。Qt Quick Controls把它做成了四个：ItemDelegate、CheckDelegate、RadioDelegate、SwitchDelegate"
-    },
-    {
-      "title": "为什么说线性模型是深度学习的基石？从 Scikit-Learn 谈起",
-      "url": "https://juejin.cn/post/7687908992442564659",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "isfox",
-      "created_at": "",
-      "summary": "为什么说线性模型是深度学习的基石？从 Scikit-Learn 谈起 很多刚接触深度学习的人，容易陷入一个误区。大家往往一上来就去研究复杂的网络结构，觉得基础的线性模型太简单，甚至有点过时。但如果你去"
+      "summary": "2039年9月21日 星期五 多云 我们班就是每隔两周平移一次座位，这次是平移+微调座位。就是班主任说靠窗那一排有几个同学上课老是说话，要重新调一下。我本来还挺庆幸，觉得自己终于不用跟周扬坐一起了。这"
     }
   ]
 }
