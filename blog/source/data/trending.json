@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-22T15:57:05.034450+00:00",
+  "updated_at": "2026-09-23T02:27:13.600423+00:00",
   "articles": [
     {
-      "title": "⚡上线 24 小时，13% 的付费团队连夜换到 Jev：它到底什么来头？",
-      "url": "https://juejin.cn/post/7687855879103021108",
+      "title": "轻松掌握 LangGraph 的状态与节点",
+      "url": "https://juejin.cn/post/7688270826491658266",
       "source": "juejin",
-      "score": 625,
-      "raw_score": 1334,
-      "comments": 2,
-      "author": "秋天的一阵风",
+      "score": 501,
+      "raw_score": 322,
+      "comments": 0,
+      "author": "Dragon_xjy",
       "created_at": "",
-      "summary": "🔢 前言 Hello~大家好，我是秋天的一阵风 上周外网开发者圈在讨论一个“不会说话”的AI模型。 它叫 Jev，9 月 15 号才发布。做它的是家刚结束两年隐身的小公司，TypeSafe AI，40"
+      "summary": "LangGraph 可以看成一张会运行的流程图：State 保存数据，Node 处理数据，Edge 决定下一步执行谁。节点只返回自己修改的部分，框架负责把更新合并回状态。 1️⃣ 状态规约：先约定数据"
     },
     {
-      "title": "为什么死磕 1px 的团队，用户体验反而更差？",
-      "url": "https://juejin.cn/post/7687972882228461609",
+      "title": "一个人 + AI 做的小程序，一个半月把服务器钱赚回来一半了",
+      "url": "https://juejin.cn/post/7688300268687130650",
       "source": "juejin",
-      "score": 592,
-      "raw_score": 919,
-      "comments": 16,
-      "author": "ErpanOmer",
-      "created_at": "",
-      "summary": "像素级还原在Web平台无法实现，因设备屏幕宽度与像素比差异巨大，渲染环境不统一。文章认为过度追求像素对齐消耗大量开发时间，挤压性能与体验优化，主张采用弹性约束系统实现设计意图。"
-    },
-    {
-      "title": "16GB 显卡跑 Qwen3.8-27B，只要 7 GB：三进制模型 Bonsai 2 部署手记与双格式实测",
-      "url": "https://juejin.cn/post/7687509634027831348",
-      "source": "juejin",
-      "score": 536,
-      "raw_score": 481,
+      "score": 336,
+      "raw_score": 48,
       "comments": 1,
-      "author": "雪隐_上班了",
+      "author": "好市民_",
       "created_at": "",
-      "summary": "主角介绍：7 GB 的 27B 是怎么炼成的 Ternary-Bonsai-2-27B 是 PrismML 在 2026 年 9 月放出的二代盆栽。它的核心卖点一句话就能说完：Qwen3.8-27B "
+      "summary": "一个人 + AI 做的观音灵签小程序「签小签」，上线 44 天，流量主累计 67.41 元，回本过半，全程零推广。这篇聊收入拐点，以及我拉群请每天帮我摇签保日活的人喝瑞幸，文末安利新小程序「厨菜记」。"
     },
     {
-      "title": "模型中立——把大模型做成\"可替换零件\"，而不是焊死在业务里",
-      "url": "https://juejin.cn/post/7688015427069165587",
+      "title": "你的网站准备好被AI Agent阅读了吗？2026年最被忽视的前端工程问题",
+      "url": "https://juejin.cn/post/7688192884433682486",
       "source": "juejin",
-      "score": 513,
-      "raw_score": 368,
+      "score": 330,
+      "raw_score": 45,
       "comments": 0,
-      "author": "TechLearn",
+      "author": "涛涛ing",
       "created_at": "",
-      "summary": "接大模型最危险的一行代码，是写在业务里的 baseUrl 2024 年到 2026 年，团队接大模型的方式变了好几轮：先是某家闭源 API，然后国产模型陆续可用，接着又有人要求本地私有化部署。价格、合"
+      "summary": "一、从“给人看”到“给Agent读”：Web的第二类用户 过去三十年，Web开发的核心假设从未变过：人类通过浏览器访问网页，用眼睛阅读内容，用手点击按钮。 SEO解决的是“让搜索引擎找到你”。但那本质"
     },
     {
-      "title": "权限不只是菜单按钮——QuickBlue 的 RBAC 与行级数据权限是怎么落地的",
-      "url": "https://juejin.cn/post/7688015427069149203",
+      "title": "AI Agent 真正干活的 Harness 到底是啥，原来就这 7 个子系统？",
+      "url": "https://juejin.cn/post/7688270826491723802",
       "source": "juejin",
-      "score": 468,
-      "raw_score": 220,
+      "score": 320,
+      "raw_score": 40,
       "comments": 0,
-      "author": "TechLearn",
+      "author": "蛋先生DX",
       "created_at": "",
-      "summary": "权限做到\"菜单和按钮\"就够了吗？企业里真正难的是第四层 几乎每个后台框架都说自己有 RBAC。打开一看，确实有：用户、角色、菜单，勾一勾就授权了。 但进了企业项目，需求往往会多出一层： 这一层叫数据权"
+      "summary": "Agent = Model + Harness：大模型负责想，Harness 负责干活。今天咱们就来拆一拆组成 Harness 的七个子系统，看看\"大脑之外\"的全套装备到底长啥样"
     },
     {
-      "title": "前端工程师的 3D 第一课：一个模型如何进入网页",
-      "url": "https://juejin.cn/post/7687855997507993643",
+      "title": "一个 jar 搞定实时推送：我的轻量级 SSE 中间件 Stream Nexus",
+      "url": "https://juejin.cn/post/7688267524371562522",
       "source": "juejin",
-      "score": 435,
-      "raw_score": 151,
-      "comments": 2,
-      "author": "wendZzoo",
-      "created_at": "",
-      "summary": "我是一个有前端开发经验、但几乎没有 3D 建模经验的学习者。我的目标是逐步做出能在网页里展示的货架和商品模型。"
-    },
-    {
-      "title": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
-      "url": "https://juejin.cn/post/7688333234086150178",
-      "source": "juejin",
-      "score": 292,
-      "raw_score": 29,
+      "score": 303,
+      "raw_score": 33,
       "comments": 0,
-      "author": "苍何",
+      "author": "SimonKing",
       "created_at": "",
-      "summary": "这是苍何的第 603 篇原创！ 大家好，我是苍何。 还记得之前我开源了一个微信 cli，可以读取到微信的聊天记录，并给到 Agent 总结，全网爆火。 虽然这个 CLI 好用是好用，但是有点那啥，所以"
+      "summary": "由于最近一直再做服务端推送相关的业务，但是想要自己从0到1的搭建，考虑的东西确实不少，之前也介绍过SpringBoot集成SSE的文章。通过这几天的整理，将项目托管到GitHub上"
     },
     {
-      "title": "给你的 Claude Code\\Codex 等 AI Coding Agent 装个桌宠吧",
-      "url": "https://juejin.cn/post/7688209623505469478",
+      "title": "AI 热点日报（2026-09-23）：SpaceXAI发布Grok 4.7，特朗普联大宣布AI改名「超级智能」",
+      "url": "https://juejin.cn/post/7688197216385400868",
+      "source": "juejin",
+      "score": 282,
+      "raw_score": 26,
+      "comments": 0,
+      "author": "墨林陌",
+      "created_at": "",
+      "summary": "今日AI两大焦点：SpaceXAI发布Grok 4.7，定位最强编程与知识工作模型，速度两倍价格一半；特朗普联大宣布美国官方文件将把AI改称\"超级智能\"。另有高通2nm双旗舰芯片、广东388项AI需求"
+    },
+    {
+      "title": "Git Tag 实战：从出包追溯到版本发布",
+      "url": "https://juejin.cn/post/7688238990705295387",
       "source": "juejin",
       "score": 246,
       "raw_score": 17,
       "comments": 0,
-      "author": "三金得鑫",
+      "author": "广白",
       "created_at": "",
-      "summary": "用 clawd-on-desk 给 Claude Code、Codex 等 AI Agent 装个桌宠：关联 Agent、导入 Codex Pet 包换成小八形象，还能自定义任务完成与权限提示音。"
+      "summary": "本文介绍 Git Tag 的概念与用法：它是给 commit 起的语义化别名，可让出包版本与源码对应。文章涵盖轻量 tag 与 附注 tag、常用命令等"
     },
     {
-      "title": "IT风云录 02 | 中年程序员，看不惯大公司，去小公司了",
-      "url": "https://juejin.cn/post/7688193248973357106",
+      "title": "3. 前端异步编程规范",
+      "url": "https://juejin.cn/post/7688170325382922240",
       "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
+      "score": 235,
+      "raw_score": 15,
       "comments": 0,
-      "author": "TF男孩",
+      "author": "Sumoon",
       "created_at": "",
-      "summary": "上一篇承接 [IT风云录 01 | 我在4人的AI小公司，领着比公司年收入还高的薪水] 刚辞职离开的公司，是超过500人的企业，不缺钱，很土豪。再之前的公司也都是几百人的公司，最次也是新三板上市。现在"
+      "summary": "文章目标 大纲 简版Promise； Promise/A+规范解读； async/await介绍； generator介绍； 简版Promise resolve和reject 这里说明了Promise"
     },
     {
-      "title": "历时三年，我的第一款全栈产品 Acrodata 终于上线了！",
-      "url": "https://juejin.cn/post/7688163400499281935",
+      "title": "Kubernetes、Ray、vLLM 都在调度，它们各自决定了什么？",
+      "url": "https://juejin.cn/post/7688300268687425562",
       "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
+      "score": 190,
+      "raw_score": 9,
       "comments": 0,
-      "author": "叙帝利",
+      "author": "武子康",
       "created_at": "",
-      "summary": "最近三年的软件行业风云突变，AI 来势汹汹，很多创业公司甚至没有撑过三年，而我却为了一款没有利润的产品硬刚三年，到底值不值？"
+      "summary": "Kubernetes、Ray、vLLM 都在调度，它们各自决定了什么？ 一台服务器的 GPU 还有空闲，模型服务却在排队。负责容器的人说资源已经给了，负责 Python 运行时的人说任务已经调度，负责"
     },
     {
-      "title": "把上下文编译进权重：拆解剑桥「无限参数 LLM」，以及它尚未回答的四个问题",
-      "url": "https://juejin.cn/post/7688212417864974363",
+      "title": "把 MySQL 索引讲透：从 B+ 树结构到线上索引治理",
+      "url": "https://juejin.cn/post/7688178277195399214",
       "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
+      "score": 190,
+      "raw_score": 9,
       "comments": 0,
-      "author": "米小虾",
+      "author": "devpotato",
       "created_at": "",
-      "summary": "一、旧范式的原罪：上下文是「租」来的，不是「买」下的 先把问题定义精确。一个部署后的模型面对的处境是：最值钱的信息往往不在训练集里，而在它正在处理的这轮交互里——用户随口给的一个事实，或者对他某次错误"
+      "summary": "一、先把问题定义清楚：索引优化的到底是什么成本 1.1 一次查询的成本构成 很多人把\"加索引\"等同于\"变快\"，但没说清快在哪。一条点查的成本大致可以拆成三段： 成本项 含义 索引能否降低 扫描成本 需"
     },
     {
-      "title": "0 行权重改动，77% 首字延迟下降：2026 年的推理提速为什么都发生在权重之外",
-      "url": "https://juejin.cn/post/7688226072480399398",
-      "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
-      "comments": 0,
-      "author": "米小虾",
-      "created_at": "",
-      "summary": "一、旧范式的原罪：decode 是内存墙，不是算力墙 要理解为什么\"不碰权重\"能省这么多，得先知道 LLM 推理的哪一段卡在哪。 推理分两段，两段的瓶颈完全不同。 算术强度（arithmetic in"
-    },
-    {
-      "title": "Jev 爆火一周后，我装了它的开源平替 Laya：路由 0.3 毫秒是真的，推理先把我机器干爆了",
-      "url": "https://juejin.cn/post/7688333234086199330",
-      "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
-      "comments": 0,
-      "author": "Flynt",
-      "created_at": "",
-      "summary": "全网在聊不说话的AI Jev，装了开源平替Laya：5种语言路由全对0.13-0.39ms；322M权重加载即OOM。官方自曝zero-shot近随机、高棉语0分配95.2%置信，比评论区诚实。"
-    },
-    {
-      "title": "聊几句就能让 AI 写代码，Spec 还有必要吗？",
-      "url": "https://juejin.cn/post/7688197216384630820",
-      "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
-      "comments": 0,
-      "author": "杨杨杨大侠",
-      "created_at": "",
-      "summary": "你想给文章列表加个搜索功能，打开 AI 编程助手，说明想法，再补充几句。AI 开始读代码、修改页面、运行测试，整个过程没有出现一个叫 spec.md 的文件。 既然聊几句就能开发，为什么还要专门写 S"
-    },
-    {
-      "title": "《潮水漫过十七岁》对她的感觉",
-      "url": "https://juejin.cn/post/7688267524370595866",
+      "title": "索引膨胀与重建：PostgreSQL REINDEX 生产实践",
+      "url": "https://juejin.cn/post/7688270826492002330",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "狗头大军之江苏分军",
+      "author": "旺仔不是程序员",
       "created_at": "",
-      "summary": "2039年9月21日 星期五 多云 我们班就是每隔两周平移一次座位，这次是平移+微调座位。就是班主任说靠窗那一排有几个同学上课老是说话，要重新调一下。我本来还挺庆幸，觉得自己终于不用跟周扬坐一起了。这"
+      "summary": "索引膨胀与重建：PostgreSQL REINDEX 生产实践 一、前言 表的 UPDATE / DELETE 越频繁，索引越容易\"膨胀\"：被更新的旧版本残留、被删除的行留下死条目、B-tree 里堆"
+    },
+    {
+      "title": "HarmonyOS 7 平行视界进阶实战：配置写好了，为什么一上真机就崩？",
+      "url": "https://juejin.cn/post/7688189200246521892",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "威哥爱编程",
+      "created_at": "",
+      "summary": "引子：easy_go.json 写完了，真机一展开全是问题 V哥上期把平行视界的配置讲透了——一份 easy_go.json、homePage 配 navBar、mode 切购物/导航、ratio 配"
+    },
+    {
+      "title": "drain 卡了 40 分钟：PDB 才是节点维护的主语",
+      "url": "https://juejin.cn/post/7688251174398574634",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "Thneonl",
+      "created_at": "",
+      "summary": "drain 卡住多因 PDB 在拦。自愿与非自愿中断的分界、Eviction API 与 DELETE 的区别、minAvailable 二选一、排障四步与节点维护标准清单，一篇讲透。"
+    },
+    {
+      "title": "求职必备｜如何用 TraeCode 搭建 3D 作品集网站",
+      "url": "https://juejin.cn/post/7688282672252403750",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "TRAE_ai",
+      "created_at": "",
+      "summary": "对于前端开发者而言，复刻页面不必停留在练手阶段。只要替换叙事、建立数据驱动架构、让作品可交互可访问，它就能转化为一个完整的、有说服力的个人项目。"
+    },
+    {
+      "title": "Elastic 宣布 Serverless 上的跨项目搜索正式发布，让团队无需移动任何数据即可跨所有关联项目进行查询",
+      "url": "https://juejin.cn/post/7688267524371824666",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "Elasticsearch",
+      "created_at": "",
+      "summary": "作者：来自 Elastic Jordi Mon Companys, Lucy Wang Elastic 今天宣布 Elastic Cloud Serverless 的跨项目搜索（cross-proje"
     }
   ]
 }
