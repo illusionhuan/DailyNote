@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-25T16:09:06.615969+00:00",
+  "updated_at": "2026-09-26T02:35:06.577098+00:00",
   "articles": [
     {
       "title": "ValidX 多租户系统的数据验证方案",
       "url": "https://juejin.cn/post/7688298824980987919",
       "source": "juejin",
       "score": 823,
-      "raw_score": 13076,
+      "raw_score": 13082,
       "comments": 0,
       "author": "vipxieliang",
       "created_at": "",
       "summary": "ValidX 多租户系统的数据验证方案 📋 目录 概述 一、多租户架构：从共享到隔离的三种模式 二、租户ID的校验：谁有权访问谁的数据 三、数据隔离层验证：Service 层的\"守门\"职责 四、多租户"
     },
     {
-      "title": "Flutter Golden Tests：给 AI Agent 的 UI 测试系统",
-      "url": "https://juejin.cn/post/7688611918492008490",
-      "source": "juejin",
-      "score": 496,
-      "raw_score": 303,
-      "comments": 2,
-      "author": "恋猫de小郭",
-      "created_at": "",
-      "summary": "最近 ASO.dev 发了一个 Flutter Golden Test ，开源了两个工具： ff_golden 负责场景执行、变体矩阵、截图与比较 ff_golden_presenter 负责Diff"
-    },
-    {
-      "title": "同样叫 Harness，DeepSeek Harness 和 Pi 根本不在同一层",
-      "url": "https://juejin.cn/post/7688805244534325263",
-      "source": "juejin",
-      "score": 490,
-      "raw_score": 284,
-      "comments": 0,
-      "author": "ikoala",
-      "created_at": "",
-      "summary": "如果只看 README，DeepSeek Harness 和 Pi 很容易被归为同一类产品：都能连接模型、调用工具、操作文件、执行命令、保存会话，也都强调扩展能力。 但把源码调用链展开以后，会看到两套"
-    },
-    {
-      "title": "多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案",
-      "url": "https://juejin.cn/post/7688585710283014184",
-      "source": "juejin",
-      "score": 419,
-      "raw_score": 125,
-      "comments": 1,
-      "author": "吴佳浩Alben",
-      "created_at": "",
-      "summary": "多智能体系统的通信风暴与死锁治理：生产级降级与容灾方案 作 者：吴佳浩（Alben） 公众号：全栈架构师笔记 系列专栏：《企业级 Agent 实战指南————Multi-Agent 架构设计：从单体 "
-    },
-    {
-      "title": "Android HWC退化与防治方法",
-      "url": "https://juejin.cn/post/7688689006075756580",
-      "source": "juejin",
-      "score": 382,
-      "raw_score": 82,
-      "comments": 0,
-      "author": "时光少年",
-      "created_at": "",
-      "summary": "前言 Android 技术目前已经非常成熟了，无论是硬件还是软件，当前大环境下，为数不多的创新主要还集中在AI应用层面，当前比较尴尬的是AI应用也非常依赖后端算力，On-Device AI总体来说没有"
-    },
-    {
-      "title": "别再只卷向量检索了，得物交易搜索如何用“生成式”实现召回范式跃迁？",
-      "url": "https://juejin.cn/post/7688611918492614698",
-      "source": "juejin",
-      "score": 379,
-      "raw_score": 79,
-      "comments": 0,
-      "author": "得物技术",
-      "created_at": "",
-      "summary": "搜\"af1\"得给\"空军一号\"。得物搜索把召回从\"做选择题\"改成了\"写答案\"——不再\"找\"最像的，而是让模型自己\"生成\"你真正想要的。搜索是怎么从\"检索\"走向\"生成\"的？"
-    },
-    {
-      "title": "深度拆解 ScienceBuddy：如何用“双层递归自进化”构建高可靠科研 Agent Harness",
-      "url": "https://juejin.cn/post/7689018123109924904",
-      "source": "juejin",
-      "score": 308,
-      "raw_score": 35,
-      "comments": 0,
-      "author": "GreenTea",
-      "created_at": "",
-      "summary": "做过复杂垂直领域（尤其是生命科学、材料、药理等）Agent 的同学，大多踩过一个极度痛苦的坑： 写通用代码或找 Bug，我们有 SWE-bench 和单元测试（Unit Test），跑一次就知道通没通"
-    },
-    {
-      "title": "用 AI 做重构前评估：哪些代码值得改，哪些别碰",
-      "url": "https://juejin.cn/post/7689030185367732270",
-      "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
-      "comments": 0,
-      "author": "全栈弄潮儿",
-      "created_at": "",
-      "summary": "看到一段难维护的代码时，你会不会马上想重构？ 很多开发者的第一反应是： 这件事本身没有错。 问题在于，代码“看起来不舒服”，并不等于现在就值得重构。"
-    },
-    {
-      "title": "React 渲染与 Fiber：从同步递归到可中断的并发渲染",
-      "url": "https://juejin.cn/post/7689030783365791770",
-      "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
-      "comments": 0,
-      "author": "前端阿凡",
-      "created_at": "",
-      "summary": "Day14 把 TypeScript 工程讲完了，阶段三正式进入框架内核。React 近几年的所有大事：Concurrent Mode、Suspense、useTransition、React 19 "
-    },
-    {
-      "title": "vtable-guild 被收录进 vuejs/awesome-vue 了 🎉",
-      "url": "https://juejin.cn/post/7689299285138374692",
-      "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
-      "comments": 0,
-      "author": "parade岁月",
-      "created_at": "",
-      "summary": "awesome-vue 是 vuejs 组织下的社区精选清单，很多人找 Vue 生态轮子的第一站就是它。对一个个人维护的开源组件来说，这算是一次不小的认可"
-    },
-    {
-      "title": "本地模型不是断网版云模型：Agent任务路由怎么分才不泄密",
-      "url": "https://juejin.cn/post/7689043294571790387",
-      "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
-      "comments": 0,
-      "author": "蜗牛聊AI",
-      "created_at": "",
-      "summary": "Google刚给Antigravity SDK加入本地模型支持，最值得学的不是“离线也能聊天”，而是怎样把一个任务拆给不同模型。通俗地说，任务路由就是先判断哪些信息能离开设备、哪一步需要更强能力、失败会造成什么后果，再决"
-    },
-    {
-      "title": "Claude Opus5.5的关键信息和实测结果！",
-      "url": "https://juejin.cn/post/7689030783365873690",
+      "title": "WebGL 实时合成管线：纹理、Shader 滤镜链与离屏渲染调度",
+      "url": "https://juejin.cn/post/7689018123110121512",
       "source": "juejin",
       "score": 235,
       "raw_score": 15,
       "comments": 0,
-      "author": "甲维斯",
+      "author": "flash俊杰",
       "created_at": "",
-      "summary": "终于，Opus5.5 配额烧完了，安心写文章！ “O哥”全服第一，实至名归！ “国模”的差距有多少，我不说，你们看就好了。 作为 Claude “大中华区唯一代言人”（自封的，出来混，面子是自己给的！"
+      "summary": "WebGL 实时合成管线：纹理、Shader 滤镜链与离屏渲染调度 一、为什么需要它，以及什么时候不该用 DOM 合成（每层一个 <video> + CSS transform/opacity/mix"
     },
     {
-      "title": "大模型有返回等于 Agent 成功运行吗？",
-      "url": "https://juejin.cn/post/7689001132435292160",
+      "title": "React状态管理这个坑，我是怎么翻车的",
+      "url": "https://juejin.cn/post/7689096640690978831",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "hpoenixf",
+      "author": "阿橙的百宝箱",
       "created_at": "",
-      "summary": "在对 Agent回答进行测评时，我们到底在评测什么？我们是凭什么说一次 Agent 请求真的成功了？"
+      "summary": "去年在做一个实时数据监控项目时，我差点被React的状态管理搞崩心态。项目要求每5秒刷新一次全量数据（约5000条记录），同时支持用户交互过滤。原以为用Redux Toolkit + RTK Quer"
     },
     {
-      "title": "AI出海先别只问模型强不强，云地域正在变成产品边界",
-      "url": "https://juejin.cn/post/7689030783365742618",
+      "title": "再也不怕手滑丢代码！给 git 高危操作加一层安全校验",
+      "url": "https://juejin.cn/post/7689030185367486510",
       "source": "juejin",
       "score": 222,
       "raw_score": 13,
       "comments": 0,
-      "author": "蜗牛聊AI",
+      "author": "用户7330964612309",
       "created_at": "",
-      "summary": "AI产品出海常把注意力全放在模型榜单和Token价格上，但真正卡住上线的，往往是数据能不能离境、用户要等多久、目标Region有没有所需模型，以及故障时能否切换。阿里云新一轮地域扩张提醒我们：云Region不是后台采购项"
+      "summary": "前言 相信每个用 git 的人都经历过这种绝望时刻： 尤其是 git checkout 和 git reset --hard 这种毁灭性操作，一旦执行就没有后悔药。"
     },
     {
-      "title": "03-02-架构篇-Editor打包系统架构",
-      "url": "https://juejin.cn/post/7688993872609640483",
+      "title": "【AI开发之Rust】第 17 课：项目总览与核心架构 —— AI 助手 Rust 核心从 0 到 1",
+      "url": "https://juejin.cn/post/7689030783365857306",
       "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
+      "score": 200,
+      "raw_score": 10,
       "comments": 0,
-      "author": "SmalBox",
+      "author": "柯南4668",
       "created_at": "",
-      "summary": "Editor 端系统架构 一、引言 本章将深入解析 YooAsset 的 Editor 端系统架构。Editor 端是 YooAsset 的构建层，负责资源收集、依赖分析、资源打包和清单生成等核心功能"
+      "summary": "一个 AI 助手 App（跨 iOS/Android/桌面）的共享 Rust 核心，它负责三件事： 17.1 我们要交付什么（产品视角） 一个 AI 助手 App（跨 iOS/Android/桌面）的"
+    },
+    {
+      "title": "工程文件版本迁移与崩溃恢复：schemaVersion、Migration 链与原子持久化",
+      "url": "https://juejin.cn/post/7689018123110088744",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "flash俊杰",
+      "created_at": "",
+      "summary": "工程文件版本迁移与崩溃恢复：schemaVersion、Migration 链与原子持久化 一、版本号：迁移的唯一锚点 document 的第一个字段就是版本： z.literal(1) 的含义：当前"
+    },
+    {
+      "title": "Webpack 构建流程解析",
+      "url": "https://juejin.cn/post/7689299285138653220",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "Blanche1500",
+      "created_at": "",
+      "summary": "本文以源码解析为线索，系统讲解了 Webpack 构建流程。包括 module /chunk/bundle 的关系、 Compiler与 Compilation职责、webpack 构建的生命周期等。"
+    },
+    {
+      "title": "你的 Type Guard 可能会悄悄地与 TypeScript 类型发生偏移 🔧",
+      "url": "https://juejin.cn/post/7689018123110350888",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "nyaomaru",
+      "created_at": "",
+      "summary": "Hoi hoi! 👋 我是 @nyaomaru，一名前端工程师，刚从荷兰的小岛 Texel 短暂旅行回来。😸🏝️ 今天想聊聊一个看起来非常安全的 Type Guard。 看起来没问题，对吧？ Type"
+    },
+    {
+      "title": "ai agent --- LangSmith 全链路观测",
+      "url": "https://juejin.cn/post/7689051019112497206",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "snow来了",
+      "created_at": "",
+      "summary": "一.LangSmith是什么 概念 LLM 应用的痛点是：代码能跑通，如果结果不对，你根本不知道错在哪里。 一次 Agent 内部可能会调用很多次模型推理、RAG 检索、工具调用、子 Agent 分发"
+    },
+    {
+      "title": "为什么有管理员权限，Token正确，访问却是403",
+      "url": "https://juejin.cn/post/7688982503374307364",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "用户54469339256",
+      "created_at": "",
+      "summary": "http://localhost:8080/users?page=1&size=5访问 Bearer 返回403 http://localhost:8080/auth/me 返回如下： Permiss"
+    },
+    {
+      "title": "macOS27 上可变界面尺寸 iOS App 揭秘",
+      "url": "https://juejin.cn/post/7689263358284955699",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "大熊猫侯佩",
+      "created_at": "",
+      "summary": "把一个 iOS App 放到 Mac 上运行，拖动窗口边缘，变的只有宽高吗？ 在 macOS 27 上做了一次小实验，答案颇有意味：随着用户调整窗口大小，SwiftUI 环境中的 Size Class"
+    },
+    {
+      "title": "QML TableView：自定义样式与排序表格",
+      "url": "https://juejin.cn/post/7689091429971492899",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "Quz",
+      "created_at": "",
+      "summary": "这篇文章介绍2个例子：第一个例子做一个商品价格表，展示样式的应用；第二个例子在它的基础上加上排序功能。"
+    },
+    {
+      "title": "Docker 实战部署：从本地镜像到云服务器，一篇走通 FastAPI + Celery + MySQL + Redis + Nginx",
+      "url": "https://juejin.cn/post/7689030783365693466",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "EatFans",
+      "created_at": "",
+      "summary": "Docker 实战部署：从本地镜像到云服务器，一篇走通 FastAPI + Celery + MySQL + Redis + Nginx 一、前言 最近在部署自己的实际项目时，我将原本散落在本地开发环"
+    },
+    {
+      "title": "QML TableView：可编辑表格与 SQLite 数据持久化",
+      "url": "https://juejin.cn/post/7689018123110776872",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "Quz",
+      "created_at": "",
+      "summary": "表格光好看还不够，很多场景下还得能直接改数据、能存到数据库。直接在单元格里编辑比弹个框改要顺手得多，而 SQLite 作为轻量级嵌入式数据库，跟 Qt 配合起来也很方便。"
+    },
+    {
+      "title": "每天认识一个组件：向量化计算加速Apache Auron",
+      "url": "https://juejin.cn/post/7689091429971591203",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "大大大大晴天",
+      "created_at": "",
+      "summary": "Apache Auron的核心价值，是在保留Spark等分布式计算框架生态的同时把可支持的SQL/DataFrame执行片段迁移到Rust、Arrow和DataFusion组成的原生向量化执行路径中。"
     }
   ]
 }
