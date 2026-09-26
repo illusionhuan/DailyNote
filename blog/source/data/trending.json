@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-26T02:35:06.577098+00:00",
+  "updated_at": "2026-09-26T15:22:42.658954+00:00",
   "articles": [
     {
       "title": "ValidX 多租户系统的数据验证方案",
       "url": "https://juejin.cn/post/7688298824980987919",
       "source": "juejin",
       "score": 823,
-      "raw_score": 13082,
+      "raw_score": 13091,
       "comments": 0,
       "author": "vipxieliang",
       "created_at": "",
       "summary": "ValidX 多租户系统的数据验证方案 📋 目录 概述 一、多租户架构：从共享到隔离的三种模式 二、租户ID的校验：谁有权访问谁的数据 三、数据隔离层验证：Service 层的\"守门\"职责 四、多租户"
     },
     {
-      "title": "WebGL 实时合成管线：纹理、Shader 滤镜链与离屏渲染调度",
-      "url": "https://juejin.cn/post/7689018123110121512",
+      "title": "为了知道计算机为什么选择了二进制，我做了这些……",
+      "url": "https://juejin.cn/post/7689347382991601718",
+      "source": "juejin",
+      "score": 282,
+      "raw_score": 26,
+      "comments": 0,
+      "author": "我叫黑大帅",
+      "created_at": "",
+      "summary": "现代计算机为什么选择二进制？ 如果你将这个问题给豆包： 总是感觉豆包的答案有点先射箭后画靶的意思。 上网上去查无非也是，告诉你计算机选择的硬件，天然适合二进制。"
+    },
+    {
+      "title": "Agent 查了很多资料，为什么还是交不出答案？",
+      "url": "https://juejin.cn/post/7689254246198165558",
+      "source": "juejin",
+      "score": 272,
+      "raw_score": 23,
+      "comments": 0,
+      "author": "hpoenixf",
+      "created_at": "",
+      "summary": "最近做投资研究 Agent，最让我挫败的，并不是模型完全不会调用工具。恰恰相反，搜索在进行，页面也读了，运行记录里有不少动作，但用户要的答案还是没有顺利交出来。"
+    },
+    {
+      "title": "DeerFlow Docker Desktop 部署教程",
+      "url": "https://juejin.cn/post/7689263358285709363",
+      "source": "juejin",
+      "score": 272,
+      "raw_score": 23,
+      "comments": 0,
+      "author": "心之语歌",
+      "created_at": "",
+      "summary": "DeerFlow Docker Desktop 部署教程 核心思路：下载官方仓库 → 把两个示例配置改名成正式配置并填上模型 → 写 .env → 用 Docker Compose 启动。 1 准备 "
+    },
+    {
+      "title": "数据是怎么进入数据平台的？一文搞懂数据采集与数据同步",
+      "url": "https://juejin.cn/post/7689065487934717998",
+      "source": "juejin",
+      "score": 264,
+      "raw_score": 21,
+      "comments": 0,
+      "author": "前端小小栈",
+      "created_at": "",
+      "summary": "数据平台首先要解决数据从哪里来、如何进入的问题。本文介绍数据采集、全量同步、增量同步、CDC 以及 Kafka，帮助理解数据从业务系统进入数据平台的完整链路。"
+    },
+    {
+      "title": "第 26 章 案例二 企业知识库问答 Agent",
+      "url": "https://juejin.cn/post/7689219046840074278",
+      "source": "juejin",
+      "score": 260,
+      "raw_score": 20,
+      "comments": 0,
+      "author": "前端阿凡",
+      "created_at": "",
+      "summary": "第 26 章 案例二：企业知识库问答 Agent 本章要解决的问题 章节大纲 26.1 文档处理与向量检索（Qwen + 内网知识库） 26.2 RAG + 反思 + 评估自检 26.3 MCP 集成"
+    },
+    {
+      "title": "HarmonyOS 7 游戏快启实战：Graphics Accelerate Kit 内存镜像秒级启动 + 预启动，把读条变成\"秒进\"",
+      "url": "https://juejin.cn/post/7689356441790447635",
+      "source": "juejin",
+      "score": 251,
+      "raw_score": 18,
+      "comments": 0,
+      "author": "威哥爱编程",
+      "created_at": "",
+      "summary": "手游玩家最没耐心的那一刻，就是点开图标后盯着加载条发呆。V哥 看过一组公开案例：《NBA巅峰对决》在资源更新场景下启动要从 4 个阶段、平均 51 秒，优化后降到 14 秒；普通冷启动从 12 秒降到"
+    },
+    {
+      "title": "Firecracker 与 KVM",
+      "url": "https://juejin.cn/post/7689283164179988495",
+      "source": "juejin",
+      "score": 251,
+      "raw_score": 18,
+      "comments": 0,
+      "author": "lizhongxuan",
+      "created_at": "",
+      "summary": "microVM 可以先理解为一台设备配置精简的虚拟电脑。VM 是 Virtual Machine（虚拟机）的缩写，micro 强调它的轻量设计。在里面，Python 程序可以下载依赖、写入文件、等待超"
+    },
+    {
+      "title": "Hooks 原理：把\"每次重跑的函数\"变成\"有记忆的组件\"",
+      "url": "https://juejin.cn/post/7689299210249240627",
+      "source": "juejin",
+      "score": 246,
+      "raw_score": 17,
+      "comments": 0,
+      "author": "前端阿凡",
+      "created_at": "",
+      "summary": "Day15 把 Fiber 架构拆开了：渲染变成了可中断的工作队列，状态藏在双缓存树里。今天在这个地基上回答一个更贴近日常的问题：函数组件每次渲染都会整个重新执行一遍，那 useState 保存的状态"
+    },
+    {
+      "title": "数据平台到底是什么？一篇文章搞懂数据平台开发",
+      "url": "https://juejin.cn/post/7689299210249044019",
+      "source": "juejin",
+      "score": 246,
+      "raw_score": 17,
+      "comments": 0,
+      "author": "前端小小栈",
+      "created_at": "",
+      "summary": "数据平台是一套围绕数据采集、传输、处理、存储和分析构建的系统。本文从业务数据库出发，介绍数据平台的基本架构、数据仓库、数据湖以及数据平台开发的核心内容。"
+    },
+    {
+      "title": "用AI拒批老人看病？美国这个试点项目的激励机制出了大问题",
+      "url": "https://juejin.cn/post/7689424360591933476",
       "source": "juejin",
       "score": 235,
       "raw_score": 15,
       "comments": 0,
-      "author": "flash俊杰",
+      "author": "公众号_计算机魔术师",
       "created_at": "",
-      "summary": "WebGL 实时合成管线：纹理、Shader 滤镜链与离屏渲染调度 一、为什么需要它，以及什么时候不该用 DOM 合成（每层一个 <video> + CSS transform/opacity/mix"
+      "summary": "特朗普政府于2026年1月启动WISeR试点，允许AI对Medicare传统保险的部分门诊手术进行预授权审批，覆盖6个州。问题核心在于激励结构：第三方供应商按拒批金额的比例获得报酬，从机制上制造了「少"
     },
     {
-      "title": "React状态管理这个坑，我是怎么翻车的",
-      "url": "https://juejin.cn/post/7689096640690978831",
+      "title": "HarmonyOS 7 Fast Kit 算法加速实战：四大核心能力，把算力从系统里\"借\"出来",
+      "url": "https://juejin.cn/post/7689356441790431251",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "阿橙的百宝箱",
+      "author": "威哥爱编程",
       "created_at": "",
-      "summary": "去年在做一个实时数据监控项目时，我差点被React的状态管理搞崩心态。项目要求每5秒刷新一次全量数据（约5000条记录），同时支持用户交互过滤。原以为用Redux Toolkit + RTK Quer"
+      "summary": "引子：卡的那几百毫秒，藏在你自己写的循环里 应用性能优化做到深处，拼的不是布局技巧，是算法：文件列表按名字排序，中文排序乱七八糟；缓存用普通 Map，条目一多增删改查就钝；音频处理手写循环，一条 tr"
     },
     {
-      "title": "再也不怕手滑丢代码！给 git 高危操作加一层安全校验",
-      "url": "https://juejin.cn/post/7689030185367486510",
-      "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
-      "comments": 0,
-      "author": "用户7330964612309",
-      "created_at": "",
-      "summary": "前言 相信每个用 git 的人都经历过这种绝望时刻： 尤其是 git checkout 和 git reset --hard 这种毁灭性操作，一旦执行就没有后悔药。"
-    },
-    {
-      "title": "【AI开发之Rust】第 17 课：项目总览与核心架构 —— AI 助手 Rust 核心从 0 到 1",
-      "url": "https://juejin.cn/post/7689030783365857306",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "柯南4668",
-      "created_at": "",
-      "summary": "一个 AI 助手 App（跨 iOS/Android/桌面）的共享 Rust 核心，它负责三件事： 17.1 我们要交付什么（产品视角） 一个 AI 助手 App（跨 iOS/Android/桌面）的"
-    },
-    {
-      "title": "工程文件版本迁移与崩溃恢复：schemaVersion、Migration 链与原子持久化",
-      "url": "https://juejin.cn/post/7689018123110088744",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "flash俊杰",
-      "created_at": "",
-      "summary": "工程文件版本迁移与崩溃恢复：schemaVersion、Migration 链与原子持久化 一、版本号：迁移的唯一锚点 document 的第一个字段就是版本： z.literal(1) 的含义：当前"
-    },
-    {
-      "title": "Webpack 构建流程解析",
-      "url": "https://juejin.cn/post/7689299285138653220",
+      "title": "Redis 核心数据结构（四）——Set 与 Sorted Set，去重与排名神器",
+      "url": "https://juejin.cn/post/7689263358286004275",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "Blanche1500",
+      "author": "苏渡苇",
       "created_at": "",
-      "summary": "本文以源码解析为线索，系统讲解了 Webpack 构建流程。包括 module /chunk/bundle 的关系、 Compiler与 Compilation职责、webpack 构建的生命周期等。"
+      "summary": "本次导航 Set：无序、唯一 Sorted Set：带分数的 Set，按分数排序 核心命令：SADD、SINTER、ZADD、ZRANGE、ZRANK 内部编码：intset vs hashtable"
     },
     {
-      "title": "你的 Type Guard 可能会悄悄地与 TypeScript 类型发生偏移 🔧",
-      "url": "https://juejin.cn/post/7689018123110350888",
+      "title": "OctaFuse Gateway 2.12.0：供应商账号管理、路由工作区与多模态入口发现",
+      "url": "https://juejin.cn/post/7689077368330108979",
       "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
+      "score": 95,
+      "raw_score": 3,
       "comments": 0,
-      "author": "nyaomaru",
+      "author": "程序猿DD",
       "created_at": "",
-      "summary": "Hoi hoi! 👋 我是 @nyaomaru，一名前端工程师，刚从荷兰的小岛 Texel 短暂旅行回来。😸🏝️ 今天想聊聊一个看起来非常安全的 Type Guard。 看起来没问题，对吧？ Type"
+      "summary": "接入的模型和供应商多了，日常维护常常要在几个地方来回查：哪个账号还有额度，某个模型走了哪些路由，新模型应该用哪个接口。出门没带电脑时，临时处理配置也不方便。 OctaFuse Gateway 2.12"
     },
     {
-      "title": "ai agent --- LangSmith 全链路观测",
-      "url": "https://juejin.cn/post/7689051019112497206",
+      "title": "检测数据异常值的五种统计技术",
+      "url": "https://juejin.cn/post/7689305673976823835",
       "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
+      "score": 95,
+      "raw_score": 3,
       "comments": 0,
-      "author": "snow来了",
+      "author": "databook",
       "created_at": "",
-      "summary": "一.LangSmith是什么 概念 LLM 应用的痛点是：代码能跑通，如果结果不对，你根本不知道错在哪里。 一次 Agent 内部可能会调用很多次模型推理、RAG 检索、工具调用、子 Agent 分发"
-    },
-    {
-      "title": "为什么有管理员权限，Token正确，访问却是403",
-      "url": "https://juejin.cn/post/7688982503374307364",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "用户54469339256",
-      "created_at": "",
-      "summary": "http://localhost:8080/users?page=1&size=5访问 Bearer 返回403 http://localhost:8080/auth/me 返回如下： Permiss"
-    },
-    {
-      "title": "macOS27 上可变界面尺寸 iOS App 揭秘",
-      "url": "https://juejin.cn/post/7689263358284955699",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "大熊猫侯佩",
-      "created_at": "",
-      "summary": "把一个 iOS App 放到 Mac 上运行，拖动窗口边缘，变的只有宽高吗？ 在 macOS 27 上做了一次小实验，答案颇有意味：随着用户调整窗口大小，SwiftUI 环境中的 Size Class"
-    },
-    {
-      "title": "QML TableView：自定义样式与排序表格",
-      "url": "https://juejin.cn/post/7689091429971492899",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "Quz",
-      "created_at": "",
-      "summary": "这篇文章介绍2个例子：第一个例子做一个商品价格表，展示样式的应用；第二个例子在它的基础上加上排序功能。"
-    },
-    {
-      "title": "Docker 实战部署：从本地镜像到云服务器，一篇走通 FastAPI + Celery + MySQL + Redis + Nginx",
-      "url": "https://juejin.cn/post/7689030783365693466",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "EatFans",
-      "created_at": "",
-      "summary": "Docker 实战部署：从本地镜像到云服务器，一篇走通 FastAPI + Celery + MySQL + Redis + Nginx 一、前言 最近在部署自己的实际项目时，我将原本散落在本地开发环"
-    },
-    {
-      "title": "QML TableView：可编辑表格与 SQLite 数据持久化",
-      "url": "https://juejin.cn/post/7689018123110776872",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
-      "comments": 0,
-      "author": "Quz",
-      "created_at": "",
-      "summary": "表格光好看还不够，很多场景下还得能直接改数据、能存到数据库。直接在单元格里编辑比弹个框改要顺手得多，而 SQLite 作为轻量级嵌入式数据库，跟 Qt 配合起来也很方便。"
-    },
-    {
-      "title": "每天认识一个组件：向量化计算加速Apache Auron",
-      "url": "https://juejin.cn/post/7689091429971591203",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "大大大大晴天",
-      "created_at": "",
-      "summary": "Apache Auron的核心价值，是在保留Spark等分布式计算框架生态的同时把可支持的SQL/DataFrame执行片段迁移到Rust、Arrow和DataFusion组成的原生向量化执行路径中。"
+      "summary": "处理数据的时候，最让人头大的往往不是复杂的模型调参，而是那些藏在角落里的异常值。 你是不是也遇到过这种糟心事：明明业务逻辑看着没毛病，一跑统计指标就飘红；或者模型效果突然断崖式下跌，排查半天发现是几个"
     }
   ]
 }
