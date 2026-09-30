@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-09-29T17:16:55.020550+00:00",
+  "updated_at": "2026-09-30T03:01:52.745950+00:00",
   "articles": [
     {
-      "title": "突发！字节内部大调整，QA直接转研发了？",
-      "url": "https://juejin.cn/post/7689818941397778478",
-      "source": "juejin",
-      "score": 722,
-      "raw_score": 4099,
-      "comments": 11,
-      "author": "狂师",
-      "created_at": "",
-      "summary": "最近，字节公司，部分测试团队，在推行 QA 转研发的事情在圈里闹的沸沸扬扬的。 有的团队直接做了 QA 和 RD 的序列合并。节奏上分批走，有的团队今年就转，有的排到明年；RD序列整体要求更高..."
-    },
-    {
-      "title": "DeepSeek Harness 官方桌面端终于有了！",
-      "url": "https://juejin.cn/post/7690512501442625570",
-      "source": "juejin",
-      "score": 610,
-      "raw_score": 1126,
-      "comments": 0,
-      "author": "JavaGuide",
-      "created_at": "",
-      "summary": "DeepSeek Harness 官方的桌面端终于有了！ 桌面版自带运行环境，不需要先装 Node.js，也不用每次开终端启动服务。装好、配好账号或 API Key，就能让它读取本地文件、修改代码、整"
-    },
-    {
-      "title": "别急着买大模型——老板能看懂的落地路线图",
-      "url": "https://juejin.cn/post/7690730050313257001",
-      "source": "juejin",
-      "score": 562,
-      "raw_score": 651,
-      "comments": 0,
-      "author": "TechLearn",
-      "created_at": "",
-      "summary": "从\"买了 AI\"到\"用上 AI\"：企业 AI 底座落地深度指南 导读：这篇文章想帮你解决什么 如果你是一位企业老板，过去一年大概听过无数遍\"AI 要颠覆一切\"。"
-    },
-    {
-      "title": "读懂LangGraph 的分支执行逻辑",
-      "url": "https://juejin.cn/post/7690468159975637038",
-      "source": "juejin",
-      "score": 562,
-      "raw_score": 652,
-      "comments": 0,
-      "author": "Dragon_xjy",
-      "created_at": "",
-      "summary": "一个 AI 请求只有一个答案时，流程很直；一旦同一输入要走几个方向，代码就像突然遇到一组路口：选哪条路、哪些路能同时走、最后在哪里汇合。LangGraph 把这些路口变成可以运行的图。 先分清两种分支"
-    },
-    {
-      "title": "从程序员到一人公司创业者：这一年半我经历了什么",
-      "url": "https://juejin.cn/post/7690776567971872768",
-      "source": "juejin",
-      "score": 348,
-      "raw_score": 55,
-      "comments": 1,
-      "author": "后端小肥肠",
-      "created_at": "",
-      "summary": "小红书训练营在9月25号结营了，变现统计成果让人欣慰，参加人数46，填写变现统计表的人有18，变现人数占比 40%。"
-    },
-    {
-      "title": "Skill 体检：30 个 Skill 全凭感觉？体检器先自曝了 8 个“假 0 分",
-      "url": "https://juejin.cn/post/7690797132370427919",
-      "source": "juejin",
-      "score": 334,
-      "raw_score": 47,
-      "comments": 0,
-      "author": "莪_幻尘",
-      "created_at": "",
-      "summary": "Skill 体检：30 个 Skill 全凭感觉？体检器先自曝了 8 个“假 0 分” 一、先说说我为什么需要一个体检器 1. 从\"写了 3 个 Skill\"到\"写歪了 30 个\" 大概半年前，我开始"
-    },
-    {
-      "title": "AI Native 团队完整开发落地手册",
-      "url": "https://juejin.cn/post/7690779187615563776",
-      "source": "juejin",
-      "score": 326,
-      "raw_score": 43,
-      "comments": 0,
-      "author": "tingke",
-      "created_at": "",
-      "summary": "2026 年 8 月，Anthropic 发布《The AI-native SDLC Playbook》。它讨论的不是模型能写多少代码，而是另一个更现实的问题：Agent 已经能在几小时内生成大量代码"
-    },
-    {
-      "title": "NVIDIA 又开源了！这次给 AI Agent 加上权限管控",
-      "url": "https://juejin.cn/post/7690756305615224867",
-      "source": "juejin",
-      "score": 322,
-      "raw_score": 41,
-      "comments": 0,
-      "author": "JavaGuide",
-      "created_at": "",
-      "summary": "让 Coding Agent 修一个 Bug，往往要给它读代码、改文件、装依赖、调用 API 的权限。任务交出去以后，又会惦记另一件事：它会不会读到不该读的文件，把密钥带进某个请求，或者连上一个根本用"
-    },
-    {
       "title": "隔离内网下 AI Agent 工程实战",
-      "url": "https://juejin.cn/post/7690784318688297010",
+      "url": "https://juejin.cn/post/7690505279806373931",
       "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
-      "comments": 0,
+      "score": 415,
+      "raw_score": 119,
+      "comments": 2,
       "author": "SFLYQ",
       "created_at": "",
-      "summary": "一、前言 好长一段时间不写文章了，又到国庆长假，是时候整理下最近对 AI 工程化上的一些心得进行总结和分享； 在 AI 的时代浪潮里写文章的门槛变低了很多，AI渲染、AI 代笔； 能真正愿意花费时间，"
+      "summary": "好长一段时间不写文章了，又到国庆长假，是时候整理下最近对 AI 工程化上的一些心得进行总结和分享：隔离内网下 AI Agent 工程实战"
     },
     {
-      "title": "并发模式：让渲染学会排队、插队和让路",
-      "url": "https://juejin.cn/post/7690799816373878811",
+      "title": "从零做一个可视化规则引擎：Vue3 递归条件树 + 双引擎结果对比",
+      "url": "https://juejin.cn/post/7690799816373583899",
       "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
+      "score": 324,
+      "raw_score": 42,
       "comments": 0,
-      "author": "前端阿凡",
+      "author": "miss",
       "created_at": "",
-      "summary": "Day15 拆过 Fiber，说它让渲染\"可中断\"；Day16 顺着 Fiber 讲了 Hooks 的跨渲染记忆从哪来。今天把\"可中断\"三个字兑现成真实产品能力，也就是 React 18 的并发特性。"
+      "summary": "把规则编写权从开发交还给业务：Vue3 可视化编辑器如何用递归条件树产出引擎原生 JSON，并解决非短路求值、三态 trace、fail-closed 命中闸门与双引擎语义对比。"
     },
     {
-      "title": "Jev、Kev、Laya：决策模型怎么选，什么时候需要微调？",
-      "url": "https://juejin.cn/post/7690832227404300351",
+      "title": "实战 Jev-Style-Qwen3.5-2B：从 CPU 3 秒到 GPU 100ms",
+      "url": "https://juejin.cn/post/7690781115092992027",
+      "source": "juejin",
+      "score": 298,
+      "raw_score": 31,
+      "comments": 0,
+      "author": "海边捡石子",
+      "created_at": "",
+      "summary": "20 条商城咨询同题对比：Jev-Style-Qwen3.5-2B 全对，laya 15/20；A10 GPU 单次约 100ms，纯 CPU 约 3 秒，附魔搭 GPU 部署踩坑。"
+    },
+    {
+      "title": "Pro 200 额度砍半，OpenAI 给的理由是模型变聪明了",
+      "url": "https://juejin.cn/post/7690867753125199907",
+      "source": "juejin",
+      "score": 251,
+      "raw_score": 18,
+      "comments": 0,
+      "author": "ZzT",
+      "created_at": "",
+      "summary": "Pro 200 的 Codex 额度从 Plus 的 20 倍降到 10 倍，价格不变。按每份 Plus 额度计算，新 Pro 200 和 Pro 500 都是 20 美元，和 Plus 本身一样贵。"
+    },
+    {
+      "title": "一、从脚本到服务：LangGraph 的三条部署路径",
+      "url": "https://juejin.cn/post/7690807431081721890",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "杨杨杨大侠",
+      "author": "李溪白",
       "created_at": "",
-      "summary": "对比 Jev、Kev、Laya 的接口、底座与部署方式，辨析准确率、延迟和 confidence 的测量条件，说明什么时候该补齐输入、调整阈值或进行领域微调，并给出业务评测的起点。"
+      "summary": "LangGraph 本质是一个有状态的 Python 应用，部署的核心矛盾是：HTTP 是无状态的，但图是有状态的。所以部署方案怎么选，取决于你愿不愿意自己管\"状态\"。 路径 1：LangServe "
     },
     {
-      "title": "Linear 用 1000 个 PR 换掉 styled-components，我写了 200 个按钮，把这笔账复现了一遍",
-      "url": "https://juejin.cn/post/7690832227404038207",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "Flynt",
-      "created_at": "",
-      "summary": "200 组合实测：styled-components 首渲 199 个 hash 类、17.4KB 注入；StyleX 仅 32 原子类、零注入，子选择器编译报错。Linear 这笔账，机制上是真的。"
-    },
-    {
-      "title": "《小项目实战 1：用 AI 从零搭一个 API 服务》",
-      "url": "https://juejin.cn/post/7690876134209044526",
+      "title": "Muzzle：给 Java Agent 戴上的\"安全口罩\"",
+      "url": "https://juejin.cn/post/7690827881904308262",
       "source": "juejin",
       "score": 180,
       "raw_score": 8,
+      "comments": 0,
+      "author": "一帅",
+      "created_at": "",
+      "summary": "--- theme: channing-cyan --- > 当你的 Agent 在凌晨三点把生产环境搞崩了，你会希望有人早点告诉你——这个库版本不兼容。 ## 一、一个深夜的故事 凌晨三点，你的手机"
+    },
+    {
+      "title": "LangGraph 并行执行与异步优化",
+      "url": "https://juejin.cn/post/7690797132370804751",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "李溪白",
+      "created_at": "",
+      "summary": "先说结论：LangGraph 的并行不是\"魔法\"，它依赖两个前提——节点之间无数据依赖 + 调用异步接口（ainvoke/astream） 。满足这两点，框架会自动把无依赖的节点放进同一个 Super"
+    },
+    {
+      "title": "VirtualField：给别人的类\"缝口袋\"的全过程",
+      "url": "https://juejin.cn/post/7690839722768760841",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "一帅",
+      "created_at": "",
+      "summary": "一、一个看似不可能的需求 假设你在写一个可观测性 Agent。现在有个再普通不过的场景： 用户发了一个 HTTP 请求，线程 A 处理它，中途 executor.submit(() -> callDa"
+    },
+    {
+      "title": "Claude Opus 5.5 最新焚诀发布了！",
+      "url": "https://juejin.cn/post/7690930433831354378",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "沉默王二",
+      "created_at": "",
+      "summary": "拆解 Claude 官方的 Opus 5.5 使用指南，面向 Claude Code 用户讲清楚 effort 档位怎么选、提示词怎么写终点线、长任务怎么不中途停下、Sub-agent 怎么拆活、被切"
+    },
+    {
+      "title": "InDy Advice：用一行 invokedynamic，把 Agent 藏进\"平行宇宙\"",
+      "url": "https://juejin.cn/post/7690827881904324646",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "一帅",
+      "created_at": "",
+      "summary": "一、一个\"看起来很干净\"的崩溃 先讲个故事。 你维护着一个 Java Agent。某个周五下午，你收到一条用户反馈： 第一次看到这个报错的人，大脑会短路两秒：同一个类，为什么不能转成它自己？ 答案只有"
+    },
+    {
+      "title": "大象无形：OTel Java Agent 的隐身哲学",
+      "url": "https://juejin.cn/post/7690827881904275494",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "一帅",
+      "created_at": "",
+      "summary": "一、引言：Java Agent，看似魔法，实则苦力活 如果你在 Java 圈子混过几年，大概率见过这行启动参数： 加上这一行，你的应用就像被施了魔法 — 所有 HTTP 请求、数据库查询、gRPC 调"
+    },
+    {
+      "title": "飞书数据的 AI 管道：从企业 IM 到结构化知识",
+      "url": "https://juejin.cn/post/7690790028525764662",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "feiyu_gao",
+      "created_at": "",
+      "summary": "企业 IM 是管理者每天接触最多的数据源——但它的数据是散的、乱的、流动的。如何把飞书的消息/日历/文档/妙记变成 AI Agent 可消费的结构化输入？这是我的实践。"
+    },
+    {
+      "title": "小项目实战 2：让 AI 帮你补齐接口设计和异常处理",
+      "url": "https://juejin.cn/post/7690930433831518218",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
       "comments": 0,
       "author": "全栈弄潮儿",
       "created_at": "",
-      "summary": "开篇 从今天开始，我们用 4 篇文章完成一个小项目：任务清单 API 服务。 这不是为了让 AI 一次性生成一个“看起来很完整”的项目，而是观察一项真实开发任务应该怎样分阶段完成。"
+      "summary": "开篇 上一篇文章，我们用 AI 搭出了任务清单 API 的第一版骨架。 服务能启动，并不代表接口已经设计完成。真正开始联调后，下面这些问题很快就会出现： 创建任务失败时，返回什么结构？"
     },
     {
-      "title": "KingbaseES KSQL Developer 的连接管理、数据处理与对象管理",
-      "url": "https://juejin.cn/post/7690793461680930857",
+      "title": "游戏引擎原理与实践 02：揭开3A游戏背后的技术面纱",
+      "url": "https://juejin.cn/post/7690876134208749614",
       "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
+      "score": 120,
+      "raw_score": 4,
       "comments": 0,
-      "author": "笃行_其道",
+      "author": "软件科学_郝学胜",
       "created_at": "",
-      "summary": "写在前面 先说说我遇到的情况。手头要维护的数据库不止一种，KingbaseES、MySQL、Oracle 都有。每换一种库就要打开对应的客户端，连接参数记了一堆，还老填错。用命令行倒是到哪都统一，可语"
+      "summary": "想要从零手写一套完整强大的 3D 游戏引擎，对于个人开发者而言几乎是一件遥不可及的事情。好在开源生态蓬勃发展，我们不必重复造轮子，掌握引擎的修改与二次开发能力，就足以支撑绝大多数游戏创作"
     },
     {
-      "title": "金仓 KingbaseES PL/SQL 开发全攻略：异常处理、数据类型、调试优化与过程语句",
-      "url": "https://juejin.cn/post/7690832227404087359",
+      "title": "LangSmith 评测闭环：让 LLM 当裁判，量化你的 Agent 好不好",
+      "url": "https://juejin.cn/post/7690836203889393718",
       "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
+      "score": 95,
+      "raw_score": 3,
       "comments": 0,
-      "author": "笃行_其道",
+      "author": "不好听613",
       "created_at": "",
-      "summary": "写在前面 PL/SQL 是 KingbaseES 在 SQL 上做的过程化扩展，把 SQL 操作数据的能力和过程语言控制流程的能力揉到了一块。跟纯 SQL 比，它能写更绕的业务逻辑，出了错也能把控制权"
+      "summary": "上一篇我们让应用\"看得见\"了。但看得见之后，一个更扎心的问题冒出来： 靠肉眼一条条看，不靠谱也不可复现。你需要一个可量化的评测闭环——而这就是 LangSmith 的第二个核心能力。 一、三步闭环：先"
     }
   ]
 }
