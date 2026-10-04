@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-04T03:25:56.067618+00:00",
+  "updated_at": "2026-10-04T16:10:01.554179+00:00",
   "articles": [
     {
-      "title": "前端转 NestJS 全栈实践：从表单页面到微信业务系统",
-      "url": "https://juejin.cn/post/7691774360802164751",
+      "title": "Step 5 Preview 实测：和 DeepSeek V4 Pro、GLM5.3 同做一个 3D 游戏",
+      "url": "https://juejin.cn/post/7688265188425973775",
       "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
+      "score": 884,
+      "raw_score": 26424,
       "comments": 0,
-      "author": "花旗蜕变",
+      "author": "猫猫头啊",
       "created_at": "",
-      "summary": "团队后端只有两个人，我从表单项目开始，用 NestJS + AI 实践全栈开发。本文结合 mjoptim-form，分享字段联动、服务端校验、支付幂等、业务模型与 AI 协作方法。"
+      "summary": "最近在 WorkBuddy 里面又测试了一个新模型：Step 5 Preview。 从官方给出的定位来看，Step 5 Preview 是一款面向真实 Agentic 任务的旗舰模型，重点放在软件工程"
     },
     {
-      "title": "当 Agent 框架开始「交钥匙」——DeepAgents 系列之一",
-      "url": "https://juejin.cn/post/7692113400566431763",
+      "title": "用纯 Java 做一个企业级 Agent Harness 平台：BizBuddy 的设计与取舍",
+      "url": "https://juejin.cn/post/7692084224499367971",
       "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
+      "score": 308,
+      "raw_score": 35,
       "comments": 0,
-      "author": "不好听613",
+      "author": "长弓三石",
       "created_at": "",
-      "summary": "先看一个现实的坑 假设你要做一个\"能查资料、能写文件、能分步办事\"的研究助手。用最朴素的 createAgent 起手： 跑起来很快就能发现问题——它只会搜索，不会记笔记。 于是你把搜索到的东西全塞进"
+      "summary": "BizBuddy 是纯 Java 的企业级 Agent Harness 平台：以 AgentScope 2.0.3 为智能体内核、RuoYi-Vue-Plus 为业务底座，落地入口智能体小Z、专家路由"
     },
     {
-      "title": "Redis List 是链表吗？从 Ziplist 到 Quicklist 揭开底层实现",
-      "url": "https://juejin.cn/post/7692087017224028194",
+      "title": "ai agent --- 文件存储",
+      "url": "https://juejin.cn/post/7692274273326579748",
       "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
+      "score": 295,
+      "raw_score": 30,
       "comments": 0,
-      "author": "imDwAaY",
+      "author": "snow来了",
       "created_at": "",
-      "summary": "先回答标题里那个问题：List 是链表吗？ 严格说，3.2 之后的 List 是\"链表 + 紧凑数组\"拼起来的东西，叫 quicklist。它整体是一条双向链表，但链表的每个节点里装的不是一个元素，而"
+      "summary": "在和ai会话的时候我们总会给他一堆文件要他处理，有图片，word，excel，pdf等等。会话结束后，在历史会话里面，如何拿到这个文件，就成了问题。文件必须要存储在一个地方，这个地方就是对象数据库。 "
     },
     {
-      "title": "简历写「QPS 提升 3 倍」，面试官问「怎么压测的」，我卡在并发数怎么定",
-      "url": "https://juejin.cn/post/7692042894161723427",
+      "title": "把 AgentScope Harness 装进 RuoYi-Vue-Plus：纯 Java AI 平台的集成实践",
+      "url": "https://juejin.cn/post/7692296625805688872",
+      "source": "juejin",
+      "score": 292,
+      "raw_score": 29,
+      "comments": 0,
+      "author": "长弓三石",
+      "created_at": "",
+      "summary": "装配期白名单裁剪、Redis 状态存储、技能仓库只读接入、MCP 双向与工具名归一化、会话级资源集，以及四个真实踩坑与规避。"
+    },
+    {
+      "title": "Loop Engineering 保姆级教程 + 项目实战",
+      "url": "https://juejin.cn/post/7692336657548279842",
+      "source": "juejin",
+      "score": 286,
+      "raw_score": 27,
+      "comments": 0,
+      "author": "hsfxuebao",
+      "created_at": "",
+      "summary": "AI 编程圈又又又出新概念了…… 这次的起因是 Claude Code 之父 Boris Cherny 在最新访谈中说： 紧接着，OpenClaw 之父 Peter Steinberger 也发推表示"
+    },
+    {
+      "title": "🚦 请三个 AI 考官给 RAG 打分：量化评估实战（下）",
+      "url": "https://juejin.cn/post/7692372427896930350",
+      "source": "juejin",
+      "score": 286,
+      "raw_score": 27,
+      "comments": 0,
+      "author": "默_笙",
+      "created_at": "",
+      "summary": "一、评估第一步：把标准答案整理成\"题库\" 要考试，先得有标准答案。build_dataset.mjs 就是建题库。 12 道客服题 这 12 条测试数据的设计水平很高，值得单独说一说。 完整清单： 问"
+    },
+    {
+      "title": "diff 算法（虚拟 DOM Reconciliation）",
+      "url": "https://juejin.cn/post/7692296625806229544",
+      "source": "juejin",
+      "score": 282,
+      "raw_score": 26,
+      "comments": 0,
+      "author": "前端阿凡",
+      "created_at": "",
+      "summary": "一、技术难点：为什么\"算最小改动\"这么难 Diff 要解决的问题可以一句话说清：给定新旧两棵节点树，找出把旧树变成新树所需要的最少操作序列（增、删、移）。难就难在这个\"最少\"上。 难点一：理论最优解，"
+    },
+    {
+      "title": "Muse 登顶 App Store 第一，SDK 直接开源：AI Agent 开始进入下一个阶段",
+      "url": "https://juejin.cn/post/7692296625806508072",
+      "source": "juejin",
+      "score": 279,
+      "raw_score": 25,
+      "comments": 0,
+      "author": "前端小小栈",
+      "created_at": "",
+      "summary": "Muse 登顶 App Store 第一并开源 SDK，意味着 AI Agent 正从单一 App 走向开发者生态，并进一步连接硬件与现实世界，Agent 平台时代正在加速到来。"
+    },
+    {
+      "title": "SpringBoot自动配置坑了我一把，原来是这样绕过去的",
+      "url": "https://juejin.cn/post/7692296625806032936",
+      "source": "juejin",
+      "score": 276,
+      "raw_score": 24,
+      "comments": 0,
+      "author": "阿橙的百宝箱",
+      "created_at": "",
+      "summary": "上周五凌晨，我们的支付对账服务突然开始疯狂打印的报错。监控大盘显示数据库连接池活跃连接数归零，而流量明明没有任何波动——这场景是不是让你想起某个不眠夜？ 现象：自动配置的\"智能\"成了定时炸弹 "
+    },
+    {
+      "title": "2.skill",
+      "url": "https://juejin.cn/post/7692329472502284298",
+      "source": "juejin",
+      "score": 268,
+      "raw_score": 22,
+      "comments": 0,
+      "author": "亮哥666",
+      "created_at": "",
+      "summary": "Agent Skill 核心指南：本质解析、两种存储加载架构与渐进式披露代码实战 一、 Skill 的物理本质剖析 一句话结论：全局 Prompt 决定了 Agent 是个怎样的人（通用性格、通用底线"
+    },
+    {
+      "title": "交叉熵：AI 怎样给概率预测打分",
+      "url": "https://juejin.cn/post/7692336657548165154",
+      "source": "juejin",
+      "score": 251,
+      "raw_score": 18,
+      "comments": 0,
+      "author": "鲁大猿",
+      "created_at": "",
+      "summary": "交叉熵：AI 怎样给概率预测打分 github.com/ludayuan/Lu… 鲁大猿的视频知识库 核心问题：两个模型都把猫认成狗，只记一次“答错”，能看出它们的区别吗？ 一句话答案：交叉熵按照给定"
+    },
+    {
+      "title": "Rust 生命周期：为什么要有它，实际代码里到底怎么用？",
+      "url": "https://juejin.cn/post/7692241923549446198",
+      "source": "juejin",
+      "score": 251,
+      "raw_score": 18,
+      "comments": 0,
+      "author": "BiggFish",
+      "created_at": "",
+      "summary": "第一次看到 Rust 的生命周期标注，很多人都会有一个直接反应： 这里的 'a 到底是什么？它是不是在告诉 Rust，让这两个字符串“活久一点”？如果只是为了让引用活得更久，为什么不让程序自动处理？ "
+    },
+    {
+      "title": "VMware 虚拟机Ubuntu 环境linux远程连接失败",
+      "url": "https://juejin.cn/post/7692229946186973234",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "用户410719201325",
+      "created_at": "",
+      "summary": "问题大概率出在网络连通性或 SSH 服务本身。我们按从外到内的顺序，一步步缩小范围。 🔍 第一步：先看懂报错，确认是哪一层的问题 SSH 连接失败主要分三种情况，报错信息会直接告诉你方向"
+    },
+    {
+      "title": "Redis Cluster主节点挂了，为什么\"高可用\"还全员掉线？我把三次kill的记录翻出来了",
+      "url": "https://juejin.cn/post/7692240106913120310",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
-      "comments": 1,
-      "author": "王中阳讲AI",
-      "created_at": "",
-      "summary": "简历写「QPS 提升 3 倍」，面试官问「怎么压测的」，我卡在并发数怎么定 模拟面试里最常出现的一幕是这样的。 我问：「你简历上写了『优化后 QPS 提升 3 倍』，这个压测是怎么做的？」 对方答得挺"
-    },
-    {
-      "title": "剥开 Agent 开发：参照 pi-agent 实现一个小 Agent",
-      "url": "https://juejin.cn/post/7692387846459736098",
-      "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
       "comments": 0,
-      "author": "_风不会停息",
+      "author": "Flynt",
       "created_at": "",
-      "summary": "本文参照pi-agent框架，通过Java实现剖析了Agent的核心架构，详解了其ReAct循环、流式事件消费、工具编排及打断控制等关键机制。"
+      "summary": "kill主节点错误窗口7.47秒，健康分片照常服务；主节点无从节点时，全集群进fail，健康分片也CLUSTERDOWN。一半是failover窗口，一半是require-full-coverage。"
     },
     {
-      "title": "从三个带病的 Guava 本地缓存出发：Redis + Guava 二级缓存的读写路径与失效设计推演",
-      "url": "https://juejin.cn/post/7691962796809650227",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "知守观",
-      "created_at": "",
-      "summary": "本地 Guava 缓存容量有限，频繁踢用户下线。本文基于真实老项目，拆解 Redis + Guava 二级缓存架构：L1/L2 缓存一致性、过期策略、缓存穿透/击穿/雪崩的完整解决方案。"
-    },
-    {
-      "title": "六种 Hook 与两种范式——DeepAgents 系列之二",
-      "url": "https://juejin.cn/post/7691859218203312169",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "不好听613",
-      "created_at": "",
-      "summary": "先看一个现实的坑 你的 agent 上线了。现在产品经理提了三个需求： \"统计一下模型被调用了几次、花了多少 token。\" \"所有回答统一加一条规则：不许编造数据，不确定就说不确定。\" \"拦截敏感词"
-    },
-    {
-      "title": "在 Claude Code 中让第三方模型作为 subagent 与 Claude 协作",
-      "url": "https://juejin.cn/post/7691876916196065295",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "hdsrhh",
-      "created_at": "",
-      "summary": "token 不够用，闲置配额却不少 我平时主要靠 Claude Code 订阅做开发。放在当下，Claude Fable 5.1 和 Opus 5.5 工作得非常好，说是 SOTA 也不为过。唯一的问"
-    },
-    {
-      "title": "IP102农作物害虫检测数据集 | 4400张YOLO智慧农业数据集",
-      "url": "https://juejin.cn/post/7691613455457288234",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "篱也不篱",
-      "created_at": "",
-      "summary": "IP102农作物害虫检测数据集 | 4400张YOLO智慧农业数据集 适用于农田害虫识别、虫情测报与目标检测研究 一、数据集概述 本数据集为IP102农作物害虫检测数据集的5类精选子集，共包含约440"
-    },
-    {
-      "title": "langchain与langgraph区别以及学习路线",
-      "url": "https://juejin.cn/post/7691713454688256027",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "光影少年",
-      "created_at": "",
-      "summary": "可以把它们先理解成一句话： 如果你准备做 AI Agent / RAG / 多 Agent / 企业级 AI 应用，建议不要把 LangChain 和 LangGraph 当成两个完全独立的东西学，而"
-    },
-    {
-      "title": "植物气孔开闭检测数据集 | 3600张YOLO植物生理数据集",
-      "url": "https://juejin.cn/post/7691962796809044019",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "篱也不篱",
-      "created_at": "",
-      "summary": "植物气孔开闭检测数据集 | 3600张YOLO植物生理数据集 适用于植物生理研究、表型分析与目标检测研究 一、数据集概述 本数据集来源于Roboflow-100生物学基准，对叶片显微图像中的气孔进行开"
-    },
-    {
-      "title": "Go 迭代器的七个坑：break 后 panic、一次性迭代器、iter.Pull 不 stop，还有一个跑错地方的 defer",
-      "url": "https://juejin.cn/post/7691713454689189915",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "福兮说",
-      "created_at": "",
-      "summary": "Go 1.23 正式放出 range-over-func 之后，我陆续把几处\"分页拉数据再拼切片\"的代码改成了 iter.Seq。写起来确实顺手，但也踩了几次，其中一个到现在我都觉得是编译器的问题。 "
-    },
-    {
-      "title": "语言判别增强多语言语音模型的语言学习能力",
-      "url": "https://juejin.cn/post/7691876829276504073",
+      "title": "Aleph Alpha 开源 78B 参数 MoE 模型 Kolibri",
+      "url": "https://juejin.cn/post/7692612898275754010",
       "source": "juejin",
       "score": 95,
       "raw_score": 3,
       "comments": 0,
       "author": "miofly",
       "created_at": "",
-      "summary": "Apple 研究团队发现，在多语言自监督语音模型预训练中引入语言判别机制，可显著缩小多语言模型与单语言模型的性能差距。"
-    },
-    {
-      "title": "给 NAS 办张身份证：飞牛 DDNS 与 HTTPS 证书全流程 🌐",
-      "url": "https://juejin.cn/post/7690799816373829659",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "Tech探索者",
-      "created_at": "",
-      "summary": "不限流量，不限网速访问家中飞牛NAS，这篇以阿里云为例，带你走完“买域名 → 给飞牛 DDNS 授权 → 申请证书”的闭环。操作前请先看一眼文末的“公网入口”提醒：域名和证书不等于已经能从外网连回家"
-    },
-    {
-      "title": "首屏不是 dist：用“加载账本”治理 Vite 的大包",
-      "url": "https://juejin.cn/post/7692087017224601634",
-      "source": "juejin",
-      "score": 60,
-      "raw_score": 2,
-      "comments": 0,
-      "author": "XanderDING",
-      "created_at": "",
-      "summary": "构建产物变大并不等于首屏一定变慢。本文以“用户在什么时刻为哪些代码付费”为主线，建立总产物、初始加载、传输、解析执行与缓存增量的统一测量口径；再通过依赖归因、边界拆分、动态加载和上线验证，形成一套适用"
+      "summary": "德国 AI 实验室 Aleph Alpha 在 10 月 3 日发布开源模型 Kolibri，总参数 78B，每次推理仅激活 3.46B 参数，采用 Apache 2.0 许可证，支持百万 token"
     }
   ]
 }
