@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-04T16:10:01.554179+00:00",
+  "updated_at": "2026-10-05T03:03:57.577976+00:00",
   "articles": [
     {
-      "title": "Step 5 Preview 实测：和 DeepSeek V4 Pro、GLM5.3 同做一个 3D 游戏",
-      "url": "https://juejin.cn/post/7688265188425973775",
+      "title": "Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机",
+      "url": "https://juejin.cn/post/7692379120273899560",
       "source": "juejin",
-      "score": 884,
-      "raw_score": 26424,
+      "score": 322,
+      "raw_score": 41,
       "comments": 0,
-      "author": "猫猫头啊",
+      "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "最近在 WorkBuddy 里面又测试了一个新模型：Step 5 Preview。 从官方给出的定位来看，Step 5 Preview 是一款面向真实 Agentic 任务的旗舰模型，重点放在软件工程"
+      "summary": "最近 Android CLI 正式支持 Android Device Streaming 这个还是挺实用的，等于是现在远程 Android 可以暴露成了一个标准 ADB endpoint 给 Agen"
     },
     {
-      "title": "用纯 Java 做一个企业级 Agent Harness 平台：BizBuddy 的设计与取舍",
-      "url": "https://juejin.cn/post/7692084224499367971",
+      "title": "Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁",
+      "url": "https://juejin.cn/post/7692612898275967002",
       "source": "juejin",
-      "score": 308,
-      "raw_score": 35,
+      "score": 246,
+      "raw_score": 17,
       "comments": 0,
-      "author": "长弓三石",
+      "author": "为你学会写情书",
       "created_at": "",
-      "summary": "BizBuddy 是纯 Java 的企业级 Agent Harness 平台：以 AgentScope 2.0.3 为智能体内核、RuoYi-Vue-Plus 为业务底座，落地入口智能体小Z、专家路由"
+      "summary": "# Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁 > 截至 2026 年，四个框架主导了基于 Pyt"
     },
     {
-      "title": "ai agent --- 文件存储",
-      "url": "https://juejin.cn/post/7692274273326579748",
+      "title": "HTML 转 PDF 方案实战：iTextPDF 与 wkhtmltopdf 踩坑复盘，附 Flying Saucer / openhtmltopdf 选型对比",
+      "url": "https://juejin.cn/post/7692445075250610214",
       "source": "juejin",
-      "score": 295,
-      "raw_score": 30,
+      "score": 229,
+      "raw_score": 14,
       "comments": 0,
-      "author": "snow来了",
+      "author": "知守观",
       "created_at": "",
-      "summary": "在和ai会话的时候我们总会给他一堆文件要他处理，有图片，word，excel，pdf等等。会话结束后，在历史会话里面，如何拿到这个文件，就成了问题。文件必须要存储在一个地方，这个地方就是对象数据库。 "
+      "summary": "真实项目 HTML 转 PDF 踩坑：iText 5 + XML Worker 的 CSS 天花板，wkhtmltopdf 的 SSRF 与进程并发雷，以及最后补做的openhtmltopdf对比。"
     },
     {
-      "title": "把 AgentScope Harness 装进 RuoYi-Vue-Plus：纯 Java AI 平台的集成实践",
-      "url": "https://juejin.cn/post/7692296625805688872",
+      "title": "Agent 能力评测——2026 年基准测试全景与模型真实能力画像",
+      "url": "https://juejin.cn/post/7692641228115410971",
       "source": "juejin",
-      "score": 292,
-      "raw_score": 29,
+      "score": 215,
+      "raw_score": 12,
       "comments": 0,
-      "author": "长弓三石",
+      "author": "为你学会写情书",
       "created_at": "",
-      "summary": "装配期白名单裁剪、Redis 状态存储、技能仓库只读接入、MCP 双向与工具名归一化、会话级资源集，以及四个真实踩坑与规避。"
+      "summary": "Agent 能力评测——2026 年基准测试全景与模型真实能力画像 一、2026 年 Agent 评测的三个关键趋势 2026 年的 Agent 评测领域正在经历三个结构性变化： 第一，基准测试从单一"
     },
     {
-      "title": "Loop Engineering 保姆级教程 + 项目实战",
-      "url": "https://juejin.cn/post/7692336657548279842",
+      "title": "用 744 行替代 Open WebUI：llama.cpp + 本地 Qwen3 聊天栈实录",
+      "url": "https://juejin.cn/post/7692742889170190351",
       "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
+      "score": 215,
+      "raw_score": 12,
       "comments": 0,
-      "author": "hsfxuebao",
+      "author": "alonglong",
       "created_at": "",
-      "summary": "AI 编程圈又又又出新概念了…… 这次的起因是 Claude Code 之父 Boris Cherny 在最新访谈中说： 紧接着，OpenClaw 之父 Peter Steinberger 也发推表示"
+      "summary": "Open WebUI 为「聊天」引入整套应用平台，一断就整体起不来。我换成多层可替换结构：llama.cpp 推理、HTML 界面、Python 落盘、shell 总控——界面加后端合计 744 行。"
     },
     {
-      "title": "🚦 请三个 AI 考官给 RAG 打分：量化评估实战（下）",
-      "url": "https://juejin.cn/post/7692372427896930350",
+      "title": "拿 Codex 协助清理磁盘，Nice!",
+      "url": "https://juejin.cn/post/7692615195568635944",
       "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
+      "score": 180,
+      "raw_score": 8,
       "comments": 0,
-      "author": "默_笙",
+      "author": "粥里有勺糖",
       "created_at": "",
-      "summary": "一、评估第一步：把标准答案整理成\"题库\" 要考试，先得有标准答案。build_dataset.mjs 就是建题库。 12 道客服题 这 12 条测试数据的设计水平很高，值得单独说一说。 完整清单： 问"
+      "summary": "几天不主动清理就会收到满磁盘的警告。前几次是用 Mole， 这次拿 Codex 协助清理磁盘，空间+120G"
     },
     {
-      "title": "diff 算法（虚拟 DOM Reconciliation）",
-      "url": "https://juejin.cn/post/7692296625806229544",
-      "source": "juejin",
-      "score": 282,
-      "raw_score": 26,
-      "comments": 0,
-      "author": "前端阿凡",
-      "created_at": "",
-      "summary": "一、技术难点：为什么\"算最小改动\"这么难 Diff 要解决的问题可以一句话说清：给定新旧两棵节点树，找出把旧树变成新树所需要的最少操作序列（增、删、移）。难就难在这个\"最少\"上。 难点一：理论最优解，"
-    },
-    {
-      "title": "Muse 登顶 App Store 第一，SDK 直接开源：AI Agent 开始进入下一个阶段",
-      "url": "https://juejin.cn/post/7692296625806508072",
-      "source": "juejin",
-      "score": 279,
-      "raw_score": 25,
-      "comments": 0,
-      "author": "前端小小栈",
-      "created_at": "",
-      "summary": "Muse 登顶 App Store 第一并开源 SDK，意味着 AI Agent 正从单一 App 走向开发者生态，并进一步连接硬件与现实世界，Agent 平台时代正在加速到来。"
-    },
-    {
-      "title": "SpringBoot自动配置坑了我一把，原来是这样绕过去的",
-      "url": "https://juejin.cn/post/7692296625806032936",
-      "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
-      "comments": 0,
-      "author": "阿橙的百宝箱",
-      "created_at": "",
-      "summary": "上周五凌晨，我们的支付对账服务突然开始疯狂打印的报错。监控大盘显示数据库连接池活跃连接数归零，而流量明明没有任何波动——这场景是不是让你想起某个不眠夜？ 现象：自动配置的\"智能\"成了定时炸弹 "
-    },
-    {
-      "title": "2.skill",
-      "url": "https://juejin.cn/post/7692329472502284298",
-      "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
-      "comments": 0,
-      "author": "亮哥666",
-      "created_at": "",
-      "summary": "Agent Skill 核心指南：本质解析、两种存储加载架构与渐进式披露代码实战 一、 Skill 的物理本质剖析 一句话结论：全局 Prompt 决定了 Agent 是个怎样的人（通用性格、通用底线"
-    },
-    {
-      "title": "交叉熵：AI 怎样给概率预测打分",
-      "url": "https://juejin.cn/post/7692336657548165154",
-      "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
-      "comments": 0,
-      "author": "鲁大猿",
-      "created_at": "",
-      "summary": "交叉熵：AI 怎样给概率预测打分 github.com/ludayuan/Lu… 鲁大猿的视频知识库 核心问题：两个模型都把猫认成狗，只记一次“答错”，能看出它们的区别吗？ 一句话答案：交叉熵按照给定"
-    },
-    {
-      "title": "Rust 生命周期：为什么要有它，实际代码里到底怎么用？",
-      "url": "https://juejin.cn/post/7692241923549446198",
-      "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
-      "comments": 0,
-      "author": "BiggFish",
-      "created_at": "",
-      "summary": "第一次看到 Rust 的生命周期标注，很多人都会有一个直接反应： 这里的 'a 到底是什么？它是不是在告诉 Rust，让这两个字符串“活久一点”？如果只是为了让引用活得更久，为什么不让程序自动处理？ "
-    },
-    {
-      "title": "VMware 虚拟机Ubuntu 环境linux远程连接失败",
-      "url": "https://juejin.cn/post/7692229946186973234",
-      "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
-      "comments": 0,
-      "author": "用户410719201325",
-      "created_at": "",
-      "summary": "问题大概率出在网络连通性或 SSH 服务本身。我们按从外到内的顺序，一步步缩小范围。 🔍 第一步：先看懂报错，确认是哪一层的问题 SSH 连接失败主要分三种情况，报错信息会直接告诉你方向"
-    },
-    {
-      "title": "Redis Cluster主节点挂了，为什么\"高可用\"还全员掉线？我把三次kill的记录翻出来了",
-      "url": "https://juejin.cn/post/7692240106913120310",
+      "title": "Go time 包的九个坑：== 判断相等、Parse 差 8 小时、1 月 31 日加一个月变成 3 月 3 日",
+      "url": "https://juejin.cn/post/7692739051066245129",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "Flynt",
+      "author": "福兮说",
       "created_at": "",
-      "summary": "kill主节点错误窗口7.47秒，健康分片照常服务；主节点无从节点时，全集群进fail，健康分片也CLUSTERDOWN。一半是failover窗口，一半是require-full-coverage。"
+      "summary": "Go 的 time 包 API 不多，但几乎每个函数都有一个「看起来对、跑起来错」的用法。这篇把九个坑放在一起，每个都附了能直接 go run 的代码和我本机的输出。 环境：Go 1.25.0，dar"
     },
     {
-      "title": "Aleph Alpha 开源 78B 参数 MoE 模型 Kolibri",
-      "url": "https://juejin.cn/post/7692612898275754010",
+      "title": "写到一半被叫去修 bug？别再 stash 了，用 Git Worktree 开张\"新桌子\"",
+      "url": "https://juejin.cn/post/7692534495237275682",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "kevinIcoding",
+      "created_at": "",
+      "summary": "用一个比喻，彻底搞懂 Git Worktree（小白版） 先别管\"worktree\"这词多拗口。读完下面这个比喻，你就懂了。 先把 Git 想成「中央档案室」 假设你单位有个中央档案室，里面锁着公司所"
+    },
+    {
+      "title": "多模态 Agent 如何规划 UI 测试路径",
+      "url": "https://juejin.cn/post/7692379120274358312",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "guslegend",
+      "created_at": "",
+      "summary": "多模态 Agent 如何规划 UI 测试路径 UI 自动化的难点，表面看是脚本维护成本高，深层看是测试设计无法持续跟上系统变化。传统自动化更多是在验证主流程“没坏”，但营销配置类页面真正高风险的地方，"
+    },
+    {
+      "title": "eBPF 开发实践：使用 eBPF 隐藏进程或文件信息",
+      "url": "https://juejin.cn/post/7692741078310912027",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "yunwei37",
+      "created_at": "",
+      "summary": "eBPF（扩展的伯克利数据包过滤器）是 Linux 内核中的一个强大功能，可以在无需更改内核源代码或重启内核的情况下，运行、加载和更新用户定义的代码。这种功能让 eBPF 在网络和系统性能分析、数据包"
+    },
+    {
+      "title": "MySQL 事务、索引与锁：后端开发必须掌握的数据库基础",
+      "url": "https://juejin.cn/post/7692646947434643502",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "弈栈录",
+      "created_at": "",
+      "summary": "本文以 InnoDB 为主要背景，从事务的 ACID 特性和隔离级别开始，介绍 MVCC、B+Tree 索引、聚簇索引、二级索引、行锁、间隙锁和死锁"
+    },
+    {
+      "title": "pytest 写了用例却不跑、fixture 不生效、参数化全失效？9 个高频坑对照表",
+      "url": "https://juejin.cn/post/7692274273327923236",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "小小张说故事",
+      "created_at": "",
+      "summary": "pytest 写了用例却不跑、fixture 不生效、参数化全失效？9 个高频坑对照表 结论先行：pytest 里 90% 的「用例没执行 / fixture 报 not found / 参数化没效果"
+    },
+    {
+      "title": "视野修炼-技术周刊第135期 | 鼠标跟随宠物",
+      "url": "https://juejin.cn/post/7692369572608049187",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "粥里有勺糖",
+      "created_at": "",
+      "summary": "① page-mascot - 灵动的鼠标跟随宠物 ② yoinks - 视频下载工具 CLI 版 ③ Web 常用音效合集 ④ 毁灭你的网站 ⑤ 无限背景音乐"
+    },
+    {
+      "title": "AI Agent 最大的问题，可能不是智商，而是“权限”",
+      "url": "https://juejin.cn/post/7692742889171419151",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "前端小小栈",
+      "created_at": "",
+      "summary": "AI Agent 最大的瓶颈可能不是智商，而是权限。越聪明的 Agent 越需要接触真实数据和系统，未来真正的竞争力，不只是模型能力，更是权限、边界、审批与安全。"
+    },
+    {
+      "title": "告别后台偷跑流量与弹窗失控：基于 WFP 内核驱动深入拆解开源 Fort Firewall 架构与流量管控实战",
+      "url": "https://juejin.cn/post/7692641228115247131",
       "source": "juejin",
       "score": 95,
       "raw_score": 3,
       "comments": 0,
-      "author": "miofly",
+      "author": "TTATTC",
       "created_at": "",
-      "summary": "德国 AI 实验室 Aleph Alpha 在 10 月 3 日发布开源模型 Kolibri，总参数 78B，每次推理仅激活 3.46B 参数，采用 Apache 2.0 许可证，支持百万 token"
+      "summary": "告别后台偷跑流量与弹窗失控：基于 WFP 内核驱动深入拆解开源 Fort Firewall 架构与流量管控实战"
     }
   ]
 }
