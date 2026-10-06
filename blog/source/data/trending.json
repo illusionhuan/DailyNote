@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-05T03:03:57.577976+00:00",
+  "updated_at": "2026-10-06T03:53:04.497504+00:00",
   "articles": [
     {
-      "title": "Android CLI 支持 AI Agent 通过 Device Streaming 调试云真机",
-      "url": "https://juejin.cn/post/7692379120273899560",
-      "source": "juejin",
-      "score": 322,
-      "raw_score": 41,
-      "comments": 0,
-      "author": "恋猫de小郭",
-      "created_at": "",
-      "summary": "最近 Android CLI 正式支持 Android Device Streaming 这个还是挺实用的，等于是现在远程 Android 可以暴露成了一个标准 ADB endpoint 给 Agen"
-    },
-    {
-      "title": "Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁",
-      "url": "https://juejin.cn/post/7692612898275967002",
-      "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
-      "comments": 0,
-      "author": "为你学会写情书",
-      "created_at": "",
-      "summary": "# Agent 开发框架深度对比——LangGraph、AutoGen、CrewAI 与 Microsoft Agent Framework 该选谁 > 截至 2026 年，四个框架主导了基于 Pyt"
-    },
-    {
-      "title": "HTML 转 PDF 方案实战：iTextPDF 与 wkhtmltopdf 踩坑复盘，附 Flying Saucer / openhtmltopdf 选型对比",
-      "url": "https://juejin.cn/post/7692445075250610214",
-      "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
-      "comments": 0,
-      "author": "知守观",
-      "created_at": "",
-      "summary": "真实项目 HTML 转 PDF 踩坑：iText 5 + XML Worker 的 CSS 天花板，wkhtmltopdf 的 SSRF 与进程并发雷，以及最后补做的openhtmltopdf对比。"
-    },
-    {
-      "title": "Agent 能力评测——2026 年基准测试全景与模型真实能力画像",
-      "url": "https://juejin.cn/post/7692641228115410971",
-      "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
-      "comments": 0,
-      "author": "为你学会写情书",
-      "created_at": "",
-      "summary": "Agent 能力评测——2026 年基准测试全景与模型真实能力画像 一、2026 年 Agent 评测的三个关键趋势 2026 年的 Agent 评测领域正在经历三个结构性变化： 第一，基准测试从单一"
-    },
-    {
-      "title": "用 744 行替代 Open WebUI：llama.cpp + 本地 Qwen3 聊天栈实录",
-      "url": "https://juejin.cn/post/7692742889170190351",
-      "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
-      "comments": 0,
-      "author": "alonglong",
-      "created_at": "",
-      "summary": "Open WebUI 为「聊天」引入整套应用平台，一断就整体起不来。我换成多层可替换结构：llama.cpp 推理、HTML 界面、Python 落盘、shell 总控——界面加后端合计 744 行。"
-    },
-    {
-      "title": "拿 Codex 协助清理磁盘，Nice!",
-      "url": "https://juejin.cn/post/7692615195568635944",
+      "title": "LangGraph Multi-Agent案例讲解",
+      "url": "https://juejin.cn/post/7692743066844758025",
       "source": "juejin",
       "score": 180,
       "raw_score": 8,
       "comments": 0,
-      "author": "粥里有勺糖",
+      "author": "Oiooohuohuo",
       "created_at": "",
-      "summary": "几天不主动清理就会收到满磁盘的警告。前几次是用 Mole， 这次拿 Codex 协助清理磁盘，空间+120G"
+      "summary": "LangGraph Multi-Agent CASE项目，整个项目基于AI快速开发，本文通过讲解该项目设计思路并学习相关langgraph的知识内容"
     },
     {
-      "title": "Go time 包的九个坑：== 判断相等、Parse 差 8 小时、1 月 31 日加一个月变成 3 月 3 日",
-      "url": "https://juejin.cn/post/7692739051066245129",
+      "title": "对于人在回路（HITL）的一些理解",
+      "url": "https://juejin.cn/post/7692440533923102739",
       "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
+      "score": 180,
+      "raw_score": 8,
       "comments": 0,
-      "author": "福兮说",
+      "author": "小盆女神节奶粉",
       "created_at": "",
-      "summary": "Go 的 time 包 API 不多，但几乎每个函数都有一个「看起来对、跑起来错」的用法。这篇把九个坑放在一起，每个都附了能直接 go run 的代码和我本机的输出。 环境：Go 1.25.0，dar"
+      "summary": "本文基于中医馆随访助理场景，实操解析 LangGraph 人在回路与中断机制，拆解链路节点、状态生长、四种人工决策逻辑，总结核心原理与实操踩坑要点。"
     },
     {
-      "title": "写到一半被叫去修 bug？别再 stash 了，用 Git Worktree 开张\"新桌子\"",
-      "url": "https://juejin.cn/post/7692534495237275682",
+      "title": "Caffeine 快到 1450 万 ops/s，为什么我还是不敢说数据一致",
+      "url": "https://juejin.cn/post/7692440533923151891",
       "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
+      "score": 169,
+      "raw_score": 7,
       "comments": 0,
-      "author": "kevinIcoding",
+      "author": "后端LV",
       "created_at": "",
-      "summary": "用一个比喻，彻底搞懂 Git Worktree（小白版） 先别管\"worktree\"这词多拗口。读完下面这个比喻，你就懂了。 先把 Git 想成「中央档案室」 假设你单位有个中央档案室，里面锁着公司所"
+      "summary": "Caffeine 能把本地缓存命中做到千万级 ops/s，但多级缓存真正的难点不在读，而在失效：回填竞态、双删窗口、广播丢消息、binlog 与 TTL 兜底。这篇用实测数据拆清每个机制能解决什么、解"
     },
     {
-      "title": "多模态 Agent 如何规划 UI 测试路径",
-      "url": "https://juejin.cn/post/7692379120274358312",
+      "title": "AI 编程智能体 06：用Anaconda搞定Python多环境，彻底告别版本兼容灾难",
+      "url": "https://juejin.cn/post/7692739051067293705",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "软件科学_郝学胜",
+      "created_at": "",
+      "summary": "前言 在AI智能体飞速发展的当下，很多技术爱好者都囤积了满满网盘的教程，熟记智能体、大模型、Agent协作等各类专业概念。但绝大多数人都卡在了同一个难题：理论滚瓜烂熟，实操寸步难行。 其实道理很简单："
+    },
+    {
+      "title": "明明在赋值前读取，为什么还报 UnboundLocalError？——从 CPython 符号表拆解函数级作用域",
+      "url": "https://juejin.cn/post/7692500213994618921",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "含光",
+      "created_at": "",
+      "summary": "函数里给变量赋值后整个函数都报 UnboundLocalError？从 CPython 符号表拆解编译期作用域规则，附 5 种可复制的修法。"
+    },
+    {
+      "title": "只填了个模型地址，5 秒就被接管——Open WebUI 攻击链拆解与「被拒 CVE」的坑",
+      "url": "https://juejin.cn/post/7692614083904421942",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "含光",
+      "created_at": "",
+      "summary": "只填一个模型地址，5 秒被接管。拆解 Open WebUI 从 CVE-2025-64496 到内部网络访问的三类风险，附 12 项可落地的加固清单。"
+    },
+    {
+      "title": "MQTT 客户端反复重连怎么办？Spring Boot 接 EMQX 断线重连踩坑实录",
+      "url": "https://juejin.cn/post/7692739051067392009",
       "source": "juejin",
       "score": 139,
       "raw_score": 5,
       "comments": 0,
-      "author": "guslegend",
+      "author": "LiuYanG",
       "created_at": "",
-      "summary": "多模态 Agent 如何规划 UI 测试路径 UI 自动化的难点，表面看是脚本维护成本高，深层看是测试设计无法持续跟上系统变化。传统自动化更多是在验证主流程“没坏”，但营销配置类页面真正高风险的地方，"
+      "summary": "先看一段真实的事故现场 下面这段日志摘自我自己项目的真实运行日志（app-run.log，一字未改）： 注意第二行的线程名 [thub-server-001]——这是 Paho 客户端自己的连接线程；"
     },
     {
-      "title": "eBPF 开发实践：使用 eBPF 隐藏进程或文件信息",
-      "url": "https://juejin.cn/post/7692741078310912027",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "yunwei37",
-      "created_at": "",
-      "summary": "eBPF（扩展的伯克利数据包过滤器）是 Linux 内核中的一个强大功能，可以在无需更改内核源代码或重启内核的情况下，运行、加载和更新用户定义的代码。这种功能让 eBPF 在网络和系统性能分析、数据包"
-    },
-    {
-      "title": "MySQL 事务、索引与锁：后端开发必须掌握的数据库基础",
-      "url": "https://juejin.cn/post/7692646947434643502",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "弈栈录",
-      "created_at": "",
-      "summary": "本文以 InnoDB 为主要背景，从事务的 ACID 特性和隔离级别开始，介绍 MVCC、B+Tree 索引、聚簇索引、二级索引、行锁、间隙锁和死锁"
-    },
-    {
-      "title": "pytest 写了用例却不跑、fixture 不生效、参数化全失效？9 个高频坑对照表",
-      "url": "https://juejin.cn/post/7692274273327923236",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "小小张说故事",
-      "created_at": "",
-      "summary": "pytest 写了用例却不跑、fixture 不生效、参数化全失效？9 个高频坑对照表 结论先行：pytest 里 90% 的「用例没执行 / fixture 报 not found / 参数化没效果"
-    },
-    {
-      "title": "视野修炼-技术周刊第135期 | 鼠标跟随宠物",
-      "url": "https://juejin.cn/post/7692369572608049187",
+      "title": "从零到一搭建企业级智能问答系统：Ch14 · 三层记忆与断点续跑",
+      "url": "https://juejin.cn/post/7692705360347611171",
       "source": "juejin",
       "score": 120,
       "raw_score": 4,
       "comments": 0,
-      "author": "粥里有勺糖",
+      "author": "bullkingluo",
       "created_at": "",
-      "summary": "① page-mascot - 灵动的鼠标跟随宠物 ② yoinks - 视频下载工具 CLI 版 ③ Web 常用音效合集 ④ 毁灭你的网站 ⑤ 无限背景音乐"
+      "summary": "Ch14 · 三层记忆与断点续跑 本章导读 \"AI 记不住上下文\"这句话，通常有三层误会。 第一层误会最流行：以为是窗口不够大。可是这个项目的上下文窗口约 32K tokens，一轮问答顶多占几百——"
     },
     {
-      "title": "AI Agent 最大的问题，可能不是智商，而是“权限”",
-      "url": "https://juejin.cn/post/7692742889171419151",
+      "title": "反馈：让系统知道自己做得对不对",
+      "url": "https://juejin.cn/post/7692814441561866240",
       "source": "juejin",
       "score": 120,
       "raw_score": 4,
       "comments": 0,
-      "author": "前端小小栈",
+      "author": "Zwawa",
       "created_at": "",
-      "summary": "AI Agent 最大的瓶颈可能不是智商，而是权限。越聪明的 Agent 越需要接触真实数据和系统，未来真正的竞争力，不只是模型能力，更是权限、边界、审批与安全。"
+      "summary": "给电机一个调速信号，它确实会转，可程序并不知道轮子此刻跑得有多快。系统怎么知道自己做得对不对，这条回路又为什么不必从复杂的算法开始？"
     },
     {
-      "title": "告别后台偷跑流量与弹窗失控：基于 WFP 内核驱动深入拆解开源 Fort Firewall 架构与流量管控实战",
-      "url": "https://juejin.cn/post/7692641228115247131",
+      "title": "3. 教 AI 上班：带出我的数字同事 —— 文档返工与代码检查——明确指令与丢三落四的拉扯",
+      "url": "https://juejin.cn/post/7692863129294962726",
       "source": "juejin",
       "score": 95,
       "raw_score": 3,
       "comments": 0,
-      "author": "TTATTC",
+      "author": "9i编程",
       "created_at": "",
-      "summary": "告别后台偷跑流量与弹窗失控：基于 WFP 内核驱动深入拆解开源 Fort Firewall 架构与流量管控实战"
+      "summary": "3. 教 AI 上班：带出我的数字同事 —— 文档返工与代码检查——明确指令与丢三落四的拉扯 前言 上一篇拿 rbac 多租户验完货，这篇接着往下推，还是两段：文档又返了一轮工，代码要做检查——数据权"
+    },
+    {
+      "title": "MiniMind 学习笔记之 06 一张图、一百行：MiniMind 的骨架",
+      "url": "https://juejin.cn/post/7692970156444188672",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "嘎嘎风",
+      "created_at": "",
+      "summary": "一、架构图：前五篇的零件各就各位 MiniMind 的整体数据流，从输入到输出，长这样： 这张图里，前五篇的零件全部就位： 02 篇：BPE 分词、Embedding 层。文字怎么变成向量。 03 篇"
+    },
+    {
+      "title": "从鼠标点击到画出一条线：CAD 交互层的状态机设计",
+      "url": "https://juejin.cn/post/7692881705648750633",
+      "source": "juejin",
+      "score": 60,
+      "raw_score": 2,
+      "comments": 0,
+      "author": "励志不掉头发的内向程序员",
+      "created_at": "",
+      "summary": "本文深入分析 LibreCAD 中鼠标事件的传递与 Action 处理机制，从 Qt 的 QMouseEvent 出发，追踪鼠标输入如何经过绘图区、RS_EventHandler等。"
+    },
+    {
+      "title": "第7篇：驱动工程师必修课-如何高效读懂芯片与Panel规格书，拒绝盲写代码",
+      "url": "https://juejin.cn/post/7692872556887113766",
+      "source": "juejin",
+      "score": 60,
+      "raw_score": 2,
+      "comments": 0,
+      "author": "素师良码",
+      "created_at": "",
+      "summary": "做驱动开发久了，会发现一个残酷的真相： 大部分新手调试慢、踩坑多、写代码没底气，根本不是不会写代码，而是——看不懂规格书。 很多人移植 Panel、调试 MIPI、修改时序"
+    },
+    {
+      "title": "PagedAttention原理，KV缓存也能分页",
+      "url": "https://juejin.cn/post/7692863129295011878",
+      "source": "juejin",
+      "score": 60,
+      "raw_score": 2,
+      "comments": 0,
+      "author": "RobinDevNotes",
+      "created_at": "",
+      "summary": "摘要 大模型推理的瓶颈常常不是算力，而是装不下更多请求的 KV 缓存。vLLM 的 PagedAttention 借用操作系统的虚拟内存思路，把 KV 缓存切成固定大小的块，按需分配、用块表映射，几乎"
+    },
+    {
+      "title": "如何设计多Agent",
+      "url": "https://juejin.cn/post/7692500213995864105",
+      "source": "juejin",
+      "score": 60,
+      "raw_score": 2,
+      "comments": 0,
+      "author": "松就是我90298",
+      "created_at": "",
+      "summary": "多 Agent 的设计，核心不是“造很多个 Agent”，而是把原本塞在一个循环里的职责，拆成多个边界清晰、可独立测试、可独立授权的工作单元，再用一个受控的编排层把它们串起来。如果单 Agent + "
     }
   ]
 }
