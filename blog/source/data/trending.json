@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-06T17:36:32.500670+00:00",
+  "updated_at": "2026-10-07T03:21:03.256829+00:00",
   "articles": [
     {
-      "title": "Step 5 Preview 实测：和 DeepSeek V4 Pro、GLM5.3 同做一个 3D 游戏",
-      "url": "https://juejin.cn/post/7688265188425973775",
+      "title": "9、古代没有程序员，但蒲松龄们早就被\"裁员\"过了",
+      "url": "https://juejin.cn/post/7693144953569493043",
       "source": "juejin",
-      "score": 903,
-      "raw_score": 33055,
+      "score": 306,
+      "raw_score": 34,
       "comments": 0,
-      "author": "猫猫头啊",
+      "author": "六神啊六神",
       "created_at": "",
-      "summary": "最近在 WorkBuddy 里面又测试了一个新模型：Step 5 Preview。 从官方给出的定位来看，Step 5 Preview 是一款面向真实 Agentic 任务的旗舰模型，重点放在软件工程"
+      "summary": "我写代码已将近十年了。有三件事几乎同时发生在我身上：AI 写代码的速度追平了我的巅峰期；招聘软件上的 JD 悄悄加上了\"35岁以下\"；新闻里隔三差五传来某大厂\"毕业\"的消息……"
     },
     {
-      "title": "AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了",
-      "url": "https://juejin.cn/post/7693358476032049162",
+      "title": "C盘爆红别乱删！我用 Codex 查出 AppData 占了 87.81GB",
+      "url": "https://juejin.cn/post/7693225151681560586",
       "source": "juejin",
-      "score": 355,
-      "raw_score": 60,
+      "score": 255,
+      "raw_score": 19,
       "comments": 0,
-      "author": "潜龙勿用之化骨龙",
+      "author": "niaonao",
       "created_at": "",
-      "summary": "AI 时代，我们都将成为通才 大家好，今天分享的主题是： We Will All Be Generalists 这是 Philipp Lackner 最近分享的一个观点。 他长期专注于 Android"
+      "summary": "C盘空间都去哪了？我让 Codex 查了8分钟，拿到一份占用清单。本文记录了安装磁盘空间统计 Skill、查看报表、定位占用大户和按需清理的过程。"
     },
     {
-      "title": "Claude Opus 5.5 做视频：从口播稿到成片，全流程跑通",
-      "url": "https://juejin.cn/post/7693225151680774154",
+      "title": "从Cursor杀回命令行_CLI与IDE路线之争",
+      "url": "https://juejin.cn/post/7693079499384455183",
       "source": "juejin",
-      "score": 322,
-      "raw_score": 41,
+      "score": 251,
+      "raw_score": 18,
       "comments": 0,
-      "author": "后端小肥肠",
+      "author": "一缕82年的清风",
       "created_at": "",
-      "summary": "我主要用Opus5.5做知识科普、IP获客类的视频，放假前的时候心血来潮做了几个模板，来看看效果如何"
+      "summary": "从 Cursor 等 AI-IDE 的视觉辅助，到 Claude-Code、AGY、Codex 等 CLI 智能体的终端接管，AI 编程正在迎来路线分野。深度拆解终端原生与图形 IDE 的底层差异、"
     },
     {
-      "title": "Dart 3 Record：解决 Future.wait 异构返回值的类型问题",
-      "url": "https://juejin.cn/post/7692876916257603594",
+      "title": "让 Claude Code 学会做视频：180 个开源 Skill 分类盘点，107 个冷门宝藏不到 50 星",
+      "url": "https://juejin.cn/post/7693144953569787955",
       "source": "juejin",
-      "score": 311,
-      "raw_score": 36,
+      "score": 251,
+      "raw_score": 18,
       "comments": 0,
-      "author": "律宏阔",
+      "author": "JEECG低代码平台",
       "created_at": "",
-      "summary": "Dart 3 可用 Record 的 `wait` 并发等待不同类型的 Future，既保留具体返回类型，也省去索引取值和手动类型转换。"
+      "summary": "为什么要专门盘点\"能做视频的 Skill\" 过去一年，Claude Code、Codex 这类编程 Agent 的能力边界一直在外扩：从写代码、跑测试，到操作浏览器、生成文档，现在已经有相当多的开发者"
     },
     {
-      "title": "Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍",
-      "url": "https://juejin.cn/post/7693018382871691302",
-      "source": "juejin",
-      "score": 303,
-      "raw_score": 33,
-      "comments": 0,
-      "author": "律宏阔",
-      "created_at": "",
-      "summary": "Flutter 列表图片滚动后内存攀升。作者对比 imageBuilder 与 ClipRRect，最终以少量 GPU 开销换取更稳定的内存表现。"
-    },
-    {
-      "title": "WinSW在Win7上失败真相-实测与修复",
-      "url": "https://juejin.cn/post/7692881705649586217",
-      "source": "juejin",
-      "score": 298,
-      "raw_score": 31,
-      "comments": 0,
-      "author": "谁在黄金彼岸",
-      "created_at": "",
-      "summary": "nginx 做成 Windows 服务：Win8 稳跑两年，Win7 三天两头起不来，都说 WinSW 不支持 Win7 —— 拆开 exe 和日志后真相是另一个 同一套 nginx 服务化方案，在 "
-    },
-    {
-      "title": "SaaS 的三层挣钱逻辑，正在被 AI 从第一层击穿",
-      "url": "https://juejin.cn/post/7693049513120202798",
-      "source": "juejin",
-      "score": 292,
-      "raw_score": 29,
-      "comments": 0,
-      "author": "前端小小栈",
-      "created_at": "",
-      "summary": "AI 不一定消灭 SaaS，但会重构其价值链：从卖软件、做平台、沉淀数据，转向让 Agent 调用能力、完成任务。未来 SaaS 的核心竞争力，可能从“软件使用权”变成“任务完成权”。"
-    },
-    {
-      "title": "Spring Boot 日志最佳实践：接入、分级、异常记录与滚动拆分",
-      "url": "https://juejin.cn/post/7693144953569067059",
-      "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
-      "comments": 0,
-      "author": "pe7er",
-      "created_at": "",
-      "summary": "日志不是“程序运行时打印出来的文字”，而是定位故障、观察系统状态和审计业务行为的重要数据。一个合理的日志体系至少需要解决以下问题： 项目如何接入并统一记录日志？ DEBUG、INFO、WARN、ERR"
-    },
-    {
-      "title": "cj-tauri开源项目介绍与imovie观影客户端项目实战",
-      "url": "https://juejin.cn/post/7692992192592969763",
-      "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
-      "comments": 0,
-      "author": "特立独行的猫A",
-      "created_at": "",
-      "summary": "假期在家实在没意思。不睡懒觉、不看电影、也不刷手机、不玩游戏，哪儿都不想去，闲到能搬个小板凳看蚂蚁上树，百无聊赖，感觉这假期过得真没劲。那干点啥？于是把之前做过的「爱影家」影视 App 又翻了出来，想"
-    },
-    {
-      "title": "【后端开发｜Redis进阶01】—— Redis分布式锁全解：从SETNX到Redisson看门狗，再到RedLock",
-      "url": "https://juejin.cn/post/7692977150127882303",
-      "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
-      "comments": 0,
-      "author": "花间相见",
-      "created_at": "",
-      "summary": "Redis 分布式锁全解：从 SETNX 到 Redisson 看门狗，再到 RedLock 单机环境下加把 synchronized 锁就能搞定并发，为什么上了微服务就不灵了？因为 synchron"
-    },
-    {
-      "title": "bm2，Node.js 与 Bun 项目部署新选择",
-      "url": "https://juejin.cn/post/7693147156875821092",
+      "title": "模型下载全攻略：HuggingFace、hf-mirror、ModelScope 国内实操",
+      "url": "https://juejin.cn/post/7693018382872002598",
       "source": "juejin",
       "score": 240,
       "raw_score": 16,
       "comments": 0,
-      "author": "前端之虎陈随易",
+      "author": "橘和柠",
       "created_at": "",
-      "summary": "写了十来年前端了，用的一直都是 JavaScript，理所当然地，后端接口也早已习惯了用 JavaScript 实现。 用 JavaScript 写前端，一个不可避免的问题，就是要在线上部署运行。 与"
+      "summary": "模型下载全攻略：HuggingFace、hf-mirror、ModelScope 国内实操 一、为什么需要它 本地部署大模型，第一步永远是下载模型，而它恰恰是最容易翻车的一步：huggingface."
     },
     {
-      "title": "骂AI，会让它做得更好吗？",
-      "url": "https://juejin.cn/post/7693186612616052770",
-      "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
-      "comments": 0,
-      "author": "码事漫谈",
-      "created_at": "",
-      "summary": "在使用AI中，有一个越来越常见的场景： “你怎么这么笨？” “这都做不好，重写！” “你是不是智障？” 在聊天框里打下这些话的人，可能并没有真的在发脾气。他们只是着急——AI写出来的东西不对味，改了几"
-    },
-    {
-      "title": "Reflection AI 发布 501B 参数开放权重模型 Beam",
-      "url": "https://juejin.cn/post/7693358476031672330",
+      "title": "GitHub 今日推荐｜lightcraft：纯 Rust 重写的 RAW 照片开发工具",
+      "url": "https://juejin.cn/post/7693383473919361075",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
       "author": "miofly",
       "created_at": "",
-      "summary": "Reflection AI 推出首个开放权重模型 Beam，总参数 501B、每 token 激活 23B，用 23.8 万亿 token 预训练加 4 周强化学习训练，在代码和数学任务上达到中上水平"
+      "summary": "LightCraft 是一个纯 Rust 实现的开源 RAW 照片开发与管理工具，定位为 Adobe Lightroom 的清洁室重实现。"
     },
     {
-      "title": "学习率：一次参数更新，到底应该改多少",
-      "url": "https://juejin.cn/post/7693004200674951203",
+      "title": "Numpy数据处理详解 01：NumPy 从环境搭建到入门上手",
+      "url": "https://juejin.cn/post/7692876916257619978",
       "source": "juejin",
       "score": 222,
       "raw_score": 13,
-      "comments": 1,
-      "author": "鲁大猿",
+      "comments": 0,
+      "author": "软件科学_郝学胜",
       "created_at": "",
-      "summary": "github.com/ludayuan/Lu… 鲁大猿的视频知识库 学习率：一次参数更新，到底应该改多少 核心问题：已经知道参数往哪边调整，为什么还需要学习率？ 一句话答案：梯度描述当前位置的局部变化"
+      "summary": "在如今互联网服务遍地开花的时代，用户推荐系统、语音识别、机器翻译这类智能化应用早已渗透我们的日常生活🐍。而 Python 凭借丰富的第三方开源库，成为科研与工程开发的首选语言。在这众多工具链之中，Nu"
     },
     {
-      "title": "OctaFuse Gateway 2.13.0：供应商折扣计价、路由快速测试与用量分析升级",
-      "url": "https://juejin.cn/post/7692876916257538058",
+      "title": "篇五：上下文组装——召回 50 条全塞给 LLM？难怪回答越来越差",
+      "url": "https://juejin.cn/post/7693049513120268334",
       "source": "juejin",
       "score": 215,
       "raw_score": 12,
       "comments": 0,
-      "author": "程序猿DD",
+      "author": "李溪白",
       "created_at": "",
-      "summary": "供应商推出限时折扣，要调整价格，还得记住活动什么时候结束；路由改了模型名或请求头，想先试通再保存；费用涨了、响应慢了，又需要找到具体的模型或供应商。 OctaFuse Gateway 2.13.0 围"
+      "summary": "这篇换个结构——从一次真实事故讲起，把上下文组装里的坑一个个拆出来。 事故复盘 某公司内部知识库上线两周后，用户投诉激增： 排查发现：文档解析、切片、Embedding、向量检索、Hybrid Sea"
+    },
+    {
+      "title": "CoroutineScheduler 设计解析（上）—— 为什么 Dispatchers.IO 会创建更多线程？",
+      "url": "https://juejin.cn/post/7693351700207747072",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "Android打工仔",
+      "created_at": "",
+      "summary": "CoroutineScheduler 设计解析（上）—— 为什么 Dispatchers.IO 会创建更多线程？ 前言 最近在阅读 Kotlin CoroutineScheduler 源码时，我产生了"
+    },
+    {
+      "title": "别把 JWT 当成加密令牌：Symfony LexikJWTAuthenticationBundle 实战详解",
+      "url": "https://juejin.cn/post/7693225151682052106",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "唐青枫",
+      "created_at": "",
+      "summary": "别把 JWT 当成加密令牌：Symfony LexikJWTAuthenticationBundle 实战详解 前后端分离项目里，常见做法是先用账号密码换取一个 Token，再把 Token 放进后续"
+    },
+    {
+      "title": "19 · NestJs  @Global 落地账:装饰器与 `isGlobal` 参数,各在什么场景上岗",
+      "url": "https://juejin.cn/post/7693049513121071150",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "颜进强",
+      "created_at": "",
+      "summary": "一、@Global 到底买了什么 @Global()(或动态模块的 global: true)让模块 exports 的 provider 对整个容器可见: 不加:别的模块想注入 APP_CONFIG"
+    },
+    {
+      "title": "视频预览切换为何会闪回旧帧：用 generation + mode identity 管住异步回调",
+      "url": "https://juejin.cn/post/7693383473919459379",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "茶底世界之下",
+      "created_at": "",
+      "summary": "取消旧任务不足以阻止已在途的异步结果；预览层还要用当前模式的 generation 和 identity 授予展示权限。"
+    },
+    {
+      "title": "分片上传的大文件人人可下载：文件模块 isPrivate 在合并时被抹成 false，另有 4 个静默坑",
+      "url": "https://juejin.cn/post/7693394580931051547",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "她的男孩",
+      "created_at": "",
+      "summary": "前阵子给一个项目做等保整改，清单里有一项\"上传下载功能是否存在越权\"。我本来打算半小时过完，结果在文件模块里蹲了两天。 起因很滑稽：我盯着 /api/file/download/{fileId} 看了"
+    },
+    {
+      "title": "FSCrawler 3.0 来了！你知道的，就是用来处理文件的！",
+      "url": "https://juejin.cn/post/7693357497910444082",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "Elasticsearch",
+      "created_at": "",
+      "summary": "作者：来自 Elastic David Pilato 事情发生了。FSCrawler 3.0 正式发布了！ 如果你从来没有听说过 FSCrawler，它就是我在 2011 年和我的朋友 Malloum"
+    },
+    {
+      "title": "EmbeddingGemma 2：740M 参数的多模态嵌入模型，支持本地推理",
+      "url": "https://juejin.cn/post/7693383473919508531",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 1,
+      "author": "miofly",
+      "created_at": "",
+      "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构的 740M 参数多模态嵌入模型。"
     }
   ]
 }
