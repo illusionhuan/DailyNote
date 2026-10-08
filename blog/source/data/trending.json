@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-07T18:08:20.190858+00:00",
+  "updated_at": "2026-10-08T03:36:08.596616+00:00",
   "articles": [
     {
-      "title": "Step 5 Preview 实测：和 DeepSeek V4 Pro、GLM5.3 同做一个 3D 游戏",
-      "url": "https://juejin.cn/post/7688265188425973775",
+      "title": "🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了",
+      "url": "https://juejin.cn/post/7693757919828901923",
       "source": "juejin",
-      "score": 911,
-      "raw_score": 36306,
+      "score": 510,
+      "raw_score": 355,
       "comments": 0,
-      "author": "猫猫头啊",
+      "author": "秋天的一阵风",
       "created_at": "",
-      "summary": "最近在 WorkBuddy 里面又测试了一个新模型：Step 5 Preview。 从官方给出的定位来看，Step 5 Preview 是一款面向真实 Agentic 任务的旗舰模型，重点放在软件工程"
+      "summary": "前言 Hello~大家好，我是秋天的一阵风 一、前言 很多人第一次接触配置中心时，都会冒出一个很自然的想法： Nacos 里存放业务配置，那前端页面直接读取 Nacos，是不是就能做到改配置、页面立刻"
     },
     {
-      "title": "Spring AI Alibaba已停更了，Java还有希望吗？",
-      "url": "https://juejin.cn/post/7693821701955567670",
+      "title": "别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？",
+      "url": "https://juejin.cn/post/7693579496969486382",
       "source": "juejin",
-      "score": 531,
-      "raw_score": 452,
-      "comments": 4,
-      "author": "苏三说技术",
-      "created_at": "",
-      "summary": "前言 最近技术群里有个话题讨论得特别激烈——“Spring AI Alibaba是不是停更了？” 起因很简单。 有人翻了GitHub的Releases页面，发现上一个正式版还是v1.1.2.2，发布于"
-    },
-    {
-      "title": "开源项目第229期：e2e — 用自然语言写 E2E 测试，还能把 Agent 跑过的操作录成‘回放缓存‘免模型调用",
-      "url": "https://juejin.cn/post/7693549784162631718",
-      "source": "juejin",
-      "score": 328,
-      "raw_score": 44,
+      "score": 457,
+      "raw_score": 194,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "不一样的少年_",
       "created_at": "",
-      "summary": "这是「每日一个开源项目」系列的第 229 篇。今天的项目是 e2e —— TesterArmy 出品的 Web 和移动端端到端测试框架，6,361 颗 Star，Apache-2.0 许可证。"
+      "summary": "一张5MB图片为何能撑爆内存？本文从前端转Go后端的实践出发，拆解图片解码、并发排队和原生内存的隐患，介绍请求准入、流式落盘、大图独占与安全清理，讲清资源治理和请求生命周期，帮助读者建立后端工程思维。"
     },
     {
-      "title": "研究 Vue 3 源码的收获",
-      "url": "https://juejin.cn/post/7693406376094892066",
+      "title": "Android 以后可能不会再有横竖屏适配了",
+      "url": "https://juejin.cn/post/7694064588329320490",
       "source": "juejin",
-      "score": 311,
-      "raw_score": 36,
+      "score": 448,
+      "raw_score": 175,
+      "comments": 1,
+      "author": "RockByte",
+      "created_at": "",
+      "summary": "各位 Android 爱好者们，大家好。 多年来，几乎所有的 Android 项目把屏幕方向当成了 UI 适配的主要依据。"
+    },
+    {
+      "title": "一个全程 AI 写的小程序「厨菜记」，上线 20 天跑通流量主，收入几块钱，开心得不行",
+      "url": "https://juejin.cn/post/7693805723602157578",
+      "source": "juejin",
+      "score": 386,
+      "raw_score": 86,
+      "comments": 2,
+      "author": "好市民_",
+      "created_at": "",
+      "summary": "厨菜记一个全程AI写的家庭菜谱小程序，9月18号上线，19天攒到601个独立访客，10月6号开通流量主。这篇复盘预测为什么错得离谱、国庆七天怎么一个一个回用户反馈、以及那几块钱收入为什么让我开心得不行"
+    },
+    {
+      "title": "Agent 体检：乱编、连锁、失忆，给 Agent 做一次五维体检",
+      "url": "https://juejin.cn/post/7693679876486512703",
+      "source": "juejin",
+      "score": 351,
+      "raw_score": 57,
       "comments": 0,
-      "author": "excel",
+      "author": "莪_幻尘",
       "created_at": "",
-      "summary": "最近阅读 Vue 3 源码时，我从一个看似简单的构造函数开始，重新理解了 TypeScript 的参数属性。例如 constructor(public fn: () => T) 中的 public f"
+      "summary": "Agent 体检：乱编、连锁、失忆，给 Agent 做一次五维体检 一、Agent 的病，为什么比 Skill 更难发现 上一篇体检 Skill，操作很直接：扫一遍文件、逐项打勾，谁好谁坏一目了然。 "
     },
     {
-      "title": "A 社为什么反超了",
-      "url": "https://juejin.cn/post/7693481478181584932",
+      "title": "给中级开发者的 AI 能力升级路线图",
+      "url": "https://juejin.cn/post/7693805723602567178",
       "source": "juejin",
-      "score": 303,
-      "raw_score": 33,
-      "comments": 0,
-      "author": "stormzhangV",
-      "created_at": "",
-      "summary": "爬上来说一个不少人好奇的问题。 昨天直播，有人问我，Google 和 OpenAI 一直在 AI 领域的领跑者，为什么反而被 Anthropic 反超了呢？ 确实，要知道 Google 是 Trans"
-    },
-    {
-      "title": "从\"算子\"到\"AI Infra\"：大模型背后看不见的那群人在忙什么",
-      "url": "https://juejin.cn/post/7693356393709568034",
-      "source": "juejin",
-      "score": 292,
-      "raw_score": 29,
-      "comments": 0,
-      "author": "银岭峰爽捞牛牛的大平原火鸡",
-      "created_at": "",
-      "summary": "你在手机上问 AI 一个问题，几秒钟后，答案一个字一个字地\"流\"了出来。这件事看起来很轻松，但在你看不见的地方，可能有成百上千块显卡在机房里嗡嗡作响，有无数行精心打磨过的代码在毫秒之间完成了上万亿次计"
-    },
-    {
-      "title": "把网页变成可引用知识——Chatbot 联网工具",
-      "url": "https://juejin.cn/post/7693549784162222118",
-      "source": "juejin",
-      "score": 289,
-      "raw_score": 28,
-      "comments": 0,
-      "author": "码云之上",
-      "created_at": "",
-      "summary": "web_search 找来源，web_fetch 读已知网页。Readability 抽出正文并转成 Markdown，再与搜索结果一起过滤、截断、编号。读不读页面，由模型决定。"
-    },
-    {
-      "title": "从 Neo4j 到 GraphRAG：用 Text-to-Cypher 构建图检索 RAG",
-      "url": "https://juejin.cn/post/7693357497911459890",
-      "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
-      "comments": 0,
-      "author": "东风破_",
-      "created_at": "",
-      "summary": "传统 RAG 通常通过向量检索或全文检索寻找相关文档。 Milvus 更擅长解决“哪些内容和问题语义相似”，Elasticsearch 更擅长解决“哪些内容包含指定关键词”。 但如果问题变成： 真正重"
-    },
-    {
-      "title": "哪些任务该交给 AI，哪些必须由开发者负责？",
-      "url": "https://juejin.cn/post/7693357497911803954",
-      "source": "juejin",
-      "score": 279,
-      "raw_score": 25,
+      "score": 346,
+      "raw_score": 54,
       "comments": 0,
       "author": "全栈弄潮儿",
       "created_at": "",
-      "summary": "开篇 AI 编程最常见的误区，是把问题简化成： 更有用的问题是： 同一个任务，通常不只有“全交给 AI”和“完全自己做”两个选项。 例如，AI 可以先帮你梳理重构风险、生成最小修改建议和补充测试。"
+      "summary": "开篇 中级开发者学习 AI 编程，最容易走偏的方向是不断换工具、收集 Prompt，却没有形成稳定的工程能力。 真正的升级，不是“让 AI 写更多代码”，而是逐步做到： 这篇文章给出一条实用路线图。"
     },
     {
-      "title": "LLM 自动化测试系列（05）：移动端自动化（一）——ARTEMIS 的双模式架构拆解",
-      "url": "https://juejin.cn/post/7693391067573043246",
+      "title": "万字长文，讲解百亿token手搓的投资agent是怎么工作的",
+      "url": "https://juejin.cn/post/7693805723602583562",
       "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
+      "score": 341,
+      "raw_score": 51,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "hpoenixf",
       "created_at": "",
-      "summary": "ARTEMIS 是什么，解决什么问题 Google 开源的 ARTEMIS，官方定位是一句话：\"让 AI 助手和测试套件像人一样操作真机"
+      "summary": "国庆花了一百亿token把投资agent收尾了一下，交了不少学费，写个文章分享给大家。共同进步一起交流吧。"
     },
     {
-      "title": "从手动检查到自动监控：一个数据质量工作流的实现",
-      "url": "https://juejin.cn/post/7693406376094908450",
+      "title": "盘点 20 个 9 月份 GitHub 上顶顶顶的开源项目。",
+      "url": "https://juejin.cn/post/7693851632908550159",
       "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
+      "score": 336,
+      "raw_score": 48,
       "comments": 0,
-      "author": "databook",
+      "author": "逛逛GitHub",
       "created_at": "",
-      "summary": "做数据工程的人大概都有过这样的经历：每天到工位第一件事，打开终端敲几条 SQL，看看关键表的行数是不是正常、最新数据更新到几点了、字段空值有没有突然飙高。 这套检查做完，可能半个小时就过去了。 如果某"
+      "summary": "01 Archify：教 AI 画复杂架构画 Archify 这个 Skill 可以把一段系统描述或一个代码仓库画成交互式图表。 比如，你让它画出一次网页请求怎样经过接口、缓存和数据库。"
     },
     {
-      "title": "Spring AI 工具调用不是反射一下就结束：用 2.0.1 跑通失败恢复与调用上限",
-      "url": "https://juejin.cn/post/7693391067572682798",
+      "title": "Claude Haiku 5.5 发布：单价降到 1/10，10 万 token 是分界线",
+      "url": "https://juejin.cn/post/7693835820541526067",
       "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
+      "score": 332,
+      "raw_score": 46,
       "comments": 0,
-      "author": "llqbzllll",
+      "author": "ZzT",
       "created_at": "",
-      "summary": "Spring AI 工具调用不是反射一下就结束：用 2.0.1 跑通失败恢复与调用上限 目录 先说结论 从 ChatResponse 到 ToolResponseMessage：执行链在哪 最小实验："
+      "summary": "Haiku 5.5 单价是 Haiku 4.5 的十分之一，但 prompt 超过 10 万 token 后价格乘以 5。本文讲价格结构、API 破坏性变更和 Claude Code 配置。"
     },
     {
-      "title": "一个 Bug 为什么要改五层：Agent 架构如何从跨层修补走向局部 Owner",
-      "url": "https://juejin.cn/post/7693351700209074176",
+      "title": "Gemini 4 Argon 发布：对 Android 开发者意味着什么？",
+      "url": "https://juejin.cn/post/7694033497296781339",
+      "source": "juejin",
+      "score": 324,
+      "raw_score": 42,
+      "comments": 0,
+      "author": "Carson带你学Android",
+      "created_at": "",
+      "summary": "前言 近日，Google 发布了新一代旗舰： Gemini 4 Argon。 但今天 Carson 不聊跑分，聊一个更实际的问题：这个模型对我们 Android 开发者到底意味着什么？ 🤖 它是什么 "
+    },
+    {
+      "title": "发一张图，它居然\"跃\"出屏幕了？一文读懂得物 3D 空间图片技术实践",
+      "url": "https://juejin.cn/post/7693679876486545471",
+      "source": "juejin",
+      "score": 315,
+      "raw_score": 38,
+      "comments": 0,
+      "author": "得物技术",
+      "created_at": "",
+      "summary": "3D 空间图片功能的落地，涉及模型生成、内容分发、客户端渲染之间的一系列取舍。本文重点分享如何生产出高质量、小体积的模型，以及如何在手机上流畅运行。"
+    },
+    {
+      "title": "Loop Engineering 已死？ 一文带你了解Graph Engineering",
+      "url": "https://juejin.cn/post/7693851632908484623",
       "source": "juejin",
       "score": 264,
       "raw_score": 21,
       "comments": 0,
-      "author": "hpoenixf",
+      "author": "hsfxuebao",
       "created_at": "",
-      "summary": " 做复杂 Agent 一段时间后，会遇到一种很典型的工程症状： 一个看起来很小的问题，最后却要同"
+      "summary": "Prompt Engineering 管一次对话里这句话怎么说。Context Engineering 管这一步往模型脑子里塞哪些信息，检索到的文档、记忆、工具定义、历史记录。"
     },
     {
-      "title": "致敬，DeepSeek 最新开源的不是模型，是国产算力的地基",
-      "url": "https://juejin.cn/post/7693930819551281179",
+      "title": "让 AI 提效转化为团队交付",
+      "url": "https://juejin.cn/post/7693824347871117312",
       "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
+      "score": 229,
+      "raw_score": 14,
       "comments": 0,
-      "author": "六边形工程师",
+      "author": "lizhongxuan",
       "created_at": "",
-      "summary": "致敬DeepSeek，国庆节前，DeepSeek 干了件不太上热搜、但可能比发模型更重要的事，DeepSeek 把自己训练大模型用的\"锅碗瓢盆\"，在国产芯片上也做了一套，然后开源了。"
+      "summary": "每个人都在认真工作，也都用上了 AI，但一件事从提出到交付，仍然要经历长时间的等待。 一个人的工作做得更快之后，他的成果能不能更顺畅地成为另一个人工作的起点？"
     },
     {
-      "title": "RAG 面试 6 连问，从原理到优化全部覆盖",
-      "url": "https://juejin.cn/post/7693689217004732459",
+      "title": "Spring AI Alibaba 之二：Spring AI 底座与原子抽象一笔带过，看清 SAA 在之上加了什么编排",
+      "url": "https://juejin.cn/post/7693880505398607910",
       "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
+      "score": 222,
+      "raw_score": 13,
       "comments": 0,
-      "author": "怕浪猫",
+      "author": "桃西西呀beverlyLee",
       "created_at": "",
-      "summary": "大语言模型的知识来源于训练数据，存在固有的时效性限制和领域知识盲区。RAG (Retrieval-Augmented Generation, 检索增强生成) 在生成前检索外部知识，将事实信息注入模型上"
+      "summary": "Spring AI Alibaba 之二：Spring AI 底座与原子抽象一笔带过，看清 SAA 在之上加了什么编排。这篇我只把 SAA 用到的五个原子抽象点一遍，每个标好源码落点，让你一眼分清."
+    },
+    {
+      "title": "Google 发布 EmbeddingGemma 2：7.4 亿参数的多模态嵌入模型",
+      "url": "https://juejin.cn/post/7693928371692208174",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "miofly",
+      "created_at": "",
+      "summary": "Google DeepMind 发布 EmbeddingGemma 2，采用 7.4 亿参数设计，支持文本、图像和音频三模态输入，纯文本模式下仅需 2.7 亿参数即可运行，在 Google Pixel"
     }
   ]
 }
