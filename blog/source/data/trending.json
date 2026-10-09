@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-08T18:10:33.333909+00:00",
+  "updated_at": "2026-10-09T03:41:32.933887+00:00",
   "articles": [
     {
-      "title": "Spring AI Alibaba已停更了，Java还有希望吗？",
-      "url": "https://juejin.cn/post/7693821701955567670",
+      "title": "朋友面试谈薪报价2w，HR非得压到1.9，还反问他：你就差这1000块钱？后来背调时问了他前同事十几个问题，对方最后直接挂了",
+      "url": "https://juejin.cn/post/7694185019602812968",
       "source": "juejin",
-      "score": 697,
-      "raw_score": 3070,
-      "comments": 16,
-      "author": "苏三说技术",
+      "score": 568,
+      "raw_score": 695,
+      "comments": 3,
+      "author": "CodeSheep",
       "created_at": "",
-      "summary": "前言 最近技术群里有个话题讨论得特别激烈——“Spring AI Alibaba是不是停更了？” 起因很简单。 有人翻了GitHub的Releases页面，发现上一个正式版还是v1.1.2.2，发布于"
+      "summary": "假期在家逛社区的时候刷到这样一个事情，看得我血压直接飙升。 情况大概是这样的： 一位哥们去面试，技术面聊得不错，谈薪环节报了 20k 的期望薪资。结果 hr 非要压到 19k，这还不算，接着竟然还来了"
     },
     {
-      "title": "🚀 nacos-web-config：运营半夜改条配置，网页秒更新 —— 不用发版、不用轮询，我把它开源了",
-      "url": "https://juejin.cn/post/7693757919828901923",
+      "title": "🧐 为什么大厂 RAG 从不用纯向量检索？",
+      "url": "https://juejin.cn/post/7694205589761441807",
       "source": "juejin",
-      "score": 577,
-      "raw_score": 769,
+      "score": 497,
+      "raw_score": 307,
       "comments": 1,
       "author": "秋天的一阵风",
       "created_at": "",
-      "summary": "前言 Hello~大家好，我是秋天的一阵风 一、前言 很多人第一次接触配置中心时，都会冒出一个很自然的想法： Nacos 里存放业务配置，那前端页面直接读取 Nacos，是不是就能做到改配置、页面立刻"
+      "summary": "前言 Hello~大家好，我是秋天的一阵风 做 RAG 的朋友大概率都踩过这个坑：本地跑测试看着效果很不错，一上线直接翻车 —— 专有名词搜不到、产品型号匹配串台、代码关键字召回不出来，大模型还动不动"
     },
     {
-      "title": "别用前端思维写后端：一张 5MB 图片，为什么能撑爆内存？",
-      "url": "https://juejin.cn/post/7693579496969486382",
+      "title": "Flutter + EmbeddingGemma 2，谷歌发布完全端侧的 AI Edge Foresight",
+      "url": "https://juejin.cn/post/7694205589761343503",
       "source": "juejin",
-      "score": 543,
-      "raw_score": 523,
-      "comments": 1,
-      "author": "不一样的少年_",
+      "score": 402,
+      "raw_score": 103,
+      "comments": 0,
+      "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "一张5MB图片为何能撑爆内存？本文从前端转Go后端的实践出发，拆解图片解码、并发排队和原生内存的隐患，介绍请求准入、流式落盘、大图独占与安全清理，讲清资源治理和请求生命周期，帮助读者建立后端工程思维。"
+      "summary": "最近谷歌发布的 EmbeddingGemma 2 ，终于是把端侧的文本向量模型扩成了一套端侧多模态检索 backbone，支持 740M 参数、 100+ 语言，文本、代码、图片、视频和音频进入同一个"
     },
     {
-      "title": "做全栈是前端骗局还是出路？",
-      "url": "https://juejin.cn/post/7694107051320311827",
+      "title": "GraphQL 在国内为什么水土不服？",
+      "url": "https://juejin.cn/post/7694187254181494820",
       "source": "juejin",
-      "score": 528,
-      "raw_score": 438,
-      "comments": 1,
+      "score": 383,
+      "raw_score": 83,
+      "comments": 2,
       "author": "ErpanOmer",
       "created_at": "",
-      "summary": "前端工程师基于Serverless生态向全栈演进的路径与投入产出，重点解析以Cloudflare Workers、Hono与Drizzle为核心的高性价比技术方案及全链路工程视角的建立。"
+      "summary": "GraphQL理论优势显著，但落地需重建缓存、治理N+1、推动后端改造，成本高昂。国内多数团队更适合REST加BFF方案，以低复杂度实现数据聚合与裁剪。"
     },
     {
-      "title": "国庆七天，AI圈没一天消停",
-      "url": "https://juejin.cn/post/7694124645507940379",
+      "title": "写 Flutter 不用再套六层 Widget 了",
+      "url": "https://juejin.cn/post/7694184962662481920",
       "source": "juejin",
-      "score": 463,
-      "raw_score": 207,
+      "score": 363,
+      "raw_score": 66,
+      "comments": 2,
+      "author": "JarvanMo",
+      "created_at": "",
+      "summary": "如果你搞过前端，你一定听说过Tailwind CSS，特别是在这个AI时代，不过我第一次知道Tailwind CSS是因为AI的冲击差点黄铺子了，但也正是因为AI的盛行，大家更不愿意Tailwind "
+    },
+    {
+      "title": "用仓颉语言写一个漂亮的桌面音乐播放器：cj-tauri 实战",
+      "url": "https://juejin.cn/post/7694134378718478371",
+      "source": "juejin",
+      "score": 301,
+      "raw_score": 32,
       "comments": 1,
-      "author": "码事漫谈",
+      "author": "特立独行的猫A",
       "created_at": "",
-      "summary": "大家放假这七天，AI公司基本没停手。旗舰模型一款接一款地出，\"永不下班\"的智能体开始上岗，欧洲还甩出一个万亿参数的开放权重模型。热闹归热闹，10月3日的一封辞职信，给这场狂欢泼了盆冷水。下面按时间线捋"
+      "summary": "cj-tauri项目地址： https://atomgit.com/qq8864/cj-tauri 音乐播放器项目地址： https://gitcode.com/qq8864/cj-tauri/tre"
     },
     {
-      "title": "🚀 2026 年 9 月 GitHub 十大热门项目排行榜 🔥",
-      "url": "https://juejin.cn/post/7693828979246186546",
+      "title": "AI工具选型误区：别再迷信海外模型，国产工具已完成场景反超",
+      "url": "https://juejin.cn/post/7694239872252756022",
       "source": "juejin",
-      "score": 431,
-      "raw_score": 143,
+      "score": 272,
+      "raw_score": 23,
       "comments": 1,
-      "author": "一点一木",
+      "author": "挖掘狂人",
       "created_at": "",
-      "summary": "欢迎来到 2026 年 9 月 GitHub 热门开源项目排行榜！它们共同指向：Agent 正在从「会写很多代码」走向更克制、更可治理、更能操作真实世界与组织协作。"
+      "summary": "2026 年 AI 工具已超 30 款，选型难点不在\"谁最强\"而在\"活了派谁\"。本文按开发、写作、出图、视频、Agent 五类工作流重组素材，给出模型优先、免费优先、主副搭配三条选型原则。"
     },
     {
-      "title": "大模型如何私有化部署到生产环境",
-      "url": "https://juejin.cn/post/7694111830608068659",
-      "source": "juejin",
-      "score": 320,
-      "raw_score": 40,
-      "comments": 0,
-      "author": "架构师那些事儿",
-      "created_at": "",
-      "summary": "本地部署的四个收益与两个代价 **收益**：① 数据不出内网；② 成本可控（一次性算力 vs 按 Token 计费）；③ 可裁剪（选模型、选量化、选引擎）；④ 可离线（断网也能跑）。 **代价**"
-    },
-    {
-      "title": "模块化Jetpack Compose架构",
-      "url": "https://juejin.cn/post/7694131662615543835",
-      "source": "juejin",
-      "score": 295,
-      "raw_score": 30,
-      "comments": 0,
-      "author": "稀有猿诉",
-      "created_at": "",
-      "summary": "用构建规则强制执行模块边界：每个功能双模块、应用独占实现、路由私有、依赖全定义、失败全处理，导航做副作用而非直接调用，并用 CI 校验注册。"
-    },
-    {
-      "title": "MCP stdio 与 Streamable HTTP 怎么选，流式消息传到哪里",
-      "url": "https://juejin.cn/post/7693909029785993231",
-      "source": "juejin",
-      "score": 289,
-      "raw_score": 28,
-      "comments": 0,
-      "author": "程序员Sunday",
-      "created_at": "",
-      "summary": "按 MCP 2026-07-28 规范比较 stdio 与 Streamable HTTP，区分协议消息、工具进度和模型流式输出，并说明版本与权限检查。"
-    },
-    {
-      "title": "苹果商店详情顶部头图已面向所有开发者开放！",
-      "url": "https://juejin.cn/post/7694106627768401939",
-      "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
-      "comments": 0,
-      "author": "CocoaKier",
-      "created_at": "",
-      "summary": "一、国庆假期期间，苹果有哪些新动静 2026年国庆假期期间，苹果悄咪咪地更新了苹果后台，新上了几个东西： 1、商店详情页顶部头图已面向所有开发者开放（以前只有精选应用、大厂开发者才有权设置）。 2、搜"
-    },
-    {
-      "title": "Go源码分析：搞懂 Go 是如何实现堆的",
-      "url": "https://juejin.cn/post/7694124254145413171",
+      "title": "rtk 拆解：git log 输出压掉 98%，8 万星的 token 代理适合哪些场景",
+      "url": "https://juejin.cn/post/7694184962663071744",
       "source": "juejin",
       "score": 251,
       "raw_score": 18,
       "comments": 0,
-      "author": "云浪",
+      "author": "ZzT",
       "created_at": "",
-      "summary": "本文从 JS 排序取任务的痛点引出堆：堆是完全 二叉树，可用数组存储、按下标定位父子节点。拆解 Go 的 container/heap——接口+组合设计，只需实现五个方法即可复用 up/down 堆化"
+      "summary": "rtk 用 hook 把 agent 的 shell 命令换成压缩版，git log 输出压掉 98%。本文拆解实现原理、60-90% 的口径、能省多少 input token 和截断风险。"
     },
     {
-      "title": "Elastic 被评为 2026 年 Gartner®《企业 AI 搜索魔力象限™》领导者",
-      "url": "https://juejin.cn/post/7694124254145445939",
+      "title": "AI Agent 开始操作真实手机：移动端自动化的 3 个新考点",
+      "url": "https://juejin.cn/post/7694182755945791551",
       "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
+      "score": 251,
+      "raw_score": 18,
       "comments": 0,
-      "author": "Elasticsearch",
+      "author": "冉冉同学",
       "created_at": "",
-      "summary": "作者：来自 Elastic Loren Erickson Elastic 被评为 2026 年 Gartner®《企业 AI 搜索魔力象限™》的领导者。在整个受评估的市场中，只有 3 家厂商被评为领导"
+      "summary": "以 Google 开源 ARTEMIS 等自然语言驱动的移动端 Agent 为例，聊聊如何写清测试前置条件、操作边界与验收证据，以及它和传统 UI 脚本如何协作。"
     },
     {
-      "title": "JDK26中的List.ofLazy()",
-      "url": "https://juejin.cn/post/7694142875870035977",
+      "title": "用Rust重写：三条清晰的收益曲线",
+      "url": "https://juejin.cn/post/7694115089583423497",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "卷无止境",
+      "created_at": "",
+      "summary": "过去五六年里，\"用Rust重写\"几乎成了技术圈的一种仪式感操作——从命令行小工具到巨头公司的核心服务，隔三差五就能看到一篇\"我们把XX从Python/Go/C++换成Rust\"的工程博客。但这股潮流并"
+    },
+    {
+      "title": "Jev从入门到实战-读懂System One模型并跑通智能if语句",
+      "url": "https://juejin.cn/post/7694115089583947785",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "洞窝技术",
+      "created_at": "",
+      "summary": "Jev 从入门到实战：读懂 System One 模型，跑通工单智能路由 第一部分：认识 Jev 一、Jev 是什么？ Jev 是旧金山创业公司 TypeSafe AI 发布的首个「System On"
+    },
+    {
+      "title": "别再死磕单 Agent 了！多智能体架构 + LangGraph 实战，一篇全讲透",
+      "url": "https://juejin.cn/post/7694239872252969014",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "考虑考虑",
+      "author": "snow来了",
       "created_at": "",
-      "summary": "前言 List.ofLazy() 是 Java 26 中作为预览特性引入的一个静态工厂方法，用于创建一个惰性计算列表 List.ofLazy()使用 输出结果为 特点 核心特性 按需计算：列表创建时并"
+      "summary": "1 一个 Agent 的局限性 你想象下你给一个 AI Agent 挂上 20 个工具：查订单、改地址、退款、发邮件、算运费……初衷是\"一个 Agent 全搞定所有事情\"。 结果你的AI产品迷糊了：你"
     },
     {
-      "title": "InputStage 责任链核心执行流程",
-      "url": "https://juejin.cn/post/7693959951661285422",
+      "title": "Cosmos Curator 只跑一条视频，为什么还会加载一串模型？",
+      "url": "https://juejin.cn/post/7694219528276770852",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "hai_android",
+      "author": "武子康",
       "created_at": "",
-      "summary": "一句话总结 InputStage 是 Android 输入事件分发中的责任链处理器，输入事件从链头开始依次经过每个 Stage，每个 Stage 决定自己处理还是传给下一个。"
+      "summary": "Cosmos Curator 只跑一条视频，为什么还会加载一串模型？ 准备试用 Cosmos Curator 时，一个很自然的做法是找一段短视频，在官方示例后加上 --limit 1。输入已经缩到一条"
     },
     {
-      "title": "同一张街拍，两种表达：用 Awaking 试一次高对比黑白",
-      "url": "https://juejin.cn/post/7694123609884131371",
+      "title": "从工具调用到自适应研究：让 Agent 边查、边算、边调整",
+      "url": "https://juejin.cn/post/7694263365224988718",
       "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
+      "score": 180,
+      "raw_score": 8,
       "comments": 0,
-      "author": "茶底世界之下",
+      "author": "hpoenixf",
       "created_at": "",
-      "summary": "用同一张街景照片，实际展示 Awaking 高对比黑白的选择、强度判断和正式导出。保留彩色与黑白的不同表达，并说明适用条件。"
+      "summary": "给 Agent 接上搜索、行情、文档和 Python，它就能做研究了吗？ 刚开始，我们容易把研究想成一串工具调用：先搜索，再阅读，再计算，最后总结。工具越多，流程越完整，看起来就越接近一个研究员。"
+    },
+    {
+      "title": "【计算基础｜网络06】HTTPS（上）：加密体系与 RSA 握手",
+      "url": "https://juejin.cn/post/7694192790856679466",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "花间相见",
+      "created_at": "",
+      "summary": "【计算基础｜网络06】HTTPS（上）：加密体系与 RSA 握手 打开浏览器访问银行、邮箱、支付页面，地址栏那把小绿锁到底在保护什么？为什么我们天天说\"别用 HTTP 要用 HTTPS\"，但真被问到 "
     }
   ]
 }
