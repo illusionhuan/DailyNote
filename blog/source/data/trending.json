@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-09T17:43:43.082905+00:00",
+  "updated_at": "2026-10-10T03:23:35.699909+00:00",
   "articles": [
     {
-      "title": "Spring AI Alibaba已停更了，Java还有希望吗？",
-      "url": "https://juejin.cn/post/7693821701955567670",
+      "title": "乱序HTML流正式进入浏览器：前端流式渲染的“框架特权”被终结了",
+      "url": "https://juejin.cn/post/7694614473172566035",
       "source": "juejin",
-      "score": 733,
-      "raw_score": 4661,
-      "comments": 19,
-      "author": "苏三说技术",
+      "score": 295,
+      "raw_score": 30,
+      "comments": 1,
+      "author": "涛涛ing",
       "created_at": "",
-      "summary": "前言 最近技术群里有个话题讨论得特别激烈——“Spring AI Alibaba是不是停更了？” 起因很简单。 有人翻了GitHub的Releases页面，发现上一个正式版还是v1.1.2.2，发布于"
+      "summary": "一、问题：HTML天生是“线性”的 Web的核心矛盾之一，藏在HTML的交付方式里。 HTML从诞生之日起就是从上到下顺序交付的。浏览器解析HTML的方式是线性的：读到<head>就处理head，读到"
     },
     {
-      "title": "国庆七天，AI圈没一天消停",
-      "url": "https://juejin.cn/post/7694124645507940379",
-      "source": "juejin",
-      "score": 690,
-      "raw_score": 2841,
-      "comments": 11,
-      "author": "码事漫谈",
-      "created_at": "",
-      "summary": "大家放假这七天，AI公司基本没停手。旗舰模型一款接一款地出，\"永不下班\"的智能体开始上岗，欧洲还甩出一个万亿参数的开放权重模型。热闹归热闹，10月3日的一封辞职信，给这场狂欢泼了盆冷水。下面按时间线捋"
-    },
-    {
-      "title": "朋友面试谈薪报价2w，HR非得压到1.9，还反问他：你就差这1000块钱？后来背调时问了他前同事十几个问题，对方最后直接挂了",
-      "url": "https://juejin.cn/post/7694185019602812968",
-      "source": "juejin",
-      "score": 676,
-      "raw_score": 2401,
-      "comments": 6,
-      "author": "CodeSheep",
-      "created_at": "",
-      "summary": "假期在家逛社区的时候刷到这样一个事情，看得我血压直接飙升。 情况大概是这样的： 一位哥们去面试，技术面聊得不错，谈薪环节报了 20k 的期望薪资。结果 hr 非要压到 19k，这还不算，接着竟然还来了"
-    },
-    {
-      "title": "🤔同事突然问我：Spring的注解 @Component 和 @Service 有何不同？",
-      "url": "https://juejin.cn/post/7694480295002128410",
-      "source": "juejin",
-      "score": 557,
-      "raw_score": 615,
-      "comments": 0,
-      "author": "bug菌",
-      "created_at": "",
-      "summary": "作为一名在职场中摸爬滚打了十来年的码农，开了无数项目源码，一直在不同的项目中频繁使用Spring框架..."
-    },
-    {
-      "title": "有了 Parallels Desktop，我终于不用问别人借Windows电脑用了",
-      "url": "https://juejin.cn/post/7694490288811376680",
-      "source": "juejin",
-      "score": 545,
-      "raw_score": 533,
-      "comments": 0,
-      "author": "一只牛博",
-      "created_at": "",
-      "summary": "我不想为了一个 Windows 插件，专门准备一台电脑 平时写代码，我基本都在 Mac 上完成。编辑器、终端、浏览器，常用的东西已经配顺手了。"
-    },
-    {
-      "title": "AI时代建议学点自己真正感兴趣的！",
-      "url": "https://juejin.cn/post/7694299604674297891",
-      "source": "juejin",
-      "score": 500,
-      "raw_score": 319,
-      "comments": 2,
-      "author": "程序员飞鱼",
-      "created_at": "",
-      "summary": "大家好呀，我是飞鱼 这篇文章是之前跟朋友聊天的一些碎碎念，想到啥写啥吧，主要关于 AI 时代对程序员这个职业的看法。 如果拿作为程序员的体感来说，我们现在已经觉得 AI 是一件很可怕的事情了： 以前大"
-    },
-    {
-      "title": "Qwen3.8-27B 本地推理实测：从 14 tok/s 到 159 tok/s 的投机解码调优",
-      "url": "https://juejin.cn/post/7694474763449516074",
-      "source": "juejin",
-      "score": 318,
-      "raw_score": 39,
-      "comments": 0,
-      "author": "孟健AI编程",
-      "created_at": "",
-      "summary": "解析 Qwen3.8-27B 配合 DFlash2 投机解码与 LSE 引擎实现 159 tok/s 的底层逻辑，对比软硬件配置与 llm-bench 基准质量，为技术人员提供理性部署参考。"
-    },
-    {
-      "title": "做了几个 Agent 项目后，我发现：真正拉开 AI 产品经理差距的，不是技术",
-      "url": "https://juejin.cn/post/7694504297989832755",
-      "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
-      "comments": 0,
-      "author": "MobotStone",
-      "created_at": "",
-      "summary": "最近在做 Agent 项目的过程中，我越来越明显地感受到一个问题：现在搭一个 Agent Demo 真的不难，难的是让它真正进入业务流程，并且稳定运行。 用 Dify、Coze 这类平台，可能半天就能"
-    },
-    {
-      "title": "前端转型 Agent 开发 06 之 Agent Memory 记忆系统（让 Agent 更智能，更懂你）",
-      "url": "https://juejin.cn/post/7694534084638588966",
-      "source": "juejin",
-      "score": 282,
-      "raw_score": 26,
-      "comments": 0,
-      "author": "Setsuna_F_Seiei",
-      "created_at": "",
-      "summary": "介绍长期/短期记忆、命名空间、写入读取注入、偏好记录与纠错，并对比 Memory、RAG、Checkpoint 及向量检索、TTL、共享记忆等进阶能力。"
-    },
-    {
-      "title": "一文讲透推理引擎性能指标：TTFT、TPOT、KV命中率、并发，到底对应 vLLM / SGLang 的哪个参数？",
-      "url": "https://juejin.cn/post/7694465851320500265",
-      "source": "juejin",
-      "score": 282,
-      "raw_score": 26,
-      "comments": 0,
-      "author": "吴佳浩Alben",
-      "created_at": "",
-      "summary": "一文讲透推理引擎性能指标：TTFT、TPOT、KV命中率、并发，到底对应 vLLM / SGLang 的哪个参数？ 作 者：吴佳浩Alben 撰稿时间：2026.10.1 更新时间：2026.10.7"
-    },
-    {
-      "title": "【开源】7 天，我用 Rust 复刻了 FinalShell！Rhost v1.0.0 发布",
-      "url": "https://juejin.cn/post/7694528634821115942",
-      "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
-      "comments": 0,
-      "author": "Zoom",
-      "created_at": "",
-      "summary": "一款基于 **Tauri 2 + Rust + Vue 3** 的开源远程主机管理器，对标 FinalShell，提供 SSH 终端、SFTP 文件管理、端口转发、服务器监控等功能。"
-    },
-    {
-      "title": "🌊 向量库和 ES 都查不出\"关系\"，我只好给奶茶建了一张人脉网",
-      "url": "https://juejin.cn/post/7694543859640549430",
-      "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
-      "comments": 0,
-      "author": "默_笙",
-      "created_at": "",
-      "summary": "先说一个扎心的真相 我做了这么久的 RAG，一直有这么一种恍惚感： Milvus / PgVector 的向量检索，能把\"意思相近\"的文档捞出来； ElasticSearch 的倒排索引 + BM25"
-    },
-    {
-      "title": "单卡5090跑125B 大模型：Strata 把服务器级 MoE 拉进普通 PC",
-      "url": "https://juejin.cn/post/7694490288811999272",
+      "title": "为什么越来越多人用 ZXing？",
+      "url": "https://juejin.cn/post/7694595110121832491",
       "source": "juejin",
       "score": 264,
       "raw_score": 21,
       "comments": 0,
-      "author": "吴佳浩Alben",
+      "author": "苏三说技术",
       "created_at": "",
-      "summary": "单卡5090跑125B 大模型：Strata 把服务器级 MoE 拉进普通 PC 作者：吴佳浩 撰稿时间：2026-10-08 测试环境： GPU：RTX 5090（32GB VRAM，驱动 617."
+      "summary": "前言 不知道你有没有做过支付系统，收银台一般有“主扫”和“被扫”两种模式：主扫是用户扫商家的静态码，被扫是商家用扫码枪扫用户的付款码。 你手机里几乎所有的扫码App——微信、支付宝、淘宝、美团——底层"
     },
     {
-      "title": "UI核心 - 绘制流程(测量、布局、绘制)",
-      "url": "https://juejin.cn/post/7694504297989881907",
+      "title": "用了Pi基本就回不去了， 如果你也在用Pi， 强烈推荐安装pi-chrome",
+      "url": "https://juejin.cn/post/7694504408210767882",
       "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
+      "score": 251,
+      "raw_score": 18,
       "comments": 0,
-      "author": "_祝你今天愉快",
+      "author": "jerrywus",
       "created_at": "",
-      "summary": "本文大纲： 话接上文，ViewRootImpl 中的测量、布局、绘制继续分析... 1. 测量流程源码分析 1.1. performMeasure与measure方法 mView即顶层容器DecorV"
+      "summary": "用了Pi基本就回不去了， 如果你也在用Pi， 强烈推荐安装pi-chrome。 它能让 Pi coding agent 操作你平时用的 Chrome，复用已有的登录态。 我刚让它：“查看gmail中的"
     },
     {
-      "title": "1.8k star 的开源 token 使用量监控神器— TokenTracker",
-      "url": "https://juejin.cn/post/7694502718518034468",
+      "title": "从“点点点”到一键出包：我把 uni-app x Android 离线打包做成了脚本",
+      "url": "https://juejin.cn/post/7694598190922154038",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "不爱说话郭德纲",
+      "created_at": "",
+      "summary": "之前的一篇文章，我写了怎么给 uni-app x 做 Android 离线打包。这次我记录的是把 uni-app x Android 离线打包做成了脚本，一键完成繁杂的信息配对"
+    },
+    {
+      "title": "WebSocket 和 SSE 有什么区别？从实时通信到 AI 流式输出",
+      "url": "https://juejin.cn/post/7694502106561347624",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "imDwAaY",
+      "created_at": "",
+      "summary": "HTTP 的基本模型是\"一问一答\"：客户端发一个请求，服务器回一个响应，然后这次交互就结束了。用户不点、不刷新，服务器就没有机会主动开口。 但有一类需求天生就是反过来的——数据在服务器那边不断产生，要"
+    },
+    {
+      "title": "为什么 curl -I 显示 200，页面打开还是报错？",
+      "url": "https://juejin.cn/post/7694534084638457894",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "韩振方",
+      "created_at": "",
+      "summary": "前几天看一个页面故障，排查群里有人贴了条命令：curl -I 返回 200 OK，于是大家开始怀疑浏览器缓存。可我自己打开页面，依然是报错。更奇怪的是，换成普通的 curl 请求，同一个地址直接返回"
+    },
+    {
+      "title": "LangGraph 完全入门指南：从线性工作流到带中断恢复的有状态 Agent 编排",
+      "url": "https://juejin.cn/post/7694508180047593491",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "YIAN",
+      "created_at": "",
+      "summary": "前言 做 Agent 开发的同学大概率都有过这种经历： 单 Agent 把所有工具说明、业务 Prompt 全塞进 System Prompt，上下文越来越臃肿，Token 消耗飞涨，还容易被无关信息"
+    },
+    {
+      "title": "RDD2022道路损伤检测数据集 | 3600张YOLO智慧交通数据集",
+      "url": "https://juejin.cn/post/7694500427614191656",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "篱也不篱",
+      "created_at": "",
+      "summary": "RDD2022道路损伤检测数据集 | 3600张YOLO智慧交通数据集 适用于道路养护巡检、病害检测与目标检测研究 一、数据集概述 本数据集为RDD2022道路损伤检测数据集的多类别版本，共包含约36"
+    },
+    {
+      "title": "铁路障碍物检测数据集 | 5400张YOLO铁路安全数据集",
+      "url": "https://juejin.cn/post/7694483626709745683",
       "source": "juejin",
       "score": 169,
       "raw_score": 7,
       "comments": 0,
-      "author": "三金得鑫",
+      "author": "篱也不篱",
       "created_at": "",
-      "summary": "1.8k star 的开源 token 使用量监控神器 TokenTracker，自动采集 Claude Code、Codex、Cursor、Qoder 等 41 款 AI 编码工具的 token用量"
+      "summary": "铁路障碍物检测数据集 | 5400张YOLO铁路安全数据集 适用于铁路安全巡检、障碍物预警与目标检测研究 一、数据集概述 本数据集面向 计算机视觉 目标检测任务，专为铁路沿线障碍物的检测模型训练、验证"
+    },
+    {
+      "title": "我用 100 行核心代码，做了一个能接入飞书的 Hermes 式智能体",
+      "url": "https://juejin.cn/post/7694483626709925907",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "BiggFish",
+      "created_at": "",
+      "summary": "很多人看到 Hermes Agent 的体验，第一反应是： > 我也要把自己的 Agent 接进飞书。 然后就开始设计 Webhook、消息签名、事件回调、会话表、流式输出和重试队列。还没让 Agen"
+    },
+    {
+      "title": "Rook-Ceph 数据修复实战",
+      "url": "https://juejin.cn/post/7694490288811671592",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "东风微鸣",
+      "created_at": "",
+      "summary": "一次 HomeLab Rook-Ceph 集群断电后 OSD Deployment 消失的排查记录，通过三方 FSID 比对定位到 Secret 中过期 FSID，并完成修复。"
+    },
+    {
+      "title": "eBPF 入门实践教程十七：编写 eBPF 程序统计随机/顺序磁盘 I/O",
+      "url": "https://juejin.cn/post/7694534084639195174",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "yunwei37",
+      "created_at": "",
+      "summary": "eBPF（扩展的伯克利数据包过滤器）是 Linux 内核中的一种新技术，允许用户在内核空间中执行自定义程序，而无需更改内核代码。这为系统管理员和开发者提供了强大的工具，可以深入了解和监控系统的行为，从"
+    },
+    {
+      "title": "量变产生质变：减佣系统的 CPU 性能极致探索之旅",
+      "url": "https://juejin.cn/post/7694504408210964490",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "货拉拉技术",
+      "created_at": "",
+      "summary": "性能问题最容易被低估的，是请求规模带来的放大效应。减佣链路高峰接近 20 万 QPS。这个量级下，关键路径上再小的固定开销都会被成倍放大；反过来再小的优化，也可能换成可观的 CPU 与机器成本收益。"
+    },
+    {
+      "title": "一条消息如何穿过 Rust Broker：从请求分发到存储、消费与关闭",
+      "url": "https://juejin.cn/post/7694585529149849638",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "蚂蚁背大象",
+      "created_at": "",
+      "summary": "结合动态架构图，沿请求分发、CommitLog、派生索引与消费路径阅读 RocketMQ-Rust Broker，厘清刷盘、复制、重试和生命周期的实现边界。"
+    },
+    {
+      "title": "DeepAgent 实战：从零搭建一个会自己分工的深度调研助手",
+      "url": "https://juejin.cn/post/7694534084638359590",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "小林ixn",
+      "created_at": "",
+      "summary": "一、开场：为什么你需要 DeepAgent 学会 LangChain 和 LangGraph 之后，很多人会经历一个\"能力过剩但效率不足\"的阶段： 单个 Agent 写起来很快，但一旦业务复杂起来（调"
     }
   ]
 }
