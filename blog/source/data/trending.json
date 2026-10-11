@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-10T16:36:01.721711+00:00",
+  "updated_at": "2026-10-11T02:56:47.612762+00:00",
   "articles": [
     {
-      "title": "国庆七天，AI圈没一天消停",
-      "url": "https://juejin.cn/post/7694124645507940379",
+      "title": "Kuikly股票查看软件开发体验——SaiRen",
+      "url": "https://juejin.cn/post/7694850619532689448",
       "source": "juejin",
-      "score": 726,
-      "raw_score": 4287,
-      "comments": 16,
-      "author": "码事漫谈",
-      "created_at": "",
-      "summary": "大家放假这七天，AI公司基本没停手。旗舰模型一款接一款地出，\"永不下班\"的智能体开始上岗，欧洲还甩出一个万亿参数的开放权重模型。热闹归热闹，10月3日的一封辞职信，给这场狂欢泼了盆冷水。下面按时间线捋"
-    },
-    {
-      "title": "朋友面试谈薪报价2w，HR非得压到1.9，还反问他：你就差这1000块钱？后来背调时问了他前同事十几个问题，对方最后直接挂了",
-      "url": "https://juejin.cn/post/7694185019602812968",
-      "source": "juejin",
-      "score": 717,
-      "raw_score": 3850,
-      "comments": 11,
-      "author": "CodeSheep",
-      "created_at": "",
-      "summary": "假期在家逛社区的时候刷到这样一个事情，看得我血压直接飙升。 情况大概是这样的： 一位哥们去面试，技术面聊得不错，谈薪环节报了 20k 的期望薪资。结果 hr 非要压到 19k，这还不算，接着竟然还来了"
-    },
-    {
-      "title": "最近爆火的 Muse 浙大开源版 nanoMuse，来了！",
-      "url": "https://juejin.cn/post/7694883716313759795",
-      "source": "juejin",
-      "score": 444,
-      "raw_score": 167,
+      "score": 289,
+      "raw_score": 28,
       "comments": 0,
-      "author": "JavaGuide",
+      "author": "萌新杰少",
       "created_at": "",
-      "summary": "Muse 的浙大版开源版来了，兄弟们。它就是 nanoMuse，一个让手机和电脑一起替你做事的项目。 你可以在手机上给在线的电脑交代任务，让电脑执行，再把结果和需要你批准的操作送回手机。手机端的后台执"
+      "summary": "借腾讯犀牛鸟开源人才培养计划的实战，分享最近腾讯Kuikly框架开发体验和一些小知识点。这篇文章将挑一些有意思的内容称述我在这个框架的开发尝试。"
     },
     {
-      "title": "腾讯又来一王炸，开源版 WorkBuddy 太夯了！",
-      "url": "https://juejin.cn/post/7694844501786050596",
-      "source": "juejin",
-      "score": 432,
-      "raw_score": 145,
-      "comments": 3,
-      "author": "cxuanAI",
-      "created_at": "",
-      "summary": "WorkBuddy 太火了，我就这么说吧，如果说最近这段时间国外 Coding Agent 讨论最多的是 Claude 的话，那么国内讨论度最高的，那就得是 WorkBuddy 了。 火到什么程度，我"
-    },
-    {
-      "title": "2026，程序员的时代拐点到了",
-      "url": "https://juejin.cn/post/7694882064269967375",
-      "source": "juejin",
-      "score": 396,
-      "raw_score": 96,
-      "comments": 0,
-      "author": "程序员_小雨",
-      "created_at": "",
-      "summary": "未来的程序员，大概率不再是单纯坐在屏幕前敲代码的人，而是能调度AI、定义业务、兜底风险的人。AI不会精准淘汰某一个人，它只会把差距拉得更大。时代对愿意调整、持续精进的人，通常不吝啬。"
-    },
-    {
-      "title": "把重复工作流派给 AI 的完整方法：四样要素、固定熟手与定时任务",
-      "url": "https://juejin.cn/post/7694844501786492964",
-      "source": "juejin",
-      "score": 301,
-      "raw_score": 32,
-      "comments": 0,
-      "author": "小虎AI生活",
-      "created_at": "",
-      "summary": "导语 读完本文你能拿到三样东西： 判断「该把哪件活分出去」的标准 让 AI 一次接住需求的三样要素（场景、对象、时限、验收标准）表达法 从「手动派活」到「定时任务自动跑」的完整路径 案例来自义乌电商孵"
-    },
-    {
-      "title": "框架性能优化",
-      "url": "https://juejin.cn/post/7694883716314595379",
-      "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
-      "comments": 0,
-      "author": "前端阿凡",
-      "created_at": "",
-      "summary": "一、技术难点：你优化的，是一个不完全由你掌控的运行时 Day22 我们解决了\"组件库的更新粒度\"问题，方法是细粒度订阅。但如果只用一句话总结那篇文章，它是这样的：把状态放到真正使用它的地方。这一篇要把"
-    },
-    {
-      "title": "LLM 驱动的自动化测试系列（08）：移动端自动化（四）——AppAgent：解析树与视觉特征的结合",
-      "url": "https://juejin.cn/post/7694860595010895915",
-      "source": "juejin",
-      "score": 264,
-      "raw_score": 21,
-      "comments": 0,
-      "author": "冬奇Lab",
-      "created_at": "",
-      "summary": "AppAgent 是腾讯出品、CHI 2025 收录的多模态智能体框架，目标是让一个多模态大模型像人一样通过点击、滑动操作手机 App，而不依赖任何系统后端接口"
-    },
-    {
-      "title": "Deno 终局来了：从挑战 Node 到被 Cloudflare 收编",
-      "url": "https://juejin.cn/post/7694850619532656680",
-      "source": "juejin",
-      "score": 264,
-      "raw_score": 21,
-      "comments": 0,
-      "author": "前端小小栈",
-      "created_at": "",
-      "summary": "Node 生态成熟、稳定、企业采用远超 Deno，仍是生产首选。Deno 设计更现代，但已宣布一年后官方停更并入 Cloudflare，独立挑战失败。当前 Node 更胜一筹。"
-    },
-    {
-      "title": "你的RAG检索正在“高效地重复废话”：一文彻底搞懂MMR算法",
-      "url": "https://juejin.cn/post/7694850619532853288",
-      "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
-      "comments": 0,
-      "author": "码农悟道",
-      "created_at": "",
-      "summary": "RAG检索总被“复读机式”结果拖累？Top-K只找相似，不管重复，导致上下文冗余、回答片面。MMR算法通过平衡相关性与多样性，剔除同质内容，让上下文信息价值最大化。一个λ参数即可落地，低成本高收益。"
-    },
-    {
-      "title": "一天一个开源项目（第232篇）：DSH Desktop —— 把桌面壳本身也做成一个插件，30k+ Stars 的 DeepSeek Harness 桌面客户端",
-      "url": "https://juejin.cn/post/7694832291802284086",
+      "title": "Python 装饰器：从语法糖、闭包到 @wraps（上篇）",
+      "url": "https://juejin.cn/post/7694848889866764303",
       "source": "juejin",
       "score": 240,
       "raw_score": 16,
-      "comments": 0,
-      "author": "冬奇Lab",
+      "comments": 1,
+      "author": "会转圈圈的头像",
       "created_at": "",
-      "summary": "这是\"一天一个开源项目\"系列的第 232 篇。今天的项目是 DSH Desktop。 给一个 Agent 框架做桌面客户端"
+      "summary": "自学装饰器时的思考笔记：从 Agent 开发的重试/缓存痛点出发，一步步推导 @ 语法糖、闭包与 @wraps 的底层逻辑，并纠正“wrapped 执行原函数”等常见误解。"
     },
     {
-      "title": "从工具调用到模型输入：把 Agent 的观测链路接起来",
-      "url": "https://juejin.cn/post/7694888649712205833",
+      "title": "Android Compose版本的AI组件库来了。",
+      "url": "https://juejin.cn/post/7694909399427694630",
       "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
+      "score": 215,
+      "raw_score": 12,
       "comments": 0,
-      "author": "hpoenixf",
+      "author": "Legency",
       "created_at": "",
-      "summary": "工具返回成功，后台也有结果，模型为什么还是没有用上？ 要查清这个问题，需要接通两段链路：一段记录工具怎样执行，另一段记录结果怎样进入后续模型请求。只有调用日志，排查会停在“工具没问题”；"
+      "summary": "AI 能读资料、调用工具以后，用户还需要看清进度、确认操作、填写表单。本文介绍 Android Compose 原生 AI 组件库的能力、协议支持、架构与接入，并展示真实效果。"
     },
     {
-      "title": "开源微信流 Windows，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
-      "url": "https://juejin.cn/post/7694888649712222217",
+      "title": "从官方 CDN 里扒出 TRAE (TraeCode) 历史版本安装包",
+      "url": "https://juejin.cn/post/7694850619532886056",
       "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
+      "score": 200,
+      "raw_score": 10,
       "comments": 0,
-      "author": "苍何",
+      "author": "ControlM",
       "created_at": "",
-      "summary": "这是苍何的第 608 篇原创！ 大家好，我是苍何。 上个月底，我们开源了微信流 WeChatBridge，在网上取得了不错的反馈。 现在 GitHub 也已经 1.2 k 的 star 了，目前还在稳"
+      "summary": "起因 新版本升级上去之后不好用，想回退到上一个版本，结果发现 TRAE 官网只提供最新版下载，更新日志里只有版本号，没有任何历史安装包入口。 于是就有了下面这一次「从更新日志倒推到安装包直链」的折腾。"
     },
     {
-      "title": "GitHub的Push一年涨4.9倍：AI Agent为什么逼它重做Git存储？",
-      "url": "https://juejin.cn/post/7694875446618718258",
+      "title": "LangChain 与 LangGraph：从「链」到「图」，一次讲清它们是什么、什么关系",
+      "url": "https://juejin.cn/post/7694883716314382387",
       "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
+      "score": 190,
+      "raw_score": 9,
       "comments": 0,
-      "author": "深蓝AI",
+      "author": "Jasper_L",
       "created_at": "",
-      "summary": "GitHub的Push一年涨4.9倍：AI Agent为什么逼它重做Git存储？ 过去我们谈 AI 编程，总喜欢比较模型一次能写多少行代码。但 GitHub 最新的工程披露提醒了一个更底层的问题：如果"
+      "summary": "一、先说结论 LangChain 是上层框架，提供可组合的「能力积木」：模型、提示词、工具、检索。 LangGraph 是底层编排运行时，提供「骨架」：状态、节点、边、持久化。 两者的关系一句话：La"
     },
     {
-      "title": "ChatGPT dots，到底能替你操多少心？",
-      "url": "https://juejin.cn/post/7694909399427924006",
+      "title": "FDE 入门 · 08｜没人爱做的交付尾巴",
+      "url": "https://juejin.cn/post/7694832291802251318",
       "source": "juejin",
       "score": 180,
       "raw_score": 8,
       "comments": 0,
-      "author": "老金带你玩AI",
+      "author": "ADark",
       "created_at": "",
-      "summary": "老金前两天在社区上看到一个帖子。 发帖人是OpenAI的一位员工，前一晚在准备第二天下午3点要用的演示稿，没想到早上6点56分，dot先来提醒他了。 第26页的金额，和第12、37页对不上。 它还指出"
+      "summary": "上线达标不等于交付完成。文档、培训、运维交接这条尾巴没人爱做，它却决定第二单——客户续不续，看的是\"离了你们的人这套还能不能跑\"。本文讲三个常见漏点怎么补，给一份照着就能交的交付包清单"
+    },
+    {
+      "title": "RAG检索增强实战：原理、七步链路与最小可用代码",
+      "url": "https://juejin.cn/post/7694860595011174443",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "橘和柠",
+      "created_at": "",
+      "summary": "RAG检索增强实战：原理、七步链路与最小可用代码 一、为什么需要 RAG 本地模型跑起来后，你会发现三个绕不过去的限制，它们恰好对应 RAG 的三个存在理由： 第一，模型会\"一本正经地编\"（幻觉）。问"
+    },
+    {
+      "title": "Agent 重试会不会越帮越乱？",
+      "url": "https://juejin.cn/post/7694868346578075657",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "ZGIAI",
+      "created_at": "",
+      "summary": "Agent 遇到失败时，不是所有动作都适合再执行。先按副作用把动作分为可安全重试、需要查状态后重试和必须人工确认三类，再为每次执行保留幂等键、结果状态和补偿路径，才能减少重复写入、重复通知和错误扩散。"
+    },
+    {
+      "title": "macOS 定时任务排错：退出码、错误消息、旧结论，三个都不承载事实",
+      "url": "https://juejin.cn/post/7694914573862551586",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "alonglong",
+      "created_at": "",
+      "summary": "复现旧排查笔记：三条结论两条已失效。launchctl list 从 0 行变 565 行，bootstrap 从必然失败变成功。附三个判据陷阱＋一个只信 print 的 35 行脚本。"
+    },
+    {
+      "title": "把 Python 塞进 APK：Chaquopy 打包实践",
+      "url": "https://juejin.cn/post/7694972178476040234",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "vilya",
+      "created_at": "",
+      "summary": "做手机端 Agent 时，我把 Python 内核直接打进安装包，用了 Chaquopy。这篇记接入步骤和实测踩到的坑：构建用的 Python 路径、只留 arm64、依赖仓库镜像超时。"
+    },
+    {
+      "title": "Cockroach Labs 用医院工作流做 AI Coding：5 个月合并 1238 个 PR，回滚 7 次",
+      "url": "https://juejin.cn/post/7694909965791723535",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "ZzT",
+      "created_at": "",
+      "summary": "Cockroach Labs 用教学医院的分工组织 Claude agent，5 个月合并 1238 个 PR、回滚 7 次，每个 issue 约 84 美元。本文拆解它的角色、规则、成本和四个问题。"
+    },
+    {
+      "title": "篇十：实战：搭建一个企业知识库问答系统",
+      "url": "https://juejin.cn/post/7694914573862862882",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "李溪白",
+      "created_at": "",
+      "summary": "前九篇我们拆解了 RAG 的每一个零件：从文档解析、切片策略、Embedding 选型、混合检索、重排序、上下文组装，到高级模式、幻觉控制和性能优化。 但把零件拼成一台能跑的车，和造出零件是两回事。 "
+    },
+    {
+      "title": "GitHub 周榜趋势速报 | 2026-10-11",
+      "url": "https://juejin.cn/post/7694928236115148810",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "miofly",
+      "created_at": "",
+      "summary": "GitHub 周榜 2026-10-11：Strata、Compositor、DiPlay 等 20 个开源项目近 7 天 Star 增速领先，一周开源趋势速报。"
+    },
+    {
+      "title": "Muse 搭配 Tailscale！让 AI 钻进家里内网，直接访问你电脑里的素材！",
+      "url": "https://juejin.cn/post/7694832291802546230",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "大强同学",
+      "created_at": "",
+      "summary": "今天分享一个真香组合：Muse + Tailscale，让你的 AI 助手直接连进你家的内网。 什么意思呢？就是把家里的电脑、NAS、迷你主机都连到同一张私人网络里，再把 Muse 也拉进来。 从此你"
+    },
+    {
+      "title": "GitHub 日榜趋势速报 | 2026-10-11",
+      "url": "https://juejin.cn/post/7694934986782277641",
+      "source": "juejin",
+      "score": 60,
+      "raw_score": 2,
+      "comments": 0,
+      "author": "miofly",
+      "created_at": "",
+      "summary": "GitHub 日榜 2026-10-11：wordcraft、iPhone-use、ARTEX 等 20 个开源项目 24 小时 Star 增速领先，每日更新的开源趋势速报。"
     }
   ]
 }
