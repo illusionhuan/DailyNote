@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-11T02:56:47.612762+00:00",
+  "updated_at": "2026-10-11T17:01:36.122390+00:00",
   "articles": [
     {
-      "title": "Kuikly股票查看软件开发体验——SaiRen",
-      "url": "https://juejin.cn/post/7694850619532689448",
+      "title": "国庆七天，AI圈没一天消停",
+      "url": "https://juejin.cn/post/7694124645507940379",
       "source": "juejin",
-      "score": 289,
-      "raw_score": 28,
-      "comments": 0,
-      "author": "萌新杰少",
+      "score": 732,
+      "raw_score": 4618,
+      "comments": 16,
+      "author": "码事漫谈",
       "created_at": "",
-      "summary": "借腾讯犀牛鸟开源人才培养计划的实战，分享最近腾讯Kuikly框架开发体验和一些小知识点。这篇文章将挑一些有意思的内容称述我在这个框架的开发尝试。"
+      "summary": "大家放假这七天，AI公司基本没停手。旗舰模型一款接一款地出，\"永不下班\"的智能体开始上岗，欧洲还甩出一个万亿参数的开放权重模型。热闹归热闹，10月3日的一封辞职信，给这场狂欢泼了盆冷水。下面按时间线捋"
     },
     {
-      "title": "Python 装饰器：从语法糖、闭包到 @wraps（上篇）",
-      "url": "https://juejin.cn/post/7694848889866764303",
+      "title": "朋友面试谈薪报价2w，HR非得压到1.9，还反问他：你就差这1000块钱？后来背调时问了他前同事十几个问题，对方最后直接挂了",
+      "url": "https://juejin.cn/post/7694185019602812968",
       "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
+      "score": 727,
+      "raw_score": 4346,
+      "comments": 12,
+      "author": "CodeSheep",
+      "created_at": "",
+      "summary": "假期在家逛社区的时候刷到这样一个事情，看得我血压直接飙升。 情况大概是这样的： 一位哥们去面试，技术面聊得不错，谈薪环节报了 20k 的期望薪资。结果 hr 非要压到 19k，这还不算，接着竟然还来了"
+    },
+    {
+      "title": "开源小工具 Who Arrives：看看你的公网 IP、地区、时区和网络",
+      "url": "https://juejin.cn/post/7695079160248123446",
+      "source": "juejin",
+      "score": 318,
+      "raw_score": 39,
+      "comments": 0,
+      "author": "fthux",
+      "created_at": "",
+      "summary": "Who Arrives 是一款免费开源的连接信息查询工具。本文介绍公网 IP、近似地区、时区等功能，说明 fields 参数及使用场景，并提供官网和开源地址，方便直接体验。"
+    },
+    {
+      "title": "五道题，测测你有没有真的入门 AI",
+      "url": "https://juejin.cn/post/7694967013273829395",
+      "source": "juejin",
+      "score": 292,
+      "raw_score": 29,
+      "comments": 0,
+      "author": "码事漫谈",
+      "created_at": "",
+      "summary": "这篇写给不写代码的人——业务专家、管理者，以及想把 AI 用起来的普通职场人。文里提到的每样东西，你不需要会编程也能用上。 上周有人问我：怎么才算会用 AI 了？ 他自己先答了：\"知道 skills "
+    },
+    {
+      "title": "Agent 工程师学习线路 — 核心知识点总结",
+      "url": "https://juejin.cn/post/7694928236116033546",
+      "source": "juejin",
+      "score": 292,
+      "raw_score": 29,
+      "comments": 0,
+      "author": "积跬步以至千里",
+      "created_at": "",
+      "summary": "Agent 工程师学习线路 — 核心知识点总结 一、六大学习模块 + 配套项目 模块 核心知识点 学完要做的项目 验收标准 ① LLM 基础 Transformer、Token/上下文窗口、采样参数、"
+    },
+    {
+      "title": "LLM 驱动的自动化测试系列（09）：移动端自动化（五）——当通用 Agent 框架下沉到测试场景",
+      "url": "https://juejin.cn/post/7694917909773271074",
+      "source": "juejin",
+      "score": 286,
+      "raw_score": 27,
       "comments": 1,
-      "author": "会转圈圈的头像",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "自学装饰器时的思考笔记：从 Agent 开发的重试/缓存痛点出发，一步步推导 @ 语法糖、闭包与 @wraps 的底层逻辑，并纠正“wrapped 执行原函数”等常见误解。"
+      "summary": "MetaGPT 是一个'多智能体软件公司'框架，主打需求分析、代码生成这类通用软件工程场景，它内置了一个 Android 测试 demo"
     },
     {
-      "title": "Android Compose版本的AI组件库来了。",
-      "url": "https://juejin.cn/post/7694909399427694630",
+      "title": "被 Vibe Coding 反噬之后，我老老实实地回去写文档了",
+      "url": "https://juejin.cn/post/7695030462259626034",
       "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
+      "score": 264,
+      "raw_score": 21,
       "comments": 0,
-      "author": "Legency",
+      "author": "To_OC",
       "created_at": "",
-      "summary": "AI 能读资料、调用工具以后，用户还需要看清进度、确认操作、填写表单。本文介绍 Android Compose 原生 AI 组件库的能力、协议支持、架构与接入，并展示真实效果。"
+      "summary": "事情要从我想做的那个浏览器插件说起 那段时间我脑子里一直有个想法：做个浏览器插件，在英文网页上点一下，自动把文章正文提出来，丢给 AI 翻译成中文，渲染成 Markdown，再一键复制——目标用户是做"
     },
     {
-      "title": "从官方 CDN 里扒出 TRAE (TraeCode) 历史版本安装包",
-      "url": "https://juejin.cn/post/7694850619532886056",
+      "title": "Hermes Agent协作篇：Gateway、Profile、Delegation、Kanban 与高级特性",
+      "url": "https://juejin.cn/post/7695030462259527730",
+      "source": "juejin",
+      "score": 260,
+      "raw_score": 20,
+      "comments": 0,
+      "author": "hsfxuebao",
+      "created_at": "",
+      "summary": "第四部分 · 协作篇：Gateway、Profile、Delegation、Kanban 与高级特性 1. Gateway 消息网关 Gateway 是 Hermes 的消息平台接入层，可以作为前台进"
+    },
+    {
+      "title": "企业业务运营信息数据库",
+      "url": "https://juejin.cn/post/7694972872187985974",
+      "source": "juejin",
+      "score": 251,
+      "raw_score": 18,
+      "comments": 0,
+      "author": "风骏时光牛马",
+      "created_at": "",
+      "summary": "企业业务运营信息数据库设计文档 1. 概述 本文档描述企业业务运营信息数据库的设计方案，用于统一存储企业日常经营过程中的客户、订单、产品、员工及业务流水数据，支撑业务统计、报表生成与运营分析。数据库采"
+    },
+    {
+      "title": "Cabloy 双引擎架构详解：Vona 与 Zova 是如何协作的",
+      "url": "https://juejin.cn/post/7694928086821519360",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "ControlM",
+      "author": "濮水大叔",
       "created_at": "",
-      "summary": "起因 新版本升级上去之后不好用，想回退到上一个版本，结果发现 TRAE 官网只提供最新版下载，更新日志里只有版本号，没有任何历史安装包入口。 于是就有了下面这一次「从更新日志倒推到安装包直链」的折腾。"
+      "summary": "Cabloy 不是传统意义上“一个 Web 框架”，而是一个全栈系统中的两个独立引擎：Vona 负责后端运行时，Zova 负责前端应用。"
     },
     {
-      "title": "LangChain 与 LangGraph：从「链」到「图」，一次讲清它们是什么、什么关系",
-      "url": "https://juejin.cn/post/7694883716314382387",
+      "title": "Redis 缓存穿透、雪崩、击穿",
+      "url": "https://juejin.cn/post/7694949059408871487",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "苏渡苇",
+      "created_at": "",
+      "summary": "穿透：查一个库里根本没有的东西 雪崩：大批 Key 同一时刻过期 击穿：热点 Key 刚好失效，所有人去打 DB 重建缓存时怎么加一把互斥锁，避免所有人一起打 DB 发车前提醒：这三种情况经"
+    },
+    {
+      "title": "03-06-架构篇-资源依赖与分组架构",
+      "url": "https://juejin.cn/post/7694967861420949504",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "Jasper_L",
+      "author": "SmalBox",
       "created_at": "",
-      "summary": "一、先说结论 LangChain 是上层框架，提供可组合的「能力积木」：模型、提示词、工具、检索。 LangGraph 是底层编排运行时，提供「骨架」：状态、节点、边、持久化。 两者的关系一句话：La"
+      "summary": "资源下载器架构 一、引言 本章将深入解析 YooAsset 的资源下载器架构。资源下载器是 YooAsset 热更新功能的核心组件，负责从远程服务器下载资源到本地。 YooAsset 的资源下载器采用"
     },
     {
-      "title": "FDE 入门 · 08｜没人爱做的交付尾巴",
-      "url": "https://juejin.cn/post/7694832291802251318",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "ADark",
-      "created_at": "",
-      "summary": "上线达标不等于交付完成。文档、培训、运维交接这条尾巴没人爱做，它却决定第二单——客户续不续，看的是\"离了你们的人这套还能不能跑\"。本文讲三个常见漏点怎么补，给一份照着就能交的交付包清单"
-    },
-    {
-      "title": "RAG检索增强实战：原理、七步链路与最小可用代码",
-      "url": "https://juejin.cn/post/7694860595011174443",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "橘和柠",
-      "created_at": "",
-      "summary": "RAG检索增强实战：原理、七步链路与最小可用代码 一、为什么需要 RAG 本地模型跑起来后，你会发现三个绕不过去的限制，它们恰好对应 RAG 的三个存在理由： 第一，模型会\"一本正经地编\"（幻觉）。问"
-    },
-    {
-      "title": "Agent 重试会不会越帮越乱？",
-      "url": "https://juejin.cn/post/7694868346578075657",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "ZGIAI",
-      "created_at": "",
-      "summary": "Agent 遇到失败时，不是所有动作都适合再执行。先按副作用把动作分为可安全重试、需要查状态后重试和必须人工确认三类，再为每次执行保留幂等键、结果状态和补偿路径，才能减少重复写入、重复通知和错误扩散。"
-    },
-    {
-      "title": "macOS 定时任务排错：退出码、错误消息、旧结论，三个都不承载事实",
-      "url": "https://juejin.cn/post/7694914573862551586",
+      "title": "leetcode_84. 柱状图中最大的矩形",
+      "url": "https://juejin.cn/post/7694967013273894931",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "alonglong",
+      "author": "2分钟速写快排",
       "created_at": "",
-      "summary": "复现旧排查笔记：三条结论两条已失效。launchctl list 从 0 行变 565 行，bootstrap 从必然失败变成功。附三个判据陷阱＋一个只信 print 的 35 行脚本。"
+      "summary": "题目链接: 84. 柱状图中最大的矩形 一、题目描述： 给定 n 个非负整数，用来表示柱状图中各个柱子的高度。每个柱子彼此相邻，且宽度为 1 。 求在该柱状图中，能够勾勒出来的矩形的最大面积。 示例 "
     },
     {
-      "title": "把 Python 塞进 APK：Chaquopy 打包实践",
-      "url": "https://juejin.cn/post/7694972178476040234",
+      "title": "Python实战第2期: 变量与数据类型",
+      "url": "https://juejin.cn/post/7694991106100379698",
       "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
+      "score": 155,
+      "raw_score": 6,
       "comments": 0,
-      "author": "vilya",
+      "author": "全栈弄潮儿",
       "created_at": "",
-      "summary": "做手机端 Agent 时，我把 Python 内核直接打进安装包，用了 Chaquopy。这篇记接入步骤和实测踩到的坑：构建用的 Python 路径、只留 arm64、依赖仓库镜像超时。"
+      "summary": "引言：为什么需要变量？ 在第1期中，我们学会了编写第一个Python程序。但你可能发现了一个问题：如果我们想在程序中多次使用同一个数据，每次都要重新写一遍，非常麻烦。"
     },
     {
-      "title": "Cockroach Labs 用医院工作流做 AI Coding：5 个月合并 1238 个 PR，回滚 7 次",
-      "url": "https://juejin.cn/post/7694909965791723535",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "ZzT",
-      "created_at": "",
-      "summary": "Cockroach Labs 用教学医院的分工组织 Claude agent，5 个月合并 1238 个 PR、回滚 7 次，每个 issue 约 84 美元。本文拆解它的角色、规则、成本和四个问题。"
-    },
-    {
-      "title": "篇十：实战：搭建一个企业知识库问答系统",
-      "url": "https://juejin.cn/post/7694914573862862882",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "李溪白",
-      "created_at": "",
-      "summary": "前九篇我们拆解了 RAG 的每一个零件：从文档解析、切片策略、Embedding 选型、混合检索、重排序、上下文组装，到高级模式、幻觉控制和性能优化。 但把零件拼成一台能跑的车，和造出零件是两回事。 "
-    },
-    {
-      "title": "GitHub 周榜趋势速报 | 2026-10-11",
-      "url": "https://juejin.cn/post/7694928236115148810",
+      "title": "【LevelDB 源码阅读】05 | WriteBatch：原子写的载体",
+      "url": "https://juejin.cn/post/7694991106099216434",
       "source": "juejin",
       "score": 95,
       "raw_score": 3,
       "comments": 0,
-      "author": "miofly",
+      "author": "RobinXYuan",
       "created_at": "",
-      "summary": "GitHub 周榜 2026-10-11：Strata、Compositor、DiPlay 等 20 个开源项目近 7 天 Star 增速领先，一周开源趋势速报。"
-    },
-    {
-      "title": "Muse 搭配 Tailscale！让 AI 钻进家里内网，直接访问你电脑里的素材！",
-      "url": "https://juejin.cn/post/7694832291802546230",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "大强同学",
-      "created_at": "",
-      "summary": "今天分享一个真香组合：Muse + Tailscale，让你的 AI 助手直接连进你家的内网。 什么意思呢？就是把家里的电脑、NAS、迷你主机都连到同一张私人网络里，再把 Muse 也拉进来。 从此你"
-    },
-    {
-      "title": "GitHub 日榜趋势速报 | 2026-10-11",
-      "url": "https://juejin.cn/post/7694934986782277641",
-      "source": "juejin",
-      "score": 60,
-      "raw_score": 2,
-      "comments": 0,
-      "author": "miofly",
-      "created_at": "",
-      "summary": "GitHub 日榜 2026-10-11：wordcraft、iPhone-use、ARTEX 等 20 个开源项目 24 小时 Star 增速领先，每日更新的开源趋势速报。"
+      "summary": "BuildBatchGroup 把八个线程的写请求拼成一个大 batch，一次落盘——这个“batch”究竟长什么样？每个成员怎么分到自己的序列号？为什么说它就是一次原子写？"
     }
   ]
 }
