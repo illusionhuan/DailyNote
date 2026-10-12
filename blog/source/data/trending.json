@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-11T17:01:36.122390+00:00",
+  "updated_at": "2026-10-12T03:19:47.299141+00:00",
   "articles": [
     {
-      "title": "国庆七天，AI圈没一天消停",
-      "url": "https://juejin.cn/post/7694124645507940379",
+      "title": "为什么我劝应届生不要去创业公司写前端？",
+      "url": "https://juejin.cn/post/7694972872189050934",
       "source": "juejin",
-      "score": 732,
-      "raw_score": 4618,
-      "comments": 16,
-      "author": "码事漫谈",
-      "created_at": "",
-      "summary": "大家放假这七天，AI公司基本没停手。旗舰模型一款接一款地出，\"永不下班\"的智能体开始上岗，欧洲还甩出一个万亿参数的开放权重模型。热闹归热闹，10月3日的一封辞职信，给这场狂欢泼了盆冷水。下面按时间线捋"
-    },
-    {
-      "title": "朋友面试谈薪报价2w，HR非得压到1.9，还反问他：你就差这1000块钱？后来背调时问了他前同事十几个问题，对方最后直接挂了",
-      "url": "https://juejin.cn/post/7694185019602812968",
-      "source": "juejin",
-      "score": 727,
-      "raw_score": 4346,
-      "comments": 12,
-      "author": "CodeSheep",
-      "created_at": "",
-      "summary": "假期在家逛社区的时候刷到这样一个事情，看得我血压直接飙升。 情况大概是这样的： 一位哥们去面试，技术面聊得不错，谈薪环节报了 20k 的期望薪资。结果 hr 非要压到 19k，这还不算，接着竟然还来了"
-    },
-    {
-      "title": "开源小工具 Who Arrives：看看你的公网 IP、地区、时区和网络",
-      "url": "https://juejin.cn/post/7695079160248123446",
-      "source": "juejin",
-      "score": 318,
-      "raw_score": 39,
+      "score": 478,
+      "raw_score": 246,
       "comments": 0,
-      "author": "fthux",
+      "author": "ErpanOmer",
       "created_at": "",
-      "summary": "Who Arrives 是一款免费开源的连接信息查询工具。本文介绍公网 IP、近似地区、时区等功能，说明 fields 参数及使用场景，并提供官网和开源地址，方便直接体验。"
+      "summary": "应届生选择创业公司前端负责人岗位需谨慎，缺乏代码审查与团队指导，技术成长受限，简历含金量低，期权回报概率极小，建议优先进入有成熟前端团队的中大型公司。"
     },
     {
-      "title": "五道题，测测你有没有真的入门 AI",
-      "url": "https://juejin.cn/post/7694967013273829395",
+      "title": "程序员 1v1 访谈系列第一期：转行也不会等到失业以后",
+      "url": "https://juejin.cn/post/7694967013274370067",
       "source": "juejin",
-      "score": 292,
-      "raw_score": 29,
+      "score": 412,
+      "raw_score": 116,
       "comments": 0,
-      "author": "码事漫谈",
+      "author": "双越AI_club",
       "created_at": "",
-      "summary": "这篇写给不写代码的人——业务专家、管理者，以及想把 AI 用起来的普通职场人。文里提到的每样东西，你不需要会编程也能用上。 上周有人问我：怎么才算会用 AI 了？ 他自己先答了：\"知道 skills "
+      "summary": "大家好，我是双越。我最近正在搞一个《程序员 1v1 访谈系列》即和我 1v1 微信语音或文字聊天，分享你的状态和困惑，我给出建议。以下是第 1 位沟通者的主要内容，分享出来供大家参考。"
     },
     {
-      "title": "Agent 工程师学习线路 — 核心知识点总结",
-      "url": "https://juejin.cn/post/7694928236116033546",
+      "title": "这可能是Windows下最适合Claude Code/Codex的终端了，真的夯！",
+      "url": "https://juejin.cn/post/7694972872189378614",
       "source": "juejin",
-      "score": 292,
-      "raw_score": 29,
+      "score": 354,
+      "raw_score": 59,
       "comments": 0,
-      "author": "积跬步以至千里",
+      "author": "MacroZheng",
       "created_at": "",
-      "summary": "Agent 工程师学习线路 — 核心知识点总结 一、六大学习模块 + 配套项目 模块 核心知识点 学完要做的项目 验收标准 ① LLM 基础 Transformer、Token/上下文窗口、采样参数、"
+      "summary": "Claude Code、Codex 这类 CLI 编程 Agent 越来越火，但在 Windows 上跑它们，体验经常差点意思。"
     },
     {
-      "title": "LLM 驱动的自动化测试系列（09）：移动端自动化（五）——当通用 Agent 框架下沉到测试场景",
-      "url": "https://juejin.cn/post/7694917909773271074",
+      "title": "🚀 Node.js 之父离开 Deno，带着整个团队加入了 Cloudflare",
+      "url": "https://juejin.cn/post/7695030462259789874",
       "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
-      "comments": 1,
-      "author": "冬奇Lab",
-      "created_at": "",
-      "summary": "MetaGPT 是一个'多智能体软件公司'框架，主打需求分析、代码生成这类通用软件工程场景，它内置了一个 Android 测试 demo"
-    },
-    {
-      "title": "被 Vibe Coding 反噬之后，我老老实实地回去写文档了",
-      "url": "https://juejin.cn/post/7695030462259626034",
-      "source": "juejin",
-      "score": 264,
-      "raw_score": 21,
+      "score": 352,
+      "raw_score": 58,
       "comments": 0,
-      "author": "To_OC",
+      "author": "小小荧",
       "created_at": "",
-      "summary": "事情要从我想做的那个浏览器插件说起 那段时间我脑子里一直有个想法：做个浏览器插件，在英文网页上点一下，自动把文章正文提出来，丢给 AI 翻译成中文，渲染成 Markdown，再一键复制——目标用户是做"
+      "summary": "🚀 Node.js 之父离开 Deno，带着整个团队加入了 Cloudflare 10 月 9 日，Ryan Dahl 在 Deno 官方博客发了一篇标题很短的公告，Deno 团队加入 Cloudfl"
     },
     {
-      "title": "Hermes Agent协作篇：Gateway、Profile、Delegation、Kanban 与高级特性",
-      "url": "https://juejin.cn/post/7695030462259527730",
+      "title": "最近逛 GitHub ，挖到 3 个给力的开源项目，第一个比较硬核。",
+      "url": "https://juejin.cn/post/7695037291081990178",
       "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
+      "score": 324,
+      "raw_score": 42,
       "comments": 0,
-      "author": "hsfxuebao",
+      "author": "逛逛GitHub",
       "created_at": "",
-      "summary": "第四部分 · 协作篇：Gateway、Profile、Delegation、Kanban 与高级特性 1. Gateway 消息网关 Gateway 是 Hermes 的消息平台接入层，可以作为前台进"
+      "summary": "01 给你的 Agent 赋予 CAD 超能力 text-to-cad 给 Claude Code、Codex 等 Agent 工具增加了 CAD 建模能力。 CAD 就是用电脑设计工程图和三维模型，"
     },
     {
-      "title": "企业业务运营信息数据库",
-      "url": "https://juejin.cn/post/7694972872187985974",
+      "title": "Java程序员需要转Python吗？",
+      "url": "https://juejin.cn/post/7695079160285397035",
       "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
+      "score": 303,
+      "raw_score": 33,
       "comments": 0,
-      "author": "风骏时光牛马",
+      "author": "苏三说技术",
       "created_at": "",
-      "summary": "企业业务运营信息数据库设计文档 1. 概述 本文档描述企业业务运营信息数据库的设计方案，用于统一存储企业日常经营过程中的客户、订单、产品、员工及业务流水数据，支撑业务统计、报表生成与运营分析。数据库采"
+      "summary": "前言 最近经常有小伙伴私信问我：“三哥，Java程序员要不要转Python？” 有小伙伴给我发了招聘截图：某AI创业公司招大模型应用工程师，要求“熟练掌握Python，有LangChain/Llama"
     },
     {
-      "title": "Cabloy 双引擎架构详解：Vona 与 Zova 是如何协作的",
-      "url": "https://juejin.cn/post/7694928086821519360",
+      "title": "微信小程序点餐项目实战：飞入动画、样式错位、弹窗不消失，7 个前端坑的完整排障记录",
+      "url": "https://juejin.cn/post/7694936746131882027",
+      "source": "juejin",
+      "score": 298,
+      "raw_score": 31,
+      "comments": 0,
+      "author": "霍营_托尼",
+      "created_at": "",
+      "summary": "近期在做一款「南昌拌粉」微信小程序点餐项目（原生小程序 + 云开发），过程里踩了飞入动画真机消失、WXSS 兼容性、button 盒模型、空事件绑定等一批高频坑。这篇文章把每个坑的报错现场、错误尝试和"
+    },
+    {
+      "title": "Dart 之库与可见性",
+      "url": "https://juejin.cn/post/7694917909773156386",
+      "source": "juejin",
+      "score": 240,
+      "raw_score": 16,
+      "comments": 0,
+      "author": "好的佩奇",
+      "created_at": "",
+      "summary": "从两个文件的例子认识 Dart 的库：导入后为什么仍不能使用下划线开头的名称，以及 import、export、part 怎样决定名称的使用范围。"
+    },
+    {
+      "title": "OpenRig 拆解：用 YAML 把 Claude Code 和 Codex 编成一支团队",
+      "url": "https://juejin.cn/post/7695243313537302578",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "ZzT",
+      "created_at": "",
+      "summary": "OpenRig 把 Claude Code、Codex 会话编进同一个团队：YAML 定义角色和关系，tmux 承载每个 agent，SQLite 队列记录谁在做什么。本文从源码拆解它的设计。"
+    },
+    {
+      "title": "深入剖析 ET8 框架的 Fiber 机制：一个纤程的诞生、心跳、传信与消亡",
+      "url": "https://juejin.cn/post/7694949059409395775",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "他日若遂凌云志",
+      "created_at": "",
+      "summary": "# 深入剖析 ET8 框架的 Fiber 机制 ## 引言：为什么从 Fiber 开始读 ET8 也是偶然间重新审视 ET（一款双端通用的游戏开发框架），惊艳于它 8.x 版本重构后的轻与净——客"
+    },
+    {
+      "title": "格式化成日期为什么提前一天呢，同样的时间点还是非必现？？？",
+      "url": "https://juejin.cn/post/7695079160285691947",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "提前退休的java猿",
+      "created_at": "",
+      "summary": "很久没有写博客，上半年看房买房自己找人装，总算搞得差不多了，现在有时间继续写点博客了🤪 其实还有一个很重要的原因，就是现在 AI 太强大了，对技术失去信心了，对于未来的路博主也是很迷茫呀。"
+    },
+    {
+      "title": "Nginx 介绍",
+      "url": "https://juejin.cn/post/7695398283245568026",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "NolanKy",
+      "created_at": "",
+      "summary": "Nginx（读作“Engine X”）是一款服务器软件，主要用来接收浏览器的 HTTP/HTTPS 请求，并返回网页文件或把请求转发给后端服务。 结合你前面问的“前端页面怎么让用户看到”，Nginx "
+    },
+    {
+      "title": "解Bug之路-隔离故障点后业务不恢复?-热点Key处理与亚稳态故障",
+      "url": "https://juejin.cn/post/7694932886454616091",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "濮水大叔",
+      "author": "无毁的湖光Al",
       "created_at": "",
-      "summary": "Cabloy 不是传统意义上“一个 Web 框架”，而是一个全栈系统中的两个独立引擎：Vona 负责后端运行时，Zova 负责前端应用。"
+      "summary": "前言 《解Bug之路》作为笔者博客的镇站之宝系列，之前写的都是一些疑难杂症。但在和AI交流的过程中发现，一些对于笔者来说排查很直观的故障其实有不小的价值。这篇文章就是此种情况，虽然排查过程很直观，思路"
     },
     {
-      "title": "Redis 缓存穿透、雪崩、击穿",
-      "url": "https://juejin.cn/post/7694949059408871487",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "苏渡苇",
-      "created_at": "",
-      "summary": "穿透：查一个库里根本没有的东西 雪崩：大批 Key 同一时刻过期 击穿：热点 Key 刚好失效，所有人去打 DB 重建缓存时怎么加一把互斥锁，避免所有人一起打 DB 发车前提醒：这三种情况经"
-    },
-    {
-      "title": "03-06-架构篇-资源依赖与分组架构",
-      "url": "https://juejin.cn/post/7694967861420949504",
-      "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
-      "comments": 0,
-      "author": "SmalBox",
-      "created_at": "",
-      "summary": "资源下载器架构 一、引言 本章将深入解析 YooAsset 的资源下载器架构。资源下载器是 YooAsset 热更新功能的核心组件，负责从远程服务器下载资源到本地。 YooAsset 的资源下载器采用"
-    },
-    {
-      "title": "leetcode_84. 柱状图中最大的矩形",
-      "url": "https://juejin.cn/post/7694967013273894931",
+      "title": "【AI全栈12-05】Spring Boot 用 Tool Calling 让 AI 查实时订单与库存",
+      "url": "https://juejin.cn/post/7695237180897935402",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "2分钟速写快排",
+      "author": "威哥爱编程",
       "created_at": "",
-      "summary": "题目链接: 84. 柱状图中最大的矩形 一、题目描述： 给定 n 个非负整数，用来表示柱状图中各个柱子的高度。每个柱子彼此相邻，且宽度为 1 。 求在该柱状图中，能够勾勒出来的矩形的最大面积。 示例 "
+      "summary": "一个让客服背锅的场景 V哥 帮一家做家居电商的团队看售后系统，产品经理兴冲冲地说：我们上了 AI 助手，客户问「我的订单到哪了」，它答得可像样了。结果上线第三天就出事——客户问订单 SO2025001"
     },
     {
-      "title": "Python实战第2期: 变量与数据类型",
-      "url": "https://juejin.cn/post/7694991106100379698",
+      "title": "【AI全栈12-04】Spring Boot 用结构化输出自动解析简历：让模型按你的 POJO 输出",
+      "url": "https://juejin.cn/post/7695209221113495571",
       "source": "juejin",
-      "score": 155,
-      "raw_score": 6,
+      "score": 139,
+      "raw_score": 5,
       "comments": 0,
-      "author": "全栈弄潮儿",
+      "author": "威哥爱编程",
       "created_at": "",
-      "summary": "引言：为什么需要变量？ 在第1期中，我们学会了编写第一个Python程序。但你可能发现了一个问题：如果我们想在程序中多次使用同一个数据，每次都要重新写一遍，非常麻烦。"
-    },
-    {
-      "title": "【LevelDB 源码阅读】05 | WriteBatch：原子写的载体",
-      "url": "https://juejin.cn/post/7694991106099216434",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "RobinXYuan",
-      "created_at": "",
-      "summary": "BuildBatchGroup 把八个线程的写请求拼成一个大 batch，一次落盘——这个“batch”究竟长什么样？每个成员怎么分到自己的序列号？为什么说它就是一次原子写？"
+      "summary": "一个让后端很憋屈的场景 V哥 带学员做招聘系统实训时，总会先让他们去看一眼 HR 的日常工作：收到一封简历（PDF、Word、甚至邮件正文），人工把姓名、手机号、学历、工作年限、技能关键词、最近职位一"
     }
   ]
 }
