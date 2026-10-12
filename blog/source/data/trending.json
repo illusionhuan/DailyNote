@@ -1,13 +1,35 @@
 {
-  "updated_at": "2026-10-12T03:19:47.299141+00:00",
+  "updated_at": "2026-10-12T20:35:58.438472+00:00",
   "articles": [
+    {
+      "title": "朋友面试谈薪报价2w，HR非得压到1.9，还反问他：你就差这1000块钱？后来背调时问了他前同事十几个问题，对方最后直接挂了",
+      "url": "https://juejin.cn/post/7694185019602812968",
+      "source": "juejin",
+      "score": 742,
+      "raw_score": 5188,
+      "comments": 12,
+      "author": "CodeSheep",
+      "created_at": "",
+      "summary": "假期在家逛社区的时候刷到这样一个事情，看得我血压直接飙升。 情况大概是这样的： 一位哥们去面试，技术面聊得不错，谈薪环节报了 20k 的期望薪资。结果 hr 非要压到 19k，这还不算，接着竟然还来了"
+    },
+    {
+      "title": "公司从 400 多人缩减到 100 多人，我开始重新思考程序员的未来",
+      "url": "https://juejin.cn/post/7694835192107860009",
+      "source": "juejin",
+      "score": 695,
+      "raw_score": 2993,
+      "comments": 26,
+      "author": "穆梓东海",
+      "created_at": "",
+      "summary": "35岁的程序员，是不是已经落幕了？ 最近一直在逛掘金的文章，有技术文章，有人生感悟，还有各种沸点。 看得越多，越觉得现在大家都不容易。 大环境的影响，加上 AI 的冲击，感觉整个行业正在进入一个落幕阶"
+    },
     {
       "title": "为什么我劝应届生不要去创业公司写前端？",
       "url": "https://juejin.cn/post/7694972872189050934",
       "source": "juejin",
-      "score": 478,
-      "raw_score": 246,
-      "comments": 0,
+      "score": 565,
+      "raw_score": 671,
+      "comments": 2,
       "author": "ErpanOmer",
       "created_at": "",
       "summary": "应届生选择创业公司前端负责人岗位需谨慎，缺乏代码审查与团队指导，技术成长受限，简历含金量低，期权回报概率极小，建议优先进入有成熟前端团队的中大型公司。"
@@ -16,155 +38,133 @@
       "title": "程序员 1v1 访谈系列第一期：转行也不会等到失业以后",
       "url": "https://juejin.cn/post/7694967013274370067",
       "source": "juejin",
-      "score": 412,
-      "raw_score": 116,
-      "comments": 0,
+      "score": 557,
+      "raw_score": 615,
+      "comments": 4,
       "author": "双越AI_club",
       "created_at": "",
       "summary": "大家好，我是双越。我最近正在搞一个《程序员 1v1 访谈系列》即和我 1v1 微信语音或文字聊天，分享你的状态和困惑，我给出建议。以下是第 1 位沟通者的主要内容，分享出来供大家参考。"
     },
     {
-      "title": "这可能是Windows下最适合Claude Code/Codex的终端了，真的夯！",
-      "url": "https://juejin.cn/post/7694972872189378614",
+      "title": "DeepSeek Harness 重磅更新，Codex、Claude Code 子智能体进官方插件列表了，还有 Git 工作树和思考翻译！",
+      "url": "https://juejin.cn/post/7695243313538416690",
       "source": "juejin",
-      "score": 354,
-      "raw_score": 59,
+      "score": 521,
+      "raw_score": 403,
       "comments": 0,
-      "author": "MacroZheng",
+      "author": "JavaGuide",
       "created_at": "",
-      "summary": "Claude Code、Codex 这类 CLI 编程 Agent 越来越火，但在 Windows 上跑它们，体验经常差点意思。"
+      "summary": "DeepSeek Harness 是 DeepSeek 开源的 AI Agent 工具。选一个本地文件夹作为工作区，配好模型，就可以让它读取文件、修改代码、整理资料、执行命令，还能通过插件扩展功能。 "
     },
     {
-      "title": "🚀 Node.js 之父离开 Deno，带着整个团队加入了 Cloudflare",
-      "url": "https://juejin.cn/post/7695030462259789874",
+      "title": "前端如何生成10000页PDF文件？",
+      "url": "https://juejin.cn/post/7695591914960748586",
       "source": "juejin",
-      "score": 352,
-      "raw_score": 58,
+      "score": 336,
+      "raw_score": 48,
       "comments": 0,
-      "author": "小小荧",
+      "author": "刘发财",
       "created_at": "",
-      "summary": "🚀 Node.js 之父离开 Deno，带着整个团队加入了 Cloudflare 10 月 9 日，Ryan Dahl 在 Deno 官方博客发了一篇标题很短的公告，Deno 团队加入 Cloudfl"
+      "summary": "前端生成10000页pdf，过去可能比较费劲。但是现在，有了dompdf.js，你只需要1行代码就可以实现超10000页pdf的生成"
     },
     {
-      "title": "最近逛 GitHub ，挖到 3 个给力的开源项目，第一个比较硬核。",
-      "url": "https://juejin.cn/post/7695037291081990178",
+      "title": "为什么你的 LazyColumn 仍然卡顿",
+      "url": "https://juejin.cn/post/7695605570640707594",
       "source": "juejin",
-      "score": 324,
-      "raw_score": 42,
+      "score": 334,
+      "raw_score": 47,
       "comments": 0,
-      "author": "逛逛GitHub",
+      "author": "稀有猿诉",
       "created_at": "",
-      "summary": "01 给你的 Agent 赋予 CAD 超能力 text-to-cad 给 Claude Code、Codex 等 Agent 工具增加了 CAD 建模能力。 CAD 就是用电脑设计工程图和三维模型，"
+      "summary": "从键、嵌套滚动、昂贵的条目、图片解码、预取到调试版本，逐一拆解 LazyColumn 滚动卡顿的六个原因，并给出可执行的修复清单与测量方法。"
     },
     {
-      "title": "Java程序员需要转Python吗？",
-      "url": "https://juejin.cn/post/7695079160285397035",
+      "title": "Pro React Admin:  统一工程底座，承载多种应用...",
+      "url": "https://juejin.cn/post/7695579556079091746",
+      "source": "juejin",
+      "score": 332,
+      "raw_score": 46,
+      "comments": 0,
+      "author": "前端市界",
+      "created_at": "",
+      "summary": "Pro React Admin：统一工程底座，承载多种应用，用一套工程规范连接更多业务。从独立后台、业务项目到 Module Federation 微前端，放进同一套可复用、可演进的工程体系"
+    },
+    {
+      "title": "Deno 官宣一年后停更：我把它的招牌特性在 Node 26 和 Bun 里挨个找了一遍",
+      "url": "https://juejin.cn/post/7695618100750172201",
       "source": "juejin",
       "score": 303,
       "raw_score": 33,
       "comments": 0,
-      "author": "苏三说技术",
+      "author": "Flynt",
       "created_at": "",
-      "summary": "前言 最近经常有小伙伴私信问我：“三哥，Java程序员要不要转Python？” 有小伙伴给我发了招聘截图：某AI创业公司招大模型应用工程师，要求“熟练掌握Python，有LangChain/Llama"
+      "summary": "短链服务在三个运行时上对照：默认全拒的只有 Deno，Node 的网络限制仍是实验性，Bun 压根没权限模型；单文件编译 Bun 0.16 秒完胜，Node SEA 的 ESM 注入失败。"
     },
     {
-      "title": "微信小程序点餐项目实战：飞入动画、样式错位、弹窗不消失，7 个前端坑的完整排障记录",
-      "url": "https://juejin.cn/post/7694936746131882027",
+      "title": "你让AI干的活，它可能只干了十分之一——而你根本看不出来",
+      "url": "https://juejin.cn/post/7695591914960994346",
       "source": "juejin",
       "score": 298,
       "raw_score": 31,
       "comments": 0,
-      "author": "霍营_托尼",
+      "author": "码事漫谈",
       "created_at": "",
-      "summary": "近期在做一款「南昌拌粉」微信小程序点餐项目（原生小程序 + 云开发），过程里踩了飞入动画真机消失、WXSS 兼容性、button 盒模型、空事件绑定等一批高频坑。这篇文章把每个坑的报错现场、错误尝试和"
+      "summary": "你有没有过这种经历：让 AI 帮你处理一批文件、写一份报告、审一遍合同，它秒回你“已完成”，你满心欢喜地交了差，结果被人指出漏洞百出，你回头一查才发现——它压根没认真干，只是给了你一个看起来很美的答案"
     },
     {
-      "title": "Dart 之库与可见性",
-      "url": "https://juejin.cn/post/7694917909773156386",
+      "title": "给 Codex Plan 模式加一本决策账本：问过什么、选了什么，都进仓库",
+      "url": "https://juejin.cn/post/7695576950509568041",
       "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
+      "score": 295,
+      "raw_score": 30,
       "comments": 0,
-      "author": "好的佩奇",
+      "author": "小蠢驴打代码",
       "created_at": "",
-      "summary": "从两个文件的例子认识 Dart 的库：导入后为什么仍不能使用下划线开头的名称，以及 import、export、part 怎样决定名称的使用范围。"
+      "summary": "用 Codex 的 Plan 模式（/plan）写代码，最有价值的往往不是计划本身，而是计划过程中定下来的那几个选择：失败了要不要重试、配置走参数还是环境变量、哪些文件不许动。这些选择通常只存在于对话"
     },
     {
-      "title": "OpenRig 拆解：用 YAML 把 Claude Code 和 Codex 编成一支团队",
-      "url": "https://juejin.cn/post/7695243313537302578",
+      "title": "浅析模型量化的数学原理",
+      "url": "https://juejin.cn/post/7695618100750057513",
       "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
+      "score": 295,
+      "raw_score": 30,
       "comments": 0,
-      "author": "ZzT",
+      "author": "愤怒的代码",
       "created_at": "",
-      "summary": "OpenRig 把 Claude Code、Codex 会话编进同一个团队：YAML 定义角色和关系，tmux 承载每个 agent，SQLite 队列记录谁在做什么。本文从源码拆解它的设计。"
+      "summary": "本文从数学角度完整拆解模型量化（Quantization）：它如何把 FP32 浮点权重/激活映射成低比特整数，S 和 Z 怎么求，量化误差从何而来、如何严格证明它的界，信噪比怎么推等"
     },
     {
-      "title": "深入剖析 ET8 框架的 Fiber 机制：一个纤程的诞生、心跳、传信与消亡",
-      "url": "https://juejin.cn/post/7694949059409395775",
+      "title": "Agent 工具调用：从工具声明到执行反馈",
+      "url": "https://juejin.cn/post/7695622779606024207",
       "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
+      "score": 289,
+      "raw_score": 28,
       "comments": 0,
-      "author": "他日若遂凌云志",
+      "author": "鲁大猿",
       "created_at": "",
-      "summary": "# 深入剖析 ET8 框架的 Fiber 机制 ## 引言：为什么从 Fiber 开始读 ET8 也是偶然间重新审视 ET（一款双端通用的游戏开发框架），惊艳于它 8.x 版本重构后的轻与净——客"
+      "summary": "github.com/ludayuan/Lu… 鲁大猿的视频知识库 Agent 工具调用：从工具声明到执行反馈 核心问题：模型给出工具名称和参数之后，程序怎样执行，并让模型利用结果回答用户？ 模型产生"
     },
     {
-      "title": "格式化成日期为什么提前一天呢，同样的时间点还是非必现？？？",
-      "url": "https://juejin.cn/post/7695079160285691947",
+      "title": "人生香皂·全面工作台：时间管理功能",
+      "url": "https://juejin.cn/post/7695617882110328867",
       "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
+      "score": 272,
+      "raw_score": 23,
       "comments": 0,
-      "author": "提前退休的java猿",
+      "author": "诸神缄默不语",
       "created_at": "",
-      "summary": "很久没有写博客，上半年看房买房自己找人装，总算搞得差不多了，现在有时间继续写点博客了🤪 其实还有一个很重要的原因，就是现在 AI 太强大了，对技术失去信心了，对于未来的路博主也是很迷茫呀。"
+      "summary": "本文介绍作者自用“人生香皂·全面工作台”的时间管理功能：以时间轴记录计划与实际，支持精力心情曲线、任务生命周期、周期任务、日志导出及联网日历节假日，暂未开源但可邀请注册体验。"
     },
     {
-      "title": "Nginx 介绍",
-      "url": "https://juejin.cn/post/7695398283245568026",
-      "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
-      "comments": 0,
-      "author": "NolanKy",
-      "created_at": "",
-      "summary": "Nginx（读作“Engine X”）是一款服务器软件，主要用来接收浏览器的 HTTP/HTTPS 请求，并返回网页文件或把请求转发给后端服务。 结合你前面问的“前端页面怎么让用户看到”，Nginx "
-    },
-    {
-      "title": "解Bug之路-隔离故障点后业务不恢复?-热点Key处理与亚稳态故障",
-      "url": "https://juejin.cn/post/7694932886454616091",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "无毁的湖光Al",
-      "created_at": "",
-      "summary": "前言 《解Bug之路》作为笔者博客的镇站之宝系列，之前写的都是一些疑难杂症。但在和AI交流的过程中发现，一些对于笔者来说排查很直观的故障其实有不小的价值。这篇文章就是此种情况，虽然排查过程很直观，思路"
-    },
-    {
-      "title": "【AI全栈12-05】Spring Boot 用 Tool Calling 让 AI 查实时订单与库存",
-      "url": "https://juejin.cn/post/7695237180897935402",
+      "title": "AI 语音一直“正在连接”？用 RUM 排查 WebSocket 建连问题",
+      "url": "https://juejin.cn/post/7695651912991473691",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "威哥爱编程",
+      "author": "阿里云云原生",
       "created_at": "",
-      "summary": "一个让客服背锅的场景 V哥 帮一家做家居电商的团队看售后系统，产品经理兴冲冲地说：我们上了 AI 助手，客户问「我的订单到哪了」，它答得可像样了。结果上线第三天就出事——客户问订单 SO2025001"
-    },
-    {
-      "title": "【AI全栈12-04】Spring Boot 用结构化输出自动解析简历：让模型按你的 POJO 输出",
-      "url": "https://juejin.cn/post/7695209221113495571",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "威哥爱编程",
-      "created_at": "",
-      "summary": "一个让后端很憋屈的场景 V哥 带学员做招聘系统实训时，总会先让他们去看一眼 HR 的日常工作：收到一封简历（PDF、Word、甚至邮件正文），人工把姓名、手机号、学历、工作年限、技能关键词、最近职位一"
+      "summary": "阿里云 CMS 2.0 RUM 全新升级，精准破解 AI 语音“正在连接”难题。通过自定义资源记录 WebSocket 握手结果与用户环境，结合 Trace 关联服务端鉴权细节，将笼统的“无响应”转化"
     }
   ]
 }
