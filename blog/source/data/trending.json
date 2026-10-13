@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-12T20:35:58.438472+00:00",
+  "updated_at": "2026-10-13T04:34:54.284628+00:00",
   "articles": [
     {
-      "title": "朋友面试谈薪报价2w，HR非得压到1.9，还反问他：你就差这1000块钱？后来背调时问了他前同事十几个问题，对方最后直接挂了",
-      "url": "https://juejin.cn/post/7694185019602812968",
+      "title": "一个前端工程师除了写代码，还能靠什么赚钱？",
+      "url": "https://juejin.cn/post/7695656674829238308",
       "source": "juejin",
-      "score": 742,
-      "raw_score": 5188,
-      "comments": 12,
-      "author": "CodeSheep",
-      "created_at": "",
-      "summary": "假期在家逛社区的时候刷到这样一个事情，看得我血压直接飙升。 情况大概是这样的： 一位哥们去面试，技术面聊得不错，谈薪环节报了 20k 的期望薪资。结果 hr 非要压到 19k，这还不算，接着竟然还来了"
-    },
-    {
-      "title": "公司从 400 多人缩减到 100 多人，我开始重新思考程序员的未来",
-      "url": "https://juejin.cn/post/7694835192107860009",
-      "source": "juejin",
-      "score": 695,
-      "raw_score": 2993,
-      "comments": 26,
-      "author": "穆梓东海",
-      "created_at": "",
-      "summary": "35岁的程序员，是不是已经落幕了？ 最近一直在逛掘金的文章，有技术文章，有人生感悟，还有各种沸点。 看得越多，越觉得现在大家都不容易。 大环境的影响，加上 AI 的冲击，感觉整个行业正在进入一个落幕阶"
-    },
-    {
-      "title": "为什么我劝应届生不要去创业公司写前端？",
-      "url": "https://juejin.cn/post/7694972872189050934",
-      "source": "juejin",
-      "score": 565,
-      "raw_score": 671,
-      "comments": 2,
+      "score": 496,
+      "raw_score": 304,
+      "comments": 1,
       "author": "ErpanOmer",
       "created_at": "",
-      "summary": "应届生选择创业公司前端负责人岗位需谨慎，缺乏代码审查与团队指导，技术成长受限，简历含金量低，期权回报概率极小，建议优先进入有成熟前端团队的中大型公司。"
+      "summary": "前端薪资存在明显天花板，高级工程师年薪约五十至七十万。文章梳理技术自媒体、付费课程、独立开发、咨询接单、开源赞助及浏览器插件等副业路径，指出各路径收入与门槛差异，强调应聚焦单一方向持续投入。"
     },
     {
-      "title": "程序员 1v1 访谈系列第一期：转行也不会等到失业以后",
-      "url": "https://juejin.cn/post/7694967013274370067",
-      "source": "juejin",
-      "score": 557,
-      "raw_score": 615,
-      "comments": 4,
-      "author": "双越AI_club",
-      "created_at": "",
-      "summary": "大家好，我是双越。我最近正在搞一个《程序员 1v1 访谈系列》即和我 1v1 微信语音或文字聊天，分享你的状态和困惑，我给出建议。以下是第 1 位沟通者的主要内容，分享出来供大家参考。"
-    },
-    {
-      "title": "DeepSeek Harness 重磅更新，Codex、Claude Code 子智能体进官方插件列表了，还有 Git 工作树和思考翻译！",
-      "url": "https://juejin.cn/post/7695243313538416690",
-      "source": "juejin",
-      "score": 521,
-      "raw_score": 403,
-      "comments": 0,
-      "author": "JavaGuide",
-      "created_at": "",
-      "summary": "DeepSeek Harness 是 DeepSeek 开源的 AI Agent 工具。选一个本地文件夹作为工作区，配好模型，就可以让它读取文件、修改代码、整理资料、执行命令，还能通过插件扩展功能。 "
-    },
-    {
-      "title": "前端如何生成10000页PDF文件？",
-      "url": "https://juejin.cn/post/7695591914960748586",
-      "source": "juejin",
-      "score": 336,
-      "raw_score": 48,
-      "comments": 0,
-      "author": "刘发财",
-      "created_at": "",
-      "summary": "前端生成10000页pdf，过去可能比较费劲。但是现在，有了dompdf.js，你只需要1行代码就可以实现超10000页pdf的生成"
-    },
-    {
-      "title": "为什么你的 LazyColumn 仍然卡顿",
-      "url": "https://juejin.cn/post/7695605570640707594",
-      "source": "juejin",
-      "score": 334,
-      "raw_score": 47,
-      "comments": 0,
-      "author": "稀有猿诉",
-      "created_at": "",
-      "summary": "从键、嵌套滚动、昂贵的条目、图片解码、预取到调试版本，逐一拆解 LazyColumn 滚动卡顿的六个原因，并给出可执行的修复清单与测量方法。"
-    },
-    {
-      "title": "Pro React Admin:  统一工程底座，承载多种应用...",
-      "url": "https://juejin.cn/post/7695579556079091746",
-      "source": "juejin",
-      "score": 332,
-      "raw_score": 46,
-      "comments": 0,
-      "author": "前端市界",
-      "created_at": "",
-      "summary": "Pro React Admin：统一工程底座，承载多种应用，用一套工程规范连接更多业务。从独立后台、业务项目到 Module Federation 微前端，放进同一套可复用、可演进的工程体系"
-    },
-    {
-      "title": "Deno 官宣一年后停更：我把它的招牌特性在 Node 26 和 Bun 里挨个找了一遍",
-      "url": "https://juejin.cn/post/7695618100750172201",
+      "title": "全程 AI 写的小程序，刚接上会员虚拟支付，上线第二天就有人真金白银买单了｜双签名、定价、iOS 的坑我全踩了一遍",
+      "url": "https://juejin.cn/post/7695698056566358066",
       "source": "juejin",
       "score": 303,
       "raw_score": 33,
       "comments": 0,
-      "author": "Flynt",
+      "author": "好市民_",
       "created_at": "",
-      "summary": "短链服务在三个运行时上对照：默认全拒的只有 Deno，Node 的网络限制仍是实验性，Bun 压根没权限模型；单文件编译 Bun 0.16 秒完胜，Node SEA 的 ESM 注入失败。"
+      "summary": "AI 全程写的小程序，上线 25 天接上会员虚拟支付，第二天就收到第一笔真金白银。从资质、定价到双签名、iOS 的坑，讲透小程序怎么把收费跑通——代码 AI 能写，钱的原理我不能不懂。"
     },
     {
-      "title": "你让AI干的活，它可能只干了十分之一——而你根本看不出来",
-      "url": "https://juejin.cn/post/7695591914960994346",
-      "source": "juejin",
-      "score": 298,
-      "raw_score": 31,
-      "comments": 0,
-      "author": "码事漫谈",
-      "created_at": "",
-      "summary": "你有没有过这种经历：让 AI 帮你处理一批文件、写一份报告、审一遍合同，它秒回你“已完成”，你满心欢喜地交了差，结果被人指出漏洞百出，你回头一查才发现——它压根没认真干，只是给了你一个看起来很美的答案"
-    },
-    {
-      "title": "给 Codex Plan 模式加一本决策账本：问过什么、选了什么，都进仓库",
-      "url": "https://juejin.cn/post/7695576950509568041",
-      "source": "juejin",
-      "score": 295,
-      "raw_score": 30,
-      "comments": 0,
-      "author": "小蠢驴打代码",
-      "created_at": "",
-      "summary": "用 Codex 的 Plan 模式（/plan）写代码，最有价值的往往不是计划本身，而是计划过程中定下来的那几个选择：失败了要不要重试、配置走参数还是环境变量、哪些文件不许动。这些选择通常只存在于对话"
-    },
-    {
-      "title": "浅析模型量化的数学原理",
-      "url": "https://juejin.cn/post/7695618100750057513",
-      "source": "juejin",
-      "score": 295,
-      "raw_score": 30,
-      "comments": 0,
-      "author": "愤怒的代码",
-      "created_at": "",
-      "summary": "本文从数学角度完整拆解模型量化（Quantization）：它如何把 FP32 浮点权重/激活映射成低比特整数，S 和 Z 怎么求，量化误差从何而来、如何严格证明它的界，信噪比怎么推等"
-    },
-    {
-      "title": "Agent 工具调用：从工具声明到执行反馈",
-      "url": "https://juejin.cn/post/7695622779606024207",
-      "source": "juejin",
-      "score": 289,
-      "raw_score": 28,
-      "comments": 0,
-      "author": "鲁大猿",
-      "created_at": "",
-      "summary": "github.com/ludayuan/Lu… 鲁大猿的视频知识库 Agent 工具调用：从工具声明到执行反馈 核心问题：模型给出工具名称和参数之后，程序怎样执行，并让模型利用结果回答用户？ 模型产生"
-    },
-    {
-      "title": "人生香皂·全面工作台：时间管理功能",
-      "url": "https://juejin.cn/post/7695617882110328867",
+      "title": "甲方只给了一张卫星截图，我用 Three.js + Blender 建了一座 3D 能源站",
+      "url": "https://juejin.cn/post/7695697094277087272",
       "source": "juejin",
       "score": 272,
       "raw_score": 23,
       "comments": 0,
-      "author": "诸神缄默不语",
+      "author": "纸片人",
       "created_at": "",
-      "summary": "本文介绍作者自用“人生香皂·全面工作台”的时间管理功能：以时间轴记录计划与实际，支持精力心情曲线、任务生命周期、周期任务、日志导出及联网日历节假日，暂未开源但可邀请注册体验。"
+      "summary": "一张卫星截图，用 Three.js + Blender 建出一座 3D 综合能源补给站：反求设计稿相机、脚本化建模、Cycles 烘焙夜景、重卡倒车入位、运营仿真，再用叠图逐像素校验还原度。"
     },
     {
-      "title": "AI 语音一直“正在连接”？用 RUM 排查 WebSocket 建连问题",
-      "url": "https://juejin.cn/post/7695651912991473691",
+      "title": "如果你想拥有自己的 Agent，为什么值得从 rpi 开始",
+      "url": "https://juejin.cn/post/7695617882110591011",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "BiggFish",
+      "created_at": "",
+      "summary": "如果你只是想找一个好用的 coding agent，直接安装一个现成产品通常是最省事的选择。 但如果你要把 Agent 放进自己的产品、服务或开发工具里，问题就变了：你需要的可能不是一个只能通过命令行"
+    },
+    {
+      "title": "LoRA微调技术深度解析",
+      "url": "https://juejin.cn/post/7695613822450974770",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "Topskys",
+      "created_at": "",
+      "summary": "LoRA微调技术深度解析 摘要 LoRA 是参数高效微调的事实标准——冻结基座、仅注入低秩可训练矩阵，把可训练参数量缩小约三个数量级，绕开全参微调的显存墙与灾难性遗忘；QLoRA 再叠加 4-bit "
+    },
+    {
+      "title": "企业级RAG 的胜负手不在「召回」，在「排得准」：开源Harness平台BizBuddy 检索增强实录",
+      "url": "https://juejin.cn/post/7695632304220225551",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "长弓三石",
+      "created_at": "",
+      "summary": "企业知识库 RAG 做完第一版，几乎都会遇到同一个尴尬：明明都召回了，模型偏偏用了第二、第三条，第一条反而不是答案。"
+    },
+    {
+      "title": "给 UniRAG RAG 配一个前端，为什么最后选了 Lobe UI",
+      "url": "https://juejin.cn/post/7695651912991047707",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "bruce54110",
+      "created_at": "",
+      "summary": "为什么后端能用了还要写前端 前几期把资源基座、pgvector 向量存储、文档摄取和切片都做完了，上传接口也交付了。但那套东西只给了 HTTP 接口，没有界面，没人能真正用起来。上传要靠 curl，知"
+    },
+    {
+      "title": "白帽子讲Web安全 01：拨开迷雾，看懂Web安全的底层逻辑",
+      "url": "https://juejin.cn/post/7695651912990883867",
       "source": "juejin",
       "score": 155,
       "raw_score": 6,
       "comments": 0,
-      "author": "阿里云云原生",
+      "author": "软件科学_郝学胜",
       "created_at": "",
-      "summary": "阿里云 CMS 2.0 RUM 全新升级，精准破解 AI 语音“正在连接”难题。通过自定义资源记录 WebSocket 握手结果与用户环境，结合 Trace 关联服务端鉴权细节，将笼统的“无响应”转化"
+      "summary": "网络安全世界就像一枚硬币，一面是守护，一面是破坏。很多人对黑客的印象停留在电影里酷炫的敲代码画面，但很少有人了解Web安全几十年一路走来的演变，以及安全对抗背后最质朴的底层思想。今天我们就跟着书本的视"
+    },
+    {
+      "title": "气体传感器MQ-2芯片驱动开发—【万物智能之开源鸿蒙OpenHarmony系统实战开发系列教程】",
+      "url": "https://juejin.cn/post/7695622779606384655",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "万物智能",
+      "created_at": "",
+      "summary": "人体感应的真脚找过了。今天接气体报警。很多模块只有一根数字脚，而且这根脚可能和 I2C 时钟是同一根。 MQ-2 看起来像「模拟传感器」：金属网罩、加热丝、旁边一颗比较器。很多人第一反应是去读 ADC"
+    },
+    {
+      "title": "从样条到动态网格：EVEngine 的新一代 Mesh Authoring 工作流",
+      "url": "https://juejin.cn/post/7695579556078960674",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "sunxfancy",
+      "created_at": "",
+      "summary": "EVEngine v0.5.0 将样条、Modifier Graph、布尔运算、运行时雕刻和 UV 绘制串成一条可组合、可撤销、可脚本化的动态网格生产线。"
+    },
+    {
+      "title": "MiniMind 学习笔记之 21 训练细节：数据、分词器、断点续训",
+      "url": "https://juejin.cn/post/7695687760271687695",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "嘎嘎风",
+      "created_at": "",
+      "summary": "一、数据清洗：从原始文本到训练数据 1.1 为什么要清洗 预训练数据的质量，直接决定模型的知识储备。原始数据里混杂着乱码、重复内容、低质量文本。这些东西不清理掉，模型学到的就是这些噪音。 MiniMi"
+    },
+    {
+      "title": "Go数据工程：利用天远柠檬查出险优化二手车批发拍卖车源出险核查合规体验",
+      "url": "https://juejin.cn/post/7695617882111033379",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "代码方舟",
+      "created_at": "",
+      "summary": "破解二手车拍卖车源审核痛点：从人工翻查登记证到出险数据穿透直连 在全国大型二手车批发拍卖平台、B2B机动车竞价交易中心以及汽车经销商集团置换车源分拨枢纽中，每日清晨各区域分公司与合伙车商都会集中提报成"
+    },
+    {
+      "title": "LeetCode 105. 从前序与中序遍历序列构造二叉树（递归分治法）",
+      "url": "https://juejin.cn/post/7695597699946430507",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "Xin770",
+      "created_at": "",
+      "summary": "一、题目描述 给定两个整数数组preorder（前序遍历）和inorder（中序遍历），构造二叉树并返回根节点。 二、核心思路 前序数组第一个元素一定是当前子树的根节点。 在中序数组找到根节点下标：根"
+    },
+    {
+      "title": "简单的 Spring 文件上传与下载组件",
+      "url": "https://juejin.cn/post/7695622925088604202",
+      "source": "juejin",
+      "score": 60,
+      "raw_score": 2,
+      "comments": 0,
+      "author": "sp42_frank",
+      "created_at": "",
+      "summary": "用 aj-fileupload 给 Spring Boot 项目加一个图片上传接口 头像、商品图片、附件，很多项目都绕不开文件上传。用 Spring 接收文件并不难：Controller 里声明一个 "
+    },
+    {
+      "title": "游戏服务端如何校验客户端上报数据？四层校验思路详解",
+      "url": "https://juejin.cn/post/7695776667336851496",
+      "source": "juejin",
+      "score": 60,
+      "raw_score": 2,
+      "comments": 0,
+      "author": "字节暗面",
+      "created_at": "",
+      "summary": "客户端数据通过签名，不代表战斗过程真实可信。本文从改包重放、操作意图上报、冷却与时间漂移校验、风险评分及对局重演等方面，梳理游戏服务端识别伪造数据的实现思路，并说明无敌、脚本与宏检测的能力边界。"
     }
   ]
 }
