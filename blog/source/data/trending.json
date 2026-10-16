@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-16T02:17:01.701023+00:00",
+  "updated_at": "2026-10-16T15:46:46.147715+00:00",
   "articles": [
     {
-      "title": "前端转全栈最低成本的技术栈选择",
-      "url": "https://juejin.cn/post/7696713457149362230",
+      "title": "把 AutoCAD 搬进浏览器，到底有多难？聊聊 CADCraft、OpenCAD Studio 和 MLightCAD",
+      "url": "https://juejin.cn/post/7696483064553701376",
       "source": "juejin",
-      "score": 404,
-      "raw_score": 105,
+      "score": 682,
+      "raw_score": 2593,
       "comments": 0,
-      "author": "怕浪猫",
+      "author": "mlightcad",
       "created_at": "",
-      "summary": "最近刷到一篇前端 Leader 转型全栈的复盘，观点很直接：你不需要学Linux 运维、Docker、K8s、Nginx、MySQL 调优——Serverless 帮你干掉了这些。 这套搭配我也一直在"
+      "summary": "本文对比 CADCraft、OpenCAD Studio 和 MLightCAD CAD Viewer，聊聊浏览器 CAD 的技术路线、性能表现与应用场景。"
     },
     {
-      "title": "程序员 1v1 访谈系列第三期：先不要想在工作中有突破",
-      "url": "https://juejin.cn/post/7696767647511691299",
+      "title": "本来只想给内网开个口子，Natapp 却多给了一道防护",
+      "url": "https://juejin.cn/post/7697075629647003698",
       "source": "juejin",
-      "score": 358,
-      "raw_score": 62,
+      "score": 586,
+      "raw_score": 853,
+      "comments": 0,
+      "author": "一只牛博",
+      "created_at": "",
+      "summary": "内网服务要给外面用，端口一开就收不住 企业内部这种服务器很常见：报表系统、OA、接口服务、后台管理，几套东西一起挂在 nginx 后面，平时只在内网用，用着没什么问题，直到外面开始有人要访问。"
+    },
+    {
+      "title": "中国 3D CAD 的突围之路：当 AI 开始挑战几何内核",
+      "url": "https://juejin.cn/post/7696820671752323107",
+      "source": "juejin",
+      "score": 556,
+      "raw_score": 608,
+      "comments": 0,
+      "author": "mlightcad",
+      "created_at": "",
+      "summary": "当 AI 开始参与几何内核研发，国产 3D CAD 是否迎来了突围的机会？从开源几何引擎、AI 编程到历史数据迁移，探讨中国 3D CAD 如何突破技术壁垒，走出自主创新之路。"
+    },
+    {
+      "title": "Qoder sonus模型 20分钟，复刻 马斯克 飞天汽车",
+      "url": "https://juejin.cn/post/7696838570036314148",
+      "source": "juejin",
+      "score": 521,
+      "raw_score": 406,
+      "comments": 4,
+      "author": "万少",
+      "created_at": "",
+      "summary": "Qoder sonus模型 20分钟，复刻 马斯克 飞天汽车 马斯克真的把车开上天了 　　北京时间今天（10 月 16 日）上午，特斯拉在得州麦格雷戈的 SpaceX 测试基地直播发布了第二代 Roa"
+    },
+    {
+      "title": "浏览器为什么加载不了超大图片",
+      "url": "https://juejin.cn/post/7697087660390547466",
+      "source": "juejin",
+      "score": 427,
+      "raw_score": 138,
       "comments": 2,
-      "author": "双越AI_club",
+      "author": "chenCode",
       "created_at": "",
-      "summary": "大家好，我是双越。我最近正在搞一个《程序员 1v1 访谈系列》即和我 1v1 微信语音或文字聊天，分享你的状态和困惑，我给出建议。以下是第 3 位沟通者的主要内容，分享给大家～"
+      "summary": "请求明明是 200，为什么浏览器还是加载不了超大图片？ 问题现象 最近在项目中做了一个成果文件预览功能，图片使用 Element Plus 的 ElImageViewer 打开。大部分图片都能正常预览"
     },
     {
-      "title": "AI Coding 时代最值钱的东西，软件工程（上）",
-      "url": "https://juejin.cn/post/7696821865848733705",
+      "title": "Claude Code 桌面端魔改多 Agent：从日耗 6 美元到账单失控的实测复盘",
+      "url": "https://juejin.cn/post/7697104677602803739",
       "source": "juejin",
-      "score": 352,
-      "raw_score": 58,
+      "score": 366,
+      "raw_score": 68,
       "comments": 0,
-      "author": "乘风gg",
+      "author": "孟健AI编程",
       "created_at": "",
-      "summary": "很多人以为，AI 会写代码了，架构师就要失业了。相反，我认为 AI coding 用一句话概述：其实就是软件工程和项目管理 我最近又研究了一下很火的 Matt Pocock 那套开源的 skills（"
+      "summary": "实测复盘 Claude Code 桌面端魔改多 Agent，拆解 Git worktrees 隔离、Opus 5.5 极速模式与 Prompt Cache 击穿陷阱，给出一人公司低成本交付指南。"
     },
     {
-      "title": "AI 写代码越来越快，我们的代码能力却在悄悄退化",
-      "url": "https://juejin.cn/post/7696796824939806758",
+      "title": "亲测有效！免费 Google AI Pro 用户用上 Gemini 4 Argon",
+      "url": "https://juejin.cn/post/7697056782357037099",
       "source": "juejin",
-      "score": 351,
-      "raw_score": 57,
+      "score": 346,
+      "raw_score": 54,
       "comments": 0,
-      "author": "挖掘狂人",
+      "author": "XiaoLei_Liu",
       "created_at": "",
-      "summary": "先说一个反直觉的结论：用 AI 写代码，正在让一部分人变得更弱 —— 而当事人几乎察觉不到。 这不是贩卖焦虑。"
+      "summary": "随着 Google 正式在 Antigravity（桌面端 App、CLI 及 IDE 扩展）中向 Pro 订阅用户放开 Gemini 4 Argon，不少手持“免费/低价 Google AI Pro"
     },
     {
-      "title": "DeepSeek Harness 进阶——认识DeepSeek Harness插件机制，并从0到1实现一个插件",
-      "url": "https://juejin.cn/post/7696822189491912742",
+      "title": "我扒了 npm 三年数据：AI 没把依赖变胖，是把包变多了",
+      "url": "https://juejin.cn/post/7697094344730607650",
       "source": "juejin",
-      "score": 338,
-      "raw_score": 49,
+      "score": 301,
+      "raw_score": 32,
       "comments": 0,
-      "author": "大模型真好玩",
+      "author": "kyriewen",
       "created_at": "",
-      "summary": "全网最通俗易懂的Dsh插件体系介绍，从 Cordis 底座、插件/Bundle/Profile 三大概念，到手写一个 Tool 插件并打包分发。一文打通底层原理与实战链路，带你真正看懂“一切皆插件”。"
+      "summary": "扒了 66 个包三年数据：单包依赖全在瘦身（langchain 传递依赖 -71%），但 optionalDependencies 口径游戏、拆包转移、AI 包新物种"
     },
     {
-      "title": "AI时代我们要如何玩抓包测试：Reqable + AI Agent",
-      "url": "https://juejin.cn/post/7696796824939773990",
+      "title": "Claude太能写，Anthropic把内部Git换了",
+      "url": "https://juejin.cn/post/7697064289570324518",
       "source": "juejin",
-      "score": 313,
-      "raw_score": 37,
+      "score": 295,
+      "raw_score": 30,
       "comments": 0,
-      "author": "狂师",
+      "author": "老金带你玩AI",
       "created_at": "",
-      "summary": "抓包，测试人的看家技能之一。 查接口传参，看返回数据，定位一个 bug 到底出在前端还是后端，全都指望它。 但你回想一下，这套流程是不是十几年没变过。Charles 或者 Fiddler 把包抓下来，"
+      "summary": "本篇是一篇入门技术教程。里面会碰到一些技术名词，老金也不是技术出身，知道刚开始读这些东西，难免觉得有点远。 可接触得多了，慢慢弄懂一个名词是什么意思、能解决什么问题，再用AI时，就更容易把需求说具体。"
     },
     {
-      "title": "全网都在聊的 FDE，到底是啥？一篇拆透",
-      "url": "https://juejin.cn/post/7696745540986667044",
+      "title": "1000次专业数据集调用，这次我们免费送！",
+      "url": "https://juejin.cn/post/7697101748125794313",
       "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
+      "score": 282,
+      "raw_score": 26,
       "comments": 0,
-      "author": "莪_幻尘",
+      "author": "火山引擎Agent社区",
       "created_at": "",
-      "summary": "全网都在聊的 FDE，到底是啥？一篇拆透 一、先说结论（省时间版） 如果你只想拿结论走，这张表够了： 问题 答案 FDE 是什么 驻扎在客户现场、既写代码又对业务结果负责的工程师，打法由 Palant"
+      "summary": "火山引擎限时福利：订阅方舟 Agent Plan 个人版，免费领 1000 次专业数据集调用（企业工商 + 企业风险 + 宏观经济），10 月 8 日～11 月 8 日，附 6 步接入教程。"
     },
     {
-      "title": "Java 三层架构，90% 的人只答对一半：Controller 不是瘦，Service 不是透传，Dao 不是只写 SQL",
-      "url": "https://juejin.cn/post/7696758874041385003",
+      "title": "Agent 可观测性基石：OpenTelemetry 学习与实践",
+      "url": "https://juejin.cn/post/7697094073966641187",
       "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
+      "score": 264,
+      "raw_score": 21,
       "comments": 0,
-      "author": "Rain的Java大神之路",
+      "author": "hsfxuebao",
       "created_at": "",
-      "summary": "Java三层架构不只是分文件夹，核心按变化速率划分职责。内含事务边界、下单实战代码，用ArchUnit自动化守护架构，拆解事务失效、N+1等高频踩坑点，面试必看。"
+      "summary": "一、背景 单次 LLM 调用：这种形态下，链路线性，日志即全景，打一行日志就记录「调用了什么模型、花了多久、返回了什么」就结束了： 而 Agent 具备多轮推理、工具嵌套及强因果依赖等特征，执行过程呈"
     },
     {
-      "title": "深度慢思考时代：为什么“教 AI 一步步做”正在成为最大的负优化？",
-      "url": "https://juejin.cn/post/7696745314632892431",
+      "title": "每日一个开源项目（第238篇）：Impeccable - 让每个 AI 编程工具都学会审美的设计引擎",
+      "url": "https://juejin.cn/post/7697082727764819968",
       "source": "juejin",
-      "score": 279,
-      "raw_score": 25,
+      "score": 251,
+      "raw_score": 18,
       "comments": 0,
-      "author": "一缕82年的清风",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "深度拆解新一代慢思考推理模型 Test-Time Compute 底层机制，剖析传统指令式提示词如何扼杀模型自搜索，提供工业级契约断言驱动验证源码与量化基准账本。"
+      "summary": "Impeccable 是一套面向 AI 编程助手的设计语言工具，提供 24 个命令和 59 条确定性检测规则，覆盖从产品背景梳理、视觉系统构建到无障碍/性能审查的完整设计工作流"
     },
     {
-      "title": "记录第一次使用Pi Agent，以及插件怎么选",
-      "url": "https://juejin.cn/post/7696713457149657142",
+      "title": "LLM 驱动的自动化测试系列（14）：落地与工程化——为什么测试场景的 Token 账单,反而是这个系列里最便宜的",
+      "url": "https://juejin.cn/post/7697094344730804258",
       "source": "juejin",
       "score": 246,
       "raw_score": 17,
       "comments": 0,
-      "author": "Quz",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "Pi 是一个极简的 agent harness，原生只有四个工具，其余能力全靠插件拼装。这篇文章记录我把它从零装起来、配好模型、挑插件。刚开始token消耗量极低，等插件配置完毕，token量飙升。"
+      "summary": "这一篇不再引入新的开源项目,而是把已经验证过的证据摆在一起,回答规划文档留到最后的三个更偏工程实践的问题：测试场景下的 Token 成本量级,跟代码生成场景比起来是什么水平；人工确认门应该放在哪一步"
     },
     {
-      "title": "【技术面试高频】MySQL 存储 IP 地址：你还在用 VARCHAR？",
-      "url": "https://juejin.cn/post/7696763674733281321",
+      "title": "小春学习日刊 2026年第4期：2026.10.16",
+      "url": "https://juejin.cn/post/7697104716643778596",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "用户8491371754716",
+      "author": "诸神缄默不语",
       "created_at": "",
-      "summary": "面试官：「在 MySQL 中存储 IP 地址用什么数据类型？」 你：「用 VARCHAR(15) 存字符串吧，直观...」 面试官：「那查询 IP 段 192.168.1.0 - 192.168.1."
+      "summary": "本期AI新闻概览：Gemini 4 Argon开放，打通视频到仿真；Anthropic因Claude写码太快自研Scion；微软发布Maia 300；Character.AI破产并出售资产；AI研究员"
     },
     {
-      "title": "HarmonyOS 7 Agent 开发实战 03：Tool Calling 让 AI 查实时订单与库存",
-      "url": "https://juejin.cn/post/7696758874041188395",
+      "title": "《算法竞赛进阶指南》0x03 前缀和与差分",
+      "url": "https://juejin.cn/post/7696767647511232547",
       "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
+      "score": 190,
+      "raw_score": 9,
       "comments": 0,
-      "author": "威哥爱编程",
+      "author": "ZywOo623",
       "created_at": "",
-      "summary": "前两篇把云端大模型接进了 HarmonyOS 7（API 26），也搭好了 Agent 脚手架和对话 UI。但只要把这套东西拿去做点真实业务，问题立刻暴露：用户问\"我的订单到哪了\"，模型张口就是一句\""
-    },
-    {
-      "title": "Agent 工厂体检：幽灵注册、版本漂移、文档失联，AI 体系的三种病",
-      "url": "https://juejin.cn/post/7696770521280790564",
-      "source": "juejin",
-      "score": 208,
-      "raw_score": 11,
-      "comments": 0,
-      "author": "莪_幻尘",
-      "created_at": "",
-      "summary": "Agent 工厂体检：幽灵注册、版本漂移、文档失联，AI 体系的三种病 一、体系的失控，为什么最难发现 三级视角，三种体检对象，难度是递增的。 微观：单个 Skill。 就是一堆 markdown 文"
-    },
-    {
-      "title": "HarmonyOS 开发实战：用 util.Aspect 玩转 AOP 切面编程",
-      "url": "https://juejin.cn/post/7696791074135982143",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "Keya",
-      "created_at": "",
-      "summary": "HarmonyOS 开发实战：用 util.Aspect 玩转 AOP 切面编程 一、为什么需要 AOP 先看一段典型的\"坏味道\"代码： 日志、校验、性能统计这些逻辑和业务本身毫无关系，却......"
-    },
-    {
-      "title": "HarmonyOS 7 Agent 开发实战 02：Agent 工程脚手架与对话 UI 骨架",
-      "url": "https://juejin.cn/post/7696758874041155627",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "威哥爱编程",
-      "created_at": "",
-      "summary": "上篇把云端大模型接进了 HarmonyOS 7（API 26），底座能稳定返回一段文本。但真实业务里的 Agent 是多轮、有记忆、有界面的：用户问一句，Agent 结合上下文答一句；历史越长，上下文"
+      "summary": "前缀和与差分：区间查询与区间修改的两种基本思路（C++） 学习李煜东《算法竞赛进阶指南》0x03 时，我把这一节归纳为两个方向：前缀和预先累计信息，方便查询一段区间；差分只记录变化的边界，方便批量修改"
     }
   ]
 }
