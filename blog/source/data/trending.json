@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-18T15:05:48.427759+00:00",
+  "updated_at": "2026-10-19T02:25:52.951313+00:00",
   "articles": [
     {
-      "title": "本来只想给内网开个口子，Natapp 却多给了一道防护",
-      "url": "https://juejin.cn/post/7697075629647003698",
+      "title": "栗子前端技术周刊第 150 期 - Stack Overflow 开发者调查结果、TanStack Start 1.0...",
+      "url": "https://juejin.cn/post/7697531208898445353",
       "source": "juejin",
-      "score": 743,
-      "raw_score": 5205,
+      "score": 389,
+      "raw_score": 89,
       "comments": 0,
-      "author": "一只牛博",
+      "author": "晓得迷路了",
       "created_at": "",
-      "summary": "内网服务要给外面用，端口一开就收不住 企业内部这种服务器很常见：报表系统、OA、接口服务、后台管理，几套东西一起挂在 nginx 后面，平时只在内网用，用着没什么问题，直到外面开始有人要访问。"
+      "summary": "🌰栗子前端技术周刊第 150 期 (2026.09.11 - 2026.10.18)：浏览前端一周最新消息，学习国内外优秀文章，让我们保持对前端的好奇心。 📰 技术资讯 Stack Overflow "
     },
     {
-      "title": "一个周末就想把短链服务推到 10 万 QPS，真能靠加 Redis 做到吗？",
-      "url": "https://juejin.cn/post/7696889902293614642",
+      "title": "AI 热点日报（2026-10-19）：DeepSeek V4.1-Flash落地，国产十万卡超集群亮相，Meta开源816B大模型",
+      "url": "https://juejin.cn/post/7697605708137922596",
       "source": "juejin",
-      "score": 717,
-      "raw_score": 3884,
+      "score": 348,
+      "raw_score": 55,
       "comments": 0,
-      "author": "bug菌",
+      "author": "墨林陌",
       "created_at": "",
-      "summary": "🏆本文收录于《Java实战(高阶版)》专栏，重点剖析Java各种超核心知识点，带你从入门到精通，全面提升Java编程实力🚀；欢迎大家关注/收藏/订阅！持续更新中，up！up！up！！"
+      "summary": "模型与技术 1. DeepSeek V4.1-Flash-1017正式发布，网页端/APP/API三端同步切换 🔥 DeepSeek于10月17日清晨正式发布V4.1-Flash-1017版本，网页端"
     },
     {
-      "title": "数据集成软件 KFS：多套业务库汇聚时，先把来源和口径理清",
-      "url": "https://juejin.cn/post/7697500325122277376",
+      "title": "Chrome DevTools MCP 正式可用：AI 终于能自己开浏览器调试你的页面了",
+      "url": "https://juejin.cn/post/7697615256114937898",
       "source": "juejin",
-      "score": 555,
-      "raw_score": 597,
+      "score": 346,
+      "raw_score": 54,
       "comments": 0,
-      "author": "一只牛博",
+      "author": "涛涛ing",
       "created_at": "",
-      "summary": "企业里的“数据同步”经常被一句话带过：把几个系统的数据搬到一个库里。真正开始做以后，问题很快分开了。客户主数据来自 CRM，订单来自交易库，门店编码又在另一套系统里维护；"
+      "summary": "一、先说清楚：MCP 是什么，Chrome DevTools MCP 又是什么 MCP，全称 Model Context Protocol，是一个开放协议，让 AI 工具能够连接到外部数据源和工具。你"
     },
     {
-      "title": "Claude的60个子Agent冲击黎曼猜想：AI自主科研的里程碑与边界",
-      "url": "https://juejin.cn/post/7672849477074616383",
+      "title": "程序员 1v1 访谈系列第四期：全栈比 Agent 重要",
+      "url": "https://juejin.cn/post/7697622920013987875",
       "source": "juejin",
-      "score": 503,
-      "raw_score": 330,
+      "score": 338,
+      "raw_score": 49,
       "comments": 0,
-      "author": "TWT121",
+      "author": "双越AI_club",
       "created_at": "",
-      "summary": "Claude的60个子Agent冲击黎曼猜想：AI自主科研的里程碑与边界 一个非数学家在晨跑时随口给AI布置了一道167年没人解出的数学题。AI没能证明它，却在\"失败\"的路上，把人类37年攒下的成绩一"
+      "summary": "大家好，我是双越。我最近正在搞一个《程序员 1v1 访谈系列》即和我 1v1 微信语音或文字聊天，分享你的状态和困惑，我给出建议。以下是第 4 位沟通者的主要内容，分享出来供大家参考。"
     },
     {
-      "title": "从 0 到 1：我用 300 行代码给 AI 记忆加上了“不可篡改的收据”（附开源实现）",
-      "url": "https://juejin.cn/post/7697418750073929762",
+      "title": "别再花钱调 OCR 接口了！这个国产开源工具，免费还能离线跑",
+      "url": "https://juejin.cn/post/7697873433354485770",
       "source": "juejin",
-      "score": 334,
-      "raw_score": 47,
-      "comments": 9,
-      "author": "doujiaozh",
-      "created_at": "",
-      "summary": "AI 记住了你的一切，但你能证明它“怎么知道”和“删干净”了吗？一天时间从零开源 AMP 协议，用 300 行代码给 AI 记忆加上不可篡改的审计链。"
-    },
-    {
-      "title": "我在 DOS 6.22 上跑通了 Kimi AI：一场跨越 40 年的硬核接力",
-      "url": "https://juejin.cn/post/7697199118263779355",
-      "source": "juejin",
-      "score": 328,
-      "raw_score": 44,
+      "score": 332,
+      "raw_score": 46,
       "comments": 0,
-      "author": "doujiaozh",
+      "author": "SimonKing",
       "created_at": "",
-      "summary": "13岁开发者用Win7电脑，通过QEMU虚拟FreeDOS，手写Python代理绕过协议限制，成功在1981年的DOS系统上跑通2026年的现代AI大模型。"
+      "summary": "你是否还在为 OCR 识别愁眉不展：商业 API 按量收费、隐私数据不敢上云、本地部署又要装一堆笨重依赖？ 之前用过tess4j的依赖，效果不是太好"
     },
     {
-      "title": "AI 流式传输工程指南：模型吐出半截 JSON，前端如何边收边渲染？",
-      "url": "https://juejin.cn/post/7697622920013021219",
-      "source": "juejin",
-      "score": 303,
-      "raw_score": 33,
-      "comments": 0,
-      "author": "猫头_",
-      "created_at": "",
-      "summary": "做普通 AI 聊天时，模型吐出的是纯文本或 Markdown，前端收到一个字就往屏幕上追加一个字的打字机效果，但现在越来越多的 AI 功能要求模型直接返回 JSON 结构化数据，没有生成完成如何展示？"
-    },
-    {
-      "title": "Android 协程实践：为什么不应将 `supervisorScope` 作为常规方案",
-      "url": "https://juejin.cn/post/7697452953989480474",
-      "source": "juejin",
-      "score": 289,
-      "raw_score": 28,
-      "comments": 0,
-      "author": "潜龙勿用之化骨龙",
-      "created_at": "",
-      "summary": "在 Android 项目中，supervisorScope 常被用于避免“一个子任务失败，取消其他子任务”的情况。它看似能提升并发任务的容错能力，但如果被作为默认方案，容易掩盖项目中异常边界不清、失败"
-    },
-    {
-      "title": "开源权重杀回榜首，Meta凭什么把闭源大佬按在地上摩擦？",
-      "url": "https://juejin.cn/post/7697515895682875411",
-      "source": "juejin",
-      "score": 282,
-      "raw_score": 26,
-      "comments": 0,
-      "author": "公众号_计算机魔术师",
-      "created_at": "",
-      "summary": "Nathan Lambert指出，过去数周美国开源权重的竞争力出现质变——Meta的Muse Spark Open成为最强的美国本土开源模型，Reflection的首款Beam模型也加入战团。Muse"
-    },
-    {
-      "title": "element-plus表格使用:filter-method过滤导致出现无数据",
-      "url": "https://juejin.cn/post/7697626465453654026",
-      "source": "juejin",
-      "score": 282,
-      "raw_score": 26,
-      "comments": 0,
-      "author": "我的div丢了肿么办",
-      "created_at": "",
-      "summary": "前端表格进行过滤 背景介绍：我们表格的过滤是后端做的 但是不知道为啥，在进行迁移的时候 表格过滤写上了 @filter-change=\"handleFilterChange\"变成了前端过滤， 导致服务"
-    },
-    {
-      "title": "vibe coding极简八步教程（在vibe出一个自用网站之后的领悟）",
-      "url": "https://juejin.cn/post/7697593470718033971",
-      "source": "juejin",
-      "score": 279,
-      "raw_score": 25,
-      "comments": 0,
-      "author": "诸神缄默不语",
-      "created_at": "",
-      "summary": "本文分享vibe coding极简八步教程：先明确需求，再选AI编程工具与模型，借助AI撰写产品需求文档，随后开发、测试、迭代，最终部署上线，帮助零基础者用AI独立完成自用网站开发。"
-    },
-    {
-      "title": "Vue3 转 React：18 项对照表 + 5 个必踩的坑（附 7 天上手路线）",
-      "url": "https://juejin.cn/post/7697626465454096394",
+      "title": "翻译|一份给\"与模型共事的人类\"的教程",
+      "url": "https://juejin.cn/post/7697785327507718187",
       "source": "juejin",
       "score": 264,
       "raw_score": 21,
       "comments": 0,
-      "author": "月夏",
+      "author": "周末程序猿",
       "created_at": "",
-      "summary": "最近在换工作，把 BOSS 直聘和其它招聘软件刷了一遍，发现一件事：招前端的岗位，十有八九写的是 React。 而我写了三年 Vue3，拿得出手的项目经验也基本都是 Vue 的——经验够，技术栈不对，"
+      "summary": "Felix Rieseberg 在 Claude 团队工作。对他来说，这是一段很有意思的经历：每一天，他都会了解到又一项由 Claude 完成或借助 Claude 完成的壮举"
     },
     {
-      "title": "像资深短视频运营一样做事：从特斯拉发布会的「眼见为实」到可复用的提示词工作流",
-      "url": "https://juejin.cn/post/7697531208897462313",
-      "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
-      "comments": 0,
-      "author": "小虎AI生活",
-      "created_at": "",
-      "summary": "导语 特斯拉 Roadster 发布会只有十几秒的演示，没有参数罗列，却赢得了全网信任。这套「眼见为实」的逻辑，同样适用于内容生产和获客转化。本文把一场发布会拆成一套可复用的短视频方法论：眼见为实三铁"
-    },
-    {
-      "title": "05-01-源码-运行时总览",
-      "url": "https://juejin.cn/post/7697531208897560617",
-      "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
-      "comments": 0,
-      "author": "SmalBox",
-      "created_at": "",
-      "summary": "源码-运行时总览 一、引言 本章将深入解析 YooAsset 运行时端的整体代码结构和模块组织。YooAsset 的运行时端代码位于 YooAsset/Runtime/ 目录下，是 YooAsset "
-    },
-    {
-      "title": "000-OpenJDK17 源码构建：MacOS环境（M芯片）",
-      "url": "https://juejin.cn/post/7697558686809800739",
+      "title": "从零实现一个支持跨进程（IPC）的自定义 Toast",
+      "url": "https://juejin.cn/post/7697555975775289382",
       "source": "juejin",
       "score": 240,
       "raw_score": 16,
       "comments": 0,
-      "author": "灰蒙蒙到清澄澄",
+      "author": "hai_android",
       "created_at": "",
-      "summary": "如何在MacOS（M芯片）环境下构建openjdk17。不要在执着于Java8了，学习Java17吧"
+      "summary": "一、为什么要自己写 Toast 系统 Toast 有几个绕不开的限制： 问题 说明 样式不可控 只能改文字，背景、圆角、字体都要靠反射或自定义 View 塞进去 动画不可控 系统固定淡入淡出，无法定制"
+    },
+    {
+      "title": "CPU就行, 老照片变清晰, 本地部署582mb腾讯的模型, 本地部署, 过节了给长辈们变个小魔术",
+      "url": "https://juejin.cn/post/7697853177081020466",
+      "source": "juejin",
+      "score": 235,
+      "raw_score": 15,
+      "comments": 0,
+      "author": "半刻维度",
+      "created_at": "",
+      "summary": "老照片糊成一团，一键变清晰。 这次项目用 Python 写。 但机器没要求。 随便一台电脑就行，集成显卡都够用。 不用买显卡，不用配 CUDA。 照片也不出电脑，全本地推理。 5 行核心代码： 就这些"
+    },
+    {
+      "title": "从零跑一个气象数据管道：抓取、清洗、对账、节奏",
+      "url": "https://juejin.cn/post/7697515895683039251",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "MetWeave",
+      "created_at": "",
+      "summary": "三个公开源怎么互补、抓取节奏怎么定、怎么用第二个源当考官逐条对账？9.5 天 1,709 份真值的真实对账，气象数据管道一篇讲透。"
+    },
+    {
+      "title": "5. 带 AI 从零搭低代码平台·踩坑实录：测试脚本按界面重写，别拿假数据糊弄我",
+      "url": "https://juejin.cn/post/7697610123099766819",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "9i编程",
+      "created_at": "",
+      "summary": "5. 带 AI 从零搭低代码平台·踩坑实录：测试脚本按界面重写，别拿假数据糊弄我 这是踩坑实录的第五篇，进入测试脚本：先看脚本该有哪些功能，再按最新界面去写，然后回设计打磨；im 相关的也在这篇（查询"
+    },
+    {
+      "title": "我给 Agent 造了一个\"元工具\"：让它自己写工具，再用三道门锁住风险",
+      "url": "https://juejin.cn/post/7697515895682940947",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "疯狂的魔鬼",
+      "created_at": "",
+      "summary": "一、先回答一个老问题：这真的需要 Agent 吗？ 在展开设计之前，先诚实地回答一个容易被跳过的问题——这个需求值得引入 Agent 吗？ 值得。但不是我最初以为的那个理由。 我最初想的是\"让 Age"
+    },
+    {
+      "title": "从 OpenTelemetry 到 Langfuse：企业级 Agent 可观测性实践",
+      "url": "https://juejin.cn/post/7697816212429242383",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "hsfxuebao",
+      "created_at": "",
+      "summary": "一、从 OTel 到 Langfuse 前阵子分享了 OpenTelemetry 的技术文章（链接），讲的是怎么把 Agent 的 trajectory 记录成一棵 Trace 树。 OTel 基本是"
+    },
+    {
+      "title": "‌双端电商系统的测试差异分析——别让“只测一端”漏掉80%的联动缺陷",
+      "url": "https://juejin.cn/post/7697555975775240230",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "stillstream_ink",
+      "created_at": "",
+      "summary": "管理员端和买家端看起来都是操作数据，但登录机制、权限模型、数据可见性完全不同。更关键的是两端数据会互相影响：管理员下架商品、禁用会员、改价格，买家端会怎样？只测一端会漏掉双端联动风险。"
+    },
+    {
+      "title": "C#基础3- 面向对象中级应用3",
+      "url": "https://juejin.cn/post/7697664935023116338",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "cpp_w",
+      "created_at": "",
+      "summary": "C#基础3- 面向对象中级应用3 1.命令行参数 args 与 Main (string [] args) 知识点 核心定位：命令行参数是控制台应用与外部系统（CI/CD 流水线、定时调度器、运维脚"
+    },
+    {
+      "title": "从零构建 Mastra RAG MVP：DeepSeek、SiliconFlow 与 PostgreSQL/pgvector 实战",
+      "url": "https://juejin.cn/post/7697593470718001203",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "大明二代",
+      "created_at": "",
+      "summary": "最近我在尝试使用 Mastra 构建一个简单的 RAG（Retrieval-Augmented Generation，检索增强生成）应用"
     }
   ]
 }
