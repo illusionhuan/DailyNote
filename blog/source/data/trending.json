@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-20T02:38:56.579634+00:00",
+  "updated_at": "2026-10-20T16:01:50.154278+00:00",
   "articles": [
     {
-      "title": "Dart 3.15 新特性：this 终于支持类型提升了",
-      "url": "https://juejin.cn/post/7698239626868310067",
+      "title": "人生第一个私活：不到 2 小时，到手 350 元",
+      "url": "https://juejin.cn/post/7698533148759031849",
       "source": "juejin",
-      "score": 411,
-      "raw_score": 114,
-      "comments": 0,
-      "author": "恋猫de小郭",
+      "score": 640,
+      "raw_score": 1592,
+      "comments": 10,
+      "author": "wing98",
       "created_at": "",
-      "summary": "这次 Dart 3.15 有个改动虽然不大，但我感觉算是解决了 Dart 类型系统里一个存在多年的不合理限制： 从 3.15 开始，this 终于可以像局部变量一样，根据 is 判断、空值检查之类条件"
-    },
-    {
-      "title": "太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！",
-      "url": "https://juejin.cn/post/7698283872392757286",
-      "source": "juejin",
-      "score": 405,
-      "raw_score": 107,
-      "comments": 1,
-      "author": "狂师",
-      "created_at": "",
-      "summary": "现在让 AI 写代码，已经不算新鲜事了。Claude Code、Codex、Cursor 这类AI Agent，一句需求丢过去，几分钟就能把功能连同单元测试一起交上来。 但交上来的这些代码，谁确认过真"
+      "summary": "做程序员的，对\"接私活\"这词应该都不陌生。我很早就知道有这回事，但一直没花时间去碰。前几年还注册过几个程序员兼职平台，程序员客栈、猿急送、电鸭社区，简历填得挺起劲，结果到现在几年过去，一个联系我的都没"
     },
     {
       "title": "为什么我在团队里禁止使用 axios？",
       "url": "https://juejin.cn/post/7698268211587022874",
       "source": "juejin",
-      "score": 393,
-      "raw_score": 93,
-      "comments": 2,
+      "score": 632,
+      "raw_score": 1460,
+      "comments": 17,
       "author": "ErpanOmer",
       "created_at": "",
       "summary": "前端团队禁用axios改用原生fetch的决策，指出axios的拦截器、超时、取消等功能已被fetch覆盖，且存在拦截器嵌套难调试、CancelToken废弃、Edge Runtime兼容等问题，并给出30行fetch封装方案及Token刷新、超时兼容等注意事项。"
     },
     {
-      "title": "AI Agent 工作流引擎工程实践：从 Prompt 清单到状态机驱动的生产级流程控制",
-      "url": "https://juejin.cn/post/7698294342289473546",
+      "title": "探索副业五个月，最终以放弃告终",
+      "url": "https://juejin.cn/post/7698569506813394959",
       "source": "juejin",
-      "score": 341,
-      "raw_score": 51,
+      "score": 521,
+      "raw_score": 404,
+      "comments": 4,
+      "author": "三只萌新",
+      "created_at": "",
+      "summary": "副业不适合普通人，打工才是宿命 这个时代，总有人不断告诉你：要打造第二收入曲线，搞一份副业，对冲大环境的焦虑。 我也琢磨了小半年，一直在思考自己适合走哪条路"
+    },
+    {
+      "title": "从\"性价比之王\"到\"贵到离谱\"：DeepSeek API 涨价背后的模型经济学",
+      "url": "https://juejin.cn/post/7673690348011388964",
+      "source": "juejin",
+      "score": 493,
+      "raw_score": 292,
       "comments": 0,
-      "author": "AINative软件工程",
+      "author": "TWT121",
       "created_at": "",
-      "summary": "凌晨 2 点，客服 Agent 在处理退款争议时崩溃了。 不是因为模型出了问题，而是因为它在第 7 步——调用支付系统 API 确认退款金额——收到了一个网络超时。没有断点续跑机制，整个工作流从头开始。但\"从头开始\"意味着它重新发起了一次退款请求。客户收到了两笔退款。"
+      "summary": "从\"性价比之王\"到\"贵到离谱\"：DeepSeek API 涨价背后的模型经济学 8月13日晚，DeepSeek 官宣调价方案。8月17日0时生效。高峰时段输出价格涨到原来的4.5倍，缓存命中价格暴涨1"
     },
     {
-      "title": "为什么越来越多人用MinerU？",
-      "url": "https://juejin.cn/post/7698261884403466275",
+      "title": "DeepSeek V4 Pro 万字实测：1M上下文能装下整个代码库，但前端的拉胯还是没修好",
+      "url": "https://juejin.cn/post/7673226470266159150",
       "source": "juejin",
-      "score": 334,
-      "raw_score": 47,
+      "score": 457,
+      "raw_score": 193,
       "comments": 0,
-      "author": "苏三说技术",
+      "author": "TWT121",
       "created_at": "",
-      "summary": "前言 大家好，我是苏三。 不知道你做RAG知识库的时候，有没有遇到过下面这种场景： 用户问“这份财报里Q3的净利润是多少”，系统检索出来的片段里，表格是散的，数字和指标名对不上。 问“这篇论文的核心公"
+      "summary": "DeepSeek V4 Pro 万字实测：1M上下文能装下整个代码库，但前端的拉胯还是没修好 ★★★★★ 实测时间：2026年8月13日 | 模型版本：DeepSeekV4Pro0813 | 测试环境"
     },
     {
-      "title": "别再找笔记了，试试这款轻量级的开源软件：local-notes",
-      "url": "https://juejin.cn/post/7698294342289948682",
+      "title": "研究数字孪生的这半年，做了个 Demo，也有了一些新想法",
+      "url": "https://juejin.cn/post/7698569506813526031",
       "source": "juejin",
-      "score": 326,
-      "raw_score": 43,
+      "score": 423,
+      "raw_score": 131,
       "comments": 0,
-      "author": "SimonKing",
+      "author": "勇宝趣学前端",
       "created_at": "",
-      "summary": "很多做开发的朋友都可能会用到笔记，但是要么笔记集成了太多的东西很重、要门过于简单。云笔记虽然可以解决部分问题，但是却容易被各种会员绑架，不如自己撸一个本地笔记工具。"
+      "summary": "这半年，我一直在研究工业数字孪生，也做出了一个三维工厂 Demo。借着这次分享，聊聊把工厂搬进电脑之后，还能怎样结合真实数据，让设备状态和生产进度看得更清楚。"
     },
     {
-      "title": "用 Trae 吃透掘金文章：从拉取 Demo 到跑起 Three.js 太阳能电场，AI 问出来的学习路径",
-      "url": "https://juejin.cn/post/7698382188472123419",
+      "title": "Claude Code 工程化实战：从保守问答到 3 个月 27 万行代码的全自动重构",
+      "url": "https://juejin.cn/post/7698570306696773658",
       "source": "juejin",
-      "score": 313,
-      "raw_score": 37,
+      "score": 358,
+      "raw_score": 62,
       "comments": 0,
-      "author": "9i编程",
+      "author": "孟健AI编程",
       "created_at": "",
-      "summary": "用 Trae 吃透掘金文章：从拉取 Demo 到跑起 Three.js 太阳能电场，AI 问出来的学习路径 前言 掘金上刷到一篇讲 Three.js 的文章，写得挺好，我就想把它内化成自己的东西。要内"
+      "summary": "结合一人公司3个月27万行代码及近3000次提交的实战经验，深入拆解如何突破传统的保守问答模式，将Claude Code打造为全自动重构与多文件协同的工程机器"
     },
     {
-      "title": "GitHub 几天狂揽 20 万星！让 AI 把闭源软件“逆向开源”：爆火神器 REA 深度实测与架构师冷思考",
-      "url": "https://juejin.cn/post/7698254253442367523",
+      "title": "AI 平权后，最该重视的 8 种能力",
+      "url": "https://juejin.cn/post/7698586166996025379",
       "source": "juejin",
-      "score": 308,
-      "raw_score": 35,
-      "comments": 1,
-      "author": "一缕82年的清风",
-      "created_at": "",
-      "summary": "> **作者**：一缕82年的清风 > **定位**：【前沿极客情报局】 > **文章概览*"
-    },
-    {
-      "title": "百万并发直播弹幕系统设计全解：看懂了扇出，你就看懂了高并发的八成",
-      "url": "https://juejin.cn/post/7698281976982290475",
-      "source": "juejin",
-      "score": 289,
-      "raw_score": 28,
+      "score": 303,
+      "raw_score": 33,
       "comments": 0,
-      "author": "Rain的Java大神之路",
+      "author": "stormzhangV",
       "created_at": "",
-      "summary": "百万直播弹幕架构拆解，核心攻克扇出爆炸！Netty百万长连接、三级削峰、推拉结合，节点聚合把百万次IO降至百次；附CAS环形缓冲、冷热分离等可落地代码，面试实战双用。"
+      "summary": "如果未来人人都能用上同样强的模型和 Agent，人与人的差距会在哪里？本文从领域认知、品味、用户洞察、判断取舍、架构与工程、商业、影响力和自我学习八个方面，分享我对 AI 时代人才能力的看法。"
     },
     {
-      "title": "让 3D 在 Flutter 中焕发生机：Flutter GPU 与 flutter_scene 实战经验",
-      "url": "https://juejin.cn/post/7698287001586614312",
+      "title": "踩坑实录：OpenCode 端口 49374 占用之谜",
+      "url": "https://juejin.cn/post/7698570306697773082",
       "source": "juejin",
       "score": 282,
       "raw_score": 26,
       "comments": 0,
-      "author": "JarvanMo",
+      "author": "狼爷",
       "created_at": "",
-      "summary": "每一款应用都希望拥有出色的视觉体验。 解决用户的实际问题是第一要务，提供流畅的用户体验则是第二要务。如今，大多数开发团队都已经能够做到这两点。优秀的架构、成熟的用户体验设计模式，以及高质量的开发库，几"
+      "summary": "最近在 macOS 上升级 OpenCode 到 v2.0.32 后，遇到了一个非常迷惑的启动故障：命令行一直卡在 `Starting background server...`，足足两分钟后抛出一句"
     },
     {
-      "title": "玩了一天 1.2 万人收藏的开源音乐模型，真的惊艳到我了。。。",
-      "url": "https://juejin.cn/post/7698287001586876456",
+      "title": "同样10美元，OpenDesign和Command Code的DeepSeek V4.1 Flash额度到底有多少？",
+      "url": "https://juejin.cn/post/7698546901831352370",
       "source": "juejin",
       "score": 276,
       "raw_score": 24,
       "comments": 0,
-      "author": "逛逛GitHub",
+      "author": "程序猿DD",
       "created_at": "",
-      "summary": "这两天，我在电脑上部署了一个音乐生成项目，叫 YuE2。 惊艳到我了。。。 这是香港科技大学联合 M-A-P、Noiz AI、斯坦福大学等机构，搞出的开源音乐生成模型。 给它一段歌词，再说说想要的风格"
+      "summary": "最近，我买了两个每月10美元的套餐，用来使用 DeepSeek V4.1 Flash，它们分别是 OpenDesign Go 和 Command Code GOAT。 OpenDesign 宣传每月最"
     },
     {
-      "title": "JAR 全对仍 checksum mismatch：Forge Admin 把 Flyway 从 filesystem 改成 classpath",
-      "url": "https://juejin.cn/post/7698294342289637386",
+      "title": "深度解析 XERJ：为 AI Agent 打造的 Rust 本地搜索引擎",
+      "url": "https://juejin.cn/post/7698625451761909796",
       "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
+      "score": 272,
+      "raw_score": 23,
       "comments": 0,
-      "author": "她的男孩",
+      "author": "秦先生在广东",
       "created_at": "",
-      "summary": "你刚打完 forge-admin-server.jar，本地 IDE 启动一切正常。把同一个产物丢到服务器，日志却刷： 更膈应的是：你把 JAR 解开一看，里面的 db/migration/*.sql"
+      "summary": "随着大语言模型（LLM）能力的爆发，如何让 AI Agent 高效、低消耗地理解并检索大规模代码与文档库，已成为构建智能自动化工具的核心瓶颈。传统的 grep 或基于纯记忆的方案在 Token 消耗上"
     },
     {
-      "title": "窗光静物一定要更亮吗？用 Awaking 把曝光收回一点",
-      "url": "https://juejin.cn/post/7698271080998715411",
+      "title": "Headroom 深度解析：本地化 LLM 代理下的 Token 压缩艺术",
+      "url": "https://juejin.cn/post/7698591060599095338",
+      "source": "juejin",
+      "score": 268,
+      "raw_score": 22,
+      "comments": 0,
+      "author": "秦先生在广东",
+      "created_at": "",
+      "summary": "在 AI 编码代理日益普及的今天，Token 成本与延迟已成为制约其规模化应用的关键瓶颈。Headroom 作为一款本地运行的 LLM 代理与库，通过精细化的压缩技术，在不牺牲答案质量的前提下，显著降"
+    },
+    {
+      "title": "一个人带三个Agent,我用全新TRAE从0到1搭了个资讯周刊站",
+      "url": "https://juejin.cn/post/7698614955540578355",
+      "source": "juejin",
+      "score": 246,
+      "raw_score": 17,
+      "comments": 0,
+      "author": "不惑_",
+      "created_at": "",
+      "summary": "0. 先说结论 先交代结果. 从一句话想法到本地能跑的周刊站,我满打满算花了一个下午外加半个晚上,其中真正需要我盯着屏幕动手的部分，三个小时就封顶了。搁以前一个人从零手写,这个体量我给自己留三天,还不"
+    },
+    {
+      "title": "开源项目第242期：HyperFrames —— 写 HTML 就能渲染视频，专为 AI Agent 设计的确定性视频框架",
+      "url": "https://juejin.cn/post/7698552541928194063",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "茶底世界之下",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "用明确标注的AI窗光静物输入，在真实Awaking中只把曝光调到-0.35，比较气氛与主体可读性，记录实际操作、正式PNG输出和停止调整的判断方法。"
+      "summary": "HeyGen 开源的 HTML 转视频框架：用 HTML + data 属性 + GSAP 等动画描述视频，无头 Chrome 逐帧截取 + FFmpeg 编码，同样的输入永远得到同样的动画"
     },
     {
-      "title": "同为7/8，错误样本却不同：Agent Grader 分歧复算",
-      "url": "https://juejin.cn/post/7698315240143896639",
+      "title": "StarRocks 与 Fluss 用一条 SQL 查实时与历史",
+      "url": "https://juejin.cn/post/7698468570225704986",
       "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
+      "score": 139,
+      "raw_score": 5,
       "comments": 0,
-      "author": "武子康",
+      "author": "阿里云大数据AI技术",
       "created_at": "",
-      "summary": "同为7/8，错误样本却不同：Agent Grader 分歧复算 规则说通过，模型评分说失败，人工又说证据不足——这时先换一个评分模型，可能只会换一列难解释的数字。更有用的是回到同一次 trial：几位"
-    },
-    {
-      "title": "ScoAI：面向供应链的运筹原生决策智能",
-      "url": "https://juejin.cn/post/7698269589705687103",
-      "source": "juejin",
-      "score": 169,
-      "raw_score": 7,
-      "comments": 0,
-      "author": "京东云开发者",
-      "created_at": "",
-      "summary": "本文导读 供应链库存管理需要在需求与供给均存在不确定性的条件下，对补货数量、库存配置和执行时点作出决策。基础模型与智能体已可用于需求估计、供应商信息解析和候选计划生成，但模型输出并不等同于业务决策。只"
+      "summary": "Fluss承接持续变化的数据，StarRocks提供熟悉的SQL分析入口；需要长期保留和历史回溯时，结合 Paimon 构建湖流一体，让实时与历史通过同一张逻辑表进入查询。"
     }
   ]
 }
