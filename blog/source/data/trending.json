@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-19T17:57:46.812611+00:00",
+  "updated_at": "2026-10-20T02:38:56.579634+00:00",
   "articles": [
     {
-      "title": "本来只想给内网开个口子，Natapp 却多给了一道防护",
-      "url": "https://juejin.cn/post/7697075629647003698",
+      "title": "Dart 3.15 新特性：this 终于支持类型提升了",
+      "url": "https://juejin.cn/post/7698239626868310067",
       "source": "juejin",
-      "score": 747,
-      "raw_score": 5485,
+      "score": 411,
+      "raw_score": 114,
+      "comments": 0,
+      "author": "恋猫de小郭",
+      "created_at": "",
+      "summary": "这次 Dart 3.15 有个改动虽然不大，但我感觉算是解决了 Dart 类型系统里一个存在多年的不合理限制： 从 3.15 开始，this 终于可以像局部变量一样，根据 is 判断、空值检查之类条件"
+    },
+    {
+      "title": "太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！",
+      "url": "https://juejin.cn/post/7698283872392757286",
+      "source": "juejin",
+      "score": 405,
+      "raw_score": 107,
       "comments": 1,
-      "author": "一只牛博",
+      "author": "狂师",
       "created_at": "",
-      "summary": "内网服务要给外面用，端口一开就收不住 企业内部这种服务器很常见：报表系统、OA、接口服务、后台管理，几套东西一起挂在 nginx 后面，平时只在内网用，用着没什么问题，直到外面开始有人要访问。"
+      "summary": "现在让 AI 写代码，已经不算新鲜事了。Claude Code、Codex、Cursor 这类AI Agent，一句需求丢过去，几分钟就能把功能连同单元测试一起交上来。 但交上来的这些代码，谁确认过真"
     },
     {
-      "title": "一个周末就想把短链服务推到 10 万 QPS，真能靠加 Redis 做到吗？",
-      "url": "https://juejin.cn/post/7696889902293614642",
+      "title": "为什么我在团队里禁止使用 axios？",
+      "url": "https://juejin.cn/post/7698268211587022874",
       "source": "juejin",
-      "score": 736,
-      "raw_score": 4841,
-      "comments": 1,
-      "author": "bug菌",
-      "created_at": "",
-      "summary": "🏆本文收录于《Java实战(高阶版)》专栏，重点剖析Java各种超核心知识点，带你从入门到精通，全面提升Java编程实力🚀；欢迎大家关注/收藏/订阅！持续更新中，up！up！up！！"
-    },
-    {
-      "title": "我用 REA 逆向了付费颜色 APP，结果很意外！",
-      "url": "https://juejin.cn/post/7696894428150300682",
-      "source": "juejin",
-      "score": 683,
-      "raw_score": 2603,
-      "comments": 7,
-      "author": "程序员鱼皮",
-      "created_at": "",
-      "summary": "GitHub 爆火的开源项目 REA 真的能逆向一切？软件已死？ 本期先科普什么是逆向工程、什么是 REA，然后实测用 AI 逆向单机安卓游戏和学习 App，看看它到底有没有那么神！"
-    },
-    {
-      "title": "玩了一天 REA，我号快没了",
-      "url": "https://juejin.cn/post/7698176323931979839",
-      "source": "juejin",
-      "score": 577,
-      "raw_score": 771,
-      "comments": 3,
-      "author": "cxuanAI",
-      "created_at": "",
-      "summary": "最近有一个开源项目非常火，它能够逆向一切，这个 GitHub 项目就是 REA 。 它的全名是逆向一切：你只需要把应用交给 AI 编程助手，让它调查某个功能到底是怎么实现的。 然后，你就等着就行了。"
-    },
-    {
-      "title": "AI 帮我写的小程序「厨菜记」上线满月了，挣了两百块！！！",
-      "url": "https://juejin.cn/post/7697873433355304970",
-      "source": "juejin",
-      "score": 547,
-      "raw_score": 546,
-      "comments": 2,
-      "author": "好市民_",
-      "created_at": "",
-      "summary": "AI 帮我写的小程序上线满月了，总收入 206 块，去掉成本净赚不到八十。但 7481 道菜被真人录进来、310 次点菜真的发生了——这篇不聊能不能赚钱，聊三十天里那些数据背后我没预料到的事。"
-    },
-    {
-      "title": "AI 流式输出都用 SSE，什么时候必须换 WebSocket？",
-      "url": "https://juejin.cn/post/7697591781001691163",
-      "source": "juejin",
-      "score": 534,
-      "raw_score": 472,
+      "score": 393,
+      "raw_score": 93,
       "comments": 2,
       "author": "ErpanOmer",
       "created_at": "",
-      "summary": "AI客服流式响应因Nginx缓冲和裸EventSource导致首字延迟与重试风暴。需关闭代理缓冲，采用可取消、可续接的SSE客户端，并明确SSE与WebSocket的选型边界。"
+      "summary": "前端团队禁用axios改用原生fetch的决策，指出axios的拦截器、超时、取消等功能已被fetch覆盖，且存在拦截器嵌套难调试、CancelToken废弃、Edge Runtime兼容等问题，并给出30行fetch封装方案及Token刷新、超时兼容等注意事项。"
     },
     {
-      "title": "我用 WorkBuddy + ima 把公众号文章做成了知识库。",
-      "url": "https://juejin.cn/post/7698208410021527594",
+      "title": "AI Agent 工作流引擎工程实践：从 Prompt 清单到状态机驱动的生产级流程控制",
+      "url": "https://juejin.cn/post/7698294342289473546",
       "source": "juejin",
-      "score": 384,
-      "raw_score": 84,
+      "score": 341,
+      "raw_score": 51,
       "comments": 0,
-      "author": "cxuanAI",
+      "author": "AINative软件工程",
       "created_at": "",
-      "summary": "上一篇我们聊了一下 WorkBuddy + ima 知识库的一些“邪修” 用法，很多朋友表示很有用，而这篇文章也很幸运的达到了 10w + 的阅读，这里也感谢朋友们的喜欢和支持，我会继续分享 Work"
+      "summary": "凌晨 2 点，客服 Agent 在处理退款争议时崩溃了。 不是因为模型出了问题，而是因为它在第 7 步——调用支付系统 API 确认退款金额——收到了一个网络超时。没有断点续跑机制，整个工作流从头开始。但\"从头开始\"意味着它重新发起了一次退款请求。客户收到了两笔退款。"
     },
     {
-      "title": "开源项目第241期：YuE2 —— 用符号乐谱当“白盒“接口的开源音乐生成模型，SongBench 超越 Suno v5/v6",
-      "url": "https://juejin.cn/post/7698239125624635427",
+      "title": "为什么越来越多人用MinerU？",
+      "url": "https://juejin.cn/post/7698261884403466275",
       "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
+      "score": 334,
+      "raw_score": 47,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "苏三说技术",
       "created_at": "",
-      "summary": "一个统一符号与音频音乐生成的开源基础模型：先生成可读、可改、可编辑的旋律和弦乐谱，再渲染成完整歌曲，支持零样本翻唱和多轮对话式音乐编辑"
+      "summary": "前言 大家好，我是苏三。 不知道你做RAG知识库的时候，有没有遇到过下面这种场景： 用户问“这份财报里Q3的净利润是多少”，系统检索出来的片段里，表格是散的，数字和指标名对不上。 问“这篇论文的核心公"
     },
     {
-      "title": "Room Fts4：全文搜索替代 SQL LIKE",
-      "url": "https://juejin.cn/post/7698195509064744987",
+      "title": "别再找笔记了，试试这款轻量级的开源软件：local-notes",
+      "url": "https://juejin.cn/post/7698294342289948682",
+      "source": "juejin",
+      "score": 326,
+      "raw_score": 43,
+      "comments": 0,
+      "author": "SimonKing",
+      "created_at": "",
+      "summary": "很多做开发的朋友都可能会用到笔记，但是要么笔记集成了太多的东西很重、要门过于简单。云笔记虽然可以解决部分问题，但是却容易被各种会员绑架，不如自己撸一个本地笔记工具。"
+    },
+    {
+      "title": "用 Trae 吃透掘金文章：从拉取 Demo 到跑起 Three.js 太阳能电场，AI 问出来的学习路径",
+      "url": "https://juejin.cn/post/7698382188472123419",
+      "source": "juejin",
+      "score": 313,
+      "raw_score": 37,
+      "comments": 0,
+      "author": "9i编程",
+      "created_at": "",
+      "summary": "用 Trae 吃透掘金文章：从拉取 Demo 到跑起 Three.js 太阳能电场，AI 问出来的学习路径 前言 掘金上刷到一篇讲 Three.js 的文章，写得挺好，我就想把它内化成自己的东西。要内"
+    },
+    {
+      "title": "GitHub 几天狂揽 20 万星！让 AI 把闭源软件“逆向开源”：爆火神器 REA 深度实测与架构师冷思考",
+      "url": "https://juejin.cn/post/7698254253442367523",
+      "source": "juejin",
+      "score": 308,
+      "raw_score": 35,
+      "comments": 1,
+      "author": "一缕82年的清风",
+      "created_at": "",
+      "summary": "> **作者**：一缕82年的清风 > **定位**：【前沿极客情报局】 > **文章概览*"
+    },
+    {
+      "title": "百万并发直播弹幕系统设计全解：看懂了扇出，你就看懂了高并发的八成",
+      "url": "https://juejin.cn/post/7698281976982290475",
+      "source": "juejin",
+      "score": 289,
+      "raw_score": 28,
+      "comments": 0,
+      "author": "Rain的Java大神之路",
+      "created_at": "",
+      "summary": "百万直播弹幕架构拆解，核心攻克扇出爆炸！Netty百万长连接、三级削峰、推拉结合，节点聚合把百万次IO降至百次；附CAS环形缓冲、冷热分离等可落地代码，面试实战双用。"
+    },
+    {
+      "title": "让 3D 在 Flutter 中焕发生机：Flutter GPU 与 flutter_scene 实战经验",
+      "url": "https://juejin.cn/post/7698287001586614312",
+      "source": "juejin",
+      "score": 282,
+      "raw_score": 26,
+      "comments": 0,
+      "author": "JarvanMo",
+      "created_at": "",
+      "summary": "每一款应用都希望拥有出色的视觉体验。 解决用户的实际问题是第一要务，提供流畅的用户体验则是第二要务。如今，大多数开发团队都已经能够做到这两点。优秀的架构、成熟的用户体验设计模式，以及高质量的开发库，几"
+    },
+    {
+      "title": "玩了一天 1.2 万人收藏的开源音乐模型，真的惊艳到我了。。。",
+      "url": "https://juejin.cn/post/7698287001586876456",
       "source": "juejin",
       "score": 276,
       "raw_score": 24,
       "comments": 0,
-      "author": "稀有猿诉",
+      "author": "逛逛GitHub",
       "created_at": "",
-      "summary": "对比 Room @Fts4 与 SQL LIKE 的搜索性能，讲解倒排索引原理与 contentEntity 用法，附 5000 条数据下 9.4 倍加速的实测基准。"
+      "summary": "这两天，我在电脑上部署了一个音乐生成项目，叫 YuE2。 惊艳到我了。。。 这是香港科技大学联合 M-A-P、Noiz AI、斯坦福大学等机构，搞出的开源音乐生成模型。 给它一段歌词，再说说想要的风格"
     },
     {
-      "title": "axios 被投毒半年后，我把 npm 的\"安全防线\"实测了一遍：最信任的 SHA512 是安慰剂",
-      "url": "https://juejin.cn/post/7698256886345105434",
+      "title": "JAR 全对仍 checksum mismatch：Forge Admin 把 Flyway 从 filesystem 改成 classpath",
+      "url": "https://juejin.cn/post/7698294342289637386",
       "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
+      "score": 260,
+      "raw_score": 20,
       "comments": 0,
-      "author": "Flynt",
+      "author": "她的男孩",
       "created_at": "",
-      "summary": "实测 axios 投毒残留：毒版本遭 registry 抹除、无法验尸；lockfile 的 SHA512 只保证一致、防不了投毒；npm audit 在镜像源没实现。23 个依赖 0 个"
+      "summary": "你刚打完 forge-admin-server.jar，本地 IDE 启动一切正常。把同一个产物丢到服务器，日志却刷： 更膈应的是：你把 JAR 解开一看，里面的 db/migration/*.sql"
     },
     {
-      "title": "llama.cpp 本地运行 9B 模型：部署、工具调用与微调数据",
-      "url": "https://juejin.cn/post/7698287001585418280",
+      "title": "窗光静物一定要更亮吗？用 Awaking 把曝光收回一点",
+      "url": "https://juejin.cn/post/7698271080998715411",
       "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
-      "author": "Shockang",
+      "author": "茶底世界之下",
       "created_at": "",
-      "summary": "llama.cpp 本地运行 9B 模型：部署、工具调用与微调数据 把本地助手接起来，先做三件事：让推理服务加载权重，让对话外壳正确发送工具定义，让应用执行工具并回传结果。最后再决定是否需要微调。本文"
+      "summary": "用明确标注的AI窗光静物输入，在真实Awaking中只把曝光调到-0.35，比较气氛与主体可读性，记录实际操作、正式PNG输出和停止调整的判断方法。"
     },
     {
-      "title": "Go 并发实战：从零实现一个高并发安全的任务调度器",
-      "url": "https://juejin.cn/post/7698306160449519651",
+      "title": "同为7/8，错误样本却不同：Agent Grader 分歧复算",
+      "url": "https://juejin.cn/post/7698315240143896639",
       "source": "juejin",
-      "score": 264,
-      "raw_score": 21,
+      "score": 180,
+      "raw_score": 8,
       "comments": 0,
-      "author": "云浪",
+      "author": "武子康",
       "created_at": "",
-      "summary": "JS 是单线程的（主线程只有一个），基于事件循环（Event Loop） 实现并发，让 JS 看起来能「同时做好多事」。而实际上，你写的 JS 代码永远不会被并行执行 。所谓并发只是「任务排队、轮流执"
+      "summary": "同为7/8，错误样本却不同：Agent Grader 分歧复算 规则说通过，模型评分说失败，人工又说证据不足——这时先换一个评分模型，可能只会换一列难解释的数字。更有用的是回到同一次 trial：几位"
     },
     {
-      "title": "n8n 智能体工作流实战：触发、工具、记忆与发布护栏",
-      "url": "https://juejin.cn/post/7698227087581380608",
+      "title": "ScoAI：面向供应链的运筹原生决策智能",
+      "url": "https://juejin.cn/post/7698269589705687103",
       "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
+      "score": 169,
+      "raw_score": 7,
       "comments": 0,
-      "author": "Shockang",
+      "author": "京东云开发者",
       "created_at": "",
-      "summary": "n8n 智能体工作流实战：触发、工具、记忆与发布护栏 从自动化平台到 AI 后台：n8n 作为生产级 Agent 基础设施 重新定位 n8n"
-    },
-    {
-      "title": "TanStack Router 实战：URL 校验、Loader 与路由权限",
-      "url": "https://juejin.cn/post/7698184228390879266",
-      "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
-      "comments": 0,
-      "author": "Shockang",
-      "created_at": "",
-      "summary": "TanStack Router 实战：URL 校验、Loader 与路由权限 为什么把 URL 状态纳入类型检查 在单页应用里，URL 不再只是地址栏里的字符串，它同时承担三份职责：标识需要匹配的页面"
-    },
-    {
-      "title": "JDK26中的Map.ofLazy",
-      "url": "https://juejin.cn/post/7698256886345777178",
-      "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
-      "comments": 0,
-      "author": "考虑考虑",
-      "created_at": "",
-      "summary": "前言 Map.ofLazy 是 Java 26 引入的一个预览 API，用于创建惰性初始化、不可变、线程安全的 Map。它的核心特点是：键在创建时就需要提供，但值只会在第一次被访问时才通过函数计算出来"
+      "summary": "本文导读 供应链库存管理需要在需求与供给均存在不确定性的条件下，对补货数量、库存配置和执行时点作出决策。基础模型与智能体已可用于需求估计、供应商信息解析和候选计划生成，但模型输出并不等同于业务决策。只"
     }
   ]
 }
