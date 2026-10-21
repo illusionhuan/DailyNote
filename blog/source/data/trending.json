@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-20T16:01:50.154278+00:00",
+  "updated_at": "2026-10-21T02:32:50.936924+00:00",
   "articles": [
     {
-      "title": "人生第一个私活：不到 2 小时，到手 350 元",
-      "url": "https://juejin.cn/post/7698533148759031849",
+      "title": "Flutter 的文字为什么比 SwiftUI 更细？问题主要在 Skia 的 256 项查找表里",
+      "url": "https://juejin.cn/post/7698709811564068915",
       "source": "juejin",
-      "score": 640,
-      "raw_score": 1592,
-      "comments": 10,
-      "author": "wing98",
+      "score": 398,
+      "raw_score": 98,
+      "comments": 0,
+      "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "做程序员的，对\"接私活\"这词应该都不陌生。我很早就知道有这回事，但一直没花时间去碰。前几年还注册过几个程序员兼职平台，程序员客栈、猿急送、电鸭社区，简历填得挺起劲，结果到现在几年过去，一个联系我的都没"
+      "summary": "最近看了一篇文章 《Why Flutter Text Looks Lighter Than SwiftUI on iOS》，写的还挺好的，如果看我写 Flutter 比较早的，应该看我写过不少关于 F"
     },
     {
-      "title": "为什么我在团队里禁止使用 axios？",
-      "url": "https://juejin.cn/post/7698268211587022874",
+      "title": "DeepSeek 突发上线 V4.1-1017：552B 稀疏架构仅激活 16B，白菜价背后的工程奇迹",
+      "url": "https://juejin.cn/post/7698552541928734735",
       "source": "juejin",
-      "score": 632,
-      "raw_score": 1460,
-      "comments": 17,
+      "score": 382,
+      "raw_score": 82,
+      "comments": 0,
+      "author": "一缕82年的清风",
+      "created_at": "",
+      "summary": "针对 DeepSeek 10月17日突发发布的最新旗舰快照 V4.1-Flash-1017，深度实测其首创的“因果编解码（CED）+ 稀疏动态激活（MoE 552B 仅激活 16B）”架构；现场交付完"
+    },
+    {
+      "title": "AI Agent 评测：到底要测什么、新手怎么测？（附完整流程）",
+      "url": "https://juejin.cn/post/7698614955541020723",
+      "source": "juejin",
+      "score": 369,
+      "raw_score": 70,
+      "comments": 1,
+      "author": "狂师",
+      "created_at": "",
+      "summary": "现在做一个 Agent 有多容易？ Claude Code、Codex、WorkBuddy 这些产品，很多人要么用过，要么天天在用。加上 AI 辅助编程，我们甚至可以让 Codex 帮忙做出一个类似 "
+    },
+    {
+      "title": "程序员 1v1 访谈系列第五期：裁掉正岗，招外包",
+      "url": "https://juejin.cn/post/7698646220872450082",
+      "source": "juejin",
+      "score": 354,
+      "raw_score": 59,
+      "comments": 0,
+      "author": "双越AI_club",
+      "created_at": "",
+      "summary": "大家好，我是双越。我最近正在搞一个《程序员 1v1 访谈系列》即和我 1v1 微信语音或文字聊天，分享你的状态和困惑，我给出建议。以下是第 5 位沟通者的主要内容，分享出来供大家参考。"
+    },
+    {
+      "title": "为什么每个前端都应该拥有一个自己的独立博客？",
+      "url": "https://juejin.cn/post/7698637850893139977",
+      "source": "juejin",
+      "score": 328,
+      "raw_score": 44,
+      "comments": 1,
       "author": "ErpanOmer",
       "created_at": "",
-      "summary": "前端团队禁用axios改用原生fetch的决策，指出axios的拦截器、超时、取消等功能已被fetch覆盖，且存在拦截器嵌套难调试、CancelToken废弃、Edge Runtime兼容等问题，并给出30行fetch封装方案及Token刷新、超时兼容等注意事项。"
+      "summary": "平台账号仅为租用，内容与流量随时归零。独立域名博客才是前端工程师可控的数字资产，需采用静态生成、边缘托管与版本管理，实现零运维、高可达与自主SEO。"
     },
     {
-      "title": "探索副业五个月，最终以放弃告终",
-      "url": "https://juejin.cn/post/7698569506813394959",
+      "title": "Java AI框架选型指南",
+      "url": "https://juejin.cn/post/7698620283800404002",
       "source": "juejin",
-      "score": 521,
-      "raw_score": 404,
-      "comments": 4,
-      "author": "三只萌新",
-      "created_at": "",
-      "summary": "副业不适合普通人，打工才是宿命 这个时代，总有人不断告诉你：要打造第二收入曲线，搞一份副业，对冲大环境的焦虑。 我也琢磨了小半年，一直在思考自己适合走哪条路"
-    },
-    {
-      "title": "从\"性价比之王\"到\"贵到离谱\"：DeepSeek API 涨价背后的模型经济学",
-      "url": "https://juejin.cn/post/7673690348011388964",
-      "source": "juejin",
-      "score": 493,
-      "raw_score": 292,
+      "score": 286,
+      "raw_score": 27,
       "comments": 0,
-      "author": "TWT121",
+      "author": "苏三说技术",
       "created_at": "",
-      "summary": "从\"性价比之王\"到\"贵到离谱\"：DeepSeek API 涨价背后的模型经济学 8月13日晚，DeepSeek 官宣调价方案。8月17日0时生效。高峰时段输出价格涨到原来的4.5倍，缓存命中价格暴涨1"
+      "summary": "前言 前阵子帮有位球友说，他们公司做技术评审时，遇到了一个特别典型的问题。 他们要做一个智能客服系统，团队里三个人吵得不可开交。 一个说用Spring AI，理由是“Spring官方出品，肯定稳”； "
     },
     {
-      "title": "DeepSeek V4 Pro 万字实测：1M上下文能装下整个代码库，但前端的拉胯还是没修好",
-      "url": "https://juejin.cn/post/7673226470266159150",
-      "source": "juejin",
-      "score": 457,
-      "raw_score": 193,
-      "comments": 0,
-      "author": "TWT121",
-      "created_at": "",
-      "summary": "DeepSeek V4 Pro 万字实测：1M上下文能装下整个代码库，但前端的拉胯还是没修好 ★★★★★ 实测时间：2026年8月13日 | 模型版本：DeepSeekV4Pro0813 | 测试环境"
-    },
-    {
-      "title": "研究数字孪生的这半年，做了个 Demo，也有了一些新想法",
-      "url": "https://juejin.cn/post/7698569506813526031",
-      "source": "juejin",
-      "score": 423,
-      "raw_score": 131,
-      "comments": 0,
-      "author": "勇宝趣学前端",
-      "created_at": "",
-      "summary": "这半年，我一直在研究工业数字孪生，也做出了一个三维工厂 Demo。借着这次分享，聊聊把工厂搬进电脑之后，还能怎样结合真实数据，让设备状态和生产进度看得更清楚。"
-    },
-    {
-      "title": "Claude Code 工程化实战：从保守问答到 3 个月 27 万行代码的全自动重构",
-      "url": "https://juejin.cn/post/7698570306696773658",
-      "source": "juejin",
-      "score": 358,
-      "raw_score": 62,
-      "comments": 0,
-      "author": "孟健AI编程",
-      "created_at": "",
-      "summary": "结合一人公司3个月27万行代码及近3000次提交的实战经验，深入拆解如何突破传统的保守问答模式，将Claude Code打造为全自动重构与多文件协同的工程机器"
-    },
-    {
-      "title": "AI 平权后，最该重视的 8 种能力",
-      "url": "https://juejin.cn/post/7698586166996025379",
-      "source": "juejin",
-      "score": 303,
-      "raw_score": 33,
-      "comments": 0,
-      "author": "stormzhangV",
-      "created_at": "",
-      "summary": "如果未来人人都能用上同样强的模型和 Agent，人与人的差距会在哪里？本文从领域认知、品味、用户洞察、判断取舍、架构与工程、商业、影响力和自我学习八个方面，分享我对 AI 时代人才能力的看法。"
-    },
-    {
-      "title": "踩坑实录：OpenCode 端口 49374 占用之谜",
-      "url": "https://juejin.cn/post/7698570306697773082",
-      "source": "juejin",
-      "score": 282,
-      "raw_score": 26,
-      "comments": 0,
-      "author": "狼爷",
-      "created_at": "",
-      "summary": "最近在 macOS 上升级 OpenCode 到 v2.0.32 后，遇到了一个非常迷惑的启动故障：命令行一直卡在 `Starting background server...`，足足两分钟后抛出一句"
-    },
-    {
-      "title": "同样10美元，OpenDesign和Command Code的DeepSeek V4.1 Flash额度到底有多少？",
-      "url": "https://juejin.cn/post/7698546901831352370",
+      "title": "React 正式登场！GenUI SDK v1.4.0 三框架渲染、出码与 Agent 生态重磅升级~",
+      "url": "https://juejin.cn/post/7698677378389835812",
       "source": "juejin",
       "score": 276,
       "raw_score": 24,
       "comments": 0,
-      "author": "程序猿DD",
+      "author": "OpenTiny社区",
       "created_at": "",
-      "summary": "最近，我买了两个每月10美元的套餐，用来使用 DeepSeek V4.1 Flash，它们分别是 OpenDesign Go 和 Command Code GOAT。 OpenDesign 宣传每月最"
+      "summary": "本次更新围绕 三大主流框架渲染完善、vue出码能力支持、物料体系开放升级、Playground 与构建器模式体验重塑、工程稳定性与集成效率提升 五个方向展开，并带来一批工程稳定性修复，让生成式 UI具"
     },
     {
-      "title": "深度解析 XERJ：为 AI Agent 打造的 Rust 本地搜索引擎",
-      "url": "https://juejin.cn/post/7698625451761909796",
+      "title": "开源文档解析天花板 MinerU 4.0：PDF / 图片 / Office 等任意文档都支持",
+      "url": "https://juejin.cn/post/7698676106136977458",
       "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
+      "score": 276,
+      "raw_score": 24,
       "comments": 0,
-      "author": "秦先生在广东",
+      "author": "SimonKing",
       "created_at": "",
-      "summary": "随着大语言模型（LLM）能力的爆发，如何让 AI Agent 高效、低消耗地理解并检索大规模代码与文档库，已成为构建智能自动化工具的核心瓶颈。传统的 grep 或基于纯记忆的方案在 Token 消耗上"
+      "summary": "在分享RapidOCR的项目的时候，有老铁提到了MinerU项目，今天特意了解一下。才发现这是一个巨无霸，功能也更丰富。顺便整理了一下分享给大家。"
     },
     {
-      "title": "Headroom 深度解析：本地化 LLM 代理下的 Token 压缩艺术",
-      "url": "https://juejin.cn/post/7698591060599095338",
+      "title": "Spring Cloud Gateway 做统一加解密，我在请求体上栽了三天",
+      "url": "https://juejin.cn/post/7698673592326668324",
       "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
+      "score": 251,
+      "raw_score": 18,
       "comments": 0,
-      "author": "秦先生在广东",
+      "author": "卷毛的技术笔记",
       "created_at": "",
-      "summary": "在 AI 编码代理日益普及的今天，Token 成本与延迟已成为制约其规模化应用的关键瓶颈。Headroom 作为一款本地运行的 LLM 代理与库，通过精细化的压缩技术，在不牺牲答案质量的前提下，显著降"
+      "summary": "公司要在网关层给一批对外接口加统一加解密。理由很直白：支付、会员、消息、钱包、供应商这些对外接口，每个服务自己写一遍加解密，写十遍就有十种实现，改一次密钥要改十个地方。 方案定得很干脆。。。"
     },
     {
-      "title": "一个人带三个Agent,我用全新TRAE从0到1搭了个资讯周刊站",
-      "url": "https://juejin.cn/post/7698614955540578355",
+      "title": "npm 的 bin 如何接到 npm run 与 npx",
+      "url": "https://juejin.cn/post/7698673592326570020",
       "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "不惑_",
+      "author": "Wilson王艺谋",
       "created_at": "",
-      "summary": "0. 先说结论 先交代结果. 从一句话想法到本地能跑的周刊站,我满打满算花了一个下午外加半个晚上,其中真正需要我盯着屏幕动手的部分，三个小时就封顶了。搁以前一个人从零手写,这个体量我给自己留三天,还不"
+      "summary": "说明 npm 的 bin：安装后如何接到项目本地命令入口，以及 npm run 与 npx 怎样用到它。顺带交代发布时如何保住脚本文件。"
     },
     {
-      "title": "开源项目第242期：HyperFrames —— 写 HTML 就能渲染视频，专为 AI Agent 设计的确定性视频框架",
-      "url": "https://juejin.cn/post/7698552541928194063",
+      "title": "虚拟线程不是无限并发：Java Agent 后端真正该限制的是这些资源",
+      "url": "https://juejin.cn/post/7698661900759285823",
+      "source": "juejin",
+      "score": 229,
+      "raw_score": 14,
+      "comments": 0,
+      "author": "武子康",
+      "created_at": "",
+      "summary": "虚拟线程不是无限并发：Java Agent 后端真正该限制的是这些资源 Java 服务改用虚拟线程后，最危险的误解不是 API 用错，而是把“线程更便宜”理解成“系统可以无限并发”。 虚拟线程确实改变"
+    },
+    {
+      "title": "微信支付接入全流程：JSAPI支付、小程序支付与H5支付",
+      "url": "https://juejin.cn/post/7698709811583959067",
       "source": "juejin",
       "score": 208,
       "raw_score": 11,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "Lsx_",
       "created_at": "",
-      "summary": "HeyGen 开源的 HTML 转视频框架：用 HTML + data 属性 + GSAP 等动画描述视频，无头 Chrome 逐帧截取 + FFmpeg 编码，同样的输入永远得到同样的动画"
+      "summary": "微信支付三种模式 1️⃣ JSAPI支付（微信内H5） JSAPI支付有两种调用方式： 方式 特点 适用场景 方式A：JSSDK 需引入wxjssdk，需wx.config配置签名 需要更多微信能力（"
     },
     {
-      "title": "StarRocks 与 Fluss 用一条 SQL 查实时与历史",
-      "url": "https://juejin.cn/post/7698468570225704986",
+      "title": "悬浮提示从哪来：LSP、tsserver 与 .d.ts",
+      "url": "https://juejin.cn/post/7698673592326504484",
       "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
-      "author": "阿里云大数据AI技术",
+      "author": "Wilson王艺谋",
       "created_at": "",
-      "summary": "Fluss承接持续变化的数据，StarRocks提供熟悉的SQL分析入口；需要长期保留和历史回溯时，结合 Paimon 构建湖流一体，让实时与历史通过同一张逻辑表进入查询。"
+      "summary": "悬浮提示从哪来？本文说明 LSP、tsserver 与声明文件如何接上 npm 包的类型入口，以及类型条件如何与运行时入口分叉。不展开版本选择与编译出包。"
+    },
+    {
+      "title": "Rspack 源码解析（二十八）：HtmlRspackPlugin 如何把模板变成带资源标签的最终产物",
+      "url": "https://juejin.cn/post/7698591362950561802",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "Amos_zz",
+      "created_at": "",
+      "summary": "看一个 HTML 模板如何在 `process_assets` 阶段被解析、注入 `<script>`/`<link>` 标签，最终 emit 成产物。"
+    },
+    {
+      "title": "Python 文件操作：读写文件这件事，记住 with open 就够了",
+      "url": "https://juejin.cn/post/7698620283800436770",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "isfox",
+      "created_at": "",
+      "summary": "Python 文件操作：读写文件这件事，记住 with open 就够了 写程序，文件操作避不开。读配置、写日志、处理数据、导出报表——天天都在跟文件打交道。 Python 的文件操作其实就一件事：用"
     }
   ]
 }
