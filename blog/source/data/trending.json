@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-21T16:18:51.392905+00:00",
+  "updated_at": "2026-10-22T02:29:43.610399+00:00",
   "articles": [
     {
-      "title": "人生第一个私活：不到 2 小时，到手 350 元",
-      "url": "https://juejin.cn/post/7698533148759031849",
+      "title": "DeepSeek 新模型免费白嫖，夯夯夯，赶紧用起来",
+      "url": "https://juejin.cn/post/7699033523931873306",
       "source": "juejin",
-      "score": 710,
-      "raw_score": 3554,
-      "comments": 21,
-      "author": "wing98",
-      "created_at": "",
-      "summary": "做程序员的，对\"接私活\"这词应该都不陌生。我很早就知道有这回事，但一直没花时间去碰。前几年还注册过几个程序员兼职平台，程序员客栈、猿急送、电鸭社区，简历填得挺起劲，结果到现在几年过去，一个联系我的都没"
-    },
-    {
-      "title": "为什么我在团队里禁止使用 axios？",
-      "url": "https://juejin.cn/post/7698268211587022874",
-      "source": "juejin",
-      "score": 691,
-      "raw_score": 2874,
-      "comments": 37,
-      "author": "ErpanOmer",
-      "created_at": "",
-      "summary": "前端团队禁用axios改用原生fetch的决策，指出axios的拦截器、超时、取消等功能已被fetch覆盖，且存在拦截器嵌套难调试、CancelToken废弃、Edge Runtime兼容等问题，并给出30行fetch封装方案及Token刷新、超时兼容等注意事项。"
-    },
-    {
-      "title": "探索副业五个月，最终以放弃告终",
-      "url": "https://juejin.cn/post/7698569506813394959",
-      "source": "juejin",
-      "score": 632,
-      "raw_score": 1459,
-      "comments": 13,
-      "author": "三只萌新",
-      "created_at": "",
-      "summary": "副业不适合普通人，打工才是宿命 这个时代，总有人不断告诉你：要打造第二收入曲线，搞一份副业，对冲大环境的焦虑。 我也琢磨了小半年，一直在思考自己适合走哪条路"
-    },
-    {
-      "title": "国产Flash大乱斗！结果很意外",
-      "url": "https://juejin.cn/post/7698737595538440255",
-      "source": "juejin",
-      "score": 515,
-      "raw_score": 379,
-      "comments": 2,
-      "author": "甲维斯",
-      "created_at": "",
-      "summary": "国产模型全面进入 Flash 大乱斗？Pro 集体熄火！ DS 最近更新了 Flash，MiniMax 也更新了 Flash，再加上之前的 GLM5.3 Flash，还有 Qwen3.8 Flash，"
-    },
-    {
-      "title": "为什么每个前端都应该拥有一个自己的独立博客？",
-      "url": "https://juejin.cn/post/7698637850893139977",
-      "source": "juejin",
-      "score": 487,
-      "raw_score": 274,
-      "comments": 1,
-      "author": "ErpanOmer",
-      "created_at": "",
-      "summary": "平台账号仅为租用，内容与流量随时归零。独立域名博客才是前端工程师可控的数字资产，需采用静态生成、边缘托管与版本管理，实现零运维、高可达与自主SEO。"
-    },
-    {
-      "title": "【10.24 特别活动】AI 时代，程序员的新饭碗在哪里？",
-      "url": "https://juejin.cn/post/7698932135781138495",
-      "source": "juejin",
-      "score": 459,
-      "raw_score": 199,
-      "comments": 3,
-      "author": "掘金酱",
-      "created_at": "",
-      "summary": "AI写代码越来越强，\"程序员的前景\"成了所有人都绕不开的话题。有人开始用 AI 做副业，也有人在认真思考自己的 Plan B~这个1024，来掘金一起聊聊你的plan B是什么~"
-    },
-    {
-      "title": "DeepSeek 又出王炸，用 DeepInfer 搭建自己的服务是不是很容易？",
-      "url": "https://juejin.cn/post/7698799059633979446",
-      "source": "juejin",
-      "score": 386,
-      "raw_score": 86,
+      "score": 346,
+      "raw_score": 54,
       "comments": 0,
-      "author": "ServBay",
+      "author": "SimonKing",
       "created_at": "",
-      "summary": "基于 10 月 20 日公开的 DeepInfer 与 deepseek-recipe 官方仓库文档，拆解从模型权重、推理引擎、在线服务层到应用运行环境的四层交付边界。"
+      "summary": "之前分享一篇关于Qoder中的免费模型Qwen3.8-Flash，结果这两天又推出新的免费模型，性能夯夯夯。不仅仅Qoder接入了，OpenCode也安排上了。我们一起捋捋。"
     },
     {
-      "title": "Claude Code 接入 DeepSeek V4.1 与 MiniMax M3.1 实测：200+ TPS 下的代码准确率与 Token 账单",
-      "url": "https://juejin.cn/post/7698960692758446130",
+      "title": "为什么越来越多人用Eino？",
+      "url": "https://juejin.cn/post/7699025083108655138",
       "source": "juejin",
-      "score": 351,
-      "raw_score": 57,
+      "score": 279,
+      "raw_score": 25,
       "comments": 0,
-      "author": "孟健AI编程",
+      "author": "苏三说技术",
       "created_at": "",
-      "summary": "不看官方跑分，直接把前后相隔48小时发布的DeepSeek V4.1 Flash-1017与MiniMax M3.1 Flash接入Claude Code工作流，用字流真实代码测谁更省钱。"
+      "summary": "前言 前阵子技术群里有小伙伴反馈说，他们准备把AI能力接进现有的Go微服务里。 技术负责人跟说了一个很实际的困扰：“我们后端全是Go写的，但大模型生态里全是Python的框架。 LangChain、L"
     },
     {
-      "title": "初试短视频生成：豆包将我梦中的场景画出来了~",
-      "url": "https://juejin.cn/post/7698983022057652278",
+      "title": "一个人一个月合并 2500 PRs 的秘密是什么？",
+      "url": "https://juejin.cn/post/7699017769225306152",
       "source": "juejin",
-      "score": 332,
-      "raw_score": 46,
+      "score": 264,
+      "raw_score": 21,
       "comments": 0,
-      "author": "大模型真好玩",
+      "author": "乘风gg",
       "created_at": "",
-      "summary": "被红果短剧拿捏的日子里，我终于忍不住自己动手了。第一次用 AI 生成视频，从一句话需求到 10 秒古风大片，我只做了三件事。原来视频生成最关键的从来不是工具，而是提示词——模板直接拿走，0 成本上手。"
+      "summary": "上个月，Grok Bot 团队的 Lauren 使用 AI Coding 把 2000 个 PR 合进了主干。 她说 2000 个 PR 并非她最初设定的目标，而是随着对AI Agent 信任度提升而"
     },
     {
-      "title": "PHP 紧急修复两项严重 RCE 漏洞，8.2 至 8.5 用户应立即升级",
-      "url": "https://juejin.cn/post/7699014849129726003",
+      "title": "环境搭建",
+      "url": "https://juejin.cn/post/7699027015434076210",
       "source": "juejin",
-      "score": 295,
-      "raw_score": 30,
+      "score": 260,
+      "raw_score": 20,
       "comments": 0,
-      "author": "BingoGo",
+      "author": "迷途小羔羊",
       "created_at": "",
-      "summary": "PHP 紧急修复两项严重 RCE 漏洞，8.2 至 8.5 用户应立即升级 2026 年 10 月 21 日，PHP 官方发布紧急安全公告，并同时推出 PHP 8.5.12、8.4.27、8.3.36"
+      "summary": "本章将手把手引导你完成项目运行所需的所有环境准备。 2.1 开发环境要求 在开始之前，请确保你的开发机器满足以下最低要求： 软件 版本要求 说明 JDK 17+ 项目使用 Java 17 编译 Mav"
     },
     {
-      "title": "AI时代，人类不能停止思考",
-      "url": "https://juejin.cn/post/7698949568276430890",
-      "source": "juejin",
-      "score": 292,
-      "raw_score": 29,
-      "comments": 0,
-      "author": "字节逆旅",
-      "created_at": "",
-      "summary": "菜鸟放大招，也能爽到。 AI大模型这两年层出不穷，能力一年比一年猛。如果你观察身边大部分人，用法基本停留在\"对话模式\"：打开对话框，输入一句话，没有规则，没有约束，没有一个像样的目标描述，就靠一句\"帮"
-    },
-    {
-      "title": "本地已有一年历史数据，第二天更新别只拉“昨天一天”：量化 K 线增量同步实践",
-      "url": "https://juejin.cn/post/7698949568277053482",
-      "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
-      "comments": 0,
-      "author": "高频因子挖掘机",
-      "created_at": "",
-      "summary": "本地已有一年历史数据，次日更新仍应采用重叠窗口、幂等写入和周期回查，避免遗漏旧数据并保持复权口径一致。文章结合 QuantDash 行情查询能力说明同步流程。"
-    },
-    {
-      "title": "[Java] 展示添加元素时 ArrayList 的内部变化",
-      "url": "https://juejin.cn/post/7698983022058061878",
+      "title": "从零手搓 RAG 之分块策略",
+      "url": "https://juejin.cn/post/7699000847728640000",
       "source": "juejin",
       "score": 251,
       "raw_score": 18,
       "comments": 0,
-      "author": "金銀銅鐵",
+      "author": "我是Allen",
       "created_at": "",
-      "summary": "我在以前文章的基础上，用AI帮我完善了代码，本文展示的java代码，可以用 GUI 来展示在添加元素时 ArrayList 的内部变化"
+      "summary": "前言 上一篇把文档解析成了 Markdown，建议大家阅读 https://juejin.cn/post/7696908590871511075 接下来要做的事是给向量模型喂多长的文本，以及在哪里下刀"
     },
     {
-      "title": "报表总在扫大表，列存储应该放在哪一层",
-      "url": "https://juejin.cn/post/7698947426489663528",
+      "title": "当我说 Claude 搭配 GLM-5.3-Flash 太好用了，同事却提醒我：你可能正在失去对代码的掌控",
+      "url": "https://juejin.cn/post/7699017769225928744",
       "source": "juejin",
       "score": 246,
       "raw_score": 17,
       "comments": 0,
-      "author": "一只牛博",
+      "author": "程序员_小雨",
       "created_at": "",
-      "summary": "订单系统的明细表通常按交易写入：一笔订单一行，客户、渠道、金额、时间和状态放在同一条记录里。这样的行存布局适合新增订单、修改状态、按订单号查详情。"
+      "summary": "AI 可以替我写代码，但我不能因此放弃理解代码的能力；AI 可以帮我解决问题，但我不能把判断问题的责任也交给它。"
     },
     {
-      "title": "DeepSeek 开源 DeepInfer 拆解：一张卡一小时收 38 美元背后的成本逻辑",
-      "url": "https://juejin.cn/post/7699014849129660467",
+      "title": "2026年，你的前端终于不用再“算随机数”和“量高度”了",
+      "url": "https://juejin.cn/post/7699003023146991652",
       "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
+      "score": 235,
+      "raw_score": 15,
       "comments": 0,
-      "author": "小虎AI生活",
+      "author": "涛涛ing",
       "created_at": "",
-      "summary": "10 月 20 日下午，DeepSeek 干了件全行业都看不懂的事，把自家推理框架 DeepInfer 全面开源了。本文带你把技术报告里那张账本算明白，再用一个可以直接抄的提示词模板，把便宜真正用到自"
+      "summary": "一、random()：随机布局，不再需要一行 JavaScript 先看一个你肯定写过的场景。 你想让一组装饰性圆点、粒子或卡片随机散布在容器里。过去的做法是：用 JavaScript 遍历每个元素，"
+    },
+    {
+      "title": "GoWind Ops 拆解：不引入分布式锁的多副本协调",
+      "url": "https://juejin.cn/post/7699041682989727787",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "喵个咪",
+      "created_at": "",
+      "summary": "GoWind Ops 拆解：不引入分布式锁的多副本协调 GoWind Ops 的 core 是唯一连库的领域服务，天然想水平扩：多副本分摊 MQTT 信令、多副本跑定时调度。但多副本立刻带来一组经典问"
+    },
+    {
+      "title": "Python实战第11期：面向对象编程基础",
+      "url": "https://juejin.cn/post/7699072089818710026",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "全栈弄潮儿",
+      "created_at": "",
+      "summary": "引言：什么是面向对象编程？ 在前面的课程中，我们编写的都是面向过程的程序：先做什么，再做什么。但现实世界是由一个个对象组成的，每个对象都有自己的属性和行为。"
+    },
+    {
+      "title": "GoWind ShortPlay 拆解：Flutter 沉浸式 Feed 的播放器工程——生命周期、手势状态机与游客降级",
+      "url": "https://juejin.cn/post/7699025957739364395",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "喵个咪",
+      "created_at": "",
+      "summary": "GoWind ShortPlay 拆解：Flutter 沉浸式 Feed 的播放器工程——生命周期、手势状态机与游客降级 上下滑短视频 App 的代码量错觉很强：看起来就是\"一个 PageView +"
+    },
+    {
+      "title": "嫌推理慢就把 effort 调高？effort 管的是想多少，不是想多快",
+      "url": "https://juejin.cn/post/7699047775250464778",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "ZzT",
+      "created_at": "",
+      "summary": "effort 控制模型愿意花多少输出 token，不控制速度。附 Claude Code 与 Codex 的 16 次本地计时、真正能提速的开关，以及 low 到 max 各档适合的任务。"
+    },
+    {
+      "title": "GoWind ShortPlay 拆解：不用模型的推荐闭环——埋点回流、三路召回与已看去重",
+      "url": "https://juejin.cn/post/7699243153364828202",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "喵个咪",
+      "created_at": "",
+      "summary": "GoWind ShortPlay 拆解：不用模型的推荐闭环——埋点回流、三路召回与已看去重 GoWind ShortPlay 的 Feed 有一套完整的推荐链路：Flutter 播放器实时上报观看行为"
+    },
+    {
+      "title": "React 前端 Word 转图片：页面与元素级导出的工程实践",
+      "url": "https://juejin.cn/post/7699003023146942500",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "缺点内向",
+      "created_at": "",
+      "summary": "本文以 React 为框架，介绍如何借助一个基于 WebAssembly 的文档处理库，将 Word 文档的指定页面或文档中的特定元素导出为图片文件，并分析其中的关键环节与限制。"
+    },
+    {
+      "title": "GoWind ShortPlay 深度拆解：三服务 BFF + Core，一条请求的完整工程链路",
+      "url": "https://juejin.cn/post/7699041682990399531",
+      "source": "juejin",
+      "score": 120,
+      "raw_score": 4,
+      "comments": 0,
+      "author": "喵个咪",
+      "created_at": "",
+      "summary": "GoWind ShortPlay 深度拆解：三服务 BFF + Core，一条请求的完整工程链路 GoWind ShortPlay 是一个短视频社区的完整实现：上下滑沉浸式 Feed、拍摄发布、互动社"
+    },
+    {
+      "title": "GoWind ShortPlay 拆解：Ent privacy/viewer 多租户隔离——从中间件到 SQL 的零信任链",
+      "url": "https://juejin.cn/post/7699243153364762666",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "喵个咪",
+      "created_at": "",
+      "summary": "GoWind ShortPlay 拆解：Ent privacy/viewer 多租户隔离——从中间件到 SQL 的零信任链 多租户隔离最常见的死法是应用层 WHERE：每个仓储方法都记得写 tenan"
     }
   ]
 }
