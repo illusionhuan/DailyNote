@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-23T02:34:22.795699+00:00",
+  "updated_at": "2026-10-23T16:07:34.116764+00:00",
   "articles": [
     {
-      "title": "Flutter 官方表示：AI 时代代码越来越容易写，为什么还要一套代码库？",
-      "url": "https://juejin.cn/post/7699414277584797734",
+      "title": "报表总在扫大表，列存储应该放在哪一层",
+      "url": "https://juejin.cn/post/7698947426489663528",
       "source": "juejin",
-      "score": 457,
-      "raw_score": 193,
-      "comments": 2,
-      "author": "恋猫de小郭",
-      "created_at": "",
-      "summary": "最近不管是 Shopify 或者这两个月的舆论，貌似都在说：既然 AI 已经能低成本出 Swift 和 Kotlin 的原生代码，那企业为什么还要用 Flutter？直接让两个 Agent 分别维护 "
-    },
-    {
-      "title": "AI 对一位老开发的副作用总结",
-      "url": "https://juejin.cn/post/7699351034399801380",
-      "source": "juejin",
-      "score": 332,
-      "raw_score": 46,
-      "comments": 1,
-      "author": "自然吸气发动机",
-      "created_at": "",
-      "summary": "突然发现已经很久没在 juejin 平台静下心来写一篇技术博客了，因为我现在写的博客介绍的技术都是从 AI 来的，总是让我有一种不是我自己真本事的感觉，AI 时代也许死磕技术真的走到头了。 下面介绍一"
-    },
-    {
-      "title": "为什么程序员始终无法彻底解决内存泄漏？",
-      "url": "https://juejin.cn/post/7699411361327448107",
-      "source": "juejin",
-      "score": 328,
-      "raw_score": 44,
+      "score": 747,
+      "raw_score": 5438,
       "comments": 0,
-      "author": "RockByte",
+      "author": "一只牛博",
       "created_at": "",
-      "summary": "各位编程爱好者们，早上好！ 我最近思考了一个很有意思的问题。 我们已经有了 C++ 的 RAII、Java 的 GC、Rust 的所有权机制，甚至还有各种内存分析工具，为什么几十年过去了......"
+      "summary": "订单系统的明细表通常按交易写入：一笔订单一行，客户、渠道、金额、时间和状态放在同一条记录里。这样的行存布局适合新增订单、修改状态、按订单号查详情。"
     },
     {
-      "title": "夯爆了！又一款开源企业级一站式AI智能测试平台！（附平台架构、技术选型）",
-      "url": "https://juejin.cn/post/7699368463359033395",
+      "title": "副业搞钱之代办永不过时",
+      "url": "https://juejin.cn/post/7699487378045730852",
+      "source": "juejin",
+      "score": 593,
+      "raw_score": 929,
+      "comments": 5,
+      "author": "前端之虎陈随易",
+      "created_at": "",
+      "summary": "大家好，我是农村程序员，独立开发者，前端之虎陈随易，我的官网是：https://yicode.tech。 最近正在做方向调整，我的公众号大号 陈随易 主要分享副业搞钱，独立开发之类的文章，随易聊技术 "
+    },
+    {
+      "title": "一个需求，五个 Agent：用 TRAE 多 Agent 并行协作重构你的开发节奏",
+      "url": "https://juejin.cn/post/7699372774716801034",
+      "source": "juejin",
+      "score": 404,
+      "raw_score": 105,
+      "comments": 5,
+      "author": "悟空码字",
+      "created_at": "",
+      "summary": "从零到可运行的访客预约登记系统，正常串行开发至少需要两个小时，但用 TRAE 的多 Agent 并行协作，把耗时压缩到了三十分钟以内。包含前端原型、后端接口、测试用例、全套文档的完整交付物。"
+    },
+    {
+      "title": "Claude Code 接入 Cloudflare 3.7万星安全审计 Skill：从全量烧钱到按需裁剪的实战方案",
+      "url": "https://juejin.cn/post/7699654593328840745",
+      "source": "juejin",
+      "score": 330,
+      "raw_score": 45,
+      "comments": 0,
+      "author": "孟健AI编程",
+      "created_at": "",
+      "summary": "结合Anthropic将Agent Skills捐赠给AAIF的最新动态，深度拆解Cloudflare 3.7万星开源项目security-audit-skill的六阶段工作流"
+    },
+    {
+      "title": "DeepSeek-V4.1-Flash 新版本登陆火山方舟，效果无损“经济版”八折上线",
+      "url": "https://juejin.cn/post/7699727325760749619",
+      "source": "juejin",
+      "score": 322,
+      "raw_score": 41,
+      "comments": 0,
+      "author": "火山引擎Agent社区",
+      "created_at": "",
+      "summary": "火山方舟上线 DeepSeek-V4.1-Flash-1017：代码 Agent 能力跃升；标准版多模态工具调用；经济版效果一致 8 折；AgentPlan 个人版用量翻倍。"
+    },
+    {
+      "title": "一天一个开源项目（第245篇）：Raven —— ‘Harness 的 Harness‘，把 Claude Code、Codex 等智能体编排起来并让它递归自我改进",
+      "url": "https://juejin.cn/post/7699687912577744923",
       "source": "juejin",
       "score": 315,
       "raw_score": 38,
       "comments": 0,
-      "author": "狂师",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "国庆节前，我在 AI 进化社 里做了一轮针对学员所在企业 AI 使用现状调研。 几个数字先摆出来。 近 95% 的学员企业已经启动了 AI 转型，一半的人提到自己公司「多部门大规模使用」。"
+      "summary": "Raven 是 EverMind-AI 开源的多智能体宿主（Host Agent）：内置 Research / Code / Design / Oncall 四类智能体"
     },
     {
-      "title": "从 Claude Opus 5.5 到 GPT-6.1 Sol：自适应慢思考时代，架构师该如何重构企业智能体？",
-      "url": "https://juejin.cn/post/7699355961005572096",
+      "title": "AI说代码没漏洞？马上被 PHP 打脸了",
+      "url": "https://juejin.cn/post/7699673660089729064",
       "source": "juejin",
-      "score": 311,
-      "raw_score": 36,
+      "score": 313,
+      "raw_score": 37,
       "comments": 0,
-      "author": "一缕82年的清风",
+      "author": "ServBay",
       "created_at": "",
-      "summary": "直击 2026 旗舰模型自适应思考机制下的架构反叛；剖析算力神话破产与企业真实延迟困境，手把手拆解动态 Reasoning Effort 调度、确定性状态机与防发散工程护栏，交付无第三方依赖的企业级调"
+      "summary": "前几天 PHP 高危漏洞，整个互联网都兵荒马乱，连高市都被惊动了。 欧洲多国的政府网站在同一时间陆续下线，荷兰的数字身份系统与个人政务门户紧急关闭。"
     },
     {
-      "title": "嘴替鸭小程序是怎么看懂一句话的：本地规则 + 大模型的混合引擎拆解",
-      "url": "https://juejin.cn/post/7699427841725464627",
+      "title": "下班后，我做了一个把照片贴进日历的 iPhone 应用：Daypatch",
+      "url": "https://juejin.cn/post/7699727325760602163",
       "source": "juejin",
-      "score": 295,
-      "raw_score": 30,
+      "score": 272,
+      "raw_score": 23,
+      "comments": 0,
+      "author": "tech_zjf",
+      "created_at": "",
+      "summary": "工作之余做了 Daypatch：把选中的照片变成贴纸，放进 iPhone 日历。聊聊它现在能做什么、为什么选择离线，以及下一步要补齐的真机验证和体验细节。"
+    },
+    {
+      "title": "[Java] 用 GUI 展示 EnumSet 增减元素时的内部变化（上）",
+      "url": "https://juejin.cn/post/7699871906379677737",
+      "source": "juejin",
+      "score": 268,
+      "raw_score": 22,
+      "comments": 0,
+      "author": "金銀銅鐵",
+      "created_at": "",
+      "summary": "大家在日常的开发过程中，应该用到过 EnumSet，如果枚举类中定义的常量不超过 64 个，那么我们实际得到的是 RegularEnumSet，本文将反射和 GUI 结合，展示如何观察它的变化"
+    },
+    {
+      "title": "花了3个月，我们做了一款 AI 版的“飞书文档”",
+      "url": "https://juejin.cn/post/7699738861139689526",
+      "source": "juejin",
+      "score": 264,
+      "raw_score": 21,
+      "comments": 0,
+      "author": "徐小夕",
+      "created_at": "",
+      "summary": "作为一名在AI办公与协同领域深耕多年的创业者，同时也是一名持续探索企业效率工具的创业者，过去一年多我和团队一直在啃一块硬骨头：做一款真正面向开发者、支持私有化部署、原生支持实时协同的AI文档 ——Mi"
+    },
+    {
+      "title": "GitHub 17万星的\"懒人规则\"，我花2毛钱让 AI 带/不带它各写了一遍",
+      "url": "https://juejin.cn/post/7699510158717124646",
+      "source": "juejin",
+      "score": 264,
+      "raw_score": 21,
+      "comments": 0,
+      "author": "Flynt",
+      "created_at": "",
+      "summary": "用 deepseek-flash 实测 17 万星的 ponytail 规则：3 个任务行数砍了一半多、token 省 65%，真正的变化在行为——自作主张消失、每个改动多了自检、安全校验没打折。"
+    },
+    {
+      "title": "我用AI给娃写了个拼音闯关大冒险",
+      "url": "https://juejin.cn/post/7699740538597785663",
+      "source": "juejin",
+      "score": 240,
+      "raw_score": 16,
       "comments": 1,
-      "author": "桃西西呀beverlyLee",
+      "author": "fxss",
       "created_at": "",
-      "summary": "前面那篇我们搭建了一个嘴替鸭微信小程序，来解决社交场景下的接话尴尬场景，这一篇专讲它是怎么运作的，从问题进来，到回话出去，中间每一层怎么判、怎么打分、怎么兜底。"
+      "summary": "拼音闯关大冒险｜四个关卡，从声母一路玩到声调 宝宝学识屋的拼音游戏，来了。 一个「拼音闯关大冒险」，一年级汉语拼音，四个关卡。 打开就能玩，从声母一路闯到声调。 学拼音，最怕死记硬背。 声母、韵母、声"
     },
     {
-      "title": "让 LLM 输出不再失控：用 Pydantic 校验大模型输出",
-      "url": "https://juejin.cn/post/7699355961006096384",
+      "title": "SSR/SSG/ISR（下）：可交互性、新鲜度与回源账",
+      "url": "https://juejin.cn/post/7699704049009016866",
       "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
-      "comments": 2,
-      "author": "databook",
+      "score": 235,
+      "raw_score": 15,
+      "comments": 0,
+      "author": "前端阿凡",
       "created_at": "",
-      "summary": "你在 prompt 里写了 \"请返回 JSON\"，模型返回的大概率不是一段干净的 JSON，而是一段话：开头一句\"好的，这是抽取结果\"，中间一个 ```json 围栏，结尾还跟一句\"希望对你有帮助\"。"
+      "summary": "2.2 工具二：把\"可交互性\"记成一条曲线和一本点击账 hydration-ledger.mjs 是评审期用的尺子。它承认一个被 TTI 掩盖的事实：页面不是\"可交互 / 不可交互\"的二值状态，而是一"
     },
     {
-      "title": "面了上百人，我最爱问的LeetCode 1「两数之和」：能背代码的很多，能讲清“先查后存”的没几个",
-      "url": "https://juejin.cn/post/7699365583704686634",
+      "title": "SSR/SSG/ISR（上）：峡谷与渲染策略的时间预算",
+      "url": "https://juejin.cn/post/7699737011154141184",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "Rain的Java大神之路",
+      "author": "前端阿凡",
       "created_at": "",
-      "summary": "LeetCode两数之和不止背哈希代码！拆解先查后存核心坑、HashMap底层原理，含预分配容量、防溢出等工程优化，附大厂高频追问，算法面试干货，持续更新刷题系列✨"
+      "summary": "一、技术难点 Day26 讲的是发现段（资源什么时候被浏览器知道），Day27 讲的是传输段与连接段（字节上路之后发生什么）。这一篇讲它们前面那一段：HTML 是谁生成的。 先给结论：渲染位置不是一种"
     },
     {
-      "title": "Go 1.24 工具链改进实战：工具依赖管理与 go vet 新分析器",
-      "url": "https://juejin.cn/post/7699392912446406671",
+      "title": "外包和大厂的前端代码，差在凌晨三点",
+      "url": "https://juejin.cn/post/7699688375545610283",
       "source": "juejin",
-      "score": 229,
-      "raw_score": 14,
+      "score": 208,
+      "raw_score": 11,
       "comments": 0,
-      "author": "vipxieliang",
+      "author": "怕浪猫",
       "created_at": "",
-      "summary": "目录 1. 引言 2. 工具依赖管理：go get -tool 与 go tool 2.1 过去的问题 2.2 新方式：把工具写进 go.mod 2.3 查看与升级 3. go vet 新增 test"
-    },
-    {
-      "title": "慢 SQL 优化别急着加索引：从订单分页查询聊聊 KES 执行计划",
-      "url": "https://juejin.cn/post/7699372774717079562",
-      "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
-      "comments": 0,
-      "author": "掘金者阿豪",
-      "created_at": "",
-      "summary": "慢 SQL 优化别急着加索引：从订单分页查询聊聊 KES 执行计划 订单列表第一页打开很快，翻到后面却越来越慢。接口每次只返回二十条记录，表上也建了索引，为什么还会出现这种情况？ 遇到这类问题，很容易"
-    },
-    {
-      "title": "条件分支两边审批一样，却发成两份待办：Forge Admin 审批设计器的公共节点合并",
-      "url": "https://juejin.cn/post/7699427841725759539",
-      "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
-      "comments": 0,
-      "author": "Forge低代码",
-      "created_at": "",
-      "summary": "你在 Forge Admin 审批设计器里画了一条「金额 ≤ 1 万 / > 1 万」的互斥条件分支，两条支路末端都是「部门经理审批」，人员、表单权限、会签方式「看起来一模一样」。保存、发布、发起一单"
-    },
-    {
-      "title": "Spring Boot 测试策略：单元测试、切片测试与集成测试",
-      "url": "https://juejin.cn/post/7699392912446439439",
-      "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
-      "comments": 0,
-      "author": "vipxieliang",
-      "created_at": "",
-      "summary": "1. 引言：测试不是为覆盖率而写 很多团队在项目后期被\"覆盖率红线\"倒逼着补测试：为了把 JaCoCo 的数字刷到 80%，写出一堆只调用方法、不断言结果的\"形式测试\"。这类测试有两个致命问题： 没有"
-    },
-    {
-      "title": "OpenCode免费模型直接给`Workbuddy`用，一键导入",
-      "url": "https://juejin.cn/post/7699427841725988915",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "SimonKing",
-      "created_at": "",
-      "summary": "很多Agent只支持自定义模型，免费的模型又不是很多。OpenCode最近的免费模型一下子增到了10个，很多人可能不习惯的OpenCode的桌面客户端，Workbuddy客户端的界面还算可"
-    },
-    {
-      "title": "深度分析屏幕空间反射算法以及在URP中的实现（一）",
-      "url": "https://juejin.cn/post/7699333990599589929",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "侑虎科技",
-      "created_at": "",
-      "summary": "【USparkle专栏】如果你深怀绝技，爱“搞点研究”，乐于分享也博采众长，我们期待你的加入，让智慧的火花碰撞交织，让知识的传递生生不息！ 湿润的地面，倒映着远方青山，什么样的技术才能造就如此绚丽的效"
-    },
-    {
-      "title": "Linux 的 write 返回成功，数据到底落在哪了",
-      "url": "https://juejin.cn/post/7699308376321032211",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "小兔子",
-      "created_at": "",
-      "summary": "一个排查过的人都不会忘的场景：服务把审计日志写进文件，write 每次返回都正常，进程 check 也不报错。然后机器掉电重启，最后十几秒的日志全没了。 这不是文件系统的 bug。write 的语义从"
+      "summary": "同样的功能，两套代码没区别？ 外包和大厂的代码 · 差在凌晨三点 激励机制决定代码质量的下限；AI 把快乐路径写到几乎免费，差距全挤进了看不见的地方 一套 KPI 种出一套代码：五层防御，逐层拆开看 "
     }
   ]
 }
