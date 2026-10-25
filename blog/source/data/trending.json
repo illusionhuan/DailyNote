@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-24T15:03:51.808888+00:00",
+  "updated_at": "2026-10-25T02:20:28.923093+00:00",
   "articles": [
     {
       "title": "报表总在扫大表，列存储应该放在哪一层",
       "url": "https://juejin.cn/post/7698947426489663528",
       "source": "juejin",
-      "score": 784,
-      "raw_score": 8381,
+      "score": 793,
+      "raw_score": 9233,
       "comments": 0,
       "author": "一只牛博",
       "created_at": "",
       "summary": "订单系统的明细表通常按交易写入：一笔订单一行，客户、渠道、金额、时间和状态放在同一条记录里。这样的行存布局适合新增订单、修改状态、按订单号查详情。"
     },
     {
-      "title": "PHP2Shell 漏洞拆解：WordPress 与 nginx 为何中招",
-      "url": "https://juejin.cn/post/7699033523931725850",
+      "title": "我用 REA 逆向了付费颜色 APP，结果很意外！",
+      "url": "https://juejin.cn/post/7696894428150300682",
       "source": "juejin",
-      "score": 371,
-      "raw_score": 72,
-      "comments": 0,
-      "author": "程序员天天困",
+      "score": 790,
+      "raw_score": 8919,
+      "comments": 15,
+      "author": "程序员鱼皮",
       "created_at": "",
-      "summary": "PHP2Shell 双 RCE 已遭在野利用：WordPress、Drupal 全在射程内，nginx 其实另有洞。拆成因与修复顺序"
+      "summary": "GitHub 爆火的开源项目 REA 真的能逆向一切？软件已死？ 本期先科普什么是逆向工程、什么是 REA，然后实测用 AI 逆向单机安卓游戏和学习 App，看看它到底有没有那么神！"
     },
     {
-      "title": "[Java] 展示增删元素时 LinkedList 的内部变化",
-      "url": "https://juejin.cn/post/7699791664957308982",
+      "title": "手机到底有没有偷听我们？我抓包了 72 小时，抓到了真凶",
+      "url": "https://juejin.cn/post/7698382188488048649",
       "source": "juejin",
-      "score": 315,
-      "raw_score": 38,
-      "comments": 0,
-      "author": "金銀銅鐵",
+      "score": 748,
+      "raw_score": 5532,
+      "comments": 15,
+      "author": "第404号工位",
       "created_at": "",
-      "summary": "我之前展示添加元素时 ArrayList 的内部变化的文章。后来我想到 LinkedList 在增删元素时，我们也可以用 GUI 来展示其内部结构的变化，于是写了本文"
+      "summary": "麦克风硬件音频采集唤醒为 0 次；真正实现未卜先知的，是 公网 NAT 时空超图（ST-GNN）、现代隐私集合求交（PSI） 与 端侧微模型特征向量化（On-Device Em"
     },
     {
-      "title": "AI多模块协同自动化工作流",
-      "url": "https://juejin.cn/post/7699799719044382774",
+      "title": "为什么我在团队里禁止使用 axios？",
+      "url": "https://juejin.cn/post/7698268211587022874",
       "source": "juejin",
-      "score": 311,
-      "raw_score": 36,
-      "comments": 0,
-      "author": "风骏时光牛马",
+      "score": 736,
+      "raw_score": 4824,
+      "comments": 46,
+      "author": "ErpanOmer",
       "created_at": "",
-      "summary": "AI多模块协同自动化工作流实战指南 一、什么是AI多模块协同工作流 单一AI模型无法胜任复杂任务：它可能擅长理解但写不好代码，擅长翻译却不会数据分析。多模块协同工作流将不同能力的AI模块（LLM、图像"
+      "summary": "前端团队禁用axios改用原生fetch的决策，指出axios的拦截器、超时、取消等功能已被fetch覆盖，且存在拦截器嵌套难调试、CancelToken废弃、Edge Runtime兼容等问题，并给出30行fetch封装方案及Token刷新、超时兼容等注意事项。"
     },
     {
-      "title": "PRD 总和代码对不上？让 AI 从代码生成状态图和权限矩阵",
-      "url": "https://juejin.cn/post/7699746328205967370",
-      "source": "juejin",
-      "score": 295,
-      "raw_score": 30,
-      "comments": 0,
-      "author": "我是李工啊",
-      "created_at": "",
-      "summary": "需求一变，PRD 就开始失真；长期人工同步文档和代码，等于维护同一系统的两份事实。本文提出把职责拆开：文档只保留业务背景、用户故事、目标和决策原因，功能细节、权限、状态流转和校验交给代码承载，再让 A"
-    },
-    {
-      "title": "一个模型自己DNS翻了墙，OpenAI把整条训练线停了",
-      "url": "https://juejin.cn/post/7699818345805709355",
-      "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
-      "comments": 0,
-      "author": "公众号_计算机魔术师",
-      "created_at": "",
-      "summary": "9月25日，OpenAI一个内部模型通过DNS解析绕过训练沙箱，访问了外部服务。公司随即暂停全部工具调用训练，转向完全离线的虚拟环境。本文从架构设计视角拆解三层方案——传统沙箱隔离、AI自动化红队（G"
-    },
-    {
-      "title": "规则引擎优先、模型兜底：我把三个流程做成接口后的取舍",
-      "url": "https://juejin.cn/post/7699820746461167643",
-      "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
-      "comments": 0,
-      "author": "用户12765301814",
-      "created_at": "",
-      "summary": "做自动化交付一年多，有三件事被反复要求：消息分流、询盘抽取、内容改写。 第五次重复实现之后，我把它们抽成了一个服务。分享几个不显然的设计取舍。 一、默认纯规则，模型只做兜底 默认引擎是关键词 + 正则"
-    },
-    {
-      "title": "TypeScript 编译器开始卷 Rust 了：Cloudflare 的 tsrs 到底想干嘛？",
-      "url": "https://juejin.cn/post/7699836911888924722",
-      "source": "juejin",
-      "score": 279,
-      "raw_score": 25,
-      "comments": 0,
-      "author": "康小旺",
-      "created_at": "",
-      "summary": "Cloudflare 用 Rust 重写 TypeScript 编译器 tsrs：类型检查快 8 倍、内存降 70%，但不是 fork。拆解数据怎么看、为何选 Rust 而非 Go。"
-    },
-    {
-      "title": "时间轮的 +1，为什么最后只留在顶层",
-      "url": "https://juejin.cn/post/7699791664956932150",
+      "title": "MQTT实战 -  遗嘱消息+心跳机制，让你的设备永远不会“假在线”（七）",
+      "url": "https://juejin.cn/post/7699859514523566095",
       "source": "juejin",
       "score": 272,
       "raw_score": 23,
       "comments": 0,
-      "author": "Norna",
+      "author": "IT规划师",
       "created_at": "",
-      "summary": "#8519 合并时，+1 只留在顶层。首篇的理由漏掉了级联写入：低层当前槽会被填上。64/65 与 4096/4160 两组反例，分别暴露交付顺序与推到下一圈的问题。"
+      "summary": "通过打破“TCP可靠、遗嘱秒级”等认知误区，将“假在线”拆解为四种死法，提出KeepAlive、LWT、Retain、应用层心跳四件武器，构建全覆盖防护矩阵。生产级代码实现与12项自检清单。"
     },
     {
-      "title": "Java InputStream.read() 为什么返回 int？",
-      "url": "https://juejin.cn/post/7699753031051821090",
+      "title": "今年 2 月就修好的漏洞，10 月才炸：HTTP2Shell 把 Node、Python 一锅端",
+      "url": "https://juejin.cn/post/7700059276316590131",
+      "source": "juejin",
+      "score": 268,
+      "raw_score": 22,
+      "comments": 0,
+      "author": "lucas_AI",
+      "created_at": "",
+      "summary": "Google Brotli 解码器 1.0.3–1.2.0 存在越界写缺陷 CVE-2026-111497（CVSS v4.0 9.2），恶"
+    },
+    {
+      "title": "GitHub 周榜趋势速报 | 2026-10-25",
+      "url": "https://juejin.cn/post/7700055962984366089",
       "source": "juejin",
       "score": 264,
       "raw_score": 21,
       "comments": 0,
-      "author": "BBmmo",
+      "author": "miofly",
       "created_at": "",
-      "summary": "InputStream.read() 返回 int，因为它既要表示 0..255 的字节值，也要用 -1 表示 EOF；若返回 byte，0xFF 也会被误判为结束，导致数据丢失。"
+      "summary": "GitHub 周榜 2026-10-25：rea、cleanyourtv、DeepInfer 等 20 个开源项目近 7 天 Star 增速领先，一周开源趋势速报。"
     },
     {
-      "title": "接口契约的多人维护：谁改谁通知",
-      "url": "https://juejin.cn/post/7699785232447160360",
+      "title": "React项目实战经验分享：如何避免useEffect闭包陷阱导致的陈旧状态问题？",
+      "url": "https://juejin.cn/post/7699859514523664399",
       "source": "juejin",
-      "score": 264,
-      "raw_score": 21,
-      "comments": 0,
-      "author": "静默执行",
-      "created_at": "",
-      "summary": "接口字段类型变更引发下游对账故障，依靠可机器比对的接口契约、版本校验脚本和自动通知机制，拦截破坏性改动，区分兼容与不兼容变更，降低跨团队接口事故。"
-    },
-    {
-      "title": "Vue的这个响应式陷阱我居然现在才发现",
-      "url": "https://juejin.cn/post/7699732988155035663",
-      "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
+      "score": 260,
+      "raw_score": 20,
       "comments": 0,
       "author": "阿橙的百宝箱",
       "created_at": "",
-      "summary": "引言 \"明明改了这个对象，为什么视图没更新？\"——上周排查一个线上Bug时，我盯着控制台里的数据变化，背后突然冒出一层冷汗。在Vue里，一个数组的属性赋值竟然不会触发响应式更新，而这个问题居然在我"
+      "summary": "当定时器遇上useEffect：\"永远迟到\"的计数器 去年在做直播互动场景的礼物特效系统时，遇到一个诡异问题：后台推送的礼物数量通过WebSocket实时更新，但页面上用实现的动画计数器总是\"慢半"
     },
     {
-      "title": "一天一个开源项目（第246篇）：rec —— Recursive 自研的本地推理引擎，在 Mac 上跑 Flint 编码模型，称比 llama.cpp 快 1.4–2.6 倍",
-      "url": "https://juejin.cn/post/7699823462953959450",
+      "title": "把网线拔了，OpenAI 的 AI 智能体还是聊上了：CPU 缓存成了密道",
+      "url": "https://juejin.cn/post/7700041801633103910",
+      "source": "juejin",
+      "score": 260,
+      "raw_score": 20,
+      "comments": 0,
+      "author": "lucas_AI",
+      "created_at": "",
+      "summary": "OpenAI 于 10 月 23 日披露前沿模型训练环境整改结果：9 月因智能体借 DNS 配置"
+    },
+    {
+      "title": "GitHub 日榜趋势速报 | 2026-10-25",
+      "url": "https://juejin.cn/post/7699820746462265371",
+      "source": "juejin",
+      "score": 255,
+      "raw_score": 19,
+      "comments": 0,
+      "author": "miofly",
+      "created_at": "",
+      "summary": "GitHub 日榜 2026-10-25：security-audit-skill、gpu-unlock、hatchzip 等 20 个开源项目 24 小时 Star 增速领先，每日更新的开源趋势速报"
+    },
+    {
+      "title": "智能任务调度Agent",
+      "url": "https://juejin.cn/post/7699818345806430251",
       "source": "juejin",
       "score": 246,
       "raw_score": 17,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "风骏时光牛马",
       "created_at": "",
-      "summary": "本地跑模型这件事，大家已经有 llama.cpp、Ollama、LM Studio 这些成熟选项。rec 走的是另一条路：不做通用，只服务一个模型和一类场景"
+      "summary": "智能任务调度 Agent 技术文档 1. 背景 在复杂业务系统中，任务通常具有依赖关系、优先级差异和资源限制。智能任务调度 Agent 通过动态拓扑排序、优先级抢占与资源感知分配，替代人工编排，提升任"
     },
     {
-      "title": "认识闯关大冒险｜十个关卡，带娃认全生活里的东西",
-      "url": "https://juejin.cn/post/7699871906405908522",
+      "title": "Prompt已死？猎聘岗位暴涨486%，但67%的岗位已经消失",
+      "url": "https://juejin.cn/post/7699989560454217763",
       "source": "juejin",
-      "score": 215,
-      "raw_score": 12,
-      "comments": 1,
-      "author": "fxss",
+      "score": 235,
+      "raw_score": 15,
+      "comments": 0,
+      "author": "阿Q的AI笔记",
       "created_at": "",
-      "summary": "认识闯关大冒险｜十个关卡，带娃认全生活里的东西 宝宝学识屋的「认识闯关大冒险」，来了。 一个游戏，十个关卡：从家庭、身体，到颜色、动物、职业。 全部关卡都能直接玩，不用一级一级解锁。 孩子的认知启蒙，"
+      "summary": "博主走通并验证的一条链路是：Langfuse管版本和追踪 → Promptfoo做回归和错误监控 → 有干净指标后接GEPA做自动优化。"
     },
     {
-      "title": "杂篇 -- 拂拭念头、造器与自洽：AI 时代属于每个人的秩序",
-      "url": "https://juejin.cn/post/7699859514523172879",
+      "title": "5 分钟内将 56 页扫描文档转化为带引用的答案：面向搜索无法读取的文档的检索增强生成流水线",
+      "url": "https://juejin.cn/post/7699886793818603520",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
-      "comments": 1,
-      "author": "leobertlan",
+      "comments": 0,
+      "author": "Elasticsearch",
       "created_at": "",
-      "summary": "少时偏爱慧能的“本来无一物，何处惹尘埃”，觉得辩才无碍、禅理更高。后来阅历渐长才体会到，纯粹的理想主义往往缺乏立足的土壤；身心终究..."
+      "summary": "作者：来自 Elastic Ben-Amin York Jr. 用自然语言向一份包含大量表格的扫描版 PDF 提问，即可获得标明来源页码的答案，因为 jina-ocr-v1 会将每一页转换为结构化的 "
+    },
+    {
+      "title": "彩色建筑适合转黑白吗？用 Awaking 检查颜色消失后的层次",
+      "url": "https://juejin.cn/post/7699799719045496886",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "茶底世界之下",
+      "created_at": "",
+      "summary": "彩色建筑转黑白后，屋顶和窗框仍清楚，墙面与蓝色装饰的关系却会消失。用 Awaking 真实导出一次，只改饱和度，检查照片是否依赖颜色传达信息。"
+    },
+    {
+      "title": "GitHub 今日推荐｜gpu-unlock-ada：Ada 显卡张量算力翻倍解锁",
+      "url": "https://juejin.cn/post/7700050834004426790",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "miofly",
+      "created_at": "",
+      "summary": "通过内核模块在 NVIDIA 驱动加载前修改硬件寄存器，使 RTX 4090 等 Ada 显卡 FP16/BF16 张量算力翻倍，从 165 TF/s 提升至 331 TF/s。"
     }
   ]
 }
