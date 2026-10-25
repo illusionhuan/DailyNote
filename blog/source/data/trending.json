@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-25T02:20:28.923093+00:00",
+  "updated_at": "2026-10-25T15:16:05.255148+00:00",
   "articles": [
     {
       "title": "报表总在扫大表，列存储应该放在哪一层",
       "url": "https://juejin.cn/post/7698947426489663528",
       "source": "juejin",
-      "score": 793,
-      "raw_score": 9233,
+      "score": 811,
+      "raw_score": 11407,
       "comments": 0,
       "author": "一只牛博",
       "created_at": "",
       "summary": "订单系统的明细表通常按交易写入：一笔订单一行，客户、渠道、金额、时间和状态放在同一条记录里。这样的行存布局适合新增订单、修改状态、按订单号查详情。"
     },
     {
-      "title": "我用 REA 逆向了付费颜色 APP，结果很意外！",
-      "url": "https://juejin.cn/post/7696894428150300682",
+      "title": "继PHP之后，Java也爆出了重大安全漏洞！",
+      "url": "https://juejin.cn/post/7699886793819504640",
       "source": "juejin",
-      "score": 790,
-      "raw_score": 8919,
-      "comments": 15,
-      "author": "程序员鱼皮",
-      "created_at": "",
-      "summary": "GitHub 爆火的开源项目 REA 真的能逆向一切？软件已死？ 本期先科普什么是逆向工程、什么是 REA，然后实测用 AI 逆向单机安卓游戏和学习 App，看看它到底有没有那么神！"
-    },
-    {
-      "title": "手机到底有没有偷听我们？我抓包了 72 小时，抓到了真凶",
-      "url": "https://juejin.cn/post/7698382188488048649",
-      "source": "juejin",
-      "score": 748,
-      "raw_score": 5532,
-      "comments": 15,
-      "author": "第404号工位",
-      "created_at": "",
-      "summary": "麦克风硬件音频采集唤醒为 0 次；真正实现未卜先知的，是 公网 NAT 时空超图（ST-GNN）、现代隐私集合求交（PSI） 与 端侧微模型特征向量化（On-Device Em"
-    },
-    {
-      "title": "为什么我在团队里禁止使用 axios？",
-      "url": "https://juejin.cn/post/7698268211587022874",
-      "source": "juejin",
-      "score": 736,
-      "raw_score": 4824,
-      "comments": 46,
-      "author": "ErpanOmer",
-      "created_at": "",
-      "summary": "前端团队禁用axios改用原生fetch的决策，指出axios的拦截器、超时、取消等功能已被fetch覆盖，且存在拦截器嵌套难调试、CancelToken废弃、Edge Runtime兼容等问题，并给出30行fetch封装方案及Token刷新、超时兼容等注意事项。"
-    },
-    {
-      "title": "MQTT实战 -  遗嘱消息+心跳机制，让你的设备永远不会“假在线”（七）",
-      "url": "https://juejin.cn/post/7699859514523566095",
-      "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
+      "score": 420,
+      "raw_score": 127,
       "comments": 0,
-      "author": "IT规划师",
+      "author": "苏三说技术",
       "created_at": "",
-      "summary": "通过打破“TCP可靠、遗嘱秒级”等认知误区，将“假在线”拆解为四种死法，提出KeepAlive、LWT、Retain、应用层心跳四件武器，构建全覆盖防护矩阵。生产级代码实现与12项自检清单。"
+      "summary": "前言 大家好，我是苏三。 这几天PHP那个漏洞闹得沸沸扬扬，很多Java开发还在群里看热闹，说“还好我们用Java”。 结果话还没说完，Java这边也炸了。 2026年10月21日，Oracle Ja"
     },
     {
-      "title": "今年 2 月就修好的漏洞，10 月才炸：HTTP2Shell 把 Node、Python 一锅端",
-      "url": "https://juejin.cn/post/7700059276316590131",
+      "title": "AIOps（一）：基于 Prometheus MCP + WorkBuddy 构建 AI 智能运维",
+      "url": "https://juejin.cn/post/7700054147283157028",
       "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
+      "score": 392,
+      "raw_score": 92,
       "comments": 0,
-      "author": "lucas_AI",
+      "author": "JasonPan",
       "created_at": "",
-      "summary": "Google Brotli 解码器 1.0.3–1.2.0 存在越界写缺陷 CVE-2026-111497（CVSS v4.0 9.2），恶"
+      "summary": "AIOps 基于 Docker Compose 部署 Prometheus、Node Exporter 与 MCP Server，接入 WorkBuddy，实现自然语言监控查询、AI 辅助故障分析"
     },
     {
-      "title": "GitHub 周榜趋势速报 | 2026-10-25",
-      "url": "https://juejin.cn/post/7700055962984366089",
+      "title": "K3.1pro你这“机灵鬼”，3D建模无敌了！",
+      "url": "https://juejin.cn/post/7700090632083013682",
+      "source": "juejin",
+      "score": 379,
+      "raw_score": 79,
+      "comments": 0,
+      "author": "甲维斯",
+      "created_at": "",
+      "summary": "你们敢信么？这是 Kimi 3.1 Pro 帮我做的： 相当的牛掰！ 它的第一个版本是这样： 刚开始是有点抽象的。 这两个版本差距巨大！ 第一个像是来搞笑的，第二个已经是专业作品了。 从下面的效果变成"
+    },
+    {
+      "title": "2026 Windows 11 终端美化完全指南",
+      "url": "https://juejin.cn/post/7700077216746733611",
+      "source": "juejin",
+      "score": 330,
+      "raw_score": 45,
+      "comments": 0,
+      "author": "Mia_墨黎",
+      "created_at": "",
+      "summary": "Windows 11 终端美化完全指南 效果图 写在前面 这是一篇从零开始的 Windows 11 终端美化教程，覆盖 Windows Terminal 外观、Nerd Font、Oh My Posh"
+    },
+    {
+      "title": "从 Loop 到 Runtime：rpi Agent Loop 与 Cordis 的边界、取舍与组合",
+      "url": "https://juejin.cn/post/7700157305413468195",
+      "source": "juejin",
+      "score": 315,
+      "raw_score": 38,
+      "comments": 1,
+      "author": "BiggFish",
+      "created_at": "",
+      "summary": "“把这个配置里的端口改成 8080。” 模型可以提出一个 `edit_file` 调用，却不会因为自己输出了 JSON，文件就真的发生变化。程序要找到工具、校验参数、执行修改，把结果写回上下文，再决定"
+    },
+    {
+      "title": "Kotlin 协程，重点就在「协」这个字上",
+      "url": "https://juejin.cn/post/7700152107849007113",
+      "source": "juejin",
+      "score": 311,
+      "raw_score": 36,
+      "comments": 0,
+      "author": "潜龙勿用之化骨龙",
+      "created_at": "",
+      "summary": " 很多人学习 Kotlin 协程，首先想到的是 `launch`、`async`、`suspend`"
+    },
+    {
+      "title": "工具分享：OneX AI 工具安装、配置及功能介绍",
+      "url": "https://juejin.cn/post/7700084697594888226",
+      "source": "juejin",
+      "score": 303,
+      "raw_score": 33,
+      "comments": 0,
+      "author": "孔令飞",
+      "created_at": "",
+      "summary": "今天来分享下一个Harness AI Coding 工具：onexai。如何快速下载并使用onexai工具，让AI精准开发高质量的代码。"
+    },
+    {
+      "title": "[Java] 用 GUI 展示 EnumSet 增减元素时的内部变化（下）",
+      "url": "https://juejin.cn/post/7700211887543582783",
+      "source": "juejin",
+      "score": 286,
+      "raw_score": 27,
+      "comments": 0,
+      "author": "金銀銅鐵",
+      "created_at": "",
+      "summary": "本文用 GUI 拆解 JumboEnumSet 的 long 数组位图，展示 130 个常量下 add、remove、clear 时 elements 与 size 的变化。"
+    },
+    {
+      "title": "为什么 2026 年了，我又写了一个 API 调试工具",
+      "url": "https://juejin.cn/post/7700156802533834803",
+      "source": "juejin",
+      "score": 286,
+      "raw_score": 27,
+      "comments": 0,
+      "author": "小奏技术",
+      "created_at": "",
+      "summary": "起因：一次被迫登录 去年底的一个下午，我在调试一个网关接口，Postman 弹了个更新提示。更新完，它让我登录。我看着进度条装完的 300 多 MB 应用，突然意识到一件事：我只是想发一个 HTTP "
+    },
+    {
+      "title": "AI Agent工具调用防护层怎么写-一份能直接跑的Python四层拦截实现",
+      "url": "https://juejin.cn/post/7700194552505892891",
+      "source": "juejin",
+      "score": 276,
+      "raw_score": 24,
+      "comments": 0,
+      "author": "郑恩赐",
+      "created_at": "",
+      "summary": "四层防护只要 150 行标准库代码：Schema 校验、暴露收敛、权限白名单、运行时熔断，五个场景跑给你看，附可直接运行的完整实现。"
+    },
+    {
+      "title": "AI Agent工具误调用怎么解决-从参数校验到高危二次确认的四层工程防线",
+      "url": "https://juejin.cn/post/7700327310138687498",
+      "source": "juejin",
+      "score": 276,
+      "raw_score": 24,
+      "comments": 0,
+      "author": "郑恩赐",
+      "created_at": "",
+      "summary": "模型选错工具不是主因，60%–75% 的失败是参数填错。四层防线：Schema 约束、分类收敛、权限白名单、运行时风控加高危二次确认，附每层的失效边界。"
+    },
+    {
+      "title": "给豆包和 Claude 派活总返工？把测试用例搬进提示词，前置验收清单一次交差",
+      "url": "https://juejin.cn/post/7700511283238862911",
       "source": "juejin",
       "score": 264,
       "raw_score": 21,
       "comments": 0,
-      "author": "miofly",
+      "author": "小虎AI生活",
       "created_at": "",
-      "summary": "GitHub 周榜 2026-10-25：rea、cleanyourtv、DeepInfer 等 20 个开源项目近 7 天 Star 增速领先，一周开源趋势速报。"
+      "summary": "我是小虎，做AI企业陪跑这两年，加上之前十多年的代码开发底子，我发现很多老板和职场人都有个通病——用豆包或Claude时，特别喜欢事后算账。东西写砸了，就甩一句「不对，重写」，或者「你看看错哪了」。结"
     },
     {
-      "title": "React项目实战经验分享：如何避免useEffect闭包陷阱导致的陈旧状态问题？",
-      "url": "https://juejin.cn/post/7699859514523664399",
-      "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
-      "comments": 0,
-      "author": "阿橙的百宝箱",
-      "created_at": "",
-      "summary": "当定时器遇上useEffect：\"永远迟到\"的计数器 去年在做直播互动场景的礼物特效系统时，遇到一个诡异问题：后台推送的礼物数量通过WebSocket实时更新，但页面上用实现的动画计数器总是\"慢半"
-    },
-    {
-      "title": "把网线拔了，OpenAI 的 AI 智能体还是聊上了：CPU 缓存成了密道",
-      "url": "https://juejin.cn/post/7700041801633103910",
-      "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
-      "comments": 0,
-      "author": "lucas_AI",
-      "created_at": "",
-      "summary": "OpenAI 于 10 月 23 日披露前沿模型训练环境整改结果：9 月因智能体借 DNS 配置"
-    },
-    {
-      "title": "GitHub 日榜趋势速报 | 2026-10-25",
-      "url": "https://juejin.cn/post/7699820746462265371",
-      "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
-      "comments": 0,
-      "author": "miofly",
-      "created_at": "",
-      "summary": "GitHub 日榜 2026-10-25：security-audit-skill、gpu-unlock、hatchzip 等 20 个开源项目 24 小时 Star 增速领先，每日更新的开源趋势速报"
-    },
-    {
-      "title": "智能任务调度Agent",
-      "url": "https://juejin.cn/post/7699818345806430251",
+      "title": "运行时性能",
+      "url": "https://juejin.cn/post/7700359102765350922",
       "source": "juejin",
       "score": 246,
       "raw_score": 17,
       "comments": 0,
-      "author": "风骏时光牛马",
+      "author": "前端阿凡",
       "created_at": "",
-      "summary": "智能任务调度 Agent 技术文档 1. 背景 在复杂业务系统中，任务通常具有依赖关系、优先级差异和资源限制。智能任务调度 Agent 通过动态拓扑排序、优先级抢占与资源感知分配，替代人工编排，提升任"
+      "summary": "一、技术难点 Day28 的结尾留了一句话：峡谷里那 1215ms 的水合长任务，在浏览器里到底怎么切、怎么让。 这一篇就是回答它。但我要先把问题重新问一遍，因为**\"运行时性能\"被当成一个任务名的时"
     },
     {
-      "title": "Prompt已死？猎聘岗位暴涨486%，但67%的岗位已经消失",
-      "url": "https://juejin.cn/post/7699989560454217763",
-      "source": "juejin",
-      "score": 235,
-      "raw_score": 15,
-      "comments": 0,
-      "author": "阿Q的AI笔记",
-      "created_at": "",
-      "summary": "博主走通并验证的一条链路是：Langfuse管版本和追踪 → Promptfoo做回归和错误监控 → 有干净指标后接GEPA做自动优化。"
-    },
-    {
-      "title": "5 分钟内将 56 页扫描文档转化为带引用的答案：面向搜索无法读取的文档的检索增强生成流水线",
-      "url": "https://juejin.cn/post/7699886793818603520",
-      "source": "juejin",
-      "score": 200,
-      "raw_score": 10,
-      "comments": 0,
-      "author": "Elasticsearch",
-      "created_at": "",
-      "summary": "作者：来自 Elastic Ben-Amin York Jr. 用自然语言向一份包含大量表格的扫描版 PDF 提问，即可获得标明来源页码的答案，因为 jina-ocr-v1 会将每一页转换为结构化的 "
-    },
-    {
-      "title": "彩色建筑适合转黑白吗？用 Awaking 检查颜色消失后的层次",
-      "url": "https://juejin.cn/post/7699799719045496886",
+      "title": "一次 Skill 评测的复盘：我推翻了一份现成的模型选型结论，然后自己造了个评测平台",
+      "url": "https://juejin.cn/post/7700327310138884106",
       "source": "juejin",
       "score": 190,
       "raw_score": 9,
       "comments": 0,
-      "author": "茶底世界之下",
+      "author": "冬奇Lab",
       "created_at": "",
-      "summary": "彩色建筑转黑白后，屋顶和窗框仍清楚，墙面与蓝色装饰的关系却会消失。用 Awaking 真实导出一次，只改饱和度，检查照片是否依赖颜色传达信息。"
-    },
-    {
-      "title": "GitHub 今日推荐｜gpu-unlock-ada：Ada 显卡张量算力翻倍解锁",
-      "url": "https://juejin.cn/post/7700050834004426790",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "miofly",
-      "created_at": "",
-      "summary": "通过内核模块在 NVIDIA 驱动加载前修改硬件寄存器，使 RTX 4090 等 Ada 显卡 FP16/BF16 张量算力翻倍，从 165 TF/s 提升至 331 TF/s。"
+      "summary": "看了一眼同事的skill评测报告，一怒之下我就自己做了个skill评测平台，来完成长期的skill效果和最佳模型评测和选型"
     }
   ]
 }
