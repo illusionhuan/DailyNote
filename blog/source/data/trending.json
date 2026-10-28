@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-27T17:01:47.353765+00:00",
+  "updated_at": "2026-10-28T03:05:02.260991+00:00",
   "articles": [
     {
-      "title": "报表总在扫大表，列存储应该放在哪一层",
-      "url": "https://juejin.cn/post/7698947426489663528",
-      "source": "juejin",
-      "score": 848,
-      "raw_score": 17545,
-      "comments": 0,
-      "author": "一只牛博",
-      "created_at": "",
-      "summary": "订单系统的明细表通常按交易写入：一笔订单一行，客户、渠道、金额、时间和状态放在同一条记录里。这样的行存布局适合新增订单、修改状态、按订单号查详情。"
-    },
-    {
-      "title": "天涯神贴《2027年以后，你要活成这个样子》有感，希望 2027 年可以活成自己想要的样子",
-      "url": "https://juejin.cn/post/7700522130220023862",
-      "source": "juejin",
-      "score": 679,
-      "raw_score": 2502,
-      "comments": 20,
-      "author": "XiaoLei_Liu",
-      "created_at": "",
-      "summary": "今天，2026 年 10 月 26 日，星期一。 在这个深秋的时刻，我无意间刷到了天涯 A11 大佬的一篇神贴——《2027年以后，你要活成这个样子》。 看完之后，我整个人就像是被雷劈了一样，呆坐在屏"
-    },
-    {
-      "title": "终于 Token 自由了，AI 开支下降 10 倍",
-      "url": "https://juejin.cn/post/7700531646282809407",
-      "source": "juejin",
-      "score": 663,
-      "raw_score": 2073,
-      "comments": 13,
-      "author": "前端之虎陈随易",
-      "created_at": "",
-      "summary": "大家好，我是农村程序员(2020年回农村，至今未出村)，独立开发者(致力于开发 1000 个小产品)，前端之虎陈随易(自封的)，我的官网是：https://yicode.tech。 今天我们不聊 搞钱"
-    },
-    {
-      "title": "尤雨溪 : Vue 4 已经在规划中了！",
-      "url": "https://juejin.cn/post/7700803425820049434",
-      "source": "juejin",
-      "score": 656,
-      "raw_score": 1909,
-      "comments": 9,
-      "author": "程序员海军",
-      "created_at": "",
-      "summary": "说起来，我已经有两年多没有特别关注前端技术圈的动态了。 以前做前端开发的时候，Vue、React、Webpack、Vite 这些技术几乎天天接触。那时候隔三差五就有新框架、新工具冒出来，生怕自己跟不"
-    },
-    {
-      "title": "一个人 + AI 做的小程序，今天，正式回本了",
-      "url": "https://juejin.cn/post/7700157486075035683",
-      "source": "juejin",
-      "score": 651,
-      "raw_score": 1809,
-      "comments": 14,
-      "author": "好市民_",
-      "created_at": "",
-      "summary": "77 天，131.06 元，成本 129，今天回本。顺便认真回答一次：一个人 + AI，个人小程序到底能不能做——能做，但你要把预期钉在正确的尺子上。"
-    },
-    {
-      "title": "出事了，AI 提效后，老板让我裁员20%",
-      "url": "https://juejin.cn/post/7700887980139036682",
-      "source": "juejin",
-      "score": 523,
-      "raw_score": 415,
-      "comments": 11,
-      "author": "乘风gg",
-      "created_at": "",
-      "summary": "上周五，跟朋友吃了个饭。朋友一见面就说：\"老板让我裁员 20%，下不去手啊\" 朋友是技术负责人。半年前，他找我帮忙从 0 到 1 构建他们公司的 AI Coding 工作流，期间他经常跟我吐槽，老板经"
-    },
-    {
-      "title": "副业搞钱点子之赛事与活动",
-      "url": "https://juejin.cn/post/7700901949990895659",
-      "source": "juejin",
-      "score": 477,
-      "raw_score": 244,
-      "comments": 4,
-      "author": "前端之虎陈随易",
-      "created_at": "",
-      "summary": "大家好，我是农村程序员(2020年回农村，至今未出村)，独立开发者(致力于开发 1000 个小产品)，前端之虎陈随易(自封的)，我的官网是：https://yicode.tech。 今天分享一个搞钱点"
-    },
-    {
-      "title": "这6个小模型各有绝活, 且都可cpu/浏览器端运行",
-      "url": "https://juejin.cn/post/7700891028165984265",
-      "source": "juejin",
-      "score": 399,
-      "raw_score": 99,
-      "comments": 1,
-      "author": "半刻维度",
-      "created_at": "",
-      "summary": "感谢大家的之前发的文章的喜爱, 都想要源码, 我一个个发不过来了, 我整理成下文, 方便大家下载 顺便说一下有的小伙伴点名要的服务端抠图(SAM3.1, 文件3.21GB)文章也写完了, 我检查下本周"
-    },
-    {
-      "title": "别再用防抖做懒加载了：120 张图只加载出 4 张",
-      "url": "https://juejin.cn/post/7701269925750947855",
-      "source": "juejin",
-      "score": 357,
-      "raw_score": 61,
-      "comments": 3,
-      "author": "kyriewen",
-      "created_at": "",
-      "summary": "把 9 种懒加载写法塞进同一张 120 图的页面跑了 27 轮，防抖是最坑的那个：一口气滚到底，120 张图只加载出 4 张，白屏 615ms。"
-    },
-    {
-      "title": "AI 生成的图，为什么一眼就能看出是 AI？5 个破绽",
-      "url": "https://juejin.cn/post/7700985536521551914",
+      "title": "🚀🚀【封闭结束5】Agent 中的 SSE 流式推送与 HITL 暂停恢复",
+      "url": "https://juejin.cn/post/7701269882882621481",
       "source": "juejin",
       "score": 351,
       "raw_score": 57,
-      "comments": 4,
-      "author": "读完一本书",
-      "created_at": "",
-      "summary": "你能一眼认出 AI 图，但说不出为什么。那个「感觉」其实是五条可拆开的证据：平均脸、光影不讲物理、局部崩塌、构图太规矩、色彩过饱和。附 10 秒判断顺序。"
-    },
-    {
-      "title": "GPT-6.1 Terra上线：更便宜了，干活到底怎么样？",
-      "url": "https://juejin.cn/post/7701352628311392297",
-      "source": "juejin",
-      "score": 315,
-      "raw_score": 38,
       "comments": 0,
-      "author": "老金带你玩AI",
+      "author": "Sailing",
       "created_at": "",
-      "summary": "​ 给AI一张电车照片，让它照着做个3D模型，会做成什么样？ OpenAI刚发布的GPT-6.1 Terra，就接了这么个活。 Terra能看懂图片和屏幕，也能操作浏览器、桌面和应用，替你在电脑上做事"
+      "summary": "用户说：“重启这个异常实例。” 或中间补一句：“继续查它。” 这篇只讲：一次请求怎么流式推给前端，以及人确认之后怎么从断点接着跑"
     },
     {
-      "title": "一天一个开源项目（第249篇）：Hallmark —— 一个拒绝“AI 味”的设计 Skill，用 48 套材质主题和浏览器 Linter 约束编程助手",
-      "url": "https://juejin.cn/post/7701269136325017635",
+      "title": "AI 热点日报（2026-10-28）：谷歌 Genie 4 世界模型发布，甲骨文算力多元化，蚂蚁灵光 2.0 上线",
+      "url": "https://juejin.cn/post/7701269179118714916",
       "source": "juejin",
-      "score": 315,
-      "raw_score": 38,
+      "score": 322,
+      "raw_score": 41,
       "comments": 0,
-      "author": "冬奇Lab",
+      "author": "墨林陌",
       "created_at": "",
-      "summary": "Hallmark 的定位很明确：它是一个 Skill，让编程助手生成的 UI 看上去是“做出来的”而不是“生成出来的”。它不教模型审美，而是把“机器味”的特征逐条写成规则，再用工具去检查。"
+      "summary": "AI 热点日报（2026-10-28）：谷歌 Genie 4 世界模型发布，甲骨文算力多元化，蚂蚁灵光 2.0 上线。今日 AI 行业三线并行，涵盖世界模型、算力供应链与个人 Agent 三大方向。"
     },
     {
-      "title": "如何让视频模型对你言听计从？结构化提示词助你生成电影级画面",
-      "url": "https://juejin.cn/post/7701269179106639913",
+      "title": "ESP32 唤醒成功，离线命令为什么没有执行？",
+      "url": "https://juejin.cn/post/7701490621295231017",
       "source": "juejin",
-      "score": 286,
-      "raw_score": 27,
+      "score": 295,
+      "raw_score": 30,
       "comments": 0,
-      "author": "大模型真好玩",
+      "author": "武子康",
       "created_at": "",
-      "summary": "视频总有一股“塑料味”？问题不在模型，而在提示词。本文用SCELA+框架拆解主体、场景、运镜、光照与情绪，教你写出导演级指令，并附自动化Skill，让AI视频秒变电影级。"
+      "summary": "ESP32 唤醒成功，离线命令为什么没有执行？ 设备听到唤醒词、亮了灯，接着却没有执行“打开卧室灯”。把这次故障直接归为“离线识别不准”，可能跳过了真正断开的交接。唤醒事件不等于命令 ID，更不等于设"
     },
     {
-      "title": "当 AI 开始谈“买什么”，研究助手离投顾和交易还有多远？",
-      "url": "https://juejin.cn/post/7701269925751750671",
+      "title": "程序员 1v1 访谈系列第八期：大龄女程序员的困境",
+      "url": "https://juejin.cn/post/7701269925755846671",
       "source": "juejin",
-      "score": 268,
-      "raw_score": 22,
+      "score": 292,
+      "raw_score": 29,
       "comments": 0,
-      "author": "hpoenixf",
+      "author": "双越AI_club",
       "created_at": "",
-      "summary": "金融 AI 从解释资料、提供个性化建议到实际交易，涉及不同的服务承诺、数据权限和行动责任。本文分享只读研究助手的边界思考。"
+      "summary": "大家好，我是双越。我最近正在搞一个《程序员 1v1 访谈系列》即和我 1v1 微信语音或文字聊天，分享你的状态和困惑，我给出建议。以下是第 8 位沟通者的主要内容，分享出来供大家参考。"
     },
     {
-      "title": "Spring Data Redis 快速上手",
-      "url": "https://juejin.cn/post/7701269882873249811",
+      "title": "全栈正在杀死前端？被淘汰的从来不是岗位，只会是执行层",
+      "url": "https://juejin.cn/post/7701269179119468580",
+      "source": "juejin",
+      "score": 255,
+      "raw_score": 19,
+      "comments": 0,
+      "author": "挖掘狂人",
+      "created_at": "",
+      "summary": "AI 与全栈浪潮下，前端岗位正在变化。被淘汰的是纯执行写页面的前端，真正值钱的是判断力。聊聊前端如何选择路线，以及前端转全栈该优先补哪些后端思维。"
+    },
+    {
+      "title": "给桌面客户端做下载加速：从「桶直接公开」到「边缘优先、源站兜底」的三代演进",
+      "url": "https://juejin.cn/post/7701269179106328617",
+      "source": "juejin",
+      "score": 240,
+      "raw_score": 16,
+      "comments": 0,
+      "author": "希曼",
+      "created_at": "",
+      "summary": "给桌面客户端做下载加速：从「桶直接公开」到「边缘优先、源站兜底」的三代演进：它是个桌面客户端，我需要在官网添加下载功能，添加下载页看起来是小事——点一下，浏览器开始下软件——但它背后要同时满足四个需求"
+    },
+    {
+      "title": "AI 时代岗位调研分析：调研了近3000份AI岗位描述，分享下调研结果",
+      "url": "https://juejin.cn/post/7701490621295460393",
+      "source": "juejin",
+      "score": 235,
+      "raw_score": 15,
+      "comments": 0,
+      "author": "孔令飞",
+      "created_at": "",
+      "summary": "字节跳动 / 腾讯 / 阿里 AI 岗位调研报告。语言对比中，我主要关注了 Go。所以，报告中，会重点提示跟 Go 相关的部分。 另外，基于报告我也梳理出来 AI 时代的岗位选择、能力要求及学习路线。"
+    },
+    {
+      "title": "DeepSeek 稀疏注意力",
+      "url": "https://juejin.cn/post/7701269169975722027",
+      "source": "juejin",
+      "score": 235,
+      "raw_score": 15,
+      "comments": 0,
+      "author": "Topskys",
+      "created_at": "",
+      "summary": "DSA是V3.2-Exp版本查询感知稀疏注意力，闪电索引器打分选Top-k KV精确计算，将复杂度从O(L²)降到O(Lk)，在保持MLA压缩格式与MQA共享机制的前提下实现高效长上下文。"
+    },
+    {
+      "title": "GUI Agent 架构设计笔记：感知压缩、上下文工程与执行机制",
+      "url": "https://juejin.cn/post/7701269136325001251",
       "source": "juejin",
       "score": 222,
       "raw_score": 13,
       "comments": 0,
-      "author": "独泪了无痕",
+      "author": "暧暧内含光",
       "created_at": "",
-      "summary": "概述   在快速入门 Spring Data Redis 之前，我们先来做个简单的了解。在 Spring 的生态中，我们使用 Spring Data Redis 来实现对 Redis 的数据访问。可能"
+      "summary": "深度对比四大代表性框架： minitap/mobile-use browser-use Playwright MCP Agent-browser"
+    },
+    {
+      "title": "号外号外，Stream-Nexus推送项目支持集群部署了",
+      "url": "https://juejin.cn/post/7701257148932915226",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "SimonKing",
+      "created_at": "",
+      "summary": "Stream-Nexus是之前整理的一个开源项目，轻量级的实时推送平台，支持SSE和WebSocket。先前发的版本仅支持单机部署，但是有老铁提出要能支持集群部署，这两天有空完善了一下项目"
+    },
+    {
+      "title": "HunyuanVideo-1.5 跑得更快，先减步数还是开缓存？",
+      "url": "https://juejin.cn/post/7701269179119353892",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "武子康",
+      "created_at": "",
+      "summary": "HunyuanVideo-1.5 跑得更快，先减步数还是开缓存？ 一条 720p 首帧视频等太久，你可能想把采样从 50 步降到 20 步，再把 EasyCache 打开。第一帧看着没问题，速度也快了"
+    },
+    {
+      "title": "[Android 从零到一] ARouter 路由框架原理：APT 生成路由表与组件化通信",
+      "url": "https://juejin.cn/post/7701289548995313690",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "hunterandroid",
+      "created_at": "",
+      "summary": "从注解处理、两级懒加载、跳转流程、拦截器链和服务发现五个环节拆解 ARouter 实现原理，并整理组件化工程中的常见问题。"
+    },
+    {
+      "title": "从线性 RAG 到 Agentic RAG｜基于 LangGraph 实现自主决策 RAG 闭环",
+      "url": "https://juejin.cn/post/7701269882872872979",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "mONESY",
+      "created_at": "",
+      "summary": "前言 做 RAG 的同学应该都踩过传统线性 RAG 的坑： 不管用户问 “你好” 还是复杂多跳问题，强制走一遍向量检索、Rerank、拼接 Prompt，浪费算力； 检索出来的文档不相关，直接丢给 L"
+    },
+    {
+      "title": "crontab 管不住时，该上 Airflow 了",
+      "url": "https://juejin.cn/post/7701250821669519411",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "RobinDevNotes",
+      "created_at": "",
+      "summary": "凌晨三点脚本挂了，你第二天中午才知道。 摘要 Airflow 把一堆定时脚本变成一张有依赖、能重试、可回看的任务图。本文用 Airflow 3 从安装到跑通两条联动的管道（上游产出数据、下游自动触发）"
+    },
+    {
+      "title": "从零开始实现扫雷游戏（C 语言控制台版）",
+      "url": "https://juejin.cn/post/7701348946605572115",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "用户23800309945",
+      "created_at": "",
+      "summary": "扫雷是很多人最早接触的电脑游戏之一。它规则简单，但非常适合练习 C 语言的二维数组、函数封装、多文件编程、随机数、字符处理等知识。 这篇文章会从扫雷的规则和设计思路讲起，再一步一步给出完整代码实现。最"
     }
   ]
 }
