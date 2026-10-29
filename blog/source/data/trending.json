@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-10-28T17:38:50.107347+00:00",
+  "updated_at": "2026-10-29T03:31:04.873916+00:00",
   "articles": [
     {
       "title": "Python 面向对象编程：类、继承、多态与组合",
       "url": "https://juejin.cn/post/7701269657706315811",
       "source": "juejin",
-      "score": 764,
-      "raw_score": 6643,
+      "score": 815,
+      "raw_score": 11892,
       "comments": 0,
       "author": "vipxieliang",
       "created_at": "",
       "summary": "目录 1. 引言 2. 类与实例 2.1 定义一个类 2.2 创建实例 2.3 self 是什么 3. 属性与方法 3.1 实例属性与类属性 3.2 实例方法、类方法与静态方法 3.3 属性封装与 p"
     },
     {
-      "title": "天涯神贴《2027年以后，你要活成这个样子》有感，希望 2027 年可以活成自己想要的样子",
-      "url": "https://juejin.cn/post/7700522130220023862",
+      "title": "排名算法一变，国产模型全部滑铁卢了！",
+      "url": "https://juejin.cn/post/7701637989948784659",
       "source": "juejin",
-      "score": 731,
-      "raw_score": 4524,
-      "comments": 26,
-      "author": "XiaoLei_Liu",
-      "created_at": "",
-      "summary": "今天，2026 年 10 月 26 日，星期一。 在这个深秋的时刻，我无意间刷到了天涯 A11 大佬的一篇神贴——《2027年以后，你要活成这个样子》。 看完之后，我整个人就像是被雷劈了一样，呆坐在屏"
-    },
-    {
-      "title": "Deepseek v5 来了",
-      "url": "https://juejin.cn/post/7701541249069383706",
-      "source": "juejin",
-      "score": 593,
-      "raw_score": 933,
+      "score": 386,
+      "raw_score": 86,
       "comments": 2,
-      "author": "码事漫谈",
+      "author": "甲维斯",
       "created_at": "",
-      "summary": "DeepSeek V5 好像早就做出来了，只是官方到现在都没发布。 今天下午，孟老师在 DeepSeek Harness 的代码里看到一屏 deepseek-v5，截图发给了我。 一、它是模型名，不是"
+      "summary": "国产模型最近是“被虐”得太惨了，以前宣传都是追上甚至超越国际水平了，也就一年光景，现在是尾灯都快看不到了。 AA 算法一调整，所有国模排名又下滑~~ 除了最新的K3.1 Pro 还能扛一下，其它全部跌"
     },
     {
-      "title": "删了一个没用的 console.log，生产环境直接崩了!",
-      "url": "https://juejin.cn/post/7701290557268951066",
+      "title": "扒了JitWord的源码，我终于搞懂了企业级在线Word到底有多难写",
+      "url": "https://juejin.cn/post/7701613493971828787",
       "source": "juejin",
-      "score": 555,
-      "raw_score": 600,
-      "comments": 9,
-      "author": "ErpanOmer",
-      "created_at": "",
-      "summary": "删除console.log触发惰性getter初始化，导致商品价格显示undefined的事故，分析属性访问副作用机制，提出显式初始化、构建剥离及ESLint约束等修复策略。"
-    },
-    {
-      "title": "AI友好的可视化图形引擎自我革命：Meta2d.js 2.0 历时一年全新重写，性能与多人协作全面升级",
-      "url": "https://juejin.cn/post/7701604765431873545",
-      "source": "juejin",
-      "score": 349,
-      "raw_score": 56,
+      "score": 326,
+      "raw_score": 43,
       "comments": 0,
-      "author": "alsmile",
+      "author": "徐小夕",
       "created_at": "",
-      "summary": "Meta2d.js 一个国产开源的 2D 可视化引擎，快速搭建 Web 组态、SCADA、监控大屏、流程图、中控可视化以及图形编辑与交互等应用 —— 接入实时数据，设置动画和条件，事件交互等"
+      "summary": "我们公司最近一直在折腾AI产品，就像1:1文档助手、AI文档、PyCharts超级表格这些东西也是做了一堆，前面也跟大家分享了不少开源项目。但今天想聊点不一样的——JitWord。"
     },
     {
-      "title": "深夜突袭：我们的午夜战场",
-      "url": "https://juejin.cn/post/7701592297268772883",
-      "source": "juejin",
-      "score": 346,
-      "raw_score": 54,
-      "comments": 0,
-      "author": "Jimmy",
-      "created_at": "",
-      "summary": "眼睫轻轻一颤，缓缓掀开一线眼缝，透过夜灯氤氲的微光，我静静地望着那个忽然坐起的小情人。 睡意还沉沉地压在身上，自己整个人像被一块无形的磁石牢牢地吸附在床铺上，连呼吸都不敢放重。"
-    },
-    {
-      "title": "现代 Android 架构指南：不要再主动设计 Callback 接口",
-      "url": "https://juejin.cn/post/7701545991036862491",
-      "source": "juejin",
-      "score": 330,
-      "raw_score": 45,
-      "comments": 0,
-      "author": "潜龙勿用之化骨龙",
-      "created_at": "",
-      "summary": " 项目已经完全协程化，`Flow` 也用了三年。 有一天，讨论一个持续接收数据的接口时，一位工作"
-    },
-    {
-      "title": "如何设计支持 Skills 的 Agent？一套可扩展的四层架构",
-      "url": "https://juejin.cn/post/7701535272555626536",
-      "source": "juejin",
-      "score": 320,
-      "raw_score": 40,
-      "comments": 0,
-      "author": "编程干货铺",
-      "created_at": "",
-      "summary": "一、问题的起点 先看一个明确的目标：怎样让智能体能够无限制地新增技能包，而且不用修改核心代码？ 这个诉求在工程上其实就是可扩展性与可维护性。当技能从 3 个增长到 300 个时，如果每加一个技能都要回"
-    },
-    {
-      "title": "magpie：让薅到的 AI 羊毛物尽其用",
-      "url": "https://juejin.cn/post/7701591870954094607",
+      "title": "Anthropic S-1 披露：半年前发布的模型，已贡献不了多少收入了",
+      "url": "https://juejin.cn/post/7701898942753308708",
       "source": "juejin",
       "score": 306,
       "raw_score": 34,
       "comments": 0,
-      "author": "KaneLogger",
+      "author": "公众号_计算机魔术师",
       "created_at": "",
-      "summary": "手里有多个 AI 订阅和模型额度，怎么在编程时用起来？从接入供应商到配置路由组，再用意图规则把不同任务分给合适的模型。"
+      "summary": "Anthropic 提交 S-1 后公布了一组让人意外的数字：2026 年第三季度超过 80% 的收入来自近六个月内发布的新模型。这意味着上线超过半年的模型，贡献不到 20% 的收入。与此同时，公司单"
     },
     {
-      "title": "[Java] 用 GUI 展示 EnumMap 增删键值对时的内部变化",
-      "url": "https://juejin.cn/post/7701710876075802660",
-      "source": "juejin",
-      "score": 282,
-      "raw_score": 26,
-      "comments": 0,
-      "author": "金銀銅鐵",
-      "created_at": "",
-      "summary": "本文用 GUI 展示 EnumMap 的内部结构：ordinal 直接作为 vals 下标，无需哈希，并看清 NULL 哨兵如何区分”无映射“与“映射为 null”"
-    },
-    {
-      "title": "网站正在对 AI Agent 集体关门：亚马逊封锁 Muse、银行拒绝登录，开发者怎么活下去",
-      "url": "https://juejin.cn/post/7701566014480121894",
+      "title": "Jev 实战：为AI工作流引入轻量决策层 x10倍提速｜得物技术",
+      "url": "https://juejin.cn/post/7701614603223203881",
       "source": "juejin",
       "score": 279,
       "raw_score": 25,
       "comments": 0,
-      "author": "深蓝AI",
+      "author": "得物技术",
       "created_at": "",
-      "summary": "2026 年 10 月 17 日，The Verge 刊出一篇调查报道：OpenAI、Meta 和 Google 都在向用户承诺，AI Agent 可以替你订餐厅、清收件箱、买鞋，把网上的事全包了。可"
+      "summary": "前段时间Jev挺火。我一开始也以为它是又一个新模型，实践之后才发现它的与众不同！它是一个可以在AI工作流中，工程化地实现轻量决策层的工具，帮助流程降本提效！"
     },
     {
-      "title": "迎战双十一，如何让智能客服 Agent 经得起真实业务考验？",
-      "url": "https://juejin.cn/post/7701566014479974438",
+      "title": "从知识沉淀到编程范式：AI Coding 项目冷启动落地实践",
+      "url": "https://juejin.cn/post/7701673451148394530",
       "source": "juejin",
       "score": 272,
       "raw_score": 23,
       "comments": 0,
-      "author": "火山引擎Agent社区",
+      "author": "vivo互联网技术",
       "created_at": "",
-      "summary": "影腾智联依托火山引擎 AgentKit 打造智能售后客服 “小影”，打通多维度业务数据，实现问答、故障诊断与人机协同闭环，日均处理 3000 + 会话，助力客服转向可迭代的智能运营。"
+      "summary": "本文基于SmartFlow实践，提出存量业务AI Coding冷启动方法：从历史代码和需求中沉淀可复用 Skill，新需求通过规格化、评审、受控实现、验证联调与知识回写闭环交付，降低协同开发成本。"
     },
     {
-      "title": "Go语言第十六章(自定义类型)",
-      "url": "https://juejin.cn/post/7701535272556052520",
+      "title": "翻完 DeepSeek 的 GitHub 仓库，我发现 V5 的发布路已经修好了",
+      "url": "https://juejin.cn/post/7701710876097314859",
+      "source": "juejin",
+      "score": 264,
+      "raw_score": 21,
+      "comments": 0,
+      "author": "墨林陌",
+      "created_at": "",
+      "summary": "近日有网友发现 DeepSeek 更换了全新大模型指纹，且在 DeepSeek Harness 官方代码库中已出现 DeepSeek-V5、V5-open、V5-next 三组新代码，引发广泛关注。"
+    },
+    {
+      "title": "秋叶已经够黄了：用 Awaking 单独收一点黄色",
+      "url": "https://juejin.cn/post/7701596276698284066",
       "source": "juejin",
       "score": 251,
       "raw_score": 18,
       "comments": 0,
-      "author": "小满zs",
+      "author": "茶底世界之下",
       "created_at": "",
-      "summary": "自定义类型 基本类型（int、string…）能用，但有时不够「说话」。比如用户名和地址都是字符串，用户 ID 和订单 ID 都是整数——混着用很容易传错参。 Go 允许用 type 基于已有类型定义"
+      "summary": "同一张秋叶照在 Awaking 单独降低黄色饱和度33%，橙红仍保留，黄色稍退后。看真实 PNG 导出与同画幅对照，也说明何时该保留原片。"
     },
     {
-      "title": "Go语言第十五章(JSON序列化)",
-      "url": "https://juejin.cn/post/7701587858104238114",
+      "title": "vibe coding 做小游戏·开工篇：5 天、8400 行代码一行没手写，先让 AI 能检查自己",
+      "url": "https://juejin.cn/post/7701621137533255743",
       "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "小满zs",
+      "author": "ZzT",
       "created_at": "",
-      "summary": "JSON 序列化与反序列化 写接口、存配置、跟前端或别的服务交换数据，几乎都会碰到 JSON。 Go 标准库 encoding/json 负责两件事： 序列化（Marshal）：把 Go 的值变成 J"
+      "summary": "开工 5 天的竖屏塔防小游戏，8400 行代码全部由 Claude Code 编写，已在 iPhone 微信里运行。本文讲开工第一天：AI 先问的四个问题、查出的平台约束，以及先搭好的自检工具。"
     },
     {
-      "title": "Go语言第十七章(反射)",
-      "url": "https://juejin.cn/post/7701525643873533987",
+      "title": "敲下 git add 的那一刻，.git 里多了什么",
+      "url": "https://juejin.cn/post/7701653900058837026",
       "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
+      "score": 200,
+      "raw_score": 10,
       "comments": 0,
-      "author": "小满zs",
+      "author": "SH的全栈笔记",
       "created_at": "",
-      "summary": "反射 上一篇讲了自定义类型。类型在编译期就定死了——那运行时怎么「看」一个值到底是什么类型、能不能改、有没有某个方法？ 答案是标准库 reflect：在运行时检查类型、读写值、调用方法。框架、ORM、"
+      "summary": "都说 git add 只是打个勾，commit 才真正存东西。打开 .git 目录看一眼就知道：add 的那一刻，文件内容已经压缩成 blob 进了对象库，暂存区只是一张记着路径和对象名的清单。"
+    },
+    {
+      "title": "Gemini 4 Carbon发布：安全基准领先，幻觉率升至11%",
+      "url": "https://juejin.cn/post/7701637241681264649",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "miofly",
+      "created_at": "",
+      "summary": "谷歌10月29日发布Gemini 4 Carbon，在漏洞挖掘、作弊率和提示注入防御上刷新纪录，第三方测试显示其幻觉率从4%升至11%，输出token数低于Claude Opus 5.5。"
+    },
+    {
+      "title": "主从切换报成功，业务却写不进去——数据层脑裂与应用层连接残留的两类假成功",
+      "url": "https://juejin.cn/post/7701614603223351337",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "这个DBA有点耶",
+      "created_at": "",
+      "summary": "切换之后：数据层脑裂防护触发，双主都拒绝写入；应用层旧连接/VIP残留，流量没真正切过去。两类假成功排查优先级完全不同——先查同步状态和仲裁日志，不要重启。本文拆解两类假成功的触发链路与排查顺序。"
+    },
+    {
+      "title": "Agent Loop 深度解析：理解、规划、行动、观察与纠错",
+      "url": "https://juejin.cn/post/7701898942753718308",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "大大大大晴天",
+      "created_at": "",
+      "summary": "Agent 的最小核心可以表示为：理解目标->决定下一步->作用于环境->读取真实结果->更新状态并修正->满足条件后结束。"
+    },
+    {
+      "title": "06-04-源码-加密解密服务",
+      "url": "https://juejin.cn/post/7701637989948588051",
+      "source": "juejin",
+      "score": 180,
+      "raw_score": 8,
+      "comments": 0,
+      "author": "SmalBox",
+      "created_at": "",
+      "summary": "源码-加密解密机制 一、引言 本章将深入解析 YooAsset 加密解密机制的源码实现。加密解密是 YooAsset 资源保护的重要机制，通过加密可以保护游戏资源不被非法获取和修改。深入理解加密解密机"
+    },
+    {
+      "title": "Kubernetes集群部署实战：使用kubeadm在4台ECS服务器上搭建K8s v1.31集群",
+      "url": "https://juejin.cn/post/7701591870954274831",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "江华森",
+      "created_at": "",
+      "summary": "Kubernetes集群部署实战：使用kubeadm在4台ECS服务器上搭建K8s v1.31集群 一、Kubernetes架构概述 1.1 集群架构图 1.2 核心组件说明 组件 所在节点 功能 k"
     }
   ]
 }
