@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-11-01T03:17:48.848025+00:00",
+  "updated_at": "2026-11-01T17:24:26.440168+00:00",
   "articles": [
     {
-      "title": "【成为 AI Native Builder · 02】什么是 AI Native Builder：一个人 + AI，交付完整闭环",
-      "url": "https://juejin.cn/post/7702895830277603379",
+      "title": "ValidX vs 正则表达式：可读性与维护性对比",
+      "url": "https://juejin.cn/post/7701250481567039528",
+      "source": "juejin",
+      "score": 916,
+      "raw_score": 38099,
+      "comments": 2,
+      "author": "vipxieliang",
+      "created_at": "",
+      "summary": "ValidX vs 正则表达式：可读性与维护性对比 📋 目录 引言 一、正则表达式：验证领域的双刃剑 1.1 正则表达式的优势 1.2 正则表达式的三大痛点 1.3 本文的目标 二、典型场景对比：同一"
+    },
+    {
+      "title": "PHP Swoole 协程模型详解：协程与线程/进程、调度、常驻内存及与 Go goroutine 的异同",
+      "url": "https://juejin.cn/post/7701591870955012111",
+      "source": "juejin",
+      "score": 803,
+      "raw_score": 10355,
+      "comments": 0,
+      "author": "vipxieliang",
+      "created_at": "",
+      "summary": "1. 引言：为什么需要协程 PHP 的传统运行模型里，一个请求对应一个进程（或一个 FPM worker），请求结束，进程内的所有变量、连接、内存全部释放。这种「一次请求、一次生命周期」的模式简单可靠"
+    },
+    {
+      "title": "MongoDB迁移之后，Spring Data 和 Hibernate 各自接哪类请求",
+      "url": "https://juejin.cn/post/7702759616728088611",
+      "source": "juejin",
+      "score": 564,
+      "raw_score": 667,
+      "comments": 0,
+      "author": "一只牛博",
+      "created_at": "",
+      "summary": "MongoDB迁移到 KingbaseES，代码改造量往往不由集合数量决定，而由应用实际调用了哪些 MongoDB API 决定。Repository 派生查询、聚合管道、批量写入、事务会话和索引管理"
+    },
+    {
+      "title": "encodeURI 和 encodeURIComponent 有什么区别？",
+      "url": "https://juejin.cn/post/7702723478470983718",
+      "source": "juejin",
+      "score": 303,
+      "raw_score": 33,
+      "comments": 0,
+      "author": "excel",
+      "created_at": "",
+      "summary": "encodeURI 和 encodeURIComponent 都用于对字符串进行百分号编码，但它们面向的对象不同： encodeURI：编码一个完整的 URI，同时尽量保留 URI 的结构符号。 en"
+    },
+    {
+      "title": "AI正在制造通缩：一场闭门会背后，三个被大多数人忽略的底层逻辑",
+      "url": "https://juejin.cn/post/7702799239764000822",
+      "source": "juejin",
+      "score": 301,
+      "raw_score": 32,
+      "comments": 0,
+      "author": "狼爷",
+      "created_at": "",
+      "summary": "整场会议最反常识、也最有分量的一个判断是：AI正在制造通缩。 多数人对技术革命的默认认知是：AI提升生产效率，商品和服务成本下降，东西更便宜，大家生活更好。这是只看到了供给端，没看到需求端。"
+    },
+    {
+      "title": "Agent 上下文治理全景·行动篇：从首轮输入到长期记忆，怎样真正落地",
+      "url": "https://juejin.cn/post/7702808313616367643",
+      "source": "juejin",
+      "score": 289,
+      "raw_score": 28,
+      "comments": 0,
+      "author": "hpoenixf",
+      "created_at": "",
+      "summary": "从首轮输入、系统提示词到记忆、结果回读和上下文压缩，沿一项研究任务说明如何让上下文治理真正落地并核对实际效果。"
+    },
+    {
+      "title": "Python 3.13 的 Queue.shutdown：异步消费者终于能正常收工了",
+      "url": "https://juejin.cn/post/7702839869399498752",
+      "source": "juejin",
+      "score": 289,
+      "raw_score": 28,
+      "comments": 0,
+      "author": "深蓝AI",
+      "created_at": "",
+      "summary": "一个异步消费者最难写的部分，往往不是处理消息，而是退出。业务服务收到停止信号，生产者不再投递新任务，消费者却还在等待一个永远不会到来的队列元素；于是工程师给每个工作协程发送取消信号，结果一部分已经取出"
+    },
+    {
+      "title": "【Agent】模型一次返回多个工具调用，harness 该怎么执行？",
+      "url": "https://juejin.cn/post/7702799239764344886",
+      "source": "juejin",
+      "score": 276,
+      "raw_score": 24,
+      "comments": 0,
+      "author": "ltlovezh",
+      "created_at": "",
+      "summary": "Agent Loop中，LLM响应经常是一个Tool Use数组，这些Tool的执行，是串行，并行，还是按照某种规则交叉执行？"
+    },
+    {
+      "title": "超长研究全景：让 Agent 跨越上下文、中断与时间继续交付",
+      "url": "https://juejin.cn/post/7702828258123890715",
+      "source": "juejin",
+      "score": 272,
+      "raw_score": 23,
+      "comments": 0,
+      "author": "hpoenixf",
+      "created_at": "",
+      "summary": "从任务、运行、工作上下文和交付成果出发，梳理长研究的阶段交付、上下文压缩、中断恢复、用户调整与显式接续。"
+    },
+    {
+      "title": "Agent 可观测全景：从一次模型请求到可回查的研究事实",
+      "url": "https://juejin.cn/post/7702723478471000102",
+      "source": "juejin",
+      "score": 264,
+      "raw_score": 21,
+      "comments": 0,
+      "author": "hpoenixf",
+      "created_at": "",
+      "summary": "从资料、工具、模型请求到用户看到的正文，沿一次报告核对四次交接，理解 Trace 缺口、观测链故障、成本统计与历史恢复的边界。"
+    },
+    {
+      "title": "Agent 上下文治理全景·原则篇：让每一步判断围绕目标展开",
+      "url": "https://juejin.cn/post/7702808313616334875",
+      "source": "juejin",
+      "score": 264,
+      "raw_score": 21,
+      "comments": 0,
+      "author": "hpoenixf",
+      "created_at": "",
+      "summary": "从目标、依据、边界、记忆、探索和进展出发，理解上下文怎样帮助 Agent 围绕任务作出持续判断，并辨认各机制的职责。"
+    },
+    {
+      "title": "XXL-AI v1.4.0 发布｜AI应用开发平台",
+      "url": "https://juejin.cn/post/7702809778397511716",
       "source": "juejin",
       "score": 255,
       "raw_score": 19,
       "comments": 0,
-      "author": "LV技术派",
+      "author": "许雪里",
       "created_at": "",
-      "summary": "从前端到需求交付工程师，我给现在的角色起了个名字：AI Native Builder。一个人 + AI，用 AI 原生的方式交付完整闭环。这篇拆开这个定义，再聊三个常见误解。"
+      "summary": "XXL-AI发布新版本，本地版新增人机交互统一流程、可观测性、Git支持及SKILL市场等功能，优化UI与渲染体验；云版强化数据隔离与模型缓存实效性。平台采用“云本结合”架构，支持团队协作与个人本地开"
     },
     {
-      "title": "浏览器工具自制指南·对话导出（3）：消息池设计",
-      "url": "https://juejin.cn/post/7702816745450864680",
+      "title": "DeepSeek Harness 的 Harness 到底做了什么",
+      "url": "https://juejin.cn/post/7702914241570308131",
       "source": "juejin",
-      "score": 251,
-      "raw_score": 18,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "阶进遐",
+      "author": "潘锦",
       "created_at": "",
-      "summary": "从零讲透油猴脚本如何设计消息池设计：接口数据归一化、去重排序、轻量自测，附完整代码仓库，适合想自己写浏览器工具的开发者。"
+      "summary": "DeepSeek Harness 解决的核心问题，是多轮模型调用、工具执行与会话状态之间的协调：输入何时进入请求，工具结果如何写回历史，请求失败后从哪里重试，上下文压缩后保留哪些信息，以及任务中断后能"
     },
     {
-      "title": "Claude Code 频繁 Compacting？发布次日我根治了 2 个痛点",
-      "url": "https://juejin.cn/post/7702700849843159067",
+      "title": "从 Prompt 到 Tool Calling：AI Agent 如何稳定连接程序世界",
+      "url": "https://juejin.cn/post/7702914241570324515",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "Thneonl",
+      "author": "大大大大晴天",
       "created_at": "",
-      "summary": "v0.5.0 发布次日就发了 v0.5.1：直连 glm 在 1M 窗口 15% 处频繁 Compacting，根治是 context_window 进模型声明；ccm run 传不进 --resum"
+      "summary": "大语言模型原生能力是生成 Token，而软件系统要求类型、权限、状态和确定的执行结果。AI Agent 要连接数据库、搜索引擎、支付系统或企业 API，中间必须建立一层可验证的交互协议。"
     },
     {
-      "title": "Python 智能体开发实战 07：让它查课表它张口就编？给 Agent 接上真正能动手的工具",
-      "url": "https://juejin.cn/post/7702478170986004495",
-      "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
-      "comments": 0,
-      "author": "威哥爱编程",
-      "created_at": "",
-      "summary": "上周出了一次挺丢人的事故。一个学生问助教小E：\"我明天的课是几点？\"小E秒回：\"您的写作课在周三下午三点，3 号教室。\"学生第二天下午三点到了 3 号教室——那天根本没排课，写作课是周六上午的。 另一"
-    },
-    {
-      "title": "vibe coding 做小游戏·打包篇：发 Mac 试玩包、查启动慢，和一次 AI 自己改出来的崩溃",
-      "url": "https://juejin.cn/post/7702478170985906191",
-      "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
-      "comments": 0,
-      "author": "ZzT",
-      "created_at": "",
-      "summary": "一个傍晚，我对 Claude Code 说了 4 句话：打个 Mac 安装包、启动太慢、打开试玩、崩了？它怎么打包、怎么把启动时间拆到每一段，以及自己的优化让安装包崩溃之后，打包流程改成了什么样。"
-    },
-    {
-      "title": "16-Agent实战：生鲜超市 52 周 MD 与智慧出清",
-      "url": "https://juejin.cn/post/7702866392114921491",
-      "source": "juejin",
-      "score": 222,
-      "raw_score": 13,
-      "comments": 0,
-      "author": "栈知见",
-      "created_at": "",
-      "summary": "前 15 篇把 Agent 的单点能力逐个拆开讲解：从跑通第一个 Agent、工具调用、结构化输出，到 PlanMode、记忆与 RAG，再到多 Agent、MCP、A2A，最后是 HarnessAg"
-    },
-    {
-      "title": "别再堆万字 Prompt：用 Agent Skills 给团队写一个「前端 Review」Skill",
-      "url": "https://juejin.cn/post/7702637146160201770",
-      "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
-      "comments": 0,
-      "author": "尘世中一位迷途小书童",
-      "created_at": "",
-      "summary": "Agent Skills 已捐给 AAIF：用 SKILL.md 把前端 Review 固定成改动范围、类型检查、Lint、危险禁区。模板可直接拷进仓库。"
-    },
-    {
-      "title": "Python 智能体开发实战 08：上线第一天就挂？给 Agent 装上重试、超时和降级三条保险丝",
-      "url": "https://juejin.cn/post/7702638129132388386",
-      "source": "juejin",
-      "score": 190,
-      "raw_score": 9,
-      "comments": 0,
-      "author": "威哥爱编程",
-      "created_at": "",
-      "summary": "晚上八点，家长的黄金咨询时段，运营突然在群里刷屏：小E卡住了。 我看了一眼后台，症状比\"卡住\"难看得多。有的家长转圈三秒然后看到一句报错；有的等了九秒，换来同一个错误；还有一位家长运气好，等了五秒拿到"
-    },
-    {
-      "title": "v0.2.0 架构升级：class + reactive 重塑状态管理",
-      "url": "https://juejin.cn/post/7702467104352436239",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "PedroQue99",
-      "created_at": "",
-      "summary": "class + reactive 重构 store，实现完整 Pinia 实例 API 与内置持久化；移除 setup 式 API，改用 defineStore 类形式，支持强类型"
-    },
-    {
-      "title": "Kestrel_VLLM - 26 · 发射空档三步曲：事件计时 → nsys → 判别实验",
-      "url": "https://juejin.cn/post/7702638129132290082",
-      "source": "juejin",
-      "score": 180,
-      "raw_score": 8,
-      "comments": 0,
-      "author": "用户36005557900",
-      "created_at": "",
-      "summary": "26 · 发射空档三步曲：事件计时 → nsys → 判别实验 一句话：上一轮把 raw-q4 GEMV 的访存粒度改成「每 lane 一个 uint32」后，端到端从 27.2 打到 18.9 ms"
-    },
-    {
-      "title": "Anthropic为Claude四款模型加水印，两款旧模型留调参漏洞",
-      "url": "https://juejin.cn/post/7702828258103296038",
+      "title": "带团队的进阶：从解决问题到发现问题",
+      "url": "https://juejin.cn/post/7702737817417449487",
       "source": "juejin",
       "score": 169,
       "raw_score": 7,
       "comments": 0,
-      "author": "miofly",
+      "author": "潘锦",
       "created_at": "",
-      "summary": "Anthropic给Claude Mythos 5等四款模型加入文字水印，但Opus 4.6和Sonnet 4.6的水印依赖采样参数保持默认值，改动参数可致水印失效。"
-    },
-    {
-      "title": "ubuntu24.04.4编译Aosp15",
-      "url": "https://juejin.cn/post/7702716646636486682",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "求索君Fly",
-      "created_at": "",
-      "summary": "这是一个连载的关于Aosp开发的教材，从编译到OTA升级，一步一步教你学会Aosp开发，自定义Rom"
-    },
-    {
-      "title": "你的日志早已写好告警：在 Elasticsearch 中生成 ES|QL 检测查询",
-      "url": "https://juejin.cn/post/7702828258103246886",
-      "source": "juejin",
-      "score": 139,
-      "raw_score": 5,
-      "comments": 0,
-      "author": "Elasticsearch",
-      "created_at": "",
-      "summary": "作者：来自 Elastic Kevin Lacabane 选错了这 100 条样本，你得到的就可能是 log.level: error、一条每次请求都会触发的规则，或者一条什么也检测不到的规则，而日志"
-    },
-    {
-      "title": "Aosp开发磨刀石之ADB速查",
-      "url": "https://juejin.cn/post/7702948457380184073",
-      "source": "juejin",
-      "score": 120,
-      "raw_score": 4,
-      "comments": 0,
-      "author": "求索君Fly",
-      "created_at": "",
-      "summary": "自定义Rom开发连载，关于ADB你认识多少？每个android开发都应该懂的ADB常识，赶紧收藏夹吃灰。。。"
-    },
-    {
-      "title": "SEAndroid实战",
-      "url": "https://juejin.cn/post/7702475357690462217",
-      "source": "juejin",
-      "score": 95,
-      "raw_score": 3,
-      "comments": 0,
-      "author": "求索君Fly",
-      "created_at": "",
-      "summary": "你是否经常呗`avc: denied`这个报错所折磨过的？ 假如遇到这个烦人的限制正确的姿势是什么？今天我们就来解答这个问题。"
+      "summary": "好久没有写团队管理的文章了。今天写一下最近在思考到的一个问题。 我有一个习惯是会经常检查自己的日程，看看时间花在哪里了。 我会发现很多的时间都是在解决问题，不管是架构的问题，还是需求的问题，还是人的问"
     }
   ]
 }
