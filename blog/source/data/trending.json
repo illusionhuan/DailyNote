@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-11-01T17:24:26.440168+00:00",
+  "updated_at": "2026-11-02T03:27:05.631000+00:00",
   "articles": [
     {
-      "title": "ValidX vs 正则表达式：可读性与维护性对比",
-      "url": "https://juejin.cn/post/7701250481567039528",
+      "title": "一个网吧网管，做了个网页，卖了 5000 万",
+      "url": "https://juejin.cn/post/7702808313616760859",
       "source": "juejin",
-      "score": 916,
-      "raw_score": 38099,
-      "comments": 2,
-      "author": "vipxieliang",
+      "score": 567,
+      "raw_score": 685,
+      "comments": 3,
+      "author": "前端之虎陈随易",
       "created_at": "",
-      "summary": "ValidX vs 正则表达式：可读性与维护性对比 📋 目录 引言 一、正则表达式：验证领域的双刃剑 1.1 正则表达式的优势 1.2 正则表达式的三大痛点 1.3 本文的目标 二、典型场景对比：同一"
+      "summary": "大家好，我是农村程序员(2020年回农村，至今未出村)，独立开发者(致力于开发 1000 个小产品)，前端之虎陈随易(自封的)，我的官网是：https://yicode.tech。 今天不分享一个搞钱"
     },
     {
-      "title": "PHP Swoole 协程模型详解：协程与线程/进程、调度、常驻内存及与 Go goroutine 的异同",
-      "url": "https://juejin.cn/post/7701591870955012111",
+      "title": "感人，Flutter 居然有了一个超实用提案，期待落地",
+      "url": "https://juejin.cn/post/7703289640062713907",
       "source": "juejin",
-      "score": 803,
-      "raw_score": 10355,
+      "score": 432,
+      "raw_score": 146,
       "comments": 0,
-      "author": "vipxieliang",
+      "author": "恋猫de小郭",
       "created_at": "",
-      "summary": "1. 引言：为什么需要协程 PHP 的传统运行模型里，一个请求对应一个进程（或一个 FPM worker），请求结束，进程内的所有变量、连接、内存全部释放。这种「一次请求、一次生命周期」的模式简单可靠"
+      "summary": "Dart language #4827：First version of conditional part feature specification PR 就很赞，特别是对 Flutter 跨平台插"
     },
     {
-      "title": "MongoDB迁移之后，Spring Data 和 Hibernate 各自接哪类请求",
-      "url": "https://juejin.cn/post/7702759616728088611",
+      "title": "AI 帮我写的小程序上线 44 天：36 个人进了收银台，8 个人付钱",
+      "url": "https://juejin.cn/post/7703384226858565642",
       "source": "juejin",
-      "score": 564,
-      "raw_score": 667,
+      "score": 372,
+      "raw_score": 73,
       "comments": 0,
-      "author": "一只牛博",
+      "author": "好市民_",
       "created_at": "",
-      "summary": "MongoDB迁移到 KingbaseES，代码改造量往往不由集合数量决定，而由应用实际调用了哪些 MongoDB API 决定。Repository 派生查询、聚合管道、批量写入、事务会话和索引管理"
+      "summary": "上线 44 天，收入 375.5 元，会员付款率却从 44% 掉到 15%。流量、广告、支付漏斗三条曲线全摊开，顺便聊聊 AI 时代一个人做产品的注意力账。"
     },
     {
-      "title": "encodeURI 和 encodeURIComponent 有什么区别？",
-      "url": "https://juejin.cn/post/7702723478470983718",
+      "title": "AI 热点日报（2026-11-02）：Anthropic 递交千亿美元级 IPO 招股书，苹果智能接入千问落地中国",
+      "url": "https://juejin.cn/post/7703028511368462355",
       "source": "juejin",
-      "score": 303,
-      "raw_score": 33,
+      "score": 306,
+      "raw_score": 34,
       "comments": 0,
-      "author": "excel",
+      "author": "墨林陌",
       "created_at": "",
-      "summary": "encodeURI 和 encodeURIComponent 都用于对字符串进行百分号编码，但它们面向的对象不同： encodeURI：编码一个完整的 URI，同时尽量保留 URI 的结构符号。 en"
+      "summary": "Anthropic 递交招股书拟募资千亿美元刷新纪录，OpenAI 下调融资目标至 200 亿；苹果智能接入通义千问，可灵 AI 融资 198 亿，DeepSeek 开源 Super-Agent。"
     },
     {
-      "title": "AI正在制造通缩：一场闭门会背后，三个被大多数人忽略的底层逻辑",
-      "url": "https://juejin.cn/post/7702799239764000822",
+      "title": "美团龙猫发布 LongCat-2.5：1.6T 参数原生多模态模型，主攻长程智能体任务",
+      "url": "https://juejin.cn/post/7702984654098612233",
       "source": "juejin",
-      "score": 301,
-      "raw_score": 32,
+      "score": 306,
+      "raw_score": 34,
       "comments": 0,
-      "author": "狼爷",
+      "author": "miofly",
       "created_at": "",
-      "summary": "整场会议最反常识、也最有分量的一个判断是：AI正在制造通缩。 多数人对技术革命的默认认知是：AI提升生产效率，商品和服务成本下降，东西更便宜，大家生活更好。这是只看到了供给端，没看到需求端。"
+      "summary": "美团龙猫推出 LongCat-2.5，总参数 1.6 万亿，单 token 激活约 480 亿参数，在 LongCat-2.0 基础上强化原生视觉理解和智能体编程能力，支持长序列与长程强化学习训练。"
     },
     {
-      "title": "Agent 上下文治理全景·行动篇：从首轮输入到长期记忆，怎样真正落地",
-      "url": "https://juejin.cn/post/7702808313616367643",
+      "title": "Pretext之后，2026年的前端正在被“平台”和“AI”同时重写",
+      "url": "https://juejin.cn/post/7703136318080778283",
       "source": "juejin",
       "score": 289,
       "raw_score": 28,
       "comments": 0,
-      "author": "hpoenixf",
+      "author": "涛涛ing",
       "created_at": "",
-      "summary": "从首轮输入、系统提示词到记忆、结果回读和上下文压缩，沿一项研究任务说明如何让上下文治理真正落地并核对实际效果。"
+      "summary": "一、视觉与布局的底层，正在被重新“算”一遍 Pretext的意义不在于“快”，在于它暴露了一个事实：浏览器平台在过去三十年里，把太多“本可以算出来的东西”锁在了黑盒里。 文本塞进一个300px的框里有"
     },
     {
-      "title": "Python 3.13 的 Queue.shutdown：异步消费者终于能正常收工了",
-      "url": "https://juejin.cn/post/7702839869399498752",
+      "title": "AI Vibe Coding 实战（续）：SMS 套件产品决策与开发方案",
+      "url": "https://juejin.cn/post/7703186364112601126",
       "source": "juejin",
       "score": 289,
       "raw_score": 28,
       "comments": 0,
-      "author": "深蓝AI",
+      "author": "濮水大叔",
       "created_at": "",
-      "summary": "一个异步消费者最难写的部分，往往不是处理消息，而是退出。业务服务收到停止信号，生产者不再投递新任务，消费者却还在等待一个永远不会到来的队列元素；于是工程师给每个工作协程发送取消信号，结果一部分已经取出"
+      "summary": "接续上一篇的 SMS 套件设计，我向 Claude Code 补充了用户名疑问、国际号码支持和 Web/Admin 同时开放的要求。本文整理这轮提示词与调整后的方案，涵盖显式注册、E.164 号码规范"
     },
     {
-      "title": "【Agent】模型一次返回多个工具调用，harness 该怎么执行？",
-      "url": "https://juejin.cn/post/7702799239764344886",
+      "title": "前端的技术判断力是怎么练出来的？",
+      "url": "https://juejin.cn/post/7703158752099221519",
       "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
+      "score": 251,
+      "raw_score": 18,
       "comments": 0,
-      "author": "ltlovezh",
+      "author": "ErpanOmer",
       "created_at": "",
-      "summary": "Agent Loop中，LLM响应经常是一个Tool Use数组，这些Tool的执行，是串行，并行，还是按照某种规则交叉执行？"
+      "summary": "方案评审中localStorage多标签覆盖与Safari无痕抛异常等案例，说明技术判断力源于生产事故经验，并给出弱网、数据异常、导出性能、自动保存、依赖选型等判断场景及复盘方法。"
     },
     {
-      "title": "超长研究全景：让 Agent 跨越上下文、中断与时间继续交付",
-      "url": "https://juejin.cn/post/7702828258123890715",
+      "title": "我在 GitHub 上搜罗了 6 个高质量数据集，看看哪些会用到。",
+      "url": "https://juejin.cn/post/7702839869400825856",
       "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
+      "score": 246,
+      "raw_score": 17,
       "comments": 0,
-      "author": "hpoenixf",
+      "author": "逛逛GitHub",
       "created_at": "",
-      "summary": "从任务、运行、工作上下文和交付成果出发，梳理长研究的阶段交付、上下文压缩、中断恢复、用户调整与显式接续。"
+      "summary": "01 三十多万首唐宋诗词 chinese-poetry 把约 5.5 万首唐诗、26 万首宋诗和 2.1 万首宋词整理成了数据文件。 此外还收录了《诗经》《论语》等古典文集。 这个开源项目已经有 5 "
     },
     {
-      "title": "Agent 可观测全景：从一次模型请求到可回查的研究事实",
-      "url": "https://juejin.cn/post/7702723478471000102",
+      "title": "MultiNet 只听到一次命令，为什么连续触发？",
+      "url": "https://juejin.cn/post/7703011669409497122",
       "source": "juejin",
-      "score": 264,
-      "raw_score": 21,
+      "score": 235,
+      "raw_score": 15,
       "comments": 0,
-      "author": "hpoenixf",
+      "author": "武子康",
       "created_at": "",
-      "summary": "从资料、工具、模型请求到用户看到的正文，沿一次报告核对四次交接，理解 Trace 缺口、观测链故障、成本统计与历史恢复的边界。"
+      "summary": "MultiNet 只听到一次命令，为什么连续触发？ “TELL ME A JOKE”只说了一次，设备却像连续收到了命令。ESP-SR issue #216 的报告者在 ESP32-S3 上贴出了应用循"
     },
     {
-      "title": "Agent 上下文治理全景·原则篇：让每一步判断围绕目标展开",
-      "url": "https://juejin.cn/post/7702808313616334875",
-      "source": "juejin",
-      "score": 264,
-      "raw_score": 21,
-      "comments": 0,
-      "author": "hpoenixf",
-      "created_at": "",
-      "summary": "从目标、依据、边界、记忆、探索和进展出发，理解上下文怎样帮助 Agent 围绕任务作出持续判断，并辨认各机制的职责。"
-    },
-    {
-      "title": "XXL-AI v1.4.0 发布｜AI应用开发平台",
-      "url": "https://juejin.cn/post/7702809778397511716",
-      "source": "juejin",
-      "score": 255,
-      "raw_score": 19,
-      "comments": 0,
-      "author": "许雪里",
-      "created_at": "",
-      "summary": "XXL-AI发布新版本，本地版新增人机交互统一流程、可观测性、Git支持及SKILL市场等功能，优化UI与渲染体验；云版强化数据隔离与模型缓存实效性。平台采用“云本结合”架构，支持团队协作与个人本地开"
-    },
-    {
-      "title": "DeepSeek Harness 的 Harness 到底做了什么",
-      "url": "https://juejin.cn/post/7702914241570308131",
-      "source": "juejin",
-      "score": 240,
-      "raw_score": 16,
-      "comments": 0,
-      "author": "潘锦",
-      "created_at": "",
-      "summary": "DeepSeek Harness 解决的核心问题，是多轮模型调用、工具执行与会话状态之间的协调：输入何时进入请求，工具结果如何写回历史，请求失败后从哪里重试，上下文压缩后保留哪些信息，以及任务中断后能"
-    },
-    {
-      "title": "从 Prompt 到 Tool Calling：AI Agent 如何稳定连接程序世界",
-      "url": "https://juejin.cn/post/7702914241570324515",
+      "title": "Emoji 语义化搜索",
+      "url": "https://juejin.cn/post/7702914241570193443",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "大大大大晴天",
+      "author": "timegogo",
       "created_at": "",
-      "summary": "大语言模型原生能力是生成 Token，而软件系统要求类型、权限、状态和确定的执行结果。AI Agent 要连接数据库、搜索引擎、支付系统或企业 API，中间必须建立一层可验证的交互协议。"
+      "summary": "觉得文字太多，想给内容加视觉锚点，于是直接按照文案去搜，结果发现根本搜不到。以前要么只能充分发挥自己的想象力，要么放弃。现在可以有第三种选择——使用「Emoji 语义化搜索」"
     },
     {
-      "title": "带团队的进阶：从解决问题到发现问题",
-      "url": "https://juejin.cn/post/7702737817417449487",
+      "title": "MySQL 批量插入很慢怎么办：rewriteBatchedStatements 实测 10 万行从 4.5 秒到 1 秒（JDBC、MyBatis、LOAD DATA 对比）",
+      "url": "https://juejin.cn/post/7703158752098942991",
+      "source": "juejin",
+      "score": 200,
+      "raw_score": 10,
+      "comments": 0,
+      "author": "aiks_yuan",
+      "created_at": "",
+      "summary": "addBatch、MyBatis BATCH 插 MySQL 慢，多半没开 rewriteBatchedStatements。实测 9 种写法插 10 万行的耗时和语句数，附参数不生效的原因。"
+    },
+    {
+      "title": "vibe coding 做小游戏·问题排查篇：解决包体积、引擎适配与 iPhone 机型适配问题",
+      "url": "https://juejin.cn/post/7703007994456260642",
+      "source": "juejin",
+      "score": 190,
+      "raw_score": 9,
+      "comments": 0,
+      "author": "ZzT",
+      "created_at": "",
+      "summary": "Godot 塔防游戏搬上微信小游戏：包体从 22.6 MB 压到 12.9 MB；iPhone 黑屏要开高性能模式，只能重新注册账号；真机卡加载根因未查清。"
+    },
+    {
+      "title": "用 4500 行 TypeScript 复刻了童年方格纸上的海战棋",
+      "url": "https://juejin.cn/post/7702895830291054619",
       "source": "juejin",
       "score": 169,
       "raw_score": 7,
       "comments": 0,
-      "author": "潘锦",
+      "author": "用户09367175541",
       "created_at": "",
-      "summary": "好久没有写团队管理的文章了。今天写一下最近在思考到的一个问题。 我有一个习惯是会经常检查自己的日程，看看时间花在哪里了。 我会发现很多的时间都是在解决问题，不管是架构的问题，还是需求的问题，还是人的问"
+      "summary": "🔗 在线玩：海战棋 先说清楚它是什么 10×10 方格纸海战棋（Battleship），双盘对战：上面是敌方海域，下面是我的海域。 五艘船共 17 格（航母 5、战列舰 4、巡洋舰 3、潜艇 3、驱逐"
+    },
+    {
+      "title": "AI 能写代码，但工程架构还是应该由人来定",
+      "url": "https://juejin.cn/post/7702941619264487424",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "程序员_小雨",
+      "created_at": "",
+      "summary": "AI 能写代码，但工程架构还是应该由人来定 做 Android 车载开发这些年，我越来越觉得，有些问题并不是代码写出来就算解决了。 尤其是在维护项目里。 有时候只是改一个功能，顺着代码往下看，才发现它"
     }
   ]
 }
