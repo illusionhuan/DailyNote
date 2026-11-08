@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-11-07T17:10:48.503581+00:00",
+  "updated_at": "2026-11-08T03:25:19.198610+00:00",
   "articles": [
-    {
-      "title": "存算一体与感存算融合：类脑视觉的技术突破",
-      "url": "https://juejin.cn/post/7703007994455343138",
-      "source": "juejin",
-      "score": 896,
-      "raw_score": 30320,
-      "comments": 1,
-      "author": "vipxieliang",
-      "created_at": "",
-      "summary": "1. 引言：当视觉感知撞上\"存储墙\" 从智能手机的人脸解锁，到自动驾驶的环境感知，再到工业质检的毫秒级缺陷识别，机器视觉早已走出实验室，成为智能系统的\"眼睛\"。然而，当我们试图把视觉能力塞进一枚指甲盖"
-    },
-    {
-      "title": "解构赋值与展开运算符：现代 JS 提效技巧",
-      "url": "https://juejin.cn/post/7703011669408661538",
-      "source": "juejin",
-      "score": 893,
-      "raw_score": 29265,
-      "comments": 2,
-      "author": "vipxieliang",
-      "created_at": "",
-      "summary": "1. 引言：为什么现代 JS 离不开解构与展开 ES6 引入的解构赋值（Destructuring Assignment）与展开运算符（Spread Operator），是日常写 JavaScript"
-    },
     {
       "title": "Python 类型注解与 mypy：提升代码可维护性",
       "url": "https://juejin.cn/post/7704241004282609698",
       "source": "juejin",
-      "score": 877,
-      "raw_score": 24290,
+      "score": 897,
+      "raw_score": 30554,
       "comments": 0,
       "author": "vipxieliang",
       "created_at": "",
       "summary": "1. 引言：为什么需要类型注解 Python 是一门动态类型语言，变量在运行时才确定类型。这种灵活性带来了开发效率，也埋下了隐患：函数参数传错类型、返回值被误用、重构后调用方没同步修改……这些问题往往"
     },
     {
-      "title": "ValidX 正则表达式预编译优化：Pattern 复用策略",
-      "url": "https://juejin.cn/post/7703844942363918370",
-      "source": "juejin",
-      "score": 846,
-      "raw_score": 17158,
-      "comments": 1,
-      "author": "vipxieliang",
-      "created_at": "",
-      "summary": "ValidX 正则表达式预编译优化：Pattern 复用策略 📋 目录 引言 一、正则表达式的编译成本 1.1 Pattern.compile() 的内部过程 1.2 编译开销的量化分析 1.3 三种"
-    },
-    {
       "title": "ArkTS 做 5 态数据流 —— 咖啡电量的代谢状态机怎么驱动 UI",
       "url": "https://juejin.cn/post/7704619107316219919",
       "source": "juejin",
       "score": 829,
-      "raw_score": 14113,
+      "raw_score": 14123,
       "comments": 0,
       "author": "SameX",
       "created_at": "",
       "summary": "咖啡电量（CoffeeBattery）首页要展示用户当前的\"代谢状态\"：是刚喝下的吸收期？已经到巅峰期？在稳定区？还是精神疲劳区？用户主动戒咖期？这是 5 种业"
     },
     {
-      "title": "ArkTS 做应用内\"快捷胶囊\" —— 续航日记踩过的两个鸿蒙声明式 UI workaround",
-      "url": "https://juejin.cn/post/7704389851193606170",
-      "source": "juejin",
-      "score": 820,
-      "raw_score": 12626,
-      "comments": 0,
-      "author": "SameX",
-      "created_at": "",
-      "summary": "续航日记（BatteryLog）的首页有一排\"快捷胶囊\"：用户点一下某个胶囊，就记一条能量变化（比如\"+15 午睡\"、\"10 开会\"、\"+20 散步\"）。听起"
-    },
-    {
-      "title": "HarmonyOS ArkUI List 的侧滑删除 用 ListItem 的 swipeAction + endIcon 的做法",
-      "url": "https://juejin.cn/post/7704993320619950120",
-      "source": "juejin",
-      "score": 674,
-      "raw_score": 2359,
-      "comments": 0,
-      "author": "SameX",
-      "created_at": "",
-      "summary": "鸿蒙的 List 组件自带侧滑交互，但 API 不直观——是通过 ListItem.swipeAction 配 start 和 en"
-    },
-    {
-      "title": "MCP 实战：在 WorkBuddy 里一句话让 AI 生成红军长征地图动画（唯杰 AI 地图动画 MCP 接入教程）",
-      "url": "https://juejin.cn/post/7705069722370375714",
-      "source": "juejin",
-      "score": 276,
-      "raw_score": 24,
-      "comments": 1,
-      "author": "vjmap",
-      "created_at": "",
-      "summary": "在 WorkBuddy 里接入唯杰 AI 地图动画 MCP，一句话让 AI 写脚本、核对地名、配乐、审片，二三十分钟在真实卫星地图上做出 106 秒红军长征动画，附 12 步教程。"
-    },
-    {
-      "title": "WorkBuddy 自动化工作流实测：从分镜脚本到 MP4 成片的 18 步复盘",
-      "url": "https://juejin.cn/post/7705232032440172570",
-      "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
-      "comments": 0,
-      "author": "小虎AI生活",
-      "created_at": "",
-      "summary": "以前做条带货视频，普通 AI 只能给你写写分镜文案，找画图、配音、剪辑还得自己一个个软件倒腾。 腾讯出的 WorkBuddy 终于能直接读写本地文件、自己装环境调工具了。 大家好，我是小虎。 我把需求"
-    },
-    {
-      "title": "《Go 后端开发者学 TypeScript：typescript 中const用法》",
-      "url": "https://juejin.cn/post/7705134065616289802",
-      "source": "juejin",
-      "score": 260,
-      "raw_score": 20,
-      "comments": 0,
-      "author": "Kevin666",
-      "created_at": "",
-      "summary": "TypeScript 中的 const 主要用于声明一个不能被重新赋值的变量。 不过，TypeScript 中有三个容易混淆的概念： const：声明常量，变量不能重新赋值。 as const：常量断"
-    },
-    {
-      "title": "探索Pinyin4j-Java中的拼音转换利器",
-      "url": "https://juejin.cn/post/7705249934229078059",
+      "title": "点全选，已选的被清空了：Transfer 三态复选框的三个 bug",
+      "url": "https://juejin.cn/post/7705237951458099254",
       "source": "juejin",
       "score": 255,
       "raw_score": 19,
       "comments": 0,
-      "author": "独泪了无痕",
+      "author": "ruanno_top",
       "created_at": "",
-      "summary": "前言   在软件开发中，经常会遇到需要将汉字转换成拼音的场景，比如在处理中文文本数据时，将汉字转换为拼音可以方便地进行排序、搜索等操作。Java 作为一种广泛使用的编程语言，也提供了多种方法来实现汉字"
+      "summary": "点全选，已选的反而被清空。给 Transfer 补边界用例时挖出三个选择态 bug：部分选中被当成全选、半选分母算进禁用项、搜索后全选丢掉隐藏项。附修复前后代码、ARIA 三态与 14 个用例。"
     },
     {
-      "title": "Monorepo",
-      "url": "https://juejin.cn/post/7705271482867728447",
+      "title": "从一个类名到一张类图：用 Class 对象自动生成 PlantUML",
+      "url": "https://juejin.cn/post/7705314576863248447",
       "source": "juejin",
       "score": 251,
       "raw_score": 18,
       "comments": 0,
-      "author": "前端阿凡",
+      "author": "金銀銅鐵",
       "created_at": "",
-      "summary": "一、技术难点 Day35 讲的是\"产物怎么被造出来\"——一个仓库、一个入口、一张模块图。这一篇往上走一层：几十个包躺在同一个仓库里。 Monorepo 的地基不是目录结构，也不是 pnpm -r bu"
+      "summary": "一条命令，把任意 Java 类变成 PlantUML 类图。289 行反射代码、单文件零依赖；正文讲清递归收集父类与接口的原理，以及泛型、字段为什么画不出来。"
     },
     {
-      "title": "《Go 后端开发者学 TypeScript：数组和元组》",
-      "url": "https://juejin.cn/post/7705134065616404490",
+      "title": "GitHub 热榜项目：周榜（2026-11-08）",
+      "url": "https://juejin.cn/post/7705224878019788815",
       "source": "juejin",
       "score": 246,
       "raw_score": 17,
       "comments": 0,
-      "author": "Kevin666",
+      "author": "用户299142219680",
       "created_at": "",
-      "summary": "在 TypeScript 中，数组（Array）和元组（Tuple）最大的区别是：数组通常只约束元素类型，而元组还可以约束元素的数量、顺序以及每个位置的类型。 你之前主要写 Go 后端，我们直接结合 "
+      "summary": "本期共收录 19 个热门开源项目，合计新增 ⭐ 102,473 stars，热门语言：Python、TypeScript、Rust。 📋 本期概览 排名 项目 语言 ⭐ 总星数 本期新增 1 clau"
     },
     {
-      "title": "《Go 后端开发者学 TypeScript：从零理解 async、await 与 Promise》",
-      "url": "https://juejin.cn/post/7705441553598316570",
+      "title": "Operator 上生产前补的 6 件事，和 5 件我明确不做的",
+      "url": "https://juejin.cn/post/7705069722370326562",
       "source": "juejin",
-      "score": 246,
-      "raw_score": 17,
+      "score": 240,
+      "raw_score": 16,
       "comments": 0,
-      "author": "Kevin666",
+      "author": "weirong",
       "created_at": "",
-      "summary": "你先记住一句话： async 表示异步函数，await 表示等待异步操作的结果。 一、先看普通函数（没有 async） 你熟悉的 Go 代码： TypeScript 写法： 这里和 Go 基本一样： "
+      "summary": "上生产前补的 6 件事：RBAC 逐条收敛、distroless、CI 六道门、镜像签名、可观测性、Helm 交付；5 件明确不做；以及写这篇时自查出的 Kyverno 策略结构错误。"
     },
     {
-      "title": "《Go 后端开发者学 TypeScript：export关键字大全》",
-      "url": "https://juejin.cn/post/7705441553598365722",
+      "title": "接口测试场景编排：把 N 个请求串成一条能定位问题的链路",
+      "url": "https://juejin.cn/post/7705419801829359666",
       "source": "juejin",
       "score": 229,
       "raw_score": 14,
       "comments": 0,
-      "author": "Kevin666",
+      "author": "用户07236706660",
       "created_at": "",
-      "summary": "在 TypeScript 中，export 是一个关键字，作用是：把当前文件中的变量、函数、类、接口等导出，让其他文件可以使用。 你之前主要写 Go 后端，可以把 TypeScript 的 expor"
+      "summary": "> 稍微复杂一点的业务，验证时都不是\"调一个接口\"：注册、进件、下单、查单，后一步要用前一步返回的客"
+    },
+    {
+      "title": "雨后街口的斑马线：用 Awaking 把颜色让给光与步伐",
+      "url": "https://juejin.cn/post/7705240185218826275",
+      "source": "juejin",
+      "score": 229,
+      "raw_score": 14,
+      "comments": 1,
+      "author": "茶底世界之下",
+      "created_at": "",
+      "summary": "雨后街口的颜色很丰富，但黑白能让斑马线、倒影和撑伞人的步伐先被看见。用 Awaking「街影硬银」正式导出一版，比较轮廓与生活色彩的取舍，并给出适合自己照片的尝试路径。"
+    },
+    {
+      "title": "一款基于 .NET 开源、免费的数据库自治诊断平台",
+      "url": "https://juejin.cn/post/7705311269238784042",
+      "source": "juejin",
+      "score": 222,
+      "raw_score": 13,
+      "comments": 0,
+      "author": "追逐时光者",
+      "created_at": "",
+      "summary": "前言 今天大姚给大家分享一款基于 .NET 开源、免费的数据库自治诊断平台：DBPilot。 它解决的是 DBA 日常工作中最耗时的痛点：性能趋势分析、Top SQL 定位、阻塞与死锁排查，原本散落在"
+    },
+    {
+      "title": "NVIDIA 开源 Cosmos 3 四款模型，用于交互式世界模拟与自动驾驶场景生成",
+      "url": "https://juejin.cn/post/7705257674057564187",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "miofly",
+      "created_at": "",
+      "summary": "NVIDIA 为 Cosmos 3 模型家族新增四个开放权重检查点，覆盖多视角驾驶数据生成、流式仿真、物理控制转视频和双臂机器人动作预测，均为 160 亿参数的 Cosmos 3 Nano 后训练版本"
+    },
+    {
+      "title": "让 GitHub Copilot 更懂你的 .NET 代码风格：一份精简实用的 Copilot Instructions",
+      "url": "https://juejin.cn/post/7705367939444457514",
+      "source": "juejin",
+      "score": 215,
+      "raw_score": 12,
+      "comments": 0,
+      "author": "追逐时光者",
+      "created_at": "",
+      "summary": "前言 使用 GitHub Copilot 开发 .NET 项目时，你是否也遇到过这样的情况：生成的代码基本符合需求，但异步方法、注释、命名和文件编码，总需要再调整一遍？ 这些要求单独看都不复杂，但每次"
+    },
+    {
+      "title": "AI 时代，我为什么推荐用 cj-tauri 开发桌面应用",
+      "url": "https://juejin.cn/post/7705441553598890010",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "特立独行的猫A",
+      "created_at": "",
+      "summary": "写代码的方式变了：以前是我敲，现在是我描述、AI 落笔、编译器裁决。这个流程里最贵的三样成本是编译等待、构建垃圾、和产物体积。cj-tauri 是仓颉版的 Tauri，实测单个工具 4.7~10MB、零非系统 DLL、全量冷编译 50 秒。这篇讲"
+    },
+    {
+      "title": "GitHub 热榜项目：日榜（2026-11-08）",
+      "url": "https://juejin.cn/post/7705224878019772431",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "用户299142219680",
+      "created_at": "",
+      "summary": "本期共收录 15 个热门开源项目，合计新增 ⭐ 10,433 stars，热门语言：Python、TypeScript、Rust。 📋 本期概览 排名 项目 语言 ⭐ 总星数 本期新增 1 agent"
+    },
+    {
+      "title": "【A股分钟级高频数据完全手册 #08】股票日、分时数据接口对比：普通分时与Pro版差异实测",
+      "url": "https://juejin.cn/post/7705577542874890250",
+      "source": "juejin",
+      "score": 169,
+      "raw_score": 7,
+      "comments": 0,
+      "author": "天天被压力",
+      "created_at": "",
+      "summary": "【A股分钟级高频数据完全手册 #08】股票日、分时数据接口对比：普通分时与Pro版差异实测 ① 你将得到什么 很多新手分不清普通分时和 Pro 版分时：普通分时 /hs/latest/{code}.S"
+    },
+    {
+      "title": "【A股分钟级高频数据完全手册 #07】北交所历史分钟K线接口：京市Pro版分时批量",
+      "url": "https://juejin.cn/post/7705299006125473830",
+      "source": "juejin",
+      "score": 155,
+      "raw_score": 6,
+      "comments": 0,
+      "author": "天天被压力",
+      "created_at": "",
+      "summary": "【A股分钟级高频数据完全手册 #07】北交所历史分钟K线接口：京市Pro版分时批量 ① 你将得到什么 北交所的历史分钟线用于回测京市策略、评估流动性变迁。京市 Pro 历史分时走 /bj/pro/hi"
     }
   ]
 }
