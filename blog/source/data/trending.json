@@ -1,170 +1,170 @@
 {
-  "updated_at": "2026-11-08T17:23:44.292455+00:00",
+  "updated_at": "2026-11-09T03:42:15.690720+00:00",
   "articles": [
     {
-      "title": "Python 类型注解与 mypy：提升代码可维护性",
-      "url": "https://juejin.cn/post/7704241004282609698",
+      "title": "HarmonyOS ArkUI Dialog 复用 用 @CustomDialog + enum type 做多类型统一管理的做法",
+      "url": "https://juejin.cn/post/7705621037036421120",
       "source": "juejin",
-      "score": 918,
-      "raw_score": 39247,
-      "comments": 0,
-      "author": "vipxieliang",
-      "created_at": "",
-      "summary": "1. 引言：为什么需要类型注解 Python 是一门动态类型语言，变量在运行时才确定类型。这种灵活性带来了开发效率，也埋下了隐患：函数参数传错类型、返回值被误用、重构后调用方没同步修改……这些问题往往"
-    },
-    {
-      "title": "存算一体与感存算融合：类脑视觉的技术突破",
-      "url": "https://juejin.cn/post/7703007994455343138",
-      "source": "juejin",
-      "score": 896,
-      "raw_score": 30372,
-      "comments": 1,
-      "author": "vipxieliang",
-      "created_at": "",
-      "summary": "1. 引言：当视觉感知撞上\"存储墙\" 从智能手机的人脸解锁，到自动驾驶的环境感知，再到工业质检的毫秒级缺陷识别，机器视觉早已走出实验室，成为智能系统的\"眼睛\"。然而，当我们试图把视觉能力塞进一枚指甲盖"
-    },
-    {
-      "title": "解构赋值与展开运算符：现代 JS 提效技巧",
-      "url": "https://juejin.cn/post/7703011669408661538",
-      "source": "juejin",
-      "score": 893,
-      "raw_score": 29277,
-      "comments": 2,
-      "author": "vipxieliang",
-      "created_at": "",
-      "summary": "1. 引言：为什么现代 JS 离不开解构与展开 ES6 引入的解构赋值（Destructuring Assignment）与展开运算符（Spread Operator），是日常写 JavaScript"
-    },
-    {
-      "title": "ValidX 正则表达式预编译优化：Pattern 复用策略",
-      "url": "https://juejin.cn/post/7703844942363918370",
-      "source": "juejin",
-      "score": 847,
-      "raw_score": 17182,
-      "comments": 1,
-      "author": "vipxieliang",
-      "created_at": "",
-      "summary": "ValidX 正则表达式预编译优化：Pattern 复用策略 📋 目录 引言 一、正则表达式的编译成本 1.1 Pattern.compile() 的内部过程 1.2 编译开销的量化分析 1.3 三种"
-    },
-    {
-      "title": "ArkTS 做 5 态数据流 —— 咖啡电量的代谢状态机怎么驱动 UI",
-      "url": "https://juejin.cn/post/7704619107316219919",
-      "source": "juejin",
-      "score": 830,
-      "raw_score": 14142,
+      "score": 739,
+      "raw_score": 4985,
       "comments": 0,
       "author": "SameX",
       "created_at": "",
-      "summary": "咖啡电量（CoffeeBattery）首页要展示用户当前的\"代谢状态\"：是刚喝下的吸收期？已经到巅峰期？在稳定区？还是精神疲劳区？用户主动戒咖期？这是 5 种业"
+      "summary": "鸿蒙 ArkUI 的 Dialog 系统提供两类：promptAction.showDialog 简单 + 系统外观；@CustomDial"
     },
     {
-      "title": "ArkTS 做应用内\"快捷胶囊\" —— 续航日记踩过的两个鸿蒙声明式 UI workaround",
-      "url": "https://juejin.cn/post/7704389851193606170",
+      "title": "JavaScript 迭代器与生成器：控制异步与惰性求值",
+      "url": "https://juejin.cn/post/7705598720080003072",
       "source": "juejin",
-      "score": 820,
-      "raw_score": 12630,
+      "score": 606,
+      "raw_score": 1073,
       "comments": 0,
-      "author": "SameX",
+      "author": "vipxieliang",
       "created_at": "",
-      "summary": "续航日记（BatteryLog）的首页有一排\"快捷胶囊\"：用户点一下某个胶囊，就记一条能量变化（比如\"+15 午睡\"、\"10 开会\"、\"+20 散步\"）。听起"
+      "summary": "1. 引言：为什么需要迭代器与生成器 在 JavaScript 中，我们每天都在和\"可遍历的东西\"打交道：数组、字符串、Map、Set、arguments，甚至 NodeList。for...of 能"
     },
     {
-      "title": "HarmonyOS ArkUI List 的侧滑删除 用 ListItem 的 swipeAction + endIcon 的做法",
-      "url": "https://juejin.cn/post/7704993320619950120",
+      "title": "ValidX vs 手写验证代码：开发效率对比实测",
+      "url": "https://juejin.cn/post/7705598720079937536",
       "source": "juejin",
-      "score": 707,
-      "raw_score": 3450,
+      "score": 602,
+      "raw_score": 1034,
       "comments": 0,
-      "author": "SameX",
+      "author": "vipxieliang",
       "created_at": "",
-      "summary": "鸿蒙的 List 组件自带侧滑交互，但 API 不直观——是通过 ListItem.swipeAction 配 start 和 en"
+      "summary": "ValidX vs 手写验证代码：开发效率对比实测 📋 目录 引言 一、手写验证代码的真实面貌 1.1 一个典型项目的验证代码 1.2 手写验证的四种形态 1.3 手写验证的隐性成本 二、同一需求，两"
     },
     {
-      "title": "AI 写页面像说明书，修 Bug 像贴膏药？把这两句话写进 AGENTS.md",
-      "url": "https://juejin.cn/post/7705724831249432591",
+      "title": "LangChain ToolRuntime 入门：context、state 与 store 的实际用法",
+      "url": "https://juejin.cn/post/7705623263632457738",
       "source": "juejin",
-      "score": 403,
-      "raw_score": 104,
+      "score": 512,
+      "raw_score": 367,
       "comments": 0,
-      "author": "ikoala",
+      "author": "Dragon_xjy",
       "created_at": "",
-      "summary": "用 Agent 写页面，有一种返工特别烦：功能基本对了，页面上却多了一堆你没让它写的东西。 邮箱输入框下面写着“请在此输入您的邮箱地址”，保存按钮旁边写着“点击后将保存当前信息”，表单上方再来一句“请"
+      "summary": "1. ToolRuntime 是什么 ToolRuntime 是 LangChain 执行工具时自动传入的运行对象。 工具参数分为两类： 普通参数：模型根据用户问题填写，例如 keyword； run"
     },
     {
-      "title": "C++26 草案被否，二十八年来头一回",
-      "url": "https://juejin.cn/post/7705316753005674511",
+      "title": "Event Loop 这篇你看完就不用再看别的了！",
+      "url": "https://juejin.cn/post/7705651336889696310",
       "source": "juejin",
-      "score": 352,
-      "raw_score": 58,
+      "score": 341,
+      "raw_score": 51,
       "comments": 0,
-      "author": "前端之虎陈随易",
+      "author": "ErpanOmer",
       "created_at": "",
-      "summary": "C++26 的国际标准草案，在 10 月 23 日的国家代表团投票里没过。 这是这门语言 1998 年标准化以来，第一次走到最后一步又被退回来。 标准要走好几轮投票，前面是委员会内部的技术表决，最后一"
+      "summary": "多数Event Loop讲解止步于面试题，未涉及浏览器渲染流水线。文章按16.6ms一帧的时序拆解宏任务、微任务、requestAnimationFrame、样式布局绘制合成及requestIdleCallback，解释微任务阻塞渲染、DOM批量更新与布局抖动成因。"
     },
     {
-      "title": "XXL-AI v1.5.0 发布｜AI应用开发平台",
-      "url": "https://juejin.cn/post/7705621037060423695",
+      "title": "Vue 可视化AI表单设计器 FcDesigner v3.6 版本发布，支持导出 SQL功能!",
+      "url": "https://juejin.cn/post/7705623263632588810",
       "source": "juejin",
-      "score": 313,
-      "raw_score": 37,
+      "score": 320,
+      "raw_score": 40,
       "comments": 0,
-      "author": "许雪里",
+      "author": "无懈可击",
       "created_at": "",
-      "summary": "XXL-AI 是一个「**云本结合**」的 AI Agent 开发平台，提供两种同源同品牌、能力互补的交付形态，可按团队规模与使用场景独立选用，也可组合使用。"
+      "summary": "FcDesigner 是基于 Vue 的低代码可视化 AI 表单设计器。用自然语言描述业务即可生成表单结构，也可以拖拽组件并导出 JSON，再由渲染器还原成可交互表单"
     },
     {
-      "title": "DeepSeek-V4.1-Flash-1017 官方许愿案例太吸睛，我也复刻了一个",
-      "url": "https://juejin.cn/post/7705412224672366627",
+      "title": "AI时代，你的 App 会被 Agent 这三种方式调用",
+      "url": "https://juejin.cn/post/7705683246910636059",
       "source": "juejin",
-      "score": 292,
-      "raw_score": 29,
+      "score": 301,
+      "raw_score": 32,
       "comments": 0,
-      "author": "飞哥数智谈",
+      "author": "Carson带你学Android",
       "created_at": "",
-      "summary": "DeepSeek-V4.1-Flash-1017 实测：跑分大涨之外，更值得关注的是性能–费用的帕累托改进。两次许愿复刻赛车游戏，看许愿式编程是否真的到来。"
+      "summary": "前言 你的 Android App 有三种被 Agent 调用的方式，每种的接入成本、能力上限和风险完全不同。 📋 目录 1：Android 智能系统是什么？ 2：三条路径怎么选？ 3：路径一：And"
     },
     {
-      "title": "谁说终端只能敲键盘？我用 Rust 给小说阅读器加上了鼠标",
-      "url": "https://juejin.cn/post/7705403629532282889",
+      "title": "JitArchives，一款基于JitWord协同AI文档打造的企业级电子档案系统",
+      "url": "https://juejin.cn/post/7705878197800714266",
+      "source": "juejin",
+      "score": 301,
+      "raw_score": 32,
+      "comments": 0,
+      "author": "徐小夕",
+      "created_at": "",
+      "summary": "随着 AI 融入企业办公，档案系统正在转变为企业知识底座。我们团队陆续推出了 JitWord 协同 AI 文档、JitKnow AI 知识库、Pxcharts 超级表格等 AI 产品"
+    },
+    {
+      "title": "手搓 MCP 到最简 Agent，我都做了什么？",
+      "url": "https://juejin.cn/post/7705577542891405322",
       "source": "juejin",
       "score": 276,
       "raw_score": 24,
       "comments": 0,
-      "author": "红尘散仙",
+      "author": "壹米饭",
       "created_at": "",
-      "summary": "终端也能点击、悬停和拖拽！本文从 Rust 小说阅读器 TRNovel 出发，图解 ratatui-kit 的鼠标事件实现，聊聊命中检测、事件分发与拖拽捕获，以及滚轮误翻章、弹窗吞事件背后的坑。"
+      "summary": "在 Mac 上用 uv 搭好 Python 3.12 环境，手搓 FastMCP Server 暴露读文件、搜文件、查天气三个工具，经 Inspector 验证后，手写 Client 接入本地千问"
     },
     {
-      "title": "你的能力正在被重新定价：AI 时代程序员资产重估指南",
-      "url": "https://juejin.cn/post/7705618278807289910",
-      "source": "juejin",
-      "score": 272,
-      "raw_score": 23,
-      "comments": 0,
-      "author": "怕浪猫",
-      "created_at": "",
-      "summary": "你的能力正在被重新定价：AI 时代程序员资产重估指南 关于 AI 和程序员，市面上有两种声音。 一种说：AI 什么都能写，程序员要完了。 另一种说：AI 只是工具，该写的代码还得人写。 这两种说法都太"
-    },
-    {
-      "title": "认识 Nginx",
-      "url": "https://juejin.cn/post/7705621037060390927",
+      "title": "永别了，程序员！(转）",
+      "url": "https://juejin.cn/post/7705987138957328427",
       "source": "juejin",
       "score": 240,
       "raw_score": 16,
       "comments": 0,
-      "author": "前端阿凡",
+      "author": "XCaptain",
       "created_at": "",
-      "summary": "1. 先跑起来（5 分钟实验） 四条命令拿到「版本 + 进程树 + 响应头」，不用任何配置文件： 预期输出（本机实测，worker 行按 CPU 数展开，此处截断）： 对着输出读三件事，这就是本章的全"
+      "summary": "我们这一代程序员是幸福的。 1995年以来，互联网的普及迅速打破了生产、流通、消费、服务等所有环节的效率壁垒，全球有史以来最大规模的信息化转型，让每一头会写代码的“猪”都在风口里飞了起来。 2001年"
     },
     {
-      "title": "09-01-生态-YooAsset+HybridCLR热更新方案",
-      "url": "https://juejin.cn/post/7705618278807273526",
+      "title": "Surrogate Model：让进化算法学会“预测”，为什么它正在成为智能优化的重要技术？",
+      "url": "https://juejin.cn/post/7705716341147729935",
+      "source": "juejin",
+      "score": 229,
+      "raw_score": 14,
+      "comments": 0,
+      "author": "猿人谷",
+      "created_at": "",
+      "summary": "Surrogate Model 通过历史评价数据学习真实目标函数的近似关系，让优化器能够以更低的成本预测候选解的性能，并据此决定哪些方案值得进一步进行真实评价。"
+    },
+    {
+      "title": "有个刚开源的 GitHub 项目有说法，竟然能在终端里再跑一台 Mac。",
+      "url": "https://juejin.cn/post/7705618128610377728",
+      "source": "juejin",
+      "score": 208,
+      "raw_score": 11,
+      "comments": 0,
+      "author": "逛逛GitHub",
+      "created_at": "",
+      "summary": "GitHub 上最近开源了一个叫 terminal-mac 的项目，能把一套 macOS 桌面放进终端窗口里。 刚刚开源就已经有 2000 多人 Star 了。 感觉这个开源项目后面真的可能会大火。 "
+    },
+    {
+      "title": "我用 NestJS + Vue3 写了一套完整的研发管理系统（58 表 / 229 API / 130 项断言，全开源",
+      "url": "https://juejin.cn/post/7705955493567021090",
       "source": "juejin",
       "score": 200,
       "raw_score": 10,
       "comments": 0,
-      "author": "SmalBox",
+      "author": "梦里寻码",
       "created_at": "",
-      "summary": "生态-YooAsset+HybridCLR热更新方案 一、引言 1.1 本章在系列中的定位 在 YooAsset 单独使用时，它能解决资源热更新（美术、UI、关卡、配置等），但无法解决代码热更新（C#"
+      "summary": "源码级复刻禅道：我用 NestJS + Vue3 写了一套完整的研发管理系统（58 表 / 229 API / 130 项断言，全开源） 写在前面 先回答最常见的三个问题： 为什么是复刻禅道，而不是自"
+    },
+    {
+      "title": "一份 JSON 生成增删改查接口，入参清洗漏了什么：Number(\" \") 是 0，搜 100% 把 1000 元券也搜出来",
+      "url": "https://juejin.cn/post/7705907853610631218",
+      "source": "juejin",
+      "score": 139,
+      "raw_score": 5,
+      "comments": 0,
+      "author": "Dumbness",
+      "created_at": "",
+      "summary": "bishe-kit 通用 CRUD 复现：Number() 把空格存成 0、0x1F 存成 31，Infinity 进库后求和变无穷；全空格能过必填，日期不校验；搜 100% 命中 1000 元券"
+    },
+    {
+      "title": "MySQL 深分页 LIMIT 越翻越慢怎么办：300 万行实测 OFFSET、延迟关联和 keyset 的耗时差距（MySQL 8.2）",
+      "url": "https://juejin.cn/post/7705634009904840730",
+      "source": "juejin",
+      "score": 95,
+      "raw_score": 3,
+      "comments": 0,
+      "author": "aiks_yuan",
+      "created_at": "",
+      "summary": "MySQL LIMIT 翻到后面越来越慢。本文在 300 万行表上实测 OFFSET、延迟关联和 keyset 三种分页写法的耗时，讲清每种的适用条件。"
     }
   ]
 }
